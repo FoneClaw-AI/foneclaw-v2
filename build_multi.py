@@ -306,6 +306,7 @@ def mf(name, alt=''):
 
 # Shared components (nav, footer, back-to-top, js, head)
 from _components import nav, footer, js, head, full_page, NAV_ITEMS
+from _i18n import generate_hreflang_tags
 from _social_share import social_share
 
 print("Helper functions defined")
@@ -489,7 +490,7 @@ print(f"[2c] tw/features.html: {len(features_tw_html)//1024}KB")
 html = []
 html.append(head('FoneClaw Community - Join the Community',
     'Join the FoneClaw community on Telegram, Discord, and X. Get product updates, report bugs, and connect with other users.',
-    '/community.html', og_image='https://www.foneclaw.ai/images/home_arch.jpg'))
+    '/community.html', og_image='https://www.foneclaw.ai/images/home_arch.jpg', lang='en', hreflang_tags=generate_hreflang_tags('/community.html', 'en')))
 html.append(nav(4))
 html.append('<main>')
 html.append('<header style="position:relative;min-height:300px;display:flex;align-items:center;justify-content:center;text-align:center;background:linear-gradient(135deg,#080c18 0%,#0b1a3a 50%,#080c18 100%)"><div style="position:absolute;inset:0;background:radial-gradient(ellipse at center,rgba(0,212,255,0.08) 0%,transparent 70%)"></div><div style="position:relative;z-index:1;padding:60px 20px"><h1 style="font-size:clamp(28px,5vw,44px);font-weight:700;margin-bottom:10px;color:#f0f4f8">Community</h1><p style="color:#8b949e;font-size:17px;max-width:500px;margin:0 auto">Join the movement shaping the future of phone AI</p></div></header>')
@@ -682,7 +683,7 @@ from _hub_pages import generate_hub_pages
 generate_hub_pages(base)
 print("[8/8] Hub pages generated")
 
-# Generate sitemap
+# Generate sitemap with multilingual hreflang
 sitemap_urls = [
     ('https://www.foneclaw.ai/', 'weekly', '1.0'),
     ('https://www.foneclaw.ai/features.html', 'monthly', '0.8'),
@@ -705,13 +706,94 @@ sitemap_urls = [
 for art_id, url in URL_MAP.items():
     sitemap_urls.append((f'https://www.foneclaw.ai{url}.html', 'weekly', '0.7'))
 
-sitemap = '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+# Scan multilingual pages: /tw/ (zh-TW) and /zh/ (zh-CN)
+i18n_pages = {}  # slug -> {'en': url, 'zh-TW': url, 'zh': url}
 for loc, freq, pri in sitemap_urls:
-    sitemap += f'  <url><loc>{loc}</loc><changefreq>{freq}</changefreq><priority>{pri}</priority></url>\n'
+    slug = loc.split('/')[-1] if '/' in loc else ''
+    if slug.endswith('.html'):
+        s = slug[:-5]
+    elif slug == '':
+        s = 'index'
+    else:
+        s = slug
+    if s not in i18n_pages:
+        i18n_pages[s] = {'en': loc, 'freq': freq, 'pri': pri}
+
+for lang_dir, hreflang in [('tw', 'zh-TW'), ('zh', 'zh')]:
+    lang_path = os.path.join(base, lang_dir)
+    if os.path.isdir(lang_path):
+        for fname in os.listdir(lang_path):
+            if not fname.endswith('.html'):
+                continue
+            slug = fname[:-5]
+            if slug not in i18n_pages:
+                i18n_pages[slug] = {}
+            i18n_pages[slug][hreflang] = f'https://www.foneclaw.ai/{lang_dir}/{fname}'
+
+# Build sitemap XML with hreflang
+sitemap = '<?xml version="1.0" encoding="UTF-8"?>\n'
+sitemap += '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"\n'
+sitemap += '        xmlns:xhtml="http://www.w3.org/1999/xhtml">\n'
+
+total_urls = 0
+for slug, langs in i18n_pages.items():
+    en_url = langs.get('en', '')
+    freq = langs.get('freq', 'weekly')
+    pri = langs.get('pri', '0.7')
+    has_i18n = 'zh-TW' in langs or 'zh' in langs
+
+    # English page entry (always present)
+    if en_url:
+        sitemap += '  <url>\n'
+        sitemap += f'    <loc>{en_url}</loc>\n'
+        if has_i18n:
+            sitemap += f'    <xhtml:link rel="alternate" hreflang="en" href="{en_url}"/>\n'
+            if 'zh-TW' in langs:
+                sitemap += f'    <xhtml:link rel="alternate" hreflang="zh-TW" href="{langs["zh-TW"]}"/>\n'
+            if 'zh' in langs:
+                sitemap += f'    <xhtml:link rel="alternate" hreflang="zh" href="{langs["zh"]}"/>\n'
+            # x-default points to English
+            sitemap += f'    <xhtml:link rel="alternate" hreflang="x-default" href="{en_url}"/>\n'
+        sitemap += f'    <changefreq>{freq}</changefreq>\n'
+        sitemap += f'    <priority>{pri}</priority>\n'
+        sitemap += '  </url>\n'
+        total_urls += 1
+
+    # zh-TW page entry
+    if 'zh-TW' in langs:
+        sitemap += '  <url>\n'
+        sitemap += f'    <loc>{langs["zh-TW"]}</loc>\n'
+        if en_url:
+            sitemap += f'    <xhtml:link rel="alternate" hreflang="en" href="{en_url}"/>\n'
+        if 'zh' in langs:
+            sitemap += f'    <xhtml:link rel="alternate" hreflang="zh" href="{langs["zh"]}"/>\n'
+        sitemap += f'    <xhtml:link rel="alternate" hreflang="zh-TW" href="{langs["zh-TW"]}"/>\n'
+        sitemap += f'    <xhtml:link rel="alternate" hreflang="x-default" href="{en_url}"/>\n'
+        sitemap += f'    <changefreq>{freq}</changefreq>\n'
+        sitemap += f'    <priority>{pri}</priority>\n'
+        sitemap += '  </url>\n'
+        total_urls += 1
+
+    # zh-CN page entry
+    if 'zh' in langs:
+        sitemap += '  <url>\n'
+        sitemap += f'    <loc>{langs["zh"]}</loc>\n'
+        if en_url:
+            sitemap += f'    <xhtml:link rel="alternate" hreflang="en" href="{en_url}"/>\n'
+        if 'zh-TW' in langs:
+            sitemap += f'    <xhtml:link rel="alternate" hreflang="zh-TW" href="{langs["zh-TW"]}"/>\n'
+        sitemap += f'    <xhtml:link rel="alternate" hreflang="zh" href="{langs["zh"]}"/>\n'
+        sitemap += f'    <xhtml:link rel="alternate" hreflang="x-default" href="{en_url}"/>\n'
+        sitemap += f'    <changefreq>{freq}</changefreq>\n'
+        sitemap += f'    <priority>{pri}</priority>\n'
+        sitemap += '  </url>\n'
+        total_urls += 1
+
 sitemap += '</urlset>'
 with open(os.path.join(base, 'sitemap.xml'), 'w') as f:
     f.write(sitemap)
-print(f"sitemap.xml: {len(sitemap_urls)} URLs")
+i18n_count = sum(1 for v in i18n_pages.values() if 'zh-TW' in v or 'zh' in v)
+print(f"sitemap.xml: {total_urls} URLs ({i18n_count} with i18n hreflang)")
 
 # Generate robots.txt
 robots = 'User-agent: *\nAllow: /\n\nUser-agent: facebookexternalhit\nAllow: /\n\nUser-agent: Googlebot\nAllow: /\n\nUser-agent: Twitterbot\nAllow: /\n\nSitemap: https://www.foneclaw.ai/sitemap.xml\n'
