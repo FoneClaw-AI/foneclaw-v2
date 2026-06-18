@@ -104,7 +104,7 @@ def lang_prefix(lang='en'):
     d = LANG_DIR.get(lang, '')
     return f'/{d}' if d else ''
 
-def nav(active_page=-1, lang='en'):
+def nav(active_page=-1, lang='en', canonical_path=''):
     logo = '<img src="/favicon.png" alt="FoneClaw">'
     prefix = lang_prefix(lang)
     links = ''
@@ -112,12 +112,29 @@ def nav(active_page=-1, lang='en'):
     for idx, label, href in items:
         cls = ' class="on"' if idx == active_page else ''
         links += f'<a{cls} href="{prefix}{href}">{label}</a>'
-    # Language dropdown selector
+    # Language dropdown selector — use full absolute URLs to avoid CDN caching issues
+    page_map = {
+        'en': {'index': 'https://www.foneclaw.ai/index.html', 'features': 'https://www.foneclaw.ai/features.html', 'download': 'https://www.foneclaw.ai/download.html', 'resources': 'https://www.foneclaw.ai/resources.html', 'community': 'https://www.foneclaw.ai/community.html'},
+        'zh': {'index': 'https://www.foneclaw.ai/zh/index.html', 'features': 'https://www.foneclaw.ai/zh/features.html', 'download': 'https://www.foneclaw.ai/zh/download.html', 'resources': 'https://www.foneclaw.ai/zh/resources.html', 'community': 'https://www.foneclaw.ai/zh/community.html'},
+        'tw': {'index': 'https://www.foneclaw.ai/tw/index.html', 'features': 'https://www.foneclaw.ai/tw/features.html', 'download': 'https://www.foneclaw.ai/tw/download.html', 'resources': 'https://www.foneclaw.ai/tw/resources.html', 'community': 'https://www.foneclaw.ai/tw/community.html'},
+    }
+    # Determine current page name from active_page index
+    page_names = ['index', 'features', 'download', 'resources', 'community']
+    current_page = page_names[active_page] if 0 <= active_page < len(page_names) else None
     lang_options = []
     for code, label in LANG_OPTIONS:
+        if current_page and current_page in page_map.get(code, {}):
+            url = page_map[code][current_page]
+        else:
+            # For article pages or unknown pages, construct URL from current path
+            import os
+            current_filename = os.path.basename(canonical_path) if canonical_path else 'index.html'
+            if not current_filename.endswith('.html'):
+                current_filename = 'index.html'
+            url = f'https://www.foneclaw.ai/{code}/{current_filename}' if code != 'en' else f'https://www.foneclaw.ai/{current_filename}'
         sel = ' selected' if code == lang else ''
-        lang_options.append(f'<option value="{code}"{sel}>{label}</option>')
-    lang_switcher = f'<select class="lang-sel" onchange="switchLang(this.value)">{"".join(lang_options)}</select>'
+        lang_options.append(f'<option value="{url}"{sel}>{label}</option>')
+    lang_switcher = f'<select class="lang-sel" onchange="window.location.href=this.value">{chr(10).join(lang_options)}</select>'
     logo_href = f'{prefix}/'
     return f'<nav class="top-nav" aria-label="Main navigation"><div class="nb"><a class="logo" href="{logo_href}">{logo}FoneClaw</a><button class="hamburger" onclick="this.nextElementSibling.classList.toggle(\'open\')" aria-label="Menu">\u2630</button><div class="nr">{links}{lang_switcher}</div></div></nav>'
 
@@ -189,13 +206,6 @@ function showArticle(id){{var el=document.getElementById("art-"+id);if(el){{el.c
 function hideArticle(){{document.querySelectorAll(".article-overlay").forEach(function(e){{e.classList.remove("show");}});document.body.style.overflow="";}}
 document.addEventListener("keydown",function(e){{if(e.key==="Escape")hideArticle();}});
 window.addEventListener("scroll",function(){{var b=document.getElementById("backToTop");if(b){{if(window.scrollY>400){{b.style.opacity="1";b.style.visibility="visible";}}else{{b.style.opacity="0";b.style.visibility="hidden";}}}}}});
-function switchLang(code){{
-  var path=window.location.pathname;
-  var filename=path.split('/').pop()||'index.html';
-  if(code==='zh'){{window.location.href='/zh/'+filename;}}
-  else if(code==='tw'){{window.location.href='/tw/'+filename;}}
-  else{{window.location.href='/'+filename;}}
-}}
 </script>
 """
 
@@ -204,7 +214,7 @@ def full_page(title, description, canonical_path, active_page, body_html, extra_
     """Generate a complete page with head, nav, content, footer, back-to-top, js."""
     html = []
     html.append(head(title, description, canonical_path, extra_css, og_image, lang, hreflang_tags))
-    html.append(nav(active_page, lang))
+    html.append(nav(active_page, lang, canonical_path))
     html.append('<main>')
     html.append(body_html)
     html.append('</main>')
