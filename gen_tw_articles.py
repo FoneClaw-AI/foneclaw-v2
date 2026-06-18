@@ -1,14 +1,14 @@
 #!/usr/bin/env python3
 """
-Generate Chinese (zh) article pages for FoneClaw.
+Generate Traditional Chinese (tw) article pages for FoneClaw.
 
-Creates simplified Chinese versions of articles linked from the homepage
+Creates Traditional Chinese (Taiwan) versions of articles linked from the homepage
 and resources page. Currently translates UI chrome (nav, footer, breadcrumbs,
 section labels) and meta data (title, description) to Chinese while keeping
 article body text in English. Full body translation is a separate task.
 
 Usage:
-    python3 gen_zh_articles.py
+    python3 gen_tw_articles.py
 """
 
 import os, sys, json, datetime, importlib.util, re
@@ -272,7 +272,7 @@ except Exception:
 
 # ── Target articles: homepage (12) + resources page (12+ extras) ────
 TARGET_SLUGS = [
-    # Homepage featured articles
+    # First Taiwan rollout: same 12 featured articles as Simplified Chinese launch
     'tasker-alternative-voice-automation',
     'xiaomi-ai-ecosystem-2026',
     'voice-control-visually-impaired',
@@ -285,160 +285,44 @@ TARGET_SLUGS = [
     'voice-control-whatsapp',
     'gemini-intelligence-vs-siri',
     'foneclaw-vs-apple-intelligence',
-    # Resources page articles
-    'miclaw-vs-foneclaw',
-    'foneclaw-vs-samsung-galaxy-ai',
-    'foneclaw-vs-openally',
-    'foneclaw-vs-minimax',
-    'foneclaw-vs-all-in-one-ai-agent',
-    'ai-phone-agent-harness',
-    'best-voice-control-apps-2026',
-    'top-10-ai-agent-models-2026',
-    'voice-assistant-privacy-security',
-    'ai-agent-vs-traditional-apps',
-    'top-10-ai-agents-2026',
-    'hands-free-cooking',
-    'ai-terminal-war-agent-battlefield',
-    'huawei-phone-agent',
-    'miclaw-vs-openclaw',
 ]
 
 # ── Chinese translations for article titles and descriptions ────────
-# Keys are article slugs, values are (zh_title, zh_description)
-ZH_TRANSLATIONS = {
-    'tasker-alternative-voice-automation': (
-        'Tasker 替代方案：Android 语音自动化指南',
-        '无需 Root 权限即可在 Android 上实现无代码语音自动化。了解 FoneClaw 如何替代 Tasker 成为更简单的语音控制方案。'
-    ),
-    'xiaomi-ai-ecosystem-2026': (
-        '小米 HyperOS AI 生态系统 2026',
-        '小米 MiMo 模型、HyperOS 集成和应用生态系统全面解析。了解小米 AI 手机助手的最新发展。'
-    ),
-    'voice-control-visually-impaired': (
-        '视障用户的语音控制手机方案',
-        '100% 语音控制的无障碍方案——Voice Access、TalkBack 及更多辅助功能。为视障用户打造的完整指南。'
-    ),
-    'gemini-intelligence-supported-devices': (
-        'Gemini Intelligence 支持设备整理 2026',
-        '哪些手机能用 Gemini Intelligence？整理 Pixel、三星、小米等 Android 机型的兼容范围和使用门槛。'
-    ),
-    'comp_vs_miclaw': (
-        '小米 MiClaw vs FoneClaw 手机助手对比',
-        'MiClaw 适合小米生态，FoneClaw 面向更广泛的 Android 用户。两者差别在哪里？'
-    ),
-    'wwdc-2026-ai-do-over-phone-agent': (
-        'WWDC 2026 Siri AI 与 Apple Intelligence',
-        '苹果正在把 Siri 推向更强的手机龙虾形态，这对 Android 用户和 FoneClaw 意味着什么？'
-    ),
-    'agentic-ai-phone-explained': (
-        '龙虾式 AI 手机解析：MiClaw、Gemini、Siri AI',
-        '手机 AI Agent 到底是什么？它和普通语音助手有什么区别？'
-    ),
-    'gemini-vs-foneclaw': (
-        'Gemini Intelligence vs FoneClaw 对比',
-        'Gemini 更擅长理解和生成，FoneClaw 更偏手机执行。两类方案应该怎么选？'
-    ),
-    'android-vs-ios-26-5-voice-control': (
-        'Android vs iOS：2026 语音控制对比',
-        'Android 和 iOS 的语音控制路线不同。一个更开放，一个更系统化，普通用户该怎么选？'
-    ),
-    'voice-control-whatsapp': (
-        'WhatsApp 语音控制：免提操作指南 2026',
-        '用语音发消息、打电话、管理聊天。适合开车、做饭或不方便触屏的时候使用。'
-    ),
-    'gemini-intelligence-vs-siri': (
-        'Gemini Intelligence vs Siri AI：2026 对比',
-        'Gemini 和 Siri AI 正在走向不同路线：一个连接 Google 生态，一个深入 iOS 系统。'
-    ),
-    'foneclaw-vs-apple-intelligence': (
-        'FoneClaw vs Apple Intelligence 对比',
-        'Apple Intelligence 是苹果的系统 AI，FoneClaw 则专注于 Android 上的实际执行能力。'
-    ),
-    'miclaw-vs-foneclaw': (
-        'MiClaw vs FoneClaw 对比',
-        '小米 MiClaw 与 FoneClaw 手机助手的全面对比。封闭生态 vs 开放 Android 方案。'
-    ),
-    'foneclaw-vs-samsung-galaxy-ai': (
-        'FoneClaw vs 三星 Galaxy AI 对比',
-        'FoneClaw 与三星 Galaxy AI 手机助手功能全面对比分析。'
-    ),
-    'foneclaw-vs-openally': (
-        'FoneClaw vs OpenAlly 对比',
-        'FoneClaw 与 OpenAlly 开源手机助手的深度对比。功能、隐私和实用性分析。'
-    ),
-    'foneclaw-vs-minimax': (
-        'FoneClaw vs MiniMax 对比',
-        'FoneClaw 与 MiniMax AI 手机助手的功能对比与分析。'
-    ),
-    'foneclaw-vs-all-in-one-ai-agent': (
-        'FoneClaw vs 一体化 AI 助手对比',
-        '专注型手机助手 vs 多功能 AI 平台。哪种方案更适合你的需求？'
-    ),
-    'ai-phone-agent-harness': (
-        'AI 手机助手技术架构解析',
-        '深入了解 AI 手机助手的技术框架和执行层设计原理。'
-    ),
-    'best-voice-control-apps-2026': (
-        '2026 年最佳语音控制应用推荐',
-        '精选 Android 最佳语音控制应用。FoneClaw、Google Assistant、Bixby 等全面评测。'
-    ),
-    'top-10-ai-agent-models-2026': (
-        '2026 年十大 AI Agent 模型',
-        '手机 AI 助手领域的十大 AI Agent 模型排名与分析。'
-    ),
-    'voice-assistant-privacy-security': (
-        '语音助手隐私与安全指南',
-        '使用语音助手时如何保护隐私和安全。本地处理 vs 云端方案的安全对比。'
-    ),
-    'ai-agent-vs-traditional-apps': (
-        'AI Agent vs 传统应用',
-        'AI 手机助手如何改变传统应用的使用方式。从应用操作到智能执行的范式转变。'
-    ),
-    'top-10-ai-agents-2026': (
-        '2026 年十大 AI Agent',
-        '2026 年最值得关注的十大 AI Agent 产品排名与深度分析。'
-    ),
-    'hands-free-cooking': (
-        '厨房免提语音控制指南',
-        '在厨房烹饪时如何使用语音控制手机。免提操作让烹饪更轻松、更安全。'
-    ),
-    'ai-terminal-war-agent-battlefield': (
-        'AI 终端之战：手机助手的战场',
-        '手机 AI 助手领域的竞争格局分析。各大厂商在终端 AI 赛道上的角逐。'
-    ),
-    'huawei-phone-agent': (
-        '华为手机 AI 助手',
-        '华为手机 AI 助手功能解析。鸿蒙系统下的智能助手体验与发展。'
-    ),
-    'miclaw-vs-openclaw': (
-        'MiClaw vs OpenClaw 对比',
-        '小米 MiClaw 与 OpenClaw 开源方案的对比分析。封闭生态 vs 开源手机助手。'
-    ),
-}
+# Keys are article slugs, values are (tw_title, tw_description)
+TW_TRANSLATIONS = {'tasker-alternative-voice-automation': ('Tasker 替代方案：Android 語音自動化', '不用 root，也能做 Android 語音自動化'),
+ 'xiaomi-ai-ecosystem-2026': ('小米 HyperOS AI 能力 2026', '小米 HyperOS AI 生態與 MiMo 模型'),
+ 'voice-control-visually-impaired': ('視障使用者手機語音控制指南', '為視障使用者整理的手機語音控制完整指南'),
+ 'gemini-intelligence-supported-devices': ('Gemini Intelligence 支援裝置整理 2026', '哪些手機可以用 Gemini Intelligence？一篇看懂支援範圍'),
+ 'comp_vs_miclaw': ('小米 MiClaw vs FoneClaw 比較', '小米 MiClaw 和 FoneClaw，適合哪一類使用者？'),
+ 'wwdc-2026-ai-do-over-phone-agent': ('WWDC 2026 Siri AI 和 Apple Intelligence', 'Apple 想把 Siri 帶向真正的手機龍蝦'),
+ 'agentic-ai-phone-explained': ('龍蝦式 AI 手機：MiClaw、Gemini、Siri AI', '手機 AI Agent 到底能做什麼？這篇一次說清楚'),
+ 'gemini-vs-foneclaw': ('Gemini Intelligence vs FoneClaw', 'Gemini 偏理解，FoneClaw 偏執行：差別在哪？'),
+ 'android-vs-ios-26-5-voice-control': ('Android vs iOS：語音控制比較 2026', 'Android 和 iOS 的語音控制，誰比較適合實用場景？'),
+ 'voice-control-whatsapp': ('WhatsApp 語音控制：免手動指南 2026', '用語音發 WhatsApp 訊息、打電話、管理聊天'),
+ 'gemini-intelligence-vs-siri': ('Gemini Intelligence vs Siri AI：2026 比較', 'Gemini 和 Siri AI 的路線差異，一般使用者該怎麼看？'),
+ 'foneclaw-vs-apple-intelligence': ('FoneClaw vs Apple Intelligence', 'Apple 做系統 AI，FoneClaw 做 Android 執行能力')}
 
-# ── Chinese UI labels ───────────────────────────────────────────────
-UI_LABELS = {
-    'breadcrumb_home': '首页',
-    'breadcrumb_resources': '资源',
-    'key_takeaways': '📋 核心要点',
-    'contents': '📑 目录',
-    'faq_title': '常见问题',
-    'read_suffix': '阅读',
-    'related_articles': '相关文章',
-    'ready_cta': '准备好体验 FoneClaw 了吗？',
-    'ready_copy': '下载最新 Android 安装包，支持 Android 9+ 上的 120+ 操作。',
-    'say_cta': '说出来，就搞定。',
-    'say_copy': '体验 FoneClaw 支持的 Android 手机操作，权限透明，确认后执行。',
-}
+# ── Traditional Chinese (Taiwan) UI labels ───────────────────────────────────────────────
+UI_LABELS = {'breadcrumb_home': '首頁',
+ 'breadcrumb_resources': '資源',
+ 'key_takeaways': '📋 重點整理',
+ 'contents': '📑 目錄',
+ 'faq_title': '常見問題',
+ 'read_suffix': '閱讀',
+ 'related_articles': '相關文章',
+ 'ready_cta': '準備好試試 FoneClaw？',
+ 'ready_copy': '下載最新 Android 安裝包，體驗 Android 9+ 上的 120+ 項手機操作。',
+ 'say_cta': '說一聲，就搞定。',
+ 'say_copy': '試用 FoneClaw，體驗權限清楚、執行前會確認的 Android 手機操作。'}
 
 # Localized rewritten article bodies. Keep this as source-of-truth so
 # regenerated Chinese articles do not fall back to English body text.
 try:
-    from zh_article_rewrites import ZH_ARTICLE_REWRITES
+    from tw_article_rewrites import TW_ARTICLE_REWRITES
 except Exception:
-    ZH_ARTICLE_REWRITES = {}
+    TW_ARTICLE_REWRITES = {}
 
-FEATURED_ZH_SLUGS = {
+FEATURED_TW_SLUGS = {
     'tasker-alternative-voice-automation',
     'xiaomi-ai-ecosystem-2026',
     'voice-control-visually-impaired',
@@ -454,28 +338,28 @@ FEATURED_ZH_SLUGS = {
 }
 
 CAT_ZH = {
-    'Setup': '设置',
+    'Setup': '設定',
     'Tutorial': '教程',
     'Advanced': '进阶',
     'Guide': '指南',
     'Safety': '安全',
     'Smart Home': '智能家居',
     'Commuting': '通勤',
-    'Accessibility': '无障碍',
+    'Accessibility': '無障礙',
     'Lifestyle': '生活方式',
     'Productivity': '效率',
     'Fitness': '健身',
-    'Comparison': '对比',
+    'Comparison': '比較',
     'Roundup': '盘点',
-    'Industry': '行业',
-    'Industry & Trends': '行业',
-    'Industry and Trends': '行业',
-    'Apps': '应用',
-    'Social Media': '社交应用',
-    'Comparisons': '对比',
+    'Industry': '產業',
+    'Industry & Trends': '產業',
+    'Industry and Trends': '產業',
+    'Apps': 'App',
+    'Social Media': '社交App',
+    'Comparisons': '比較',
 }
 
-ZH_INTERNAL_LINKS = {
+TW_INTERNAL_LINKS = {
     'tasker-alternative-voice-automation': [
         ('语音控制', 'android-vs-ios-26-5-voice-control'),
         ('WhatsApp', 'voice-control-whatsapp'),
@@ -542,13 +426,13 @@ ZH_INTERNAL_LINKS = {
 
 def _apply_zh_internal_links(text, current_slug, used_targets):
     """Add curated internal links to existing zh featured articles only."""
-    for anchor, target in ZH_INTERNAL_LINKS.get(current_slug, []):
-        if target == current_slug or target not in FEATURED_ZH_SLUGS or target in used_targets:
+    for anchor, target in TW_INTERNAL_LINKS.get(current_slug, []):
+        if target == current_slug or target not in FEATURED_TW_SLUGS or target in used_targets:
             continue
-        if f'/zh/{target}.html' in text or '<a ' in text:
+        if f'/tw/{target}.html' in text or '<a ' in text:
             continue
         pattern = re.escape(anchor)
-        repl = f'<a href="/zh/{target}.html">{anchor}</a>'
+        repl = f'<a href="/tw/{target}.html">{anchor}</a>'
         new_text, n = re.subn(pattern, repl, text, count=1)
         if n:
             used_targets.add(target)
@@ -592,16 +476,16 @@ def build_article_zh(art_data, output_slug=None):
         output_slug = art_id
 
     # Get Chinese translations — try output_slug first, then art_id
-    zh_title, zh_desc = ZH_TRANSLATIONS.get(output_slug, ZH_TRANSLATIONS.get(art_id, (en_title, en_desc)))
+    tw_title, tw_desc = TW_TRANSLATIONS.get(output_slug, TW_TRANSLATIONS.get(art_id, (en_title, en_desc)))
 
     # Use localized rewritten body when available. This prevents rebuilds from
     # overwriting the Chinese site with English article bodies.
-    rewrite_sections = ZH_ARTICLE_REWRITES.get(output_slug) or ZH_ARTICLE_REWRITES.get(art_id)
+    rewrite_sections = TW_ARTICLE_REWRITES.get(output_slug) or TW_ARTICLE_REWRITES.get(art_id)
     if rewrite_sections:
         sections = rewrite_sections
 
     url = URL_MAP.get(art_id, '/' + art_id)
-    canonical = '/zh/' + output_slug + '.html'
+    canonical = '/tw/' + output_slug + '.html'
     og_image = f'https://www.foneclaw.ai/images/articles/{art_id}.jpg'
     hreflang = _make_hreflang_tags(output_slug)
 
@@ -609,17 +493,17 @@ def build_article_zh(art_data, output_slug=None):
 
     # ── Head ──
     html.append(head(
-        f'{zh_title} - FoneClaw',
-        zh_desc,
+        f'{tw_title} - FoneClaw',
+        tw_desc,
         canonical,
         extra_css='<style>.art-body p{text-indent:2em}.art-body li p{text-indent:0}</style>',
         og_image=og_image,
-        lang='zh',
+        lang='tw',
         hreflang_tags=hreflang,
     ))
 
     # ── Nav ──
-    html.append(nav(3, lang='zh'))
+    html.append(nav(3, lang='tw'))
 
     # ── Reading progress bar ──
     html.append('<div class="reading-progress" id="readProgress"></div>')
@@ -630,11 +514,11 @@ def build_article_zh(art_data, output_slug=None):
     # ── Breadcrumb ──
     html.append(
         f'<div class="breadcrumb">'
-        f'<a href="/zh/">{UI_LABELS["breadcrumb_home"]}</a>'
+        f'<a href="/tw/">{UI_LABELS["breadcrumb_home"]}</a>'
         f'<span class="sep">›</span>'
-        f'<a href="/zh/resources.html">{UI_LABELS["breadcrumb_resources"]}</a>'
+        f'<a href="/tw/resources.html">{UI_LABELS["breadcrumb_resources"]}</a>'
         f'<span class="sep">›</span>'
-        f'<span>{zh_title}</span>'
+        f'<span>{tw_title}</span>'
         f'</div>'
     )
 
@@ -645,8 +529,8 @@ def build_article_zh(art_data, output_slug=None):
     html.append('<div class="meta-row">')
     html.append(f'<span>📅 {datetime.date.today().strftime("%Y年%m月%d日")}</span>')
     if read_time:
-        zh_read_time = str(read_time).replace(' min', ' 分钟')
-        html.append(f'<span>⏱️ {zh_read_time}阅读</span>')
+        tw_read_time = str(read_time).replace(' min', ' 分鐘')
+        html.append(f'<span>⏱️ {tw_read_time}閱讀</span>')
     html.append(
         '<span><img src="/images/author-dean.jpg" alt="Dean" '
         'style="width:20px;height:20px;border-radius:50%;vertical-align:middle;'
@@ -655,14 +539,14 @@ def build_article_zh(art_data, output_slug=None):
         'Dean</a></span>'
     )
     html.append('</div>')
-    html.append(f'<h1>{zh_title}</h1>')
-    html.append(f'<p class="art-desc">{zh_desc}</p>')
+    html.append(f'<h1>{tw_title}</h1>')
+    html.append(f'<p class="art-desc">{tw_desc}</p>')
     html.append('</header>')
 
     # ── Hero image ──
     html.append(
         f'<img class="art-hero" src="/images/articles/{art_id}.jpg" '
-        f'alt="{zh_title}" loading="lazy">'
+        f'alt="{tw_title}" loading="lazy">'
     )
 
     # ── Article APK CTA ──
@@ -685,7 +569,7 @@ def build_article_zh(art_data, output_slug=None):
     # ── Split sections: content vs FAQ ──
     def _is_faq_section(title):
         t = title.lower()
-        return 'frequently asked' in t or '常见问题' in title
+        return 'frequently asked' in t or '常見問題' in title
 
     content_sections = [(s, b) for s, b in sections if not _is_faq_section(s)]
     faq_sections = [(s, b) for s, b in sections if _is_faq_section(s)]
@@ -774,7 +658,7 @@ def build_article_zh(art_data, output_slug=None):
         _rcat = item2[3]
         # Chinese publish package only includes the 12 featured articles.
         # Do not generate related links to removed/non-published zh pages.
-        if _rid == art_id or _rid not in FEATURED_ZH_SLUGS:
+        if _rid == art_id or _rid not in FEATURED_TW_SLUGS:
             continue
         _rg = _cat_group.get(_rcat, 'other')
         if _rg == _my_group:
@@ -787,7 +671,7 @@ def build_article_zh(art_data, output_slug=None):
     if len(_picks) < 3:
         for item3 in articles_data:
             _rid, _rtitle, _rcat = item3[0], item3[1], item3[3]
-            if _rid != art_id and _rid in FEATURED_ZH_SLUGS and (_rid, _rtitle, _rcat) not in _picks:
+            if _rid != art_id and _rid in FEATURED_TW_SLUGS and (_rid, _rtitle, _rcat) not in _picks:
                 _picks.append((_rid, _rtitle, _rcat))
                 if len(_picks) >= 3:
                     break
@@ -804,12 +688,12 @@ def build_article_zh(art_data, output_slug=None):
         _rurl_slug = _internal_to_url.get(_rid, _rid)
         if _rid == 'comp_vs_miclaw':
             _rurl_slug = 'comp_vs_miclaw'
-        _rzh_title = ZH_TRANSLATIONS.get(_rurl_slug, ZH_TRANSLATIONS.get(_rid, (_rtitle, '')))[0]
+        _rtw_title = TW_TRANSLATIONS.get(_rurl_slug, TW_TRANSLATIONS.get(_rid, (_rtitle, '')))[0]
         _rzh_cat = CAT_ZH.get(_rcat, _rcat)
         html.append(
-            f'<a href="/zh/{_rurl_slug}.html" class="related-card">'
+            f'<a href="/tw/{_rurl_slug}.html" class="related-card">'
             f'<div class="rc-cat">{_rzh_cat}</div>'
-            f'<div class="rc-title">{_rzh_title}</div>'
+            f'<div class="rc-title">{_rtw_title}</div>'
             f'</a>'
         )
     html.append('</div></div>')
@@ -820,9 +704,9 @@ def build_article_zh(art_data, output_slug=None):
     _sch = {
         "@context": "https://schema.org",
         "@type": "TechArticle",
-        "headline": zh_title,
-        "description": zh_desc,
-        "url": f"https://www.foneclaw.ai/zh/{output_slug}.html",
+        "headline": tw_title,
+        "description": tw_desc,
+        "url": f"https://www.foneclaw.ai/tw/{output_slug}.html",
         "image": f"https://www.foneclaw.ai/images/articles/{art_id}.jpg",
         "author": {
             "@type": "Person",
@@ -870,9 +754,9 @@ def build_article_zh(art_data, output_slug=None):
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
         "itemListElement": [
-            {"@type": "ListItem", "position": 1, "name": "首页", "item": "https://www.foneclaw.ai/zh/"},
-            {"@type": "ListItem", "position": 2, "name": "资源", "item": "https://www.foneclaw.ai/zh/resources.html"},
-            {"@type": "ListItem", "position": 3, "name": zh_title, "item": f"https://www.foneclaw.ai/zh/{output_slug}.html"},
+            {"@type": "ListItem", "position": 1, "name": "首頁", "item": "https://www.foneclaw.ai/tw/"},
+            {"@type": "ListItem", "position": 2, "name": "資源", "item": "https://www.foneclaw.ai/tw/resources.html"},
+            {"@type": "ListItem", "position": 3, "name": tw_title, "item": f"https://www.foneclaw.ai/tw/{output_slug}.html"},
         ],
     }
     html.append(
@@ -911,8 +795,8 @@ document.addEventListener("click",function(e){
 </script>''')
 
     # ── Footer & social share ──
-    html.append(footer(lang='zh'))
-    html.append(social_share(lang='zh'))
+    html.append(footer(lang='tw'))
+    html.append(social_share(lang='tw'))
     html.append(js())
     html.append('</body></html>')
 
@@ -957,7 +841,7 @@ for internal_slug, url_path in URL_MAP.items():
     url_to_slug[url_slug] = internal_slug
 
 # ── Generate Chinese article pages ─────────────────────────────────
-os.makedirs(os.path.join(base, 'zh'), exist_ok=True)
+os.makedirs(os.path.join(base, 'tw'), exist_ok=True)
 
 generated = 0
 missing = []
@@ -973,7 +857,7 @@ for slug in TARGET_SLUGS:
         continue
     html = build_article_zh(art_data, output_slug=slug)
 
-    out_path = os.path.join(base, 'zh', f'{slug}.html')
+    out_path = os.path.join(base, 'tw', f'{slug}.html')
 
     # Only write if content changed
     need_write = True
@@ -986,9 +870,9 @@ for slug in TARGET_SLUGS:
         with open(out_path, 'w', encoding='utf-8') as f:
             f.write(html)
         generated += 1
-        print(f"  ✓ zh/{slug}.html ({len(html)//1024}KB)")
+        print(f"  ✓ tw/{slug}.html ({len(html)//1024}KB)")
     else:
-        print(f"  · zh/{slug}.html (unchanged)")
+        print(f"  · tw/{slug}.html (unchanged)")
 
 print(f"\nDone: {generated} Chinese article pages generated, "
       f"{len(TARGET_SLUGS) - generated - len(missing)} unchanged")

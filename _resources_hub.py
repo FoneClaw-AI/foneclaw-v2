@@ -1,5 +1,6 @@
 """Resources page - uses full_page() for consistent styling"""
 import os
+from _i18n import generate_hreflang_tags
 
 def generate_resources_page(full_page, base):
     """Generate resources page using full_page()"""
@@ -78,5 +79,7 @@ def generate_resources_page(full_page, base):
         3,  # Resources active
         res_body,
         extra_css=hub_css,  # CSS goes in <head>!
-        og_image="https://www.foneclaw.ai/images/hub/resources-hero.jpg"
+        og_image="https://www.foneclaw.ai/images/hub/resources-hero.jpg",
+        lang='en',
+        hreflang_tags=generate_hreflang_tags('/resources.html', 'en')
     )

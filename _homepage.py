@@ -19,7 +19,7 @@ ZH_TRANSLATIONS = {
 TW_TRANSLATIONS = {'tasker-alternative-voice-automation': ('Tasker 替代方案：Android 語音自動化', '不用 root，也能做 Android 語音自動化'),
  'xiaomi-ai-ecosystem-2026': ('小米 HyperOS AI 能力 2026', '小米 HyperOS AI 生態與 MiMo 模型'),
  'voice-control-visually-impaired': ('視障使用者手機語音控制指南', '為視障使用者整理的手機語音控制完整指南'),
- 'gemini-intelligence-supported-devices': ('Gemini Intelligence 支援裝置整理 2026', '哪些手機能用 Gemini Intelligence？一篇看懂支援範圍'),
+ 'gemini-intelligence-supported-devices': ('Gemini Intelligence 支援裝置整理 2026', '哪些手機可以用 Gemini Intelligence？一篇看懂支援範圍'),
  'comp_vs_miclaw': ('小米 MiClaw vs FoneClaw 比較', '小米 MiClaw 和 FoneClaw，適合哪一類使用者？'),
  'wwdc-2026-ai-do-over-phone-agent': ('WWDC 2026 Siri AI 和 Apple Intelligence', 'Apple 想把 Siri 帶向真正的手機龍蝦'),
  'agentic-ai-phone-explained': ('龍蝦式 AI 手機：MiClaw、Gemini、Siri AI', '手機 AI Agent 到底能做什麼？這篇一次說清楚'),

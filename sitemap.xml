@@ -1,144 +1,1037 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://www.foneclaw.ai/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://www.foneclaw.ai/features.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.foneclaw.ai/resources.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.foneclaw.ai/community.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://www.foneclaw.ai/privacy.html</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
-  <url><loc>https://www.foneclaw.ai/download.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.foneclaw.ai/early-access.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://www.foneclaw.ai/voice-control/index.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://www.foneclaw.ai/comparisons/index.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://www.foneclaw.ai/ai-agent/index.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://www.foneclaw.ai/news/index.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://www.foneclaw.ai/comparisons/foneclaw-vs/index.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.foneclaw.ai/comparisons/tech-analysis/index.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.foneclaw.ai/ai-agent/gemini-intelligence/index.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.foneclaw.ai/ai-agent/other/index.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.foneclaw.ai/voice-control-android.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/send-texts-hands-free.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/automate-multi-step-tasks.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/voice-control-elderly.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/voice-commands-driving.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/smart-home-voice-control.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/voice-control-commuters.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/ai-phone-seniors.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/hands-free-cooking.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/emergency-voice-commands.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/productivity-automation.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/voice-control-visually-impaired.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/parenting-hands-free.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/voice-fitness.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/foneclaw-vs-siri.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/foneclaw-vs-google-assistant.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/foneclaw-vs-alexa.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/best-voice-control-apps-2026.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/ai-agents-replacing-assistants.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/gemini-vs-foneclaw.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/miclaw-vs-foneclaw.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/ai-agent-vs-traditional-apps.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/tasker-alternative-voice-automation.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/voice-assistant-privacy-security.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/voice-control-dirty-hands.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/top-10-ai-agents-2026.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/hermes-agent-vs-openclaw-vs-foneclaw.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/why-local-ai-agents-never-go-down.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/automate-instagram-with-voice.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/android-vs-ios-26-5-voice-control.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/control-samsung-smart-tv-voice.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/voice-control-wearables.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/small-businesses-use-ai-agents.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/cerebras-future-ai-hardware.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/trump-phone-mobile-ai.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/top-10-ai-agent-models-2026.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/ai-phone-war-2026.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/ai-terminal-war-agent-battlefield.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/xiaomi-ai-ecosystem-2026.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/author/dean.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/voice-control-whatsapp.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/voice-control-youtube.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/voice-control-tiktok.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/voice-control-facebook.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/voice-control-twitter.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/voice-control-telegram.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/voice-control-linkedin.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/voice-control-snapchat.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/voice-control-reddit.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/voice-control-discord.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/claude-ai-login-android.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/agentic-ai-phone-explained.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/perplexity-ai-vs-google-search.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/gemini-intelligence-complete-guide.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/gemini-intelligence-features.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/ai-agent-phone-control.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/xiaomi-miclaw-explained.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/huawei-phone-agent.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/gemini-intelligence-vs-siri.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/miclaw-vs-openclaw.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/gemini-intelligence-productivity.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/gemini-intelligence-voice-control.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/how-to-install-miclaw.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/voice-control-pinterest.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/xiaomi-lobster-phone-ai-features.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/ai-notification-management.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/gemini-intelligence-form-filling.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/gemini-intelligence-widgets.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/gemini-intelligence-supported-devices.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/tencent-phone-agent-cost.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/xiaomi-phone-agent-summit.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/foneclaw-vs-likeclaw.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/foneclaw-vs-apple-intelligence.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/apple-intelligence-accessibility-foneclaw.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/foneclaw-vs-samsung-galaxy-ai.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/ai-phone-agent-harness.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/mediatek-dimensity-phone-agent.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/ios-27-siri-ai-agent.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/ios-27-siri-gemini-integration.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/copilot-redesign-5-ai-trends-foneclaw.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/ai-agent-spending-agentic-phone.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/gemini-intelligence-pixel-9-excluded.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/samsung-galaxy-s26-ai-features-s25.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/foneclaw-vs-openally.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/foneclaw-vs-minimax.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/foneclaw-vs-all-in-one-ai-agent.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/foneclaw-vs-nebula-ai.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/skyclaw-vs-foneclaw.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/foneclaw-vs-adobe-firefly.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/cloud-vs-local-ai-agent-2026.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/microsoft-ai-super-app-vs-local-agent.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/ai-agent-from-lab-to-pocket.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/hy-memory-vs-local-agent-memory.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/openclaw-security-risks-phone-agent-safer.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/gemini-spark-vs-foneclaw.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/wwdc-2026-ai-do-over-phone-agent.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/personal-context-ai-agent-phone.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/mcp-invisible-voice-control-phone-agent.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/apple-local-ai-validates-phone-agent.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/workbuddy-vs-foneclaw.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/microsoft-build-2026-ai-agents.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/nvidia-ai-pc-vs-phone-ai-agent.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/apple-ai-glasses-vs-phone-agent.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/meta-ray-bans-ai-vs-foneclaw.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/ai-agents-rewriting-brand-discovery.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/local-ai-agent-trust-vs-cloud.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/enterprise-ai-agent-security-local.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/ai-agent-token-cost-local-saving.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/app-intents-apps-machine-callable-ai-agents.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/apple-intelligence-pro-subscription-what-to-expect.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/microsoft-scout-openclaw-ai-agent.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/os-agent-three-layer-foundation-2026.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/ai-chip-custom-race-2026.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/self-improving-ai-agents-phone.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/eval-driven-phone-agent-measurement.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/closed-loop-ai-phone-agent-human-in-loop.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/on-device-llm-optimization-2026.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/os-agent-vs-app-traffic-2026.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/openai-no-app-phone-voice-hack-night.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/ai-agent-replaces-app-store-developers.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/voice-first-phone-2026-landscape.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/xiaomi-miclaw-user-review.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/1000-tps-llms-phone-agent-era.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/jd-tencent-ai-agent-shopping-phone-agent.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/wechat-ai-agent-commandable-super-app.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.foneclaw.ai/claude-code-multi-agent-system.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://www.foneclaw.ai/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.foneclaw.ai/"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://www.foneclaw.ai/tw/index.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.foneclaw.ai/zh/index.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.foneclaw.ai/"/>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/tw/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.foneclaw.ai/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.foneclaw.ai/zh/index.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://www.foneclaw.ai/tw/index.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.foneclaw.ai/"/>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/zh/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.foneclaw.ai/"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://www.foneclaw.ai/tw/index.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.foneclaw.ai/zh/index.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.foneclaw.ai/"/>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/features.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.foneclaw.ai/features.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://www.foneclaw.ai/tw/features.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.foneclaw.ai/zh/features.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.foneclaw.ai/features.html"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/tw/features.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.foneclaw.ai/features.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.foneclaw.ai/zh/features.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://www.foneclaw.ai/tw/features.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.foneclaw.ai/features.html"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/zh/features.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.foneclaw.ai/features.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://www.foneclaw.ai/tw/features.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.foneclaw.ai/zh/features.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.foneclaw.ai/features.html"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/resources.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.foneclaw.ai/resources.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://www.foneclaw.ai/tw/resources.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.foneclaw.ai/zh/resources.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.foneclaw.ai/resources.html"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/tw/resources.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.foneclaw.ai/resources.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.foneclaw.ai/zh/resources.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://www.foneclaw.ai/tw/resources.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.foneclaw.ai/resources.html"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/zh/resources.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.foneclaw.ai/resources.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://www.foneclaw.ai/tw/resources.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.foneclaw.ai/zh/resources.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.foneclaw.ai/resources.html"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/community.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.foneclaw.ai/community.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://www.foneclaw.ai/tw/community.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.foneclaw.ai/zh/community.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.foneclaw.ai/community.html"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/tw/community.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.foneclaw.ai/community.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.foneclaw.ai/zh/community.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://www.foneclaw.ai/tw/community.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.foneclaw.ai/community.html"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/zh/community.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.foneclaw.ai/community.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://www.foneclaw.ai/tw/community.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.foneclaw.ai/zh/community.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.foneclaw.ai/community.html"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/privacy.html</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/download.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.foneclaw.ai/download.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://www.foneclaw.ai/tw/download.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.foneclaw.ai/zh/download.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.foneclaw.ai/download.html"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/tw/download.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.foneclaw.ai/download.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.foneclaw.ai/zh/download.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://www.foneclaw.ai/tw/download.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.foneclaw.ai/download.html"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/zh/download.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.foneclaw.ai/download.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://www.foneclaw.ai/tw/download.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.foneclaw.ai/zh/download.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.foneclaw.ai/download.html"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/early-access.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/voice-control-android.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/send-texts-hands-free.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/automate-multi-step-tasks.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/voice-control-elderly.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/voice-commands-driving.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/smart-home-voice-control.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/voice-control-commuters.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/ai-phone-seniors.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/hands-free-cooking.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/emergency-voice-commands.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/productivity-automation.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/voice-control-visually-impaired.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.foneclaw.ai/voice-control-visually-impaired.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://www.foneclaw.ai/tw/voice-control-visually-impaired.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.foneclaw.ai/zh/voice-control-visually-impaired.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.foneclaw.ai/voice-control-visually-impaired.html"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/tw/voice-control-visually-impaired.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.foneclaw.ai/voice-control-visually-impaired.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.foneclaw.ai/zh/voice-control-visually-impaired.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://www.foneclaw.ai/tw/voice-control-visually-impaired.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.foneclaw.ai/voice-control-visually-impaired.html"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/zh/voice-control-visually-impaired.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.foneclaw.ai/voice-control-visually-impaired.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://www.foneclaw.ai/tw/voice-control-visually-impaired.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.foneclaw.ai/zh/voice-control-visually-impaired.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.foneclaw.ai/voice-control-visually-impaired.html"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/parenting-hands-free.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/voice-fitness.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/foneclaw-vs-siri.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/foneclaw-vs-google-assistant.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/foneclaw-vs-alexa.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/best-voice-control-apps-2026.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/ai-agents-replacing-assistants.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/gemini-vs-foneclaw.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.foneclaw.ai/gemini-vs-foneclaw.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://www.foneclaw.ai/tw/gemini-vs-foneclaw.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.foneclaw.ai/zh/gemini-vs-foneclaw.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.foneclaw.ai/gemini-vs-foneclaw.html"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/tw/gemini-vs-foneclaw.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.foneclaw.ai/gemini-vs-foneclaw.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.foneclaw.ai/zh/gemini-vs-foneclaw.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://www.foneclaw.ai/tw/gemini-vs-foneclaw.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.foneclaw.ai/gemini-vs-foneclaw.html"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/zh/gemini-vs-foneclaw.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.foneclaw.ai/gemini-vs-foneclaw.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://www.foneclaw.ai/tw/gemini-vs-foneclaw.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.foneclaw.ai/zh/gemini-vs-foneclaw.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.foneclaw.ai/gemini-vs-foneclaw.html"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/miclaw-vs-foneclaw.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/ai-agent-vs-traditional-apps.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/tasker-alternative-voice-automation.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.foneclaw.ai/tasker-alternative-voice-automation.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://www.foneclaw.ai/tw/tasker-alternative-voice-automation.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.foneclaw.ai/zh/tasker-alternative-voice-automation.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.foneclaw.ai/tasker-alternative-voice-automation.html"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/tw/tasker-alternative-voice-automation.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.foneclaw.ai/tasker-alternative-voice-automation.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.foneclaw.ai/zh/tasker-alternative-voice-automation.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://www.foneclaw.ai/tw/tasker-alternative-voice-automation.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.foneclaw.ai/tasker-alternative-voice-automation.html"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/zh/tasker-alternative-voice-automation.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.foneclaw.ai/tasker-alternative-voice-automation.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://www.foneclaw.ai/tw/tasker-alternative-voice-automation.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.foneclaw.ai/zh/tasker-alternative-voice-automation.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.foneclaw.ai/tasker-alternative-voice-automation.html"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/voice-assistant-privacy-security.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/voice-control-dirty-hands.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/top-10-ai-agents-2026.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/hermes-agent-vs-openclaw-vs-foneclaw.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/why-local-ai-agents-never-go-down.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/automate-instagram-with-voice.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/android-vs-ios-26-5-voice-control.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.foneclaw.ai/android-vs-ios-26-5-voice-control.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://www.foneclaw.ai/tw/android-vs-ios-26-5-voice-control.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.foneclaw.ai/zh/android-vs-ios-26-5-voice-control.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.foneclaw.ai/android-vs-ios-26-5-voice-control.html"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/tw/android-vs-ios-26-5-voice-control.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.foneclaw.ai/android-vs-ios-26-5-voice-control.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.foneclaw.ai/zh/android-vs-ios-26-5-voice-control.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://www.foneclaw.ai/tw/android-vs-ios-26-5-voice-control.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.foneclaw.ai/android-vs-ios-26-5-voice-control.html"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/zh/android-vs-ios-26-5-voice-control.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.foneclaw.ai/android-vs-ios-26-5-voice-control.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://www.foneclaw.ai/tw/android-vs-ios-26-5-voice-control.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.foneclaw.ai/zh/android-vs-ios-26-5-voice-control.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.foneclaw.ai/android-vs-ios-26-5-voice-control.html"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/control-samsung-smart-tv-voice.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/voice-control-wearables.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/small-businesses-use-ai-agents.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/cerebras-future-ai-hardware.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/trump-phone-mobile-ai.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/top-10-ai-agent-models-2026.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/ai-phone-war-2026.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/ai-terminal-war-agent-battlefield.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/xiaomi-ai-ecosystem-2026.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.foneclaw.ai/xiaomi-ai-ecosystem-2026.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://www.foneclaw.ai/tw/xiaomi-ai-ecosystem-2026.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.foneclaw.ai/zh/xiaomi-ai-ecosystem-2026.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.foneclaw.ai/xiaomi-ai-ecosystem-2026.html"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/tw/xiaomi-ai-ecosystem-2026.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.foneclaw.ai/xiaomi-ai-ecosystem-2026.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.foneclaw.ai/zh/xiaomi-ai-ecosystem-2026.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://www.foneclaw.ai/tw/xiaomi-ai-ecosystem-2026.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.foneclaw.ai/xiaomi-ai-ecosystem-2026.html"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/zh/xiaomi-ai-ecosystem-2026.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.foneclaw.ai/xiaomi-ai-ecosystem-2026.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://www.foneclaw.ai/tw/xiaomi-ai-ecosystem-2026.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.foneclaw.ai/zh/xiaomi-ai-ecosystem-2026.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.foneclaw.ai/xiaomi-ai-ecosystem-2026.html"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/author/dean.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/voice-control-whatsapp.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.foneclaw.ai/voice-control-whatsapp.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://www.foneclaw.ai/tw/voice-control-whatsapp.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.foneclaw.ai/zh/voice-control-whatsapp.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.foneclaw.ai/voice-control-whatsapp.html"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/tw/voice-control-whatsapp.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.foneclaw.ai/voice-control-whatsapp.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.foneclaw.ai/zh/voice-control-whatsapp.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://www.foneclaw.ai/tw/voice-control-whatsapp.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.foneclaw.ai/voice-control-whatsapp.html"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/zh/voice-control-whatsapp.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.foneclaw.ai/voice-control-whatsapp.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://www.foneclaw.ai/tw/voice-control-whatsapp.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.foneclaw.ai/zh/voice-control-whatsapp.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.foneclaw.ai/voice-control-whatsapp.html"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/voice-control-youtube.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/voice-control-tiktok.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/voice-control-facebook.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/voice-control-twitter.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/voice-control-telegram.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/voice-control-linkedin.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/voice-control-snapchat.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/voice-control-reddit.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/voice-control-discord.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/claude-ai-login-android.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/agentic-ai-phone-explained.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.foneclaw.ai/agentic-ai-phone-explained.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://www.foneclaw.ai/tw/agentic-ai-phone-explained.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.foneclaw.ai/zh/agentic-ai-phone-explained.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.foneclaw.ai/agentic-ai-phone-explained.html"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/tw/agentic-ai-phone-explained.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.foneclaw.ai/agentic-ai-phone-explained.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.foneclaw.ai/zh/agentic-ai-phone-explained.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://www.foneclaw.ai/tw/agentic-ai-phone-explained.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.foneclaw.ai/agentic-ai-phone-explained.html"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/zh/agentic-ai-phone-explained.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.foneclaw.ai/agentic-ai-phone-explained.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://www.foneclaw.ai/tw/agentic-ai-phone-explained.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.foneclaw.ai/zh/agentic-ai-phone-explained.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.foneclaw.ai/agentic-ai-phone-explained.html"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/perplexity-ai-vs-google-search.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/gemini-intelligence-complete-guide.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/gemini-intelligence-features.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/ai-agent-phone-control.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/xiaomi-miclaw-explained.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/huawei-phone-agent.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/gemini-intelligence-vs-siri.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.foneclaw.ai/gemini-intelligence-vs-siri.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://www.foneclaw.ai/tw/gemini-intelligence-vs-siri.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.foneclaw.ai/zh/gemini-intelligence-vs-siri.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.foneclaw.ai/gemini-intelligence-vs-siri.html"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/tw/gemini-intelligence-vs-siri.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.foneclaw.ai/gemini-intelligence-vs-siri.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.foneclaw.ai/zh/gemini-intelligence-vs-siri.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://www.foneclaw.ai/tw/gemini-intelligence-vs-siri.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.foneclaw.ai/gemini-intelligence-vs-siri.html"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/zh/gemini-intelligence-vs-siri.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.foneclaw.ai/gemini-intelligence-vs-siri.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://www.foneclaw.ai/tw/gemini-intelligence-vs-siri.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.foneclaw.ai/zh/gemini-intelligence-vs-siri.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.foneclaw.ai/gemini-intelligence-vs-siri.html"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/miclaw-vs-openclaw.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/gemini-intelligence-productivity.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/gemini-intelligence-voice-control.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/how-to-install-miclaw.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/voice-control-pinterest.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/xiaomi-lobster-phone-ai-features.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/ai-notification-management.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/gemini-intelligence-form-filling.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/gemini-intelligence-widgets.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/gemini-intelligence-supported-devices.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.foneclaw.ai/gemini-intelligence-supported-devices.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://www.foneclaw.ai/tw/gemini-intelligence-supported-devices.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.foneclaw.ai/zh/gemini-intelligence-supported-devices.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.foneclaw.ai/gemini-intelligence-supported-devices.html"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/tw/gemini-intelligence-supported-devices.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.foneclaw.ai/gemini-intelligence-supported-devices.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.foneclaw.ai/zh/gemini-intelligence-supported-devices.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://www.foneclaw.ai/tw/gemini-intelligence-supported-devices.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.foneclaw.ai/gemini-intelligence-supported-devices.html"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/zh/gemini-intelligence-supported-devices.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.foneclaw.ai/gemini-intelligence-supported-devices.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://www.foneclaw.ai/tw/gemini-intelligence-supported-devices.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.foneclaw.ai/zh/gemini-intelligence-supported-devices.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.foneclaw.ai/gemini-intelligence-supported-devices.html"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/tencent-phone-agent-cost.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/xiaomi-phone-agent-summit.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/foneclaw-vs-likeclaw.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/foneclaw-vs-apple-intelligence.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.foneclaw.ai/foneclaw-vs-apple-intelligence.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://www.foneclaw.ai/tw/foneclaw-vs-apple-intelligence.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.foneclaw.ai/zh/foneclaw-vs-apple-intelligence.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.foneclaw.ai/foneclaw-vs-apple-intelligence.html"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/tw/foneclaw-vs-apple-intelligence.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.foneclaw.ai/foneclaw-vs-apple-intelligence.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.foneclaw.ai/zh/foneclaw-vs-apple-intelligence.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://www.foneclaw.ai/tw/foneclaw-vs-apple-intelligence.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.foneclaw.ai/foneclaw-vs-apple-intelligence.html"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/zh/foneclaw-vs-apple-intelligence.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.foneclaw.ai/foneclaw-vs-apple-intelligence.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://www.foneclaw.ai/tw/foneclaw-vs-apple-intelligence.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.foneclaw.ai/zh/foneclaw-vs-apple-intelligence.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.foneclaw.ai/foneclaw-vs-apple-intelligence.html"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/apple-intelligence-accessibility-foneclaw.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/foneclaw-vs-samsung-galaxy-ai.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/ai-phone-agent-harness.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/mediatek-dimensity-phone-agent.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/ios-27-siri-ai-agent.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/ios-27-siri-gemini-integration.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/copilot-redesign-5-ai-trends-foneclaw.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/ai-agent-spending-agentic-phone.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/gemini-intelligence-pixel-9-excluded.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/samsung-galaxy-s26-ai-features-s25.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/foneclaw-vs-openally.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/foneclaw-vs-minimax.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/foneclaw-vs-all-in-one-ai-agent.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/foneclaw-vs-nebula-ai.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/skyclaw-vs-foneclaw.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/foneclaw-vs-adobe-firefly.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/cloud-vs-local-ai-agent-2026.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/microsoft-ai-super-app-vs-local-agent.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/ai-agent-from-lab-to-pocket.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/hy-memory-vs-local-agent-memory.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/openclaw-security-risks-phone-agent-safer.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/gemini-spark-vs-foneclaw.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/wwdc-2026-ai-do-over-phone-agent.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.foneclaw.ai/wwdc-2026-ai-do-over-phone-agent.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://www.foneclaw.ai/tw/wwdc-2026-ai-do-over-phone-agent.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.foneclaw.ai/zh/wwdc-2026-ai-do-over-phone-agent.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.foneclaw.ai/wwdc-2026-ai-do-over-phone-agent.html"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/tw/wwdc-2026-ai-do-over-phone-agent.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.foneclaw.ai/wwdc-2026-ai-do-over-phone-agent.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.foneclaw.ai/zh/wwdc-2026-ai-do-over-phone-agent.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://www.foneclaw.ai/tw/wwdc-2026-ai-do-over-phone-agent.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.foneclaw.ai/wwdc-2026-ai-do-over-phone-agent.html"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/zh/wwdc-2026-ai-do-over-phone-agent.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.foneclaw.ai/wwdc-2026-ai-do-over-phone-agent.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://www.foneclaw.ai/tw/wwdc-2026-ai-do-over-phone-agent.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.foneclaw.ai/zh/wwdc-2026-ai-do-over-phone-agent.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.foneclaw.ai/wwdc-2026-ai-do-over-phone-agent.html"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/personal-context-ai-agent-phone.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/mcp-invisible-voice-control-phone-agent.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/apple-local-ai-validates-phone-agent.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/workbuddy-vs-foneclaw.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/microsoft-build-2026-ai-agents.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/nvidia-ai-pc-vs-phone-ai-agent.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/apple-ai-glasses-vs-phone-agent.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/meta-ray-bans-ai-vs-foneclaw.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/ai-agents-rewriting-brand-discovery.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/local-ai-agent-trust-vs-cloud.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/enterprise-ai-agent-security-local.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/ai-agent-token-cost-local-saving.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/app-intents-apps-machine-callable-ai-agents.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/apple-intelligence-pro-subscription-what-to-expect.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/microsoft-scout-openclaw-ai-agent.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/os-agent-three-layer-foundation-2026.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/ai-chip-custom-race-2026.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/self-improving-ai-agents-phone.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/eval-driven-phone-agent-measurement.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/closed-loop-ai-phone-agent-human-in-loop.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/on-device-llm-optimization-2026.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/os-agent-vs-app-traffic-2026.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/openai-no-app-phone-voice-hack-night.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/ai-agent-replaces-app-store-developers.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/voice-first-phone-2026-landscape.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/xiaomi-miclaw-user-review.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/1000-tps-llms-phone-agent-era.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/jd-tencent-ai-agent-shopping-phone-agent.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/wechat-ai-agent-commandable-super-app.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/claude-code-multi-agent-system.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/tw/comp_vs_miclaw.html</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.foneclaw.ai/zh/comp_vs_miclaw.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://www.foneclaw.ai/tw/comp_vs_miclaw.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href=""/>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.foneclaw.ai/zh/comp_vs_miclaw.html</loc>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://www.foneclaw.ai/tw/comp_vs_miclaw.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.foneclaw.ai/zh/comp_vs_miclaw.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href=""/>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>

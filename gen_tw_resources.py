@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-"""Generate the Chinese resources page from clean source data.
+"""Generate the Traditional Chinese (Taiwan) resources page from clean source data.
 
-Avoid manual patching of zh/resources.html: repeated text replacements can pollute
+Avoid manual patching of tw/resources.html: repeated text replacements can pollute
 article cards with duplicate <p> descriptions.
 """
 
@@ -28,7 +28,7 @@ FEATURED_ARTICLES = [
 
 
 def generate():
-    article_cards = _build_article_cards(FEATURED_ARTICLES, lang='zh')
+    article_cards = _build_article_cards(FEATURED_ARTICLES, lang='tw')
     extra_css = '''<style>
 :root{--bg:#070914;--bg2:#0b1020;--panel:#101624;--line:rgba(255,255,255,.09);--line2:rgba(0,212,255,.18);--text:#f7f8fb;--muted:#9aa4b2;--cyan:#00d4ff}
 .resources-hero{padding:86px 20px 60px;text-align:center;background:linear-gradient(135deg,#080c18 0%,#0b1a3a 50%,#080c18 100%)}
@@ -54,14 +54,14 @@ def generate():
 </style>'''
     body = f'''
 <section class="resources-hero">
-  <h1>资源中心</h1>
-  <p>这里整理了 FoneClaw 中文指南、产品对比和 Android 语音控制深度分析。</p>
+  <h1>資源中心</h1>
+  <p>這裡整理了 FoneClaw 繁體中文指南、產品比較和 Android 語音控制深度分析。</p>
 </section>
 <section class="resources-section">
   <div class="wrap">
     <div class="resources-title">
-      <h2>精选文章</h2>
-      <p>从使用指南、产品对比到行业观察，帮你更快理解 FoneClaw 和手机龙虾生态。</p>
+      <h2>精選文章</h2>
+      <p>從使用指南、產品比較到產業觀察，幫你更快理解 FoneClaw 和手機龍蝦生態。</p>
     </div>
     <div class="articles-grid">
       {article_cards}
@@ -69,21 +69,21 @@ def generate():
   </div>
 </section>'''
     return full_page(
-        'FoneClaw 资源中心 - Android 语音控制指南与深度分析',
-        'FoneClaw 中文资源中心：Android 语音控制指南、产品对比和手机龙虾深度分析。',
+        'FoneClaw 資源中心 - Android 語音控制指南與深度分析',
+        'FoneClaw 繁體中文資源中心：Android 語音控制指南、產品比較和手機龍蝦深度分析。',
         '/resources.html',
         3,
         body,
         extra_css=extra_css,
         og_image=f'{BASE}/images/og-index.jpg',
-        lang='zh',
-        hreflang_tags=generate_hreflang_tags('/resources.html', 'zh'),
+        lang='tw',
+        hreflang_tags=generate_hreflang_tags('/resources.html', 'tw'),
     )
 
 
 if __name__ == '__main__':
     from pathlib import Path
-    out = Path('zh/resources.html')
+    out = Path('tw/resources.html')
     out.parent.mkdir(parents=True, exist_ok=True)
     out.write_text(generate(), encoding='utf-8')
     print(f'wrote {out}')

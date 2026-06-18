@@ -15,7 +15,17 @@ def social_share(share_text='', lang='en'):
     js_var = "var __customShareText='" + safe_text + "';" if safe_text else "var __customShareText='';"
     
     # Localized button titles and toast text
-    if lang == 'zh':
+    if lang == 'tw':
+        labels = {
+            'x': '分享到 X',
+            'telegram': '分享到 Telegram',
+            'linkedin': '分享到 LinkedIn',
+            'facebook': '分享到 Facebook',
+            'reddit': '分享到 Reddit',
+            'copy': '複製連結',
+            'toast': '連結已複製！',
+        }
+    elif lang == 'zh':
         labels = {
             'x': '分享到 X',
             'telegram': '分享到 Telegram',

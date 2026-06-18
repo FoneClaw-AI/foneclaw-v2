@@ -41,7 +41,15 @@
     var opts = {};
     Object.keys(DEFAULTS).forEach(function(key){ opts[key] = DEFAULTS[key]; });
     var lang = (document.documentElement && document.documentElement.lang || '').toLowerCase();
-    if (lang.indexOf('zh') === 0) {
+    if (lang === 'tw' || lang.indexOf('zh-tw') === 0) {
+      opts.loadingLabel = '正在檢查 APK 可用性...';
+      opts.loadingMeta = '正在取得最新 Android 版本。';
+      opts.readyLabel = '下載 APK';
+      opts.emptyLabel = 'APK 即將開放';
+      opts.emptyMeta = 'Android APK 暫時尚未開放下載，請稍後再試。';
+      opts.errorLabel = 'APK 暫時無法下載';
+      opts.errorMeta = '暫時無法檢查最新 APK，請稍後再試。';
+    } else if (lang.indexOf('zh') === 0) {
       opts.loadingLabel = '正在检查 APK 可用性...';
       opts.loadingMeta = '正在获取最新 Android 版本。';
       opts.readyLabel = '下载 APK';
