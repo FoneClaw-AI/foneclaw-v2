@@ -15,6 +15,45 @@ foneclaw-deploy/
 
 # 临时文件
 __qa_*.html
+tmp_*.py
+tmp_*.json
+tmp_*.out
+
+# QA 报告和脚本（临时产物）
+*_strict_qa.py
+*_strict_qa_report.json
+*_codex_*_qa*.py
+*_codex_*_qa*.json
+*_mechanical_qa.py
+*_qa_check.py
+*_manual_*.json
+*_manual_*.out
+de_strict_qa_report.json
+ar_codex_strict_qa_report.json
+ar_codex_deep_qa2.json
+
+# 临时修复脚本
+fix_*.py
+make_*.py
+tmp_*.py
+
+# 文章批处理数据（大量 JSON，不影响 GEO）
+batch*_data.json
+article_keywords_data.py
+*_batch_*.py
+*_article_rewrites.py
+*_merge_articles.py
+*_extra_sections.py
+
+# 图片压缩和处理脚本
+compress_images.py
+image_manifest.json
+
+# SEO/分析工具
+seo_writing_spec.md
+*_analysis*.py
+*_report*.py
+*_check*.py
 
 # OS
 .DS_Store
@@ -32,3 +71,7 @@ upload_*/
 # 原始素材
 *_raw.txt
 *_raw.py
+
+# 系统监控脚本（非产品内容）
+*.sh
+!scripts/*.sh
