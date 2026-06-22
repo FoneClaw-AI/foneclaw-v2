@@ -1,3 +1,5 @@
+# === GEO 公开仓库 .gitignore ===
+
 # 生成的 HTML（由 build_multi.py 产出，不入 git）
 *.html
 
@@ -75,3 +77,53 @@ upload_*/
 # 系统监控脚本（非产品内容）
 *.sh
 !scripts/*.sh
+
+# === P0: 内部目录（GEO 无价值，不公开） ===
+archive/
+bak_*/
+gemini_outputs/
+prompts/
+keyword/
+twitter/
+scripts/
+
+# === 内部文档（构建/部署/项目管理，非产品内容） ===
+CATEGORY_RULES.md
+PROJECT_SUMMARY.md
+TRAFFIC_GROWTH_PLAN.md
+ARTICLE_INDEX.md.deprecated
+ARTICLE_TODO.md
+DEPLOY.md
+KEYWORD_ANALYSIS.md
+LAUNCH_CHECKLIST.md
+SEO_CHECKLIST.md
+WEBSITE_RULES.md
+
+# === 内部构建脚本（根目录 .py 文件） ===
+# 生成器脚本
+gen_*.py
+batch*.py
+new_article*.py
+find_related_articles.py
+generate_seo*.py
+generate_seo_v2.py
+translate_zh_articles.py
+internal_links_data.py
+share_text_data.py
+rebuild_cache.py
+seo_full_check.py
+run_*.py
+build_v2.py
+standalone_articles_data.json
+
+# Google Apps Script
+gas-code.gs
+google-apps-script.js
+
+# Hub 页面草稿
+hub-*.md
+topic-cluster-plan.md
+
+# 文章翻译中间文件
+translations.json
+articles.json
