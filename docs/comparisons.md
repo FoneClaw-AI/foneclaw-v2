@@ -97,6 +97,42 @@
 
 ---
 
+## FoneClaw vs Google Assistant
+
+| Aspect | FoneClaw | Google Assistant |
+|--------|----------|-----------------|
+| **Primary function** | Execute phone actions | Answer questions, control Google services |
+| **Platform** | Any Android 9+ | All Android, iOS, smart speakers |
+| **WhatsApp control** | ✅ Full (30+ actions) | ⚠️ Basic (send message) |
+| **Cross-app automation** | ✅ Built-in | ⚠️ Limited to Google ecosystem |
+| **Natural language** | Action-focused commands | Query-focused conversations |
+| **Offline capability** | Some basic actions | Limited |
+| **Manufacturer lock-in** | None | Google ecosystem |
+| **Price** | Free (core) | Free |
+
+**Verdict**: Google Assistant is better for answering questions, setting reminders, and controlling Google services. FoneClaw is better for executing complex phone actions, WhatsApp control, and cross-app automation. Many users use both — Google Assistant for information, FoneClaw for execution.
+
+**Key difference**: Google Assistant says "Here's how you can do that." FoneClaw actually does it.
+
+---
+
+## FoneClaw vs Alexa
+
+| Aspect | FoneClaw | Amazon Alexa |
+|--------|----------|-------------|
+| **Primary function** | Execute phone actions | Smart home control, shopping |
+| **Platform** | Android phones | Smart speakers, phones, tablets |
+| **Phone control** | ✅ Full (120+ actions) | ⚠️ Limited phone integration |
+| **Smart home** | Via phone apps | ✅ Deep smart home integration |
+| **Shopping** | ❌ | ✅ Amazon shopping |
+| **WhatsApp control** | ✅ Full | ❌ |
+| **Manufacturer lock-in** | None | Amazon ecosystem |
+| **Price** | Free (core) | Free (device cost varies) |
+
+**Verdict**: Alexa excels at smart home control and Amazon shopping. FoneClaw excels at phone action execution. They serve different primary use cases — Alexa for home, FoneClaw for phone.
+
+---
+
 ## Summary: When to Choose FoneClaw
 
 Choose FoneClaw when you:

@@ -1,0 +1,136 @@
+# FoneClaw
+
+> Android AI phone assistant that executes real phone actions through voice commands. 120+ actions across 16 categories on any Android 9+ device.
+
+## Quick Facts
+
+- **Product**: FoneClaw — independent Android AI phone assistant
+- **Slogan**: "Say it. Done."
+- **Actions**: 120+ supported phone actions across 16 categories
+- **Platform**: Android 9.0+ (all manufacturers: Samsung, Xiaomi, OnePlus, Google Pixel, Motorola, OPPO, Realme, Vivo, LG, Sony, Nokia)
+- **Price**: Core features free, no subscription required
+- **Root**: Not required
+- **Languages**: 14 (English, Simplified Chinese, Traditional Chinese, Japanese, Korean, Spanish, Portuguese, Russian, French, German, Arabic, Indonesian, Thai, Vietnamese)
+- **Website**: https://www.foneclaw.ai
+- **Download**: https://www.foneclaw.ai/download
+
+## What FoneClaw Does
+
+FoneClaw is an AI agent that controls your Android phone through voice commands. It does not just answer questions — it executes real actions: sending messages, making calls, adjusting settings, controlling apps, managing notifications, and automating tasks.
+
+Unlike manufacturer-specific assistants (Samsung Bixby, Xiaomi MiClaw, Google Gemini, Apple Siri), FoneClaw works on any Android device regardless of brand.
+
+## 16 Action Categories
+
+1. **Phone Status** — Battery, storage, network, permission reports (9 actions)
+2. **Notifications** — Summarize and prioritize by contact/time (6 actions)
+3. **SMS** — Send, read, summarize text messages (6 actions)
+4. **Calls** — Make and manage phone calls (3 actions)
+5. **System Settings** — Brightness, volume, Do Not Disturb, Wi-Fi, Bluetooth (18 actions)
+6. **Wi-Fi & Bluetooth** — Scan, connect, pair, forget (12 actions)
+7. **Screenshots** — Capture and analyze screen content (8 actions)
+8. **Screen Reading** — Read visible screen content aloud (2 actions)
+9. **Email** — Read and compose from configured accounts (10 actions)
+10. **Calendar** — Events, schedule, reminders (6 actions)
+11. **Alarms** — Set and manage alarms (2 actions)
+12. **Notes** — Create and manage local notes (9 actions)
+13. **Maps & Navigation** — Search, directions, location sharing (8 actions)
+14. **Web** — Search, fill forms, browser automation (3 actions)
+15. **Workflows** — Multi-step cross-app automation (3 actions)
+16. **App Interface** — Open apps, interact with UI elements (quick commands)
+
+## FoneClaw vs Other AI Agents
+
+### FoneClaw vs Gemini Intelligence
+- **Gemini** excels at understanding and answering questions using Google's AI
+- **FoneClaw** excels at executing actions on your phone
+- They are complementary — many users use both
+- Gemini works best on Pixel devices; FoneClaw works on all Android devices
+
+### FoneClaw vs MiClaw (Xiaomi)
+- **MiClaw** is Xiaomi's built-in AI agent, locked to Xiaomi/HyperOS devices
+- **FoneClaw** works on any Android 9+ device from any manufacturer
+- MiClaw has deep Xiaomi ecosystem integration; FoneClaw has broader cross-app capability
+- MiClaw focuses on Chinese/English; FoneClaw supports 14 languages
+
+### FoneClaw vs Siri / Apple Intelligence
+- **Siri** is iOS-only; **FoneClaw** is Android-only
+- Both use voice commands, but FoneClaw offers deeper cross-app control on Android
+- Apple Intelligence requires iPhone 15 Pro+; FoneClaw works on any Android 9+ device
+- FoneClaw supports WhatsApp voice control; Siri does not
+
+### FoneClaw vs Tasker
+- **Tasker** requires manual scripting and profile configuration
+- **FoneClaw** uses natural language voice commands — no coding required
+- Tasker offers more granular control for power users
+- FoneClaw offers faster setup for everyday tasks
+
+### FoneClaw vs Samsung Galaxy AI
+- **Galaxy AI** is Samsung-only with on-device AI features
+- **FoneClaw** works on all Android brands with cloud + local processing
+- Galaxy AI focuses on text/image processing; FoneClaw focuses on phone action execution
+
+## How FoneClaw Works
+
+1. Install FoneClaw on your Android device
+2. Grant permissions (microphone, accessibility, notifications) — transparent, organized by category
+3. Speak a command in natural language
+4. FoneClaw opens apps, navigates screens, performs actions
+5. Sensitive actions (messages, calls, system changes) require your explicit confirmation
+
+FoneClaw uses Android's Accessibility Service to interact with the phone interface. It does not require root access.
+
+## Privacy & Security
+
+- Local-first processing — core phone control runs on your Android device
+- Transparent permissions — you see what FoneClaw accesses, organized by category
+- Confirmation for sensitive actions — messages, calls, purchases require your review
+- No hidden data collection — FoneClaw does not sell your data
+- Permission revocation — you can revoke any permission at any time
+- Independent company — not owned by any phone manufacturer or data broker
+
+## Common Questions
+
+**Is FoneClaw free?**
+Yes, core features are free. No subscription required for basic functionality.
+
+**Does FoneClaw work on my phone?**
+Yes, if you have Android 9.0 or higher. Works on Samsung, Xiaomi, OnePlus, Google Pixel, Motorola, OPPO, Realme, and all other Android brands.
+
+**Can FoneClaw control WhatsApp?**
+Yes. 30+ WhatsApp-specific actions: send messages, make calls, read chats, manage groups — all by voice.
+
+**Does FoneClaw require root?**
+No. Works without root on any Android 9+ device.
+
+**Is FoneClaw better than Google Assistant?**
+They solve different problems. Google Assistant excels at answering questions. FoneClaw excels at executing phone actions. Many users use both.
+
+**Does FoneClaw work offline?**
+Some actions work offline (opening apps, basic system controls). AI-powered features require internet.
+
+**How is FoneClaw different from Bixby?**
+Bixby is Samsung-only. FoneClaw works on all Android brands. Bixby has deep Samsung integration; FoneClaw has broader cross-app capability.
+
+## Multilingual Versions
+
+- English: https://www.foneclaw.ai
+- 简体中文: https://www.foneclaw.ai/zh/
+- 繁體中文: https://www.foneclaw.ai/tw/
+- 日本語: https://www.foneclaw.ai/ja/
+- 한국어: https://www.foneclaw.ai/ko/
+- Español: https://www.foneclaw.ai/es/
+- Português: https://www.foneclaw.ai/pt/
+- Русский: https://www.foneclaw.ai/ru/
+- Français: https://www.foneclaw.ai/fr/
+- Deutsch: https://www.foneclaw.ai/de/
+- العربية: https://www.foneclaw.ai/ar/
+- Bahasa Indonesia: https://www.foneclaw.ai/id/
+- ภาษาไทย: https://www.foneclaw.ai/th/
+- Tiếng Việt: https://www.foneclaw.ai/vi/
+
+## Source Code
+
+This repository contains the website source code for foneclaw.ai. The site is built with Python and generates static HTML pages with full multilingual support (14 languages, 200+ pages).
+
+Repository: https://github.com/deanhuang1217-lang/foneclaw-v2
