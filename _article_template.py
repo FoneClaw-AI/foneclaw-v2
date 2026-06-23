@@ -113,32 +113,6 @@ def _parse_faq(body):
         faqs.append((q, ' '.join(a_lines)))
     return faqs
 
-def _article_hreflang_tags(art_id, english_path):
-    """Generate complete cross-language hreflang tags for English article pages."""
-    en_slug = 'miclaw-vs-foneclaw' if english_path == '/miclaw-vs-foneclaw' else art_id
-    localized_slug = 'comp_vs_miclaw' if english_path == '/miclaw-vs-foneclaw' else art_id
-    langs = [
-        ('en', '', en_slug),
-        ('zh', 'zh', localized_slug),
-        ('zh-TW', 'tw', localized_slug),
-        ('ja', 'ja', localized_slug),
-        ('ko', 'ko', localized_slug),
-        ('es', 'es', localized_slug),
-        ('pt', 'pt', localized_slug),
-        ('ru', 'ru', localized_slug),
-        ('fr', 'fr', localized_slug),
-        ('de', 'de', localized_slug),
-        ('ar', 'ar', localized_slug),
-        ('id', 'id', localized_slug),
-        ('th', 'th', localized_slug),
-        ('vi', 'vi', localized_slug),
-    ]
-    out = []
-    for hreflang, directory, file_slug in langs:
-        path = f'{directory}/{file_slug}.html' if directory else f'{file_slug}.html'
-        out.append(f'<link rel="alternate" hreflang="{hreflang}" href="https://www.foneclaw.ai/{path}">')
-    out.append(f'<link rel="alternate" hreflang="x-default" href="https://www.foneclaw.ai/{en_slug}.html">')
-    return '\n'.join(out)
 count = 0
 for _item in articles_data:
     if len(_item) >= 7:
@@ -148,14 +122,8 @@ for _item in articles_data:
         share_text = ''
     url = URL_MAP[art_id]
     html = []
-    html.append(head(
-        f'{title} - FoneClaw',
-        desc,
-        url + '.html',
-        og_image=f'https://www.foneclaw.ai/images/articles/{art_id}.jpg',
-        hreflang_tags=_article_hreflang_tags(art_id, url)
-    ))
-    html.append(nav(3, canonical_path=url + '.html'))
+    html.append(head(f'{title} - FoneClaw', desc, url + '.html', og_image=f'https://www.foneclaw.ai/images/articles/{art_id}.jpg'))
+    html.append(nav(3))
 
     # Reading progress bar
     html.append('<div class="reading-progress" id="readProgress"></div>')

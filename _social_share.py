@@ -15,47 +15,7 @@ def social_share(share_text='', lang='en'):
     js_var = "var __customShareText='" + safe_text + "';" if safe_text else "var __customShareText='';"
     
     # Localized button titles and toast text
-    if lang == 'ja':
-        labels = {
-            'x': 'Xで共有',
-            'telegram': 'Telegramで共有',
-            'linkedin': 'LinkedInで共有',
-            'facebook': 'Facebookで共有',
-            'reddit': 'Redditで共有',
-            'copy': 'リンクをコピー',
-            'toast': 'リンクをコピーしました！',
-        }
-    elif lang == 'pt':
-        labels = {
-            'x': 'Compartilhar no X',
-            'telegram': 'Compartilhar no Telegram',
-            'linkedin': 'Compartilhar no LinkedIn',
-            'facebook': 'Compartilhar no Facebook',
-            'reddit': 'Compartilhar no Reddit',
-            'copy': 'Copiar link',
-            'toast': 'Link copiado!',
-        }
-    elif lang == 'es':
-        labels = {
-            'x': 'Compartir en X',
-            'telegram': 'Compartir en Telegram',
-            'linkedin': 'Compartir en LinkedIn',
-            'facebook': 'Compartir en Facebook',
-            'reddit': 'Compartir en Reddit',
-            'copy': 'Copiar enlace',
-            'toast': '¡Enlace copiado!',
-        }
-    elif lang == 'ko':
-        labels = {
-            'x': 'X에 공유',
-            'telegram': 'Telegram에 공유',
-            'linkedin': 'LinkedIn에 공유',
-            'facebook': 'Facebook에 공유',
-            'reddit': 'Reddit에 공유',
-            'copy': '링크 복사',
-            'toast': '링크가 복사되었습니다!',
-        }
-    elif lang == 'tw':
+    if lang == 'tw':
         labels = {
             'x': '分享到 X',
             'telegram': '分享到 Telegram',
@@ -74,60 +34,6 @@ def social_share(share_text='', lang='en'):
             'reddit': '分享到 Reddit',
             'copy': '复制链接',
             'toast': '链接已复制！',
-        }
-    elif lang == 'ru':
-        labels = {
-            'x': 'Поделиться в X',
-            'telegram': 'Поделиться в Telegram',
-            'linkedin': 'Поделиться в LinkedIn',
-            'facebook': 'Поделиться в Facebook',
-            'reddit': 'Поделиться в Reddit',
-            'copy': 'Копировать ссылку',
-            'toast': 'Ссылка скопирована!',
-        }
-    elif lang == 'fr':
-        labels = {
-            'x': 'Partager sur X',
-            'telegram': 'Partager sur Telegram',
-            'linkedin': 'Partager sur LinkedIn',
-            'facebook': 'Partager sur Facebook',
-            'reddit': 'Partager sur Reddit',
-            'copy': 'Copier le lien',
-            'toast': 'Lien copié !',
-        }
-    elif lang == 'de':
-        labels = {
-            'x': 'Auf X teilen',
-            'telegram': 'Auf Telegram teilen',
-            'linkedin': 'Auf LinkedIn teilen',
-            'facebook': 'Auf Facebook teilen',
-            'reddit': 'Auf Reddit teilen',
-            'copy': 'Link kopieren',
-            'toast': 'Link kopiert!',
-        }
-    elif lang == 'vi':
-        labels = {'x': 'Chia sẻ lên X', 'telegram': 'Chia sẻ lên Telegram', 'linkedin': 'Chia sẻ lên LinkedIn', 'facebook': 'Chia sẻ lên Facebook', 'reddit': 'Chia sẻ lên Reddit', 'copy': 'Sao chép liên kết', 'toast': 'Đã sao chép liên kết!'}
-    elif lang == 'th':
-        labels = {'x':'แชร์บน X','telegram':'แชร์บน Telegram','linkedin':'แชร์บน LinkedIn','facebook':'แชร์บน Facebook','reddit':'แชร์บน Reddit','copy':'คัดลอกลิงก์','toast':'คัดลอกลิงก์แล้ว'}
-    elif lang == 'ar':
-        labels = {
-            'x': 'مشاركة على X',
-            'telegram': 'مشاركة على Telegram',
-            'linkedin': 'مشاركة على LinkedIn',
-            'facebook': 'مشاركة على Facebook',
-            'reddit': 'مشاركة على Reddit',
-            'copy': 'نسخ الرابط',
-            'toast': 'تم نسخ الرابط!',
-        }
-    elif lang == 'id':
-        labels = {
-            'x': 'Bagikan di X',
-            'telegram': 'Bagikan di Telegram',
-            'linkedin': 'Bagikan di LinkedIn',
-            'facebook': 'Bagikan di Facebook',
-            'reddit': 'Bagikan di Reddit',
-            'copy': 'Salin tautan',
-            'toast': 'Tautan disalin!',
         }
     else:
         labels = {

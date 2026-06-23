@@ -5,17 +5,6 @@ LANGUAGES = {
     'en': {'name': 'English', 'native': 'English', 'dir': ''},
     'zh': {'name': 'Chinese (Simplified)', 'native': '简体中文', 'dir': 'zh'},
     'tw': {'name': 'Traditional Chinese (Taiwan)', 'native': '繁體中文', 'dir': 'tw', 'hreflang': 'zh-TW'},
-    'ja': {'name': 'Japanese', 'native': '日本語', 'dir': 'ja', 'hreflang': 'ja'},
-    'ko': {'name': 'Korean', 'native': '한국어', 'dir': 'ko', 'hreflang': 'ko'},
-    'es': {'name': 'Spanish', 'native': 'Español', 'dir': 'es', 'hreflang': 'es'},
-    'pt': {'name': 'Portuguese', 'native': 'Português', 'dir': 'pt', 'hreflang': 'pt'},
-    'ru': {'name': 'Russian', 'native': 'Русский', 'dir': 'ru', 'hreflang': 'ru'},
-    'fr': {'name': 'French', 'native': 'Français', 'dir': 'fr', 'hreflang': 'fr'},
-    'de': {'name': 'German', 'native': 'Deutsch', 'dir': 'de', 'hreflang': 'de'},
-    'ar': {'name': 'Arabic', 'native': 'العربية', 'dir': 'ar', 'hreflang': 'ar'},
-    'th': {'name': 'Thai', 'native': 'ไทย', 'dir': 'th', 'hreflang': 'th'},
-    'vi': {'name': 'Vietnamese', 'native': 'Tiếng Việt', 'dir': 'vi', 'hreflang': 'vi'},
-    'id': {'name': 'Indonesian', 'native': 'Bahasa Indonesia', 'dir': 'id', 'hreflang': 'id'},
 }
 
 # Translation dictionaries — keyed by page
@@ -32,7 +21,7 @@ TRANSLATIONS = {
         },
         'meta_desc': {
             'en': 'FoneClaw is the Android AI agent that controls your phone by voice. 120+ actions across 16 categories: device health, messages, settings, screenshots, navigation, and more.',
-            'zh': 'FoneClaw 是能帮你实际操作 Android 手机的 AI 助手，支持 16 大类、120+ 项手机操作，包括设备状态、消息整理、系统设置、截图理解、地图导航、网页任务和常用自动化；核心功能当前可免费使用，适合想用语音减少重复操作的用户。',
+            'zh': 'FoneClaw 是通过语音控制手机的 Android AI 智能助手。16 大类 120+ 操作：设备状态、消息、设置、截图、导航等。',
         },
         'hero_slogan': {
             'en': 'Say it. Done.',
@@ -134,7 +123,7 @@ TRANSLATIONS = {
         },
         'meta_desc': {
             'en': 'Explore 120+ FoneClaw features across 16 categories: phone status, messages, system settings, screenshots, email, calendar, maps, and web tasks for Android. Free to use.',
-            'zh': '全面了解 FoneClaw 的 16 大类、120+ 项 Android 手机操作：手机状态、通知与短信摘要、系统设置、截图照片、邮箱日历、地图导航和网页任务，并查看每类功能的所需权限、确认机制、适用场景、当前能力边界和敏感操作处理方式说明。',
+            'zh': '探索 FoneClaw 16 大类 120+ 功能：手机状态、消息、系统设置、截图、邮箱、日历、地图和 Web 任务。免费使用。',
         },
         'hero_title': {
             'en': '120+ phone actions, one voice command.',
@@ -287,7 +276,7 @@ TRANSLATIONS = {
         },
         'meta_desc': {
             'en': 'Join the FoneClaw community on Telegram, Discord, X, and more. Get updates, share feedback, and connect with other users.',
-            'zh': '加入 FoneClaw 社区，通过 Telegram、Discord、X 等渠道获取 Android AI 手机助手的产品更新、下载通知、使用反馈和真实场景讨论，和其他用户一起交流手机自动化经验、权限设置建议、新功能想法、日常使用问题和测试反馈。',
+            'zh': '加入 FoneClaw 社区：Telegram、Discord、X 等。获取更新、分享反馈、与其他用户交流。',
         },
         'hero_title': {
             'en': 'Join the FoneClaw Community',
@@ -309,7 +298,7 @@ TRANSLATIONS = {
         },
         'meta_desc': {
             'en': 'Download FoneClaw, the AI voice agent for Android. Control your phone entirely by voice — calls, texts, apps, and smart home. Free core features.',
-            'zh': '下载 FoneClaw Android APK，体验能实际操作手机的 AI 助手。支持语音控制、系统设置、消息整理、截图理解、地图导航和常用自动化等核心功能；当前核心功能可免费使用，敏感操作会保留确认步骤，适合先试用再决定是否长期使用和验证。',
+            'zh': '下载 FoneClaw，Android AI 语音助手。完全通过语音控制手机——通话、短信、应用和智能家居。核心功能免费。',
         },
         'hero_title': {
             'en': 'Download FoneClaw',
@@ -384,96 +373,6 @@ try:
     for _page, _entries in TW_TRANSLATIONS.items():
         for _key, _text in _entries.items():
             TRANSLATIONS.setdefault(_page, {}).setdefault(_key, {})['tw'] = _text
-except Exception:
-    pass
-
-try:
-    from _ja_translations import JA_TRANSLATIONS
-    for _page, _entries in JA_TRANSLATIONS.items():
-        for _key, _text in _entries.items():
-            TRANSLATIONS.setdefault(_page, {}).setdefault(_key, {})['ja'] = _text
-except Exception:
-    pass
-
-try:
-    from _ko_translations import KO_TRANSLATIONS
-    for _page, _entries in KO_TRANSLATIONS.items():
-        for _key, _text in _entries.items():
-            TRANSLATIONS.setdefault(_page, {}).setdefault(_key, {})['ko'] = _text
-except Exception:
-    pass
-
-
-
-try:
-    from _es_translations import ES_TRANSLATIONS
-    for _page, _entries in ES_TRANSLATIONS.items():
-        for _key, _text in _entries.items():
-            TRANSLATIONS.setdefault(_page, {}).setdefault(_key, {})['es'] = _text
-except Exception:
-    pass
-
-
-try:
-    from _pt_translations import PT_TRANSLATIONS
-    for _page, _entries in PT_TRANSLATIONS.items():
-        for _key, _text in _entries.items():
-            TRANSLATIONS.setdefault(_page, {}).setdefault(_key, {})['pt'] = _text
-except Exception:
-    pass
-
-try:
-    from _ru_translations import RU_TRANSLATIONS
-    for _page, _entries in RU_TRANSLATIONS.items():
-        for _key, _text in _entries.items():
-            TRANSLATIONS.setdefault(_page, {}).setdefault(_key, {})['ru'] = _text
-except Exception:
-    pass
-
-try:
-    from _fr_translations import FR_TRANSLATIONS
-    for _page, _entries in FR_TRANSLATIONS.items():
-        for _key, _text in _entries.items():
-            TRANSLATIONS.setdefault(_page, {}).setdefault(_key, {})['fr'] = _text
-except Exception:
-    pass
-
-try:
-    from _de_translations import DE_TRANSLATIONS
-    for _page, _entries in DE_TRANSLATIONS.items():
-        for _key, _text in _entries.items():
-            TRANSLATIONS.setdefault(_page, {}).setdefault(_key, {})['de'] = _text
-except Exception:
-    pass
-
-try:
-    from _ar_translations import AR_TRANSLATIONS
-    for _page, _entries in AR_TRANSLATIONS.items():
-        for _key, _text in _entries.items():
-            TRANSLATIONS.setdefault(_page, {}).setdefault(_key, {})['ar'] = _text
-except Exception:
-    pass
-
-try:
-    from _th_translations import TH_TRANSLATIONS
-    for _page, _entries in TH_TRANSLATIONS.items():
-        for _key, _text in _entries.items():
-            TRANSLATIONS.setdefault(_page, {}).setdefault(_key, {})['th'] = _text
-except Exception:
-    pass
-
-try:
-    from _vi_translations import VI_TRANSLATIONS
-    for _page, _entries in VI_TRANSLATIONS.items():
-        for _key, _text in _entries.items():
-            TRANSLATIONS.setdefault(_page, {}).setdefault(_key, {})['vi'] = _text
-except Exception:
-    pass
-try:
-    from _id_translations import ID_TRANSLATIONS
-    for _page, _entries in ID_TRANSLATIONS.items():
-        for _key, _text in _entries.items():
-            TRANSLATIONS.setdefault(_page, {}).setdefault(_key, {})['id'] = _text
 except Exception:
     pass
 
