@@ -185,6 +185,7 @@ python3 build_multi.py
 - **Features**: [foneclaw.ai/features](https://www.foneclaw.ai/features)
 - **Resources**: [foneclaw.ai/resources](https://www.foneclaw.ai/resources)
 - **Community**: [foneclaw.ai/community](https://www.foneclaw.ai/community)
+- **Documentation**: [GitHub Pages](https://foneclaw-ai.github.io/foneclaw-v2/)
 
 ---
 
