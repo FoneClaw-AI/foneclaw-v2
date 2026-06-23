@@ -29,3 +29,4 @@
 - 125+ English articles, 12 featured articles per language
 - Responsive design, dark theme
 - APK download with version checking
+
