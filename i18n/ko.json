@@ -1,0 +1,219 @@
+{
+  "meta": {
+    "title": "FoneClaw - Android AI 스마트폰 어시스턴트｜120개 이상의 음성 작업",
+    "description": "FoneClaw는 음성으로 Android 스마트폰을 실제로 조작하는 AI 어시스턴트입니다. 기기 상태, 알림 정리, 설정 변경, 스크린샷 이해, 지도 내비게이션, 웹 작업 등 16개 카테고리 120개 이상의 작업을 지원하며 핵심 기능은 현재 무료입니다."
+  },
+  "nav": {
+    "home": "홈",
+    "features": "기능",
+    "download": "다운로드",
+    "resources": "리소스",
+    "community": "커뮤니티"
+  },
+  "hero": {
+    "title": "말하면, 끝.",
+    "subtitle": "한마디로 120개 이상의 스마트폰 작업을 실행하세요. 핵심 기능은 무료로 사용할 수 있습니다. FoneClaw는 질문에 답하는 데서 끝나지 않고 Android 스마트폰을 실제로 조작하는 AI 어시스턴트입니다.",
+    "see_features": "기능 보기 →"
+  },
+  "footer": {
+    "description": "FoneClaw는 단순히 질문에 답하는 것이 아니라 실제로 Android 폰을 제어하는 AI 에이전트입니다.",
+    "product": "제품",
+    "topics": "주제",
+    "company": "회사",
+    "privacy": "개인정보 처리방침",
+    "rights": "모든 권리 보유.",
+    "cookie": "쿠키 정책"
+  },
+  "cta": {
+    "download_apk": "FoneClaw 다운로드",
+    "checking": "핵심 기능은 무료입니다. 신용카드는 필요 없습니다.",
+    "coming_soon": "APK가 곧 제공됩니다",
+    "unavailable": "APK를 일시적으로 사용할 수 없습니다",
+    "download_copy": "무료로 다운로드하고 최신 Android 빌드를 받아보세요.",
+    "article_title": "120개 이상의 작업을 핵심 기능 무료로 시험해 보세요.",
+    "article_copy": "FoneClaw를 다운로드하고 지원되는 Android 작업을 음성으로 직접 테스트해 보세요.",
+    "article_bottom_title": "120개 이상의 작업을 핵심 기능 무료로 시험해 보세요.",
+    "article_bottom_copy": "FoneClaw를 다운로드하고 지원되는 Android 작업을 음성으로 직접 테스트해 보세요."
+  },
+  "home": {
+    "three_things_title": "스마트폰이 대신 해줬으면 하는 세 가지 일",
+    "three_things_subtitle": "FoneClaw는 알림 확인, 설정 변경처럼 매일 조금씩 시간을 빼앗는 스마트폰 작업을 대신 처리합니다.",
+    "daily_brief": "데일리 브리프",
+    "daily_brief_desc": "SMS, 알림, 시스템 정보를 연락처와 시간 기준으로 정리합니다. 여러 앱을 열지 않아도 중요한 내용만 빠르게 확인할 수 있습니다.",
+    "phone_health": "스마트폰 상태 점검",
+    "phone_health_desc": "배터리, 저장 공간, 네트워크, 권한 위험을 음성 리포트로 확인하세요. Android 설정을 깊이 뒤질 필요가 없습니다.",
+    "passive_triggers": "패시브 트리거",
+    "passive_triggers_desc": "어떤 앱에서든 스크린샷이나 사진을 찍으면 FoneClaw가 감지해 요약을 제안합니다. 작업 흐름을 끊지 않습니다.",
+    "feature_categories": "기능 카테고리",
+    "supported_actions": "지원 작업",
+    "free": "핵심 기능",
+    "core_features": "핵심 기능",
+    "system_execution": "시스템 수준 실행",
+    "deep_dives_title": "FoneClaw 더 알아보기",
+    "deep_dives_subtitle": "Android 음성 제어, 스마트폰 AI 어시스턴트, 경쟁 제품 비교를 한국어로 정리했습니다.",
+    "cta_bottom_title": "120개 이상의 작업을 핵심 기능 무료로 시험해 보세요.",
+    "cta_bottom_subtitle": "FoneClaw를 다운로드하고 지원되는 Android 작업을 음성으로 직접 테스트해 보세요."
+  },
+  "features": {
+    "hero_eyebrow": "휴대폰 상태",
+    "hero_title": "한마디로, 120개 이상의 스마트폰 작업.",
+    "hero_subtitle": "FoneClaw는 기기 상태 확인, 알림 정리, 설정 변경, 스크린샷 이해, 내비게이션 같은 Android 작업을 자연어로 실행합니다.",
+    "categories_title": "16개 기능 카테고리, 120개 이상 동작",
+    "categories_subtitle": "휴대폰에서 하고 싶은 일에 맞춰 기능을 정리했습니다. 일부 기능은 설정이 필요하고 일부는 바로 사용할 수 있습니다.",
+    "categories": "기능 카테고리",
+    "supported_actions": "지원 작업",
+    "commands_title": "제품을 보여주는 8가지 명령",
+    "commands_subtitle": "각 명령은 상태 보고서, 요약, 설정 변경, 스크린샷 이해, 위치 확인, 내비게이션 같은 눈에 보이는 결과로 이어집니다.",
+    "explore_features": "기능 살펴보기",
+    "trust_title": "권한, 설정, 사용자 확인",
+    "trust_subtitle": "FoneClaw는 실제 휴대폰 동작을 위해 Android 권한을 사용합니다. 신뢰는 제품 경험의 일부입니다.",
+    "faq_title": "자주 묻는 질문",
+    "faq_subtitle": "FoneClaw 기능에 대한 자주 묻는 질문.",
+    "mid_cta_title": "120개 이상의 작업을 핵심 기능 무료로 시험해 보세요.",
+    "mid_cta_subtitle": "FoneClaw를 다운로드하고 지원되는 Android 작업을 음성으로 직접 테스트해 보세요.",
+    "bottom_cta_title": "실제로 동작하는 휴대폰 어시스턴트를 사용해 보세요.",
+    "bottom_cta_subtitle": "FoneClaw를 다운로드하고 Android에서 120개 이상의 지원 동작, 투명한 권한, 실용적인 일상 작업을 테스트해 보세요."
+  },
+  "download": {
+    "title": "FoneClaw 다운로드 - Android AI 음성 어시스턴트",
+    "subtitle": "핵심 기능은 무료입니다. 신용카드는 필요 없습니다.",
+    "requirements_title": "시스템 요구사항",
+    "requirements_subtitle": "기기가 아래 요구사항을 충족하는지 확인하세요.",
+    "apk_description": "Android 9 이상용 시스템 레벨 AI 어시스턴트. 음성 제어, 앱 간 자동화, 메모리 학습을 지원합니다.",
+    "faq_title": "자주 묻는 질문"
+  },
+  "resources": {
+    "title": "FoneClaw 리소스",
+    "subtitle": "Android 음성 제어, 휴대폰 AI 어시스턴트, 비교 글을 모은 실용 가이드입니다.",
+    "featured_articles": "추천 아티클",
+    "browse_topics": "주제별 탐색",
+    "articles_count": "120+",
+    "articles_label": "아티클",
+    "topics_count": "4",
+    "topics_label": "주제",
+    "hours_count": "40+",
+    "hours_label": "읽기 시간",
+    "cta_title": "120개 이상의 작업을 핵심 기능 무료로 시험해 보세요.",
+    "cta_subtitle": "FoneClaw를 다운로드하고 지원되는 Android 작업을 음성으로 직접 테스트해 보세요.",
+    "get_foneclaw": "FoneClaw 다운로드"
+  },
+  "community": {
+    "title": "FoneClaw 커뮤니티에 참여하세요",
+    "subtitle": "다른 사용자와 소통하고, 초기 업데이트를 받고, 음성 제어 Android의 미래를 함께 만들어 보세요."
+  },
+  "article": {
+    "summary_title": "핵심 요약",
+    "toc_title": "목차",
+    "faq_title": "자주 묻는 질문",
+    "related_articles": "관련 아티클"
+  },
+  "articles": {
+    "read_more": "읽기 →",
+    "min_read": "분"
+  },
+  "share": {
+    "share_on_x": "X에 공유",
+    "share_on_telegram": "Telegram에 공유",
+    "share_on_linkedin": "LinkedIn에 공유",
+    "share_on_facebook": "Facebook에 공유",
+    "share_on_reddit": "Reddit에 공유",
+    "copy_link": "링크 복사"
+  },
+  "pages": {
+    "index": {
+      "title": "FoneClaw - Android AI 스마트폰 어시스턴트｜120개 이상의 음성 작업",
+      "description": "FoneClaw는 음성으로 Android 스마트폰을 실제로 조작하는 AI 어시스턴트입니다. 기기 상태, 알림 정리, 설정 변경, 스크린샷 이해, 지도 내비게이션, 웹 작업 등 16개 카테고리 120개 이상의 작업을 지원하며 핵심 기능은 현재 무료입니다."
+    },
+    "features": {
+      "title": "FoneClaw 기능 - Android AI 스마트폰 어시스턴트",
+      "description": "FoneClaw의 16개 카테고리, 120개 이상의 Android 작업을 자세히 소개합니다. 기기 상태, 알림과 SMS 요약, 설정 변경, 스크린샷, 이메일, 캘린더, 지도, 웹 "
+    },
+    "download": {
+      "title": "FoneClaw 다운로드 - Android AI 음성 어시스턴트",
+      "description": "FoneClaw APK를 다운로드하고 Android 스마트폰에서 실제 작업을 실행하는 AI 어시스턴트를 체험하세요. 음성 제어, 설정 변경, 알림 정리, 스크린샷 이해, 지도 내비"
+    },
+    "resources": {
+      "title": "FoneClaw 리소스",
+      "description": "Android 음성 제어, 휴대폰 AI 어시스턴트, 비교 글을 모은 실용 가이드입니다."
+    },
+    "community": {
+      "title": "FoneClaw 커뮤니티 - 사용자와 연결하기",
+      "description": "FoneClaw 커뮤니티에 참여하세요: Telegram, Discord, X. 업데이트를 받고, 피드백을 공유하고, 다른 사용자와 소통하세요."
+    },
+    "privacy": {
+      "title": "개인정보 처리방침 - FoneClaw",
+      "description": "FoneClaw 개인정보 처리방침: 개인 데이터 수집, 사용, 보호 방법."
+    },
+    "cookie": {
+      "title": "쿠키 정책 - FoneClaw",
+      "description": "FoneClaw가 웹사이트에서 쿠키와 유사한 기술을 사용하는 방법."
+    },
+    "not_found": {
+      "title": "페이지를 찾을 수 없습니다",
+      "desc": "찾고 있는 페이지가 없거나 다른 위치로 이동되었습니다.",
+      "home": "홈으로 돌아가기"
+    }
+  },
+  "community_buttons": {
+    "join": "참여",
+    "follow": "팔로우",
+    "subscribe": "구독",
+    "email": "이메일"
+  },
+  "privacy": {
+    "h1": "개인정보 처리방침",
+    "desc": "FoneClaw가 개인 데이터를 수집, 사용, 보호하는 방법.",
+    "s1_title": "수집하는 정보",
+    "s1_body": "FoneClaw는 음성 제어 스마트폰 자동화에 필요한 최소한의 데이터만 수집합니다. 기기에서 로컬로 처리되는 음성 명령, 학습을 위해 기기에만 저장되는 앱 사용 패턴, 그리고 선택적 클라우드 처리 데이터(암호화 후 즉시 삭제)가 포함됩니다. 방문 기록, 연락처, 메시지 내용은 수집하지 않습니다.",
+    "s2_title": "정보 사용 방법",
+    "s2_body": "수집된 정보는 FoneClaw 서비스 제공 및 개선에만 사용합니다. 음성 명령은 요청된 작업 실행에 사용됩니다. 사용 패턴은 경험을 개인화하는 데 도움이 됩니다. 데이터를 제3자에게 판매하거나 광고 목적으로 사용하지 않습니다.",
+    "s3_title": "데이터 저장 및 보안",
+    "s3_body": "데이터는 기본적으로 기기에 로컬 저장됩니다. 특정 기능에서 클라우드 처리가 활성화되면 데이터는 업계 표준 AES-256 암호화로 전송 및 저장 시 암호화됩니다. 클라우드 데이터는 처리 후 24시간 이내에 자동 삭제됩니다.",
+    "s4_title": "제3자 서비스",
+    "s4_body": "FoneClaw는 사용자가 명시적으로 승인한 경우에만 제3자 서비스(Google Maps, Spotify 등)와 통합됩니다. 각 통합은 해당 서비스의 개인정보 처리방침을 따릅니다. 제3자 서비스 간 데이터를 공유하지 않습니다.",
+    "s5_title": "이용자의 권리",
+    "s5_body": "언제든지 개인 데이터를 열람, 수정, 삭제할 권리가 있습니다. FoneClaw 설정 메뉴에서 데이터 내보내기, 클라우드 처리 옵트아웃, 계정 완전 삭제가 가능합니다.",
+    "s6_title": "아동 개인정보",
+    "s6_body": "FoneClaw는 13세 미만 아동을 대상으로 하지 않습니다. 아동의 개인 정보를 고의로 수집하지 않습니다. 아동이 개인 데이터를 제공했다고 생각되면 즉시 연락해 주세요.",
+    "s7_title": "정책 변경",
+    "s7_body": "본 개인정보 처리방침은 정기적으로 업데이트될 수 있습니다. 중요한 변경 사항은 FoneClaw 앱과 웹사이트를 통해 안내합니다. 변경 후 계속 사용하면 업데이트된 정책에 동의한 것으로 간주됩니다.",
+    "s8_title": "문의하기",
+    "s8_body": "개인정보 관련 질문이나 우려사항은 privacy@foneclaw.ai로 연락해 주세요. 모든 개인정보 문의에 48시간 이내에 답변드립니다."
+  },
+  "cookie": {
+    "h1": "쿠키 정책",
+    "desc": "FoneClaw가 웹사이트에서 쿠키와 유사한 기술을 사용하는 방법.",
+    "s1_title": "쿠키란 무엇인가",
+    "s1_body": "쿠키는 웹사이트를 방문할 때 기기에 저장되는 작은 텍스트 파일입니다. 사용자 설정을 기억하고 사이트 사용 방식을 이해함으로써 더 나은 브라우징 경험을 제공하는 데 도움이 됩니다.",
+    "s2_title": "사용하는 쿠키 유형",
+    "s2_body": "웹사이트에서 여러 유형의 쿠키를 사용합니다: 사이트 기능에 필수적인 쿠키, 방문자 행동을 이해하기 위한 분석 쿠키, 언어 및 표시 설정을 기억하는 환경설정 쿠키.",
+    "s3_title": "필수 쿠키",
+    "s3_body": "이 쿠키는 웹사이트가 올바르게 작동하는 데 필요합니다. 페이지 탐색, 보안 영역 접근, 언어 선택과 같은 핵심 기능을 활성화합니다. 이 쿠키 없이는 웹사이트가 올바르게 작동할 수 없습니다.",
+    "s4_title": "분석 쿠키",
+    "s4_body": "Google Analytics를 사용하여 방문자가 웹사이트와 어떻게 상호작용하는지 이해합니다. 이 쿠키는 방문한 페이지, 사이트에서 보낸 시간, 트래픽 소스와 같은 정보를 수집합니다. 이 데이터는 콘텐츠와 사용자 경험을 개선하는 데 도움이 됩니다. Google Analytics 데이터는 집계되고 익명화됩니다.",
+    "s5_title": "제3자 쿠키",
+    "s5_body": "일부 쿠키는 Google Analytics와 같이 페이지에 표시되는 제3자 서비스에 의해 배치됩니다. 이 쿠키는 통제하지 않습니다. 쿠키 관행에 대한 자세한 내용은 각 제3자의 개인정보 처리방침을 참조하세요.",
+    "s6_title": "쿠키 관리",
+    "s6_body": "브라우저 설정을 통해 쿠키를 제어하고 관리할 수 있습니다. 대부분의 브라우저에서 쿠키를 차단하거나 삭제할 수 있습니다. 그러나 필수 쿠키를 비활성화하면 웹사이트 기능에 영향을 줄 수 있습니다. 쿠키 동의 배너를 사용하여 환경설정을 관리할 수도 있습니다.",
+    "s7_title": "쿠키 보유 기간",
+    "s7_body": "세션 쿠키는 브라우저를 닫을 때 삭제됩니다. 영구 쿠키는 설정된 기간 동안 또는 삭제할 때까지 기기에 남아 있습니다. 분석 쿠키의 최대 보유 기간은 26개월입니다.",
+    "s8_title": "문의하기",
+    "s8_body": "쿠키 정책에 대한 질문은 privacy@foneclaw.ai로 연락해 주세요."
+  },
+  "author": {
+    "title": "Dean - 고급 Android 엔지니어 & FoneClaw 생성자",
+    "desc": "Dean은 고급 Android 시스템 엔지니어이면 FoneClaw 생성자입니다. AI 엔티티, 음성 제어, 폰 자동화에 대한 글을 읽어보세요.",
+    "role": "고급 Android 엔지니어 & FoneClaw 생성자",
+    "bio_short": "음성 제어 Android 폰의 미래를 구축합니다. AI 엔티티, 모바일 자동화, 기술 보통에 바쳐도록 합니다.",
+    "stat_articles": "건의 기사 발표",
+    "stat_categories": "개의 내용 카테고리",
+    "stat_experience": "년 이상의 경험",
+    "about_title": "Dean 소개",
+    "about_p1": "Dean은 10년 이상의 모바일 개발 경험을 가진 고급 Android 시스템 엔지니어입니다. Android 내부, 시스템 레벨 프로그래밍, 모바일 자동화에 대한 고유분자 전문지식을 보유합니다.",
+    "about_p2": "대형 Android 프로젝트 참여 후, Dean은 핵심 문제를 해결하기 위해 FoneClaw를 생성했습니다: 왜 폰을 완전히 음성으로 제어할 수 없는가요? 전통 음성 아시스턴트는 알람과 음악 재생만 가능하고, 앱 조작, 폰름 입력, 다중 단계 작업 연결은 할 수 없습니다.",
+    "about_p3": "FoneClaw는 Android 엔티티에 대한 Dean의 비전입니다 — 화면을 읽고, 의도를 이해하고, 폰을 직접 조작해 작업을 완료합니다. API 필요 없음, 개발자 협력 필요 없음. 순수 음성 제어로 아무 Android 앱이나 조작할 수 있습니다.",
+    "articles_title": "Dean의 기사",
+    "article_label": "기사",
+    "no_articles": "이 언어로 된 기사가 아지클 없습니다."
+  }
+}

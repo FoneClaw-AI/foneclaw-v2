@@ -1,0 +1,233 @@
+{
+  "feature_categories": [
+    {
+      "emoji": "📱",
+      "name": "手機狀態",
+      "count": "9 個指令"
+    },
+    {
+      "emoji": "🔔",
+      "name": "通知",
+      "count": "6 個指令"
+    },
+    {
+      "emoji": "💬",
+      "name": "簡訊",
+      "count": "6 個指令"
+    },
+    {
+      "emoji": "📞",
+      "name": "通話",
+      "count": "3 個指令"
+    },
+    {
+      "emoji": "⚙️",
+      "name": "系統設定",
+      "count": "18 個指令"
+    },
+    {
+      "emoji": "📡",
+      "name": "Wi-Fi 與藍牙",
+      "count": "12 個指令"
+    },
+    {
+      "emoji": "📸",
+      "name": "拍照與截圖",
+      "count": "8 個指令"
+    },
+    {
+      "emoji": "🖥️",
+      "name": "螢幕讀取",
+      "count": "2 個指令"
+    },
+    {
+      "emoji": "📧",
+      "name": "信箱",
+      "count": "10 個指令"
+    },
+    {
+      "emoji": "📅",
+      "name": "行事曆",
+      "count": "6 個指令"
+    },
+    {
+      "emoji": "⏰",
+      "name": "鬧鐘",
+      "count": "2 個指令"
+    },
+    {
+      "emoji": "📋",
+      "name": "筆記",
+      "count": "9 個指令"
+    },
+    {
+      "emoji": "🗺️",
+      "name": "地圖與導航",
+      "count": "8 個指令"
+    },
+    {
+      "emoji": "🌐",
+      "name": "網頁",
+      "count": "3 個指令"
+    },
+    {
+      "emoji": "🔄",
+      "name": "工作流程",
+      "count": "3 個指令"
+    },
+    {
+      "emoji": "🧩",
+      "name": "App 互動",
+      "count": "快速指令"
+    }
+  ],
+  "demo_commands": [
+    {
+      "desc": "記憶體、儲存空間、電池、網路和權限風險報告。",
+      "title": "\"檢查我的手機狀態\""
+    },
+    {
+      "desc": "按聯絡人分組的重要事項、待回覆和風險。",
+      "title": "\"彙總今天的簡訊\""
+    },
+    {
+      "desc": "支援的 Android 設定變更，結果清晰。",
+      "title": "\"設定亮度為 60%\""
+    },
+    {
+      "desc": "捕獲當前螢幕並摘要可見內容。",
+      "title": "\"截圖\""
+    },
+    {
+      "desc": "優先顯示手機上的最新通知。",
+      "title": "\"有什麼重要通知？\""
+    },
+    {
+      "desc": "讀取已配置 IMAP/SMTP 賬戶的最新電子郵件。",
+      "title": "\"檢查我的信箱\""
+    },
+    {
+      "desc": "返回位置、座標、精度、來源和時間。",
+      "title": "\"我在哪裡？\""
+    },
+    {
+      "desc": "打開已安裝的地圖 App並開始導航。",
+      "title": "\"駕車導航\""
+    }
+  ],
+  "showcase_features": [
+    {
+      "eyebrow": "手機狀態",
+      "title": "瞭解你的手機正在發生什麼。",
+      "description": "將裝置健康狀況轉化為可讀報告，不用再翻找設定頁面。",
+      "image": "gif-phone-health-poster.jpg",
+      "gif": "gif-phone-health.gif",
+      "check_items": [
+        "記憶體、儲存空間、電池和網路狀態",
+        "App 權限和敏感權限審查",
+        "活躍 App和隱藏App信號檢查"
+      ]
+    },
+    {
+      "eyebrow": "訊息與通知",
+      "title": "將手機噪音轉化為每日簡報。",
+      "description": "FoneClaw 彙總簡訊、通知和系統資訊，重要事項不會被埋在各個 App裡。",
+      "image": "gif-daily-brief-poster.jpg",
+      "gif": "gif-daily-brief.gif",
+      "check_items": [
+        "按聯絡人和時間彙總簡訊",
+        "按主題搜尋資訊",
+        "查看前後文並標記已處理"
+      ]
+    },
+    {
+      "eyebrow": "控制",
+      "title": "更快地更改 Android 設定。",
+      "description": "用自然語言操作支援的 Android 設定，不用手動翻找深層選單。",
+      "image": "gif-controls-poster.jpg",
+      "gif": "gif-controls.gif",
+      "check_items": [
+        "亮度、自動亮度、螢幕超時、旋轉",
+        "媒體、鈴聲、通知、鬧鐘、通話和系統音量",
+        "靜音模式、勿擾模式、手電筒和系統設定頁面"
+      ]
+    },
+    {
+      "eyebrow": "效率與導航",
+      "title": "從意圖到手機結果。",
+      "description": "FoneClaw 處理已配置的信箱、行事曆、鬧鐘、本機筆記、定位、附近搜尋、地圖導航和網頁任務。",
+      "image": "gif-productivity-poster.jpg",
+      "gif": "gif-productivity.gif",
+      "check_items": [
+        "信箱需要 IMAP/SMTP 配置",
+        "導航需要安裝地圖 App",
+        "網頁比價使用網路資訊，不保證即時價格"
+      ]
+    },
+    {
+      "eyebrow": "連線",
+      "title": "語音控制 Wi-Fi 與藍牙。",
+      "description": "不用進 Android 設定裡慢慢找，也能管理無線連線。一個指令就能完成掃描、連線、配對或忘記網路。",
+      "image": "gif-connectivity-poster.jpg",
+      "gif": "gif-connectivity.gif",
+      "check_items": [
+        "Wi-Fi：掃描附近網路、連線、忘記網路、查看已儲存網路",
+        "藍牙：配對、連線、查看已配對與已連線裝置",
+        "支援耳機、喇叭、車用裝置和穿戴式裝置"
+      ]
+    },
+    {
+      "eyebrow": "被動觸發",
+      "title": "即使不打開 App，FoneClaw 也能工作。",
+      "description": "在任何 App中截圖或拍照時，FoneClaw 可以偵測並在浮動視窗中提供即時摘要。無需切換App。",
+      "image": "gif-passive-triggers-poster.jpg",
+      "gif": "gif-passive-triggers.gif",
+      "check_items": [
+        "截圖自動偵測和摘要",
+        "照片自動偵測和內容分析",
+        "浮動視窗，不會打擾你",
+        "需要偵測與覆蓋顯示權限"
+      ]
+    }
+  ],
+  "trust_items": [
+    {
+      "title": "透明權限",
+      "check_items": [
+        "無障礙服務用於螢幕讀取和節點操作",
+        "通知訪問用於通知摘要",
+        "按需使用聯絡人、簡訊、定位、相機、藍牙、覆蓋和系統設定權限"
+      ]
+    },
+    {
+      "title": "敏感操作需確認",
+      "description": "撥號、發送簡訊、發送電子郵件、刪除記錄和其他敏感操作執行前應先取得你的確認。"
+    },
+    {
+      "title": "設定要求明確",
+      "description": "信箱需要 IMAP/SMTP 配置。導航需要安裝地圖 App。截圖/照片自動摘要需要偵測與覆蓋顯示權限。部分 Android 設定需要額外授權。"
+    }
+  ],
+  "features_faq": [
+    {
+      "question": "FoneClaw 能控制 Android 的什麼？",
+      "answer": "FoneClaw 目前覆蓋 16 大類、120+ 項 Android 手機操作，包括裝置檢查、通知和簡訊摘要、通話、系統設定、Wi-Fi 和藍牙、截圖和照片、螢幕讀取、信箱、行事曆、鬧鐘、本機筆記、地圖和網頁任務。"
+    },
+    {
+      "question": "FoneClaw 需要無障礙權限嗎？",
+      "answer": "是的。無障礙權限用於螢幕讀取、以節點為基礎的點擊、通知面板操作以及標準 App 權限無法處理的部分手機級交互。"
+    },
+    {
+      "question": "FoneClaw 能自動發送簡訊或電子郵件嗎？",
+      "answer": "FoneClaw 可以幫你起草訊息、準備內容，並執行已支援的溝通類操作；但發送簡訊、電子郵件等敏感動作，最終執行前應由你確認。"
+    },
+    {
+      "question": "所有功能都能免設定使用嗎？",
+      "answer": "不是。信箱需要 IMAP/SMTP 配置，地圖需要安裝地圖 App，圖片自動摘要需要相關偵測與覆蓋顯示權限，部分 Android 設定需要額外系統權限。手機狀態、簡訊摘要和系統設定等核心功能開箱即用。"
+    },
+    {
+      "question": "有哪些功能？",
+      "answer": "FoneClaw 覆蓋 16 大功能分類、120+ 支援的操作：裝置檢查、通知和簡訊摘要、通話、系統設定、Wi-Fi 和藍牙、截圖和照片、螢幕讀取、信箱、行事曆、鬧鐘、本機筆記、地圖、網頁任務、工作流程和快捷指令。"
+    }
+  ]
+}

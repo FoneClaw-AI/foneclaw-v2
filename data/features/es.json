@@ -1,0 +1,233 @@
+{
+  "feature_categories": [
+    {
+      "emoji": "📱",
+      "name": "Phone Status",
+      "count": "9 commands"
+    },
+    {
+      "emoji": "🔔",
+      "name": "Notifications",
+      "count": "6 commands"
+    },
+    {
+      "emoji": "💬",
+      "name": "SMS",
+      "count": "6 commands"
+    },
+    {
+      "emoji": "📞",
+      "name": "Calls",
+      "count": "3 commands"
+    },
+    {
+      "emoji": "⚙️",
+      "name": "System Settings",
+      "count": "18 commands"
+    },
+    {
+      "emoji": "📡",
+      "name": "Wi-Fi & Bluetooth",
+      "count": "12 commands"
+    },
+    {
+      "emoji": "📸",
+      "name": "Photo & Screenshot",
+      "count": "8 commands"
+    },
+    {
+      "emoji": "🖥️",
+      "name": "Screen Reading",
+      "count": "2 commands"
+    },
+    {
+      "emoji": "📧",
+      "name": "Email",
+      "count": "10 commands"
+    },
+    {
+      "emoji": "📅",
+      "name": "Calendar",
+      "count": "6 commands"
+    },
+    {
+      "emoji": "⏰",
+      "name": "Alarms",
+      "count": "2 commands"
+    },
+    {
+      "emoji": "📋",
+      "name": "Notes",
+      "count": "9 commands"
+    },
+    {
+      "emoji": "🗺️",
+      "name": "Maps & Navigation",
+      "count": "8 commands"
+    },
+    {
+      "emoji": "🌐",
+      "name": "Web",
+      "count": "3 commands"
+    },
+    {
+      "emoji": "🔄",
+      "name": "Workflows",
+      "count": "3 commands"
+    },
+    {
+      "emoji": "🧩",
+      "name": "App Interface",
+      "count": "Quick commands"
+    }
+  ],
+  "demo_commands": [
+    {
+      "desc": "Memory, storage, battery, network, and permission-risk report.",
+      "title": "\"Check my phone status\""
+    },
+    {
+      "desc": "Important items, pending replies, and risks grouped by contact.",
+      "title": "\"Summarize today's SMS\""
+    },
+    {
+      "desc": "Supported Android setting changes with a clear result.",
+      "title": "\"Set brightness to 60%\""
+    },
+    {
+      "desc": "Capture the current screen and summarize visible content.",
+      "title": "\"Take a screenshot\""
+    },
+    {
+      "desc": "Prioritize recent notifications from the phone.",
+      "title": "\"What important notifications?\""
+    },
+    {
+      "desc": "Read recent emails from configured IMAP/SMTP accounts.",
+      "title": "\"Check my email\""
+    },
+    {
+      "desc": "Return location, coordinates, accuracy, source, and time.",
+      "title": "\"Where am I?\""
+    },
+    {
+      "desc": "Open an installed map app and start navigation.",
+      "title": "\"Navigate by car\""
+    }
+  ],
+  "showcase_features": [
+    {
+      "eyebrow": "Phone status",
+      "title": "Know what is happening on your phone.",
+      "description": "Turn device health into an explainable report instead of digging through settings screens.",
+      "image": "gif-phone-health-poster.jpg",
+      "gif": "gif-phone-health.gif",
+      "check_items": [
+        "Memory, storage, battery, and network status",
+        "App permission and sensitive-permission review",
+        "Active app and hidden-app signal checks"
+      ]
+    },
+    {
+      "eyebrow": "Messages and notifications",
+      "title": "Turn phone noise into a daily brief.",
+      "description": "FoneClaw summarizes SMS, notifications, and system information so important items are not buried across apps.",
+      "image": "gif-daily-brief-poster.jpg",
+      "gif": "gif-daily-brief.gif",
+      "check_items": [
+        "Summarize SMS by contact and time",
+        "Search information by topic",
+        "View context and mark items as handled"
+      ]
+    },
+    {
+      "eyebrow": "Controls",
+      "title": "Change Android settings faster.",
+      "description": "Use natural language for supported Android settings instead of manually navigating deep menus.",
+      "image": "gif-controls-poster.jpg",
+      "gif": "gif-controls.gif",
+      "check_items": [
+        "Brightness, auto brightness, screen timeout, rotation",
+        "Media, ringtone, notification, alarm, call, and system volume",
+        "Silent mode, Do Not Disturb, flashlight, and system setting pages"
+      ]
+    },
+    {
+      "eyebrow": "Productivity and navigation",
+      "title": "Move from intent to a phone result.",
+      "description": "FoneClaw handles configured email, calendar, alarms, local notes, location, nearby search, map navigation, and web tasks.",
+      "image": "gif-productivity-poster.jpg",
+      "gif": "gif-productivity.gif",
+      "check_items": [
+        "Email requires IMAP/SMTP setup",
+        "Maps require an installed map app",
+        "Web comparison uses web-derived information, not guaranteed real-time prices"
+      ]
+    },
+    {
+      "eyebrow": "Connectivity",
+      "title": "Control Wi-Fi and Bluetooth by voice.",
+      "description": "Manage wireless connections without digging through Android settings. Scan, connect, pair, and forget from a single command.",
+      "image": "gif-connectivity-poster.jpg",
+      "gif": "gif-connectivity.gif",
+      "check_items": [
+        "Wi-Fi: scan nearby, connect, forget, saved networks",
+        "Bluetooth: pair, connect, view paired and connected devices",
+        "Works with headphones, speakers, cars, and wearables"
+      ]
+    },
+    {
+      "eyebrow": "Passive triggers",
+      "title": "FoneClaw works even when you do not open the app.",
+      "description": "When you take a screenshot or photo in supported Android workflows, FoneClaw can detect available context and offer a summary in a floating window. No context switch needed.",
+      "image": "gif-passive-triggers-poster.jpg",
+      "gif": "gif-passive-triggers.gif",
+      "check_items": [
+        "Screenshot auto-detection and summary",
+        "Photo auto-detection and content analysis",
+        "Floating window overlay, stays out of your way",
+        "Requires detection and overlay permissions"
+      ]
+    }
+  ],
+  "trust_items": [
+    {
+      "title": "Transparent permissions",
+      "check_items": [
+        "Accessibility for screen reading and node actions",
+        "Notification access for notification summaries",
+        "Contacts, SMS, location, camera, Bluetooth, overlay, and system-setting permissions where needed"
+      ]
+    },
+    {
+      "title": "Confirmation for sensitive actions",
+      "description": "Dialing, sending SMS, sending email, deleting records, and other sensitive actions should require confirmation before execution."
+    },
+    {
+      "title": "Setup requirements are clear",
+      "description": "Email needs IMAP/SMTP configuration. Navigation needs an installed map app. Screenshot/photo auto-summary needs detection and overlay permissions. Some Android settings need extra authorization."
+    }
+  ],
+  "features_faq": [
+    {
+      "question": "What can FoneClaw control on Android?",
+      "answer": "FoneClaw supports 120+ current Android phone actions across 16 categories: device checks, notification and SMS summaries, calls, system settings, Wi-Fi and Bluetooth, screenshots and photos, screen reading, email, calendar, alarms, local notes, maps, and web tasks."
+    },
+    {
+      "question": "Does FoneClaw need Accessibility permission?",
+      "answer": "Yes. Accessibility is required for screen reading, node-based clicks, notification panel operations, and some phone-level interactions that cannot be handled by standard app permissions alone."
+    },
+    {
+      "question": "Can FoneClaw send SMS or email automatically?",
+      "answer": "FoneClaw can draft, prepare, and execute supported communication actions, but sensitive operations such as sending messages or email should require user confirmation before final execution."
+    },
+    {
+      "question": "Does every feature work without setup?",
+      "answer": "No. Email needs IMAP/SMTP setup, maps need an installed map app, image auto-summary needs the relevant detection and overlay permissions, and some Android settings require additional system permissions. Core features like phone status, SMS summary, and system settings work out of the box."
+    },
+    {
+      "question": "What features are available?",
+      "answer": "FoneClaw covers 16 feature categories with 120+ supported actions: device checks, notification and SMS summaries, calls, system settings, Wi-Fi and Bluetooth, screenshots and photos, screen reading, email, calendar, alarms, local notes, maps, web tasks, workflows, and quick commands."
+    }
+  ]
+}

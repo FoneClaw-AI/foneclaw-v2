@@ -1,0 +1,219 @@
+{
+  "meta": {
+    "title": "FoneClaw — AI-ассистент для Android | 120+ голосовых команд",
+    "description": "FoneClaw выполняет реальные действия на Android по голосу: состояние устройства, сообщения, настройки, скриншоты, навигация и веб-задачи в 16 категориях."
+  },
+  "nav": {
+    "home": "Главная",
+    "features": "Функции",
+    "download": "Скачать",
+    "resources": "Статьи",
+    "community": "Сообщество"
+  },
+  "hero": {
+    "title": "Скажи. Готово.",
+    "subtitle": "Более 120 действий на телефоне одной голосовой командой. Основные функции бесплатны. FoneClaw — это AI-агент, который реально управляет вашим Android, а не просто отвечает на вопросы.",
+    "see_features": "Смотреть функции →"
+  },
+  "footer": {
+    "description": "FoneClaw — это AI-агент, который реальными действиями управляет вашим Android, а не просто отвечает на вопросы.",
+    "product": "Продукт",
+    "topics": "Темы",
+    "company": "Компания",
+    "privacy": "Политика конфиденциальности",
+    "rights": "Все права защищены.",
+    "cookie": "Politika Cookie"
+  },
+  "cta": {
+    "download_apk": "Скачать FoneClaw",
+    "checking": "Основные функции бесплатны. Карта не нужна.",
+    "coming_soon": "APK скоро будет доступен",
+    "unavailable": "APK временно недоступен",
+    "download_copy": "Бесплатная загрузка, последняя версия для Android.",
+    "article_title": "120+ действий, бесплатно для тестирования.",
+    "article_copy": "Скачайте FoneClaw и проверьте все поддерживаемые действия Android голосом.",
+    "article_bottom_title": "120+ действий, бесплатно для тестирования.",
+    "article_bottom_copy": "Скачайте FoneClaw и проверьте все поддерживаемые действия Android голосом."
+  },
+  "home": {
+    "three_things_title": "Три вещи, которые телефон должен делать за вас",
+    "three_things_subtitle": "FoneClaw берёт на себя повседневные задачи на телефоне, которые отнимают ваше время.",
+    "daily_brief": "Ежедневный брифинг",
+    "daily_brief_desc": "Сводка SMS, уведомлений и системной информации по контактам и времени. Видьте важное, не перебирая приложения.",
+    "phone_health": "Состояние телефона",
+    "phone_health_desc": "Отчёт о батарее, памяти, сети и рисках разрешений одной голосовой командой. Не нужно рыться в настройках Android.",
+    "passive_triggers": "Пассивные триггеры",
+    "passive_triggers_desc": "Сделайте скриншот или фото в любом приложении — FoneClaw автоматически обнаружит и предложит краткое описание. Без переключения контекста.",
+    "feature_categories": "категорий функций",
+    "supported_actions": "поддерживаемых действий",
+    "free": "основных функций",
+    "core_features": "основных функций",
+    "system_execution": "системных операций",
+    "deep_dives_title": "Подробные руководства по FoneClaw",
+    "deep_dives_subtitle": "Наши свежие руководства по голосовому управлению Android.",
+    "cta_bottom_title": "120+ действий, бесплатно для тестирования.",
+    "cta_bottom_subtitle": "Скачайте FoneClaw и проверьте все поддерживаемые действия Android голосом."
+  },
+  "features": {
+    "hero_eyebrow": "Состояние телефона",
+    "hero_title": "Более 120 действий на телефоне — одна голосовая команда.",
+    "hero_subtitle": "FoneClaw превращает возможности Android в команды на естественном языке: состояние устройства, сообщ",
+    "categories_title": "16 категорий функций и 120+ действий",
+    "categories_subtitle": "Функции сгруппированы по задачам на телефоне. Одни требуют настройки, другие работают сразу.",
+    "categories": "категорий функций",
+    "supported_actions": "поддерживаемых действий",
+    "commands_title": "Восемь команд, которые показывают продукт",
+    "commands_subtitle": "Каждая команда дает видимый результат: отчет, сводку, изменение настройки, понимание скриншота, геолокацию или навигацию.",
+    "explore_features": "Посмотреть функции",
+    "trust_title": "Разрешения, настройка и контроль пользователя",
+    "trust_subtitle": "FoneClaw использует разрешения Android для реальных действий на телефоне. Доверие — часть продукта.",
+    "faq_title": "Частые вопросы",
+    "faq_subtitle": "Частые вопросы о функциях FoneClaw.",
+    "mid_cta_title": "120+ действий, бесплатно для тестирования.",
+    "mid_cta_subtitle": "Скачайте FoneClaw и проверьте все поддерживаемые действия Android голосом.",
+    "bottom_cta_title": "Готовы попробовать помощника, который действительно действует?",
+    "bottom_cta_subtitle": "Скачайте FoneClaw и проверьте 120+ поддерживаемых действий, понятные разрешения и практичные задачи на Android."
+  },
+  "download": {
+    "title": "Скачать FoneClaw — AI голосовой агент для Android",
+    "subtitle": "Основные функции бесплатны. Карта не нужна.",
+    "requirements_title": "Системные требования",
+    "requirements_subtitle": "Проверьте, соответствует ли устройство этим требованиям.",
+    "apk_description": "AI-помощник системного уровня для Android 9+. Голосовое управление, автоматизация между приложениями и обучение памяти.",
+    "faq_title": "Частые вопросы"
+  },
+  "resources": {
+    "title": "Ресурсы FoneClaw",
+    "subtitle": "Практические руководства, сравнения и материалы об Android-управлении голосом и телефонных AI-агентах.",
+    "featured_articles": "Избранные статьи",
+    "browse_topics": "Поиск по темам",
+    "articles_count": "120+",
+    "articles_label": "Статей",
+    "topics_count": "4",
+    "topics_label": "Тем",
+    "hours_count": "40+",
+    "hours_label": "Часов чтения",
+    "cta_title": "120+ действий, бесплатно для тестирования.",
+    "cta_subtitle": "Скачайте FoneClaw и проверьте все поддерживаемые действия Android голосом.",
+    "get_foneclaw": "Скачать FoneClaw"
+  },
+  "community": {
+    "title": "Присоединяйтесь к сообществу FoneClaw",
+    "subtitle": "Общайтесь с другими пользователями, получайте ранние обновления и помогайте формировать будущее голосового управления Android."
+  },
+  "article": {
+    "summary_title": "Ключевые выводы",
+    "toc_title": "Содержание",
+    "faq_title": "Частые вопросы",
+    "related_articles": "Похожие статьи"
+  },
+  "articles": {
+    "read_more": "Читать →",
+    "min_read": "мин"
+  },
+  "share": {
+    "share_on_x": "Поделиться в X",
+    "share_on_telegram": "Поделиться в Telegram",
+    "share_on_linkedin": "Поделиться в LinkedIn",
+    "share_on_facebook": "Поделиться в Facebook",
+    "share_on_reddit": "Поделиться в Reddit",
+    "copy_link": "Скопировать ссылку"
+  },
+  "pages": {
+    "index": {
+      "title": "FoneClaw — AI-ассистент для Android | 120+ голосовых команд",
+      "description": "FoneClaw выполняет реальные действия на Android по голосу: состояние устройства, сообщения, настройки, скриншоты, навигация и веб-задачи в 16 категориях."
+    },
+    "features": {
+      "title": "Функции FoneClaw — AI-ассистент для Android",
+      "description": "Обзор 120+ функций FoneClaw для Android: состояние устройства, сообщения, настройки, скриншоты, почт"
+    },
+    "download": {
+      "title": "Скачать FoneClaw — AI голосовой агент для Android",
+      "description": "Скачайте FoneClaw — AI голосовой агент для Android. Управляйте телефоном голосом: звонки, SMS, прило"
+    },
+    "resources": {
+      "title": "Ресурсы FoneClaw",
+      "description": "Практические руководства, сравнения и материалы об Android-управлении голосом и телефонных AI-агентах."
+    },
+    "community": {
+      "title": "Сообщество FoneClaw — Пользователи и отзывы",
+      "description": "Присоединяйтесь к сообществу FoneClaw в Telegram, Discord и X. Получайте обновления, делитесь отзывами и общайтесь с другими пользователями."
+    },
+    "privacy": {
+      "title": "Политика конфиденциальности - FoneClaw",
+      "description": "Политика конфиденциальности FoneClaw: как мы собираем, используем и защищаем ваши персональные данные."
+    },
+    "cookie": {
+      "title": "Politika Cookie - FoneClaw",
+      "description": "Kak FoneClaw ispolzuyet fayly cookie i analogichnyye tekhnologii na nashem sayte."
+    },
+    "not_found": {
+      "title": "Страница не найдена",
+      "desc": "Страница, которую вы ищете, не существует или была перемещена.",
+      "home": "На главную"
+    }
+  },
+  "community_buttons": {
+    "join": "Вступить",
+    "follow": "Следить",
+    "subscribe": "Подписаться",
+    "email": "Email"
+  },
+  "privacy": {
+    "h1": "Политика конфиденциальности",
+    "desc": "Kak FoneClaw sobiraet, ispolzuet i zashchishchayet vashi personalnyye dannyye.",
+    "s1_title": "Informatsiyu kotoruyu my sobirayem",
+    "s1_body": "FoneClaw sobirayet minimalnyy obyem dannykh, neobkhodimyy dlya golosovogo upravleniya telefonom. Eto vklyuchayet golosovyye komandy, obrabatyvayemyye lokalno na vashem ustroystve, shablony ispolzovaniya prilozheniy, khranyashchiyesya tolko na vashem ustroystve dlya izucheniya predpochteniy, i neobyazatelnyye dannyye oblachnoy obrabotki, kotoryye shifruyutsya i udalyayutsya srazu posle ispolzovaniya. My ne sobirayem istoriyu prosmatrov, kontakty ili soderzhaniye soobshcheniy.",
+    "s2_title": "Kak my ispolzuyem vashu informatsiyu",
+    "s2_body": "My ispolzuyem sobrannuyu informatsiyu isklyuchitelno dlya predostavleniya i uluchsheniya servisov FoneClaw. Golosovyye komandy obrabatyvayutsya dlya vypolneniya zaproshennykh deystviy. Shablony ispolzovaniya pomogayut personalizirovat vash opyt. My nikogda ne prodayem vashi dannyye tretim litsam i ne ispolzuyem yeye v reklamnykh tselyakh.",
+    "s3_title": "Khraneniye i bezopasnost dannykh",
+    "s3_body": "Vashi dannyye po umolchaniyu khranyatsya lokalno na vashem ustroystve. Pri vklyuchenii oblachnoy obrabotki dlya otdelnykh funktsiy dannyye shifruyutsya pri peredache i khranenii s ispolzovaniyem otraslevogo standarta AES-256. Oblachnyye dannyye avtomaticheski udalyayutsya v techeniye 24 chasov posle obrabotki.",
+    "s4_title": " storonniye servisy",
+    "s4_body": "FoneClaw integriruyetsya so storonnimi servisami (Google Maps, Spotify i dr.) tolko pri vashey yavnoy avtorizatsii. Kazhdaya integratsiya sleduyet politike konfidencialnosti sootvetstvuyushchego servisa. My ne peredayem vashi dannyye mezhdu storonnimi servisami.",
+    "s5_title": "Vashi prava",
+    "s5_body": "Vyye imeyete pravo v lyuboy moment poluchit dostup, izmenit ili udalit svoyi personalnyye dannyye. Vyye mozhete eksportirovat dannyye, otkazatsya ot oblachnoy obrabotki ili polnostyu udalit uchyotnuyu zapis cherez menyu nastroek FoneClaw.",
+    "s6_title": "Konfidentsialnost detey",
+    "s6_body": "FoneClaw ne dlya detey mladshe 13 let. My ne sobirayem namerenno lichnuyu informatsiyu detey. Yesli vyye schitayete, chto rebyonok predostavil nam personalnyye dannyye, nemedlenno svyazhites s nami.",
+    "s7_title": "Izmeneniya v politike",
+    "s7_body": "My mozhem periodicheski obnovlyat dannuyu politiku konfidentsialnosti. Sushchestvennyye izmeneniya budut soobshcheny cherez prilozheniye i sayt FoneClaw. Prodolzheniye ispolzovaniya posle izmeneniy oznachayet prinyatiye obnovlyonnoy politiki.",
+    "s8_title": "Svyzhites s nami",
+    "s8_body": "Po voprosam ili opaseniyam, svyazannym s konfidencialnostyu, svyazhites s nami po adresu privacy@foneclaw.ai. My otvechayem na vse zaprosy o konfidencialnosti v techeniye 48 chasov."
+  },
+  "cookie": {
+    "h1": "Политика использования Cookie",
+    "desc": "Kak FoneClaw ispolzuyet fayly cookie i analogichnyye tekhnologii na nashem sayte.",
+    "s1_title": "Chto takoye Cookie",
+    "s1_body": "Fayly cookie yest nebolshiye tekstovyye fayly, khranyashchiyesya na vashem ustroystve pri poseshchenii nashsay sayta. Oni pomogayut nam obespechit luchshiy opyt prosmotra, zapominaya vashi predpochteniya i ponimaya, kak vy ispolzuyet nash sayt.",
+    "s2_title": "Tipy ispolzuyemykh Cookie",
+    "s2_body": "My ispolzuyem neskolko tipov faylov cookie na nashem sayte: osnovnyye cookie dlya funktsionalnosti sayta, analiticheskiye cookie dlya ponimaniya povedeniya posetiteley i cookie predpochteniy dlya zapominaniya yazyka i nastroek displeya.",
+    "s3_title": "Osnovnyye Cookie",
+    "s3_body": "Eti fayly cookie neobkhodimy dlya pravilnoy raboty sayta. Oni obespechivayut osnovnyye funktsii, takii kak navigatsiya po stranitsam, dostup k zashchishchonnym zonam i vybor yazyka. Sayt ne mozhet rabotat pravilno bez etikh faylov cookie.",
+    "s4_title": "Analiticheskiye Cookie",
+    "s4_body": "My ispolzuyem Google Analytics dlya ponyatiya togo, kak posetiteli vzaimodeystvuyut s nashim saytom. Eti fayly cookie sobirayut informatsiyu, takuyu kak poseshchonnve stranitsy, vremya, provedonnoye na sayte, i istochniki trafika. Eti dannyye pomogayut nam uluchshit kontent i polzovatel'skiy opyt. Dannyye Google Analytics yest agregirovannyye i anonimnyye.",
+    "s5_title": "Storonniye Cookie",
+    "s5_body": "Nekotoryye fayly cookie razmeshchayutsya storonnimi servisami, kotoryye poyavlyayutsya na nashikh stranitsakh, naprimer Google Analytics. My ne kontrolliruyem eti fayly cookie. Pozhaluysta, obratites k politikam konfidencialnosti sootvetstvuyushchikh tretikh storon dlya polucheniya dopolnitelnoy informatsii ob ikh praktike ispolzovaniya cookie.",
+    "s6_title": "Upravleniye Cookie",
+    "s6_body": "Vy mozhete upravlyat faylami cookie cherez nastroyki vashego brauzera. Bolshinstvo brauzerov pozvolyayut blokirovat ili udalyat fayly cookie. Odnako otklyucheniye osnovnykh faylov cookie mozhet povliyat na funktsionalnost sayta. Vy takzhe mozhete ispolzovash nash banner soglasiya na cookie dlya upravleniya vashimi predpochteniyami.",
+    "s7_title": "Sokhraneniye Cookie",
+    "s7_body": "Sesionnyye fayly cookie udalyayutsya pri zakrytii brauzera. Postoyannyye fayly cookie ostayutsya na vashem ustroystve na ustanovlennyy period ili do ikh udaleniya. Maksimalnyy period sokhraneniya nashikh analiticheskikh faylov cookie sostavlyayet 26 mesyatsev.",
+    "s8_title": "Svyazhites s nami",
+    "s8_body": "Po voprosam nashey politiki cookie obratites po adresu privacy@foneclaw.ai."
+  },
+  "author": {
+    "title": "Dean - Старший Android-инженер и основатель FoneClaw",
+    "desc": "Dean - старший Android-инженер и основатель FoneClaw. Читайте его статьи об AI-агентах, голосовом управлении и мобильной автоматизации.",
+    "role": "Старший Android-инженер и основатель FoneClaw",
+    "bio_short": "Строим будущее голосового управления Android-телефонами. Страстно увлечён AI-агентами, мобильной автоматизацией и доступностью технологий.",
+    "stat_articles": "Статей опубликовано",
+    "stat_categories": "Категорий контента",
+    "stat_experience": "Лет опыта",
+    "about_title": "Об авторе",
+    "about_p1": "Dean - старший Android-инженер с более 10 лет опыта в мобильной разработке. Имеет глубокие знания внутренностей Android, системного программирования и мобильной автоматизации.",
+    "about_p2": "После многих лет работы над крупными Android-проектами, Dean основал FoneClaw для решения ключевой проблемы: почему нельзя управлять телефоном полностью голосом? Традиционные голосовые помощники могут устанавливать будильники и воспроизводить музыку, но не могут навигировать по приложениям, заполнять формы или связывать многошаговые задачи.",
+    "about_p3": "FoneClaw - результат видения Dean настоящего AI-агента на Android — он читает экран, понимает намерение и физически взаимодействует с телефоном для выполнения задач. Без API, без партнёрств с разработчиками. Только чистый голосовой контроль любого Android-приложения.",
+    "articles_title": "Статьи Dean",
+    "article_label": "Статья",
+    "no_articles": "На этом языке пока нет доступных статей."
+  }
+}

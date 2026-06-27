@@ -1,0 +1,219 @@
+{
+  "meta": {
+    "title": "FoneClaw — KI-Agent für Android | 120+ Sprachbefehle",
+    "description": "FoneClaw führt echte Aktionen auf Android per Sprache aus: Gerätestatus, Nachrichten, Einstellungen, Screenshots, Navigation und Webaufgaben in 16 Kategorien."
+  },
+  "nav": {
+    "home": "Startseite",
+    "features": "Funktionen",
+    "download": "Download",
+    "resources": "Ressourcen",
+    "community": "Community"
+  },
+  "hero": {
+    "title": "Sag es. Erledigt.",
+    "subtitle": "Über 120 Aktionen auf dem Smartphone mit einem Sprachbefehl. Kernfunktionen sind kostenlos. FoneClaw ist der KI-Agent für Android, der Ihr Telefon wirklich steuert — nicht nur Fragen beantwortet.",
+    "see_features": "Funktionen ansehen →"
+  },
+  "footer": {
+    "description": "FoneClaw ist der KI-Agent, der Ihr Android-Smartphone wirklich steuert — nicht nur Fragen beantwortet.",
+    "product": "Produkt",
+    "topics": "Themen",
+    "company": "Unternehmen",
+    "privacy": "Datenschutz",
+    "rights": "Alle Rechte vorbehalten.",
+    "cookie": "Cookie-Richtlinie"
+  },
+  "cta": {
+    "download_apk": "FoneClaw herunterladen",
+    "checking": "Kernfunktionen kostenlos. Keine Kreditkarte nötig.",
+    "coming_soon": "APK bald verfügbar",
+    "unavailable": "APK vorübergehend nicht verfügbar",
+    "download_copy": "Kostenloser Download, neueste Version für Android.",
+    "article_title": "120+ Aktionen, kostenlos zum Testen.",
+    "article_copy": "Laden Sie FoneClaw herunter und testen Sie alle unterstützten Android-Aktionen per Sprache.",
+    "article_bottom_title": "120+ Aktionen, kostenlos zum Testen.",
+    "article_bottom_copy": "Laden Sie FoneClaw herunter und testen Sie alle unterstützten Android-Aktionen per Sprache."
+  },
+  "home": {
+    "three_things_title": "Drei Dinge, die Ihr Smartphone für Sie erledigen sollte",
+    "three_things_subtitle": "FoneClaw übernimmt alltägliche Aufgaben auf Ihrem Telefon, die Ihnen Zeit kosten.",
+    "daily_brief": "Tägliches Briefing",
+    "daily_brief_desc": "Zusammenfassung von SMS, Benachrichtigungen und Systeminformationen nach Kontakt und Uhrzeit. Sehen Sie auf einen Blick, was wichtig ist — ohne durch Apps zu navigieren.",
+    "phone_health": "Telefonstatus",
+    "phone_health_desc": "Bericht über Akku, Speicher, Netzwerk und Berechtigungsrisiken mit einem einzigen Sprachbefehl. Nicht mehr in den Android-Einstellungen graben.",
+    "passive_triggers": "Passive Trigger",
+    "passive_triggers_desc": "Machen Sie einen Screenshot oder ein Foto in jeder App — FoneClaw erkennt es automatisch und bietet eine Zusammenfassung an. Ohne Kontextwechsel.",
+    "feature_categories": "Funktionskategorien",
+    "supported_actions": "unterstützte Aktionen",
+    "free": "Kernfunktionen",
+    "core_features": "Kernfunktionen",
+    "system_execution": "Systemoperationen",
+    "deep_dives_title": "Detaillierte FoneClaw-Leitfäden",
+    "deep_dives_subtitle": "Unsere neuesten Leitfäden zur Android-Sprachsteuerung.",
+    "cta_bottom_title": "120+ Aktionen, kostenlos zum Testen.",
+    "cta_bottom_subtitle": "Laden Sie FoneClaw herunter und testen Sie alle unterstützten Android-Aktionen per Sprache."
+  },
+  "features": {
+    "hero_eyebrow": "Telefonstatus",
+    "hero_title": "Über 120 Aktionen auf dem Smartphone — ein Sprachbefehl.",
+    "hero_subtitle": "FoneClaw verwandelt Android-Fähigkeiten in natürliche Befehle: Gerätestatus, Nachrichten, Einstellungen, Screenshots, Standort und Navigation.",
+    "categories_title": "16 Funktionskategorien, 120+ Aktionen",
+    "categories_subtitle": "Jede Funktion ist danach geordnet, was Sie auf dem Telefon tun möchten. Einige benötigen Einrichtung, andere funktionieren sofort.",
+    "categories": "Funktionskategorien",
+    "supported_actions": "unterstützte Aktionen",
+    "commands_title": "Acht Befehle, die das Produkt zeigen",
+    "commands_subtitle": "Jeder Befehl führt zu einem sichtbaren Ergebnis: Bericht, Zusammenfassung, Einstellungsänderung, Screenshot-Verständnis, Standort oder Navigation.",
+    "explore_features": "Funktionen ansehen",
+    "trust_title": "Berechtigungen, Einrichtung und Nutzerkontrolle",
+    "trust_subtitle": "FoneClaw nutzt Android-Berechtigungen für echte Telefonaktionen. Vertrauen ist Teil der Produkterfahrung.",
+    "faq_title": "Häufige Fragen",
+    "faq_subtitle": "Häufige Fragen zu FoneClaw-Funktionen.",
+    "mid_cta_title": "120+ Aktionen, kostenlos zum Testen.",
+    "mid_cta_subtitle": "Laden Sie FoneClaw herunter und testen Sie alle unterstützten Android-Aktionen per Sprache.",
+    "bottom_cta_title": "Bereit für einen Telefonassistenten, der wirklich handelt?",
+    "bottom_cta_subtitle": "Laden Sie FoneClaw herunter und testen Sie 120+ unterstützte Aktionen, transparente Berechtigungen und praktische Android-Aufgaben."
+  },
+  "download": {
+    "title": "FoneClaw herunterladen — KI-Agent für Android",
+    "subtitle": "Kernfunktionen kostenlos. Keine Kreditkarte nötig.",
+    "requirements_title": "Systemanforderungen",
+    "requirements_subtitle": "Stellen Sie sicher, dass Ihr Gerät diese Anforderungen erfüllt.",
+    "apk_description": "Systemnaher KI-Assistent für Android 9+. Sprachsteuerung, App-übergreifende Automatisierung und Gedächtnislernen.",
+    "faq_title": "Häufige Fragen"
+  },
+  "resources": {
+    "title": "FoneClaw Ressourcen",
+    "subtitle": "Anleitungen, Vergleiche und praktische Ressourcen zu Android-Sprachsteuerung und Phone-AI-Agenten.",
+    "featured_articles": "Ausgewählte Artikel",
+    "browse_topics": "Nach Thema durchsuchen",
+    "articles_count": "120+",
+    "articles_label": "Artikel",
+    "topics_count": "4",
+    "topics_label": "Themen",
+    "hours_count": "40+",
+    "hours_label": "Lesezeit",
+    "cta_title": "120+ Aktionen, kostenlos zum Testen.",
+    "cta_subtitle": "Laden Sie FoneClaw herunter und testen Sie alle unterstützten Android-Aktionen per Sprache.",
+    "get_foneclaw": "FoneClaw herunterladen"
+  },
+  "community": {
+    "title": "Tritt der FoneClaw-Community bei",
+    "subtitle": "Vernetze dich mit anderen Nutzern, erhalte frühe Updates und gestalte die Zukunft der Sprachsteuerung auf Android mit."
+  },
+  "article": {
+    "summary_title": "Wichtigste Erkenntnisse",
+    "toc_title": "Inhaltsverzeichnis",
+    "faq_title": "Häufige Fragen",
+    "related_articles": "Verwandte Artikel"
+  },
+  "articles": {
+    "read_more": "Lesen →",
+    "min_read": "Min"
+  },
+  "share": {
+    "share_on_x": "Auf X teilen",
+    "share_on_telegram": "Auf Telegram teilen",
+    "share_on_linkedin": "Auf LinkedIn teilen",
+    "share_on_facebook": "Auf Facebook teilen",
+    "share_on_reddit": "Auf Reddit teilen",
+    "copy_link": "Link kopieren"
+  },
+  "pages": {
+    "index": {
+      "title": "FoneClaw — KI-Agent für Android | 120+ Sprachbefehle",
+      "description": "FoneClaw führt echte Aktionen auf Android per Sprache aus: Gerätestatus, Nachrichten, Einstellungen, Screenshots, Navigation und Webaufgaben in 16 Kategorien."
+    },
+    "features": {
+      "title": "FoneClaw Funktionen — KI-Assistent für Android",
+      "description": "Entdecken Sie 120+ FoneClaw-Funktionen für Android: Gerätestatus, Nachrichten, Einstellungen, Screenshots, E-Mail, Kalender, Karten und Webaufgaben mit klaren Berechtigungen."
+    },
+    "download": {
+      "title": "FoneClaw herunterladen — KI-Agent für Android",
+      "description": "Laden Sie FoneClaw für Android herunter. Kernfunktionen sind kostenlos, keine Kreditkarte erforderli"
+    },
+    "resources": {
+      "title": "FoneClaw Ressourcen",
+      "description": "Anleitungen, Vergleiche und praktische Ressourcen zu Android-Sprachsteuerung und Phone-AI-Agenten."
+    },
+    "community": {
+      "title": "Community FoneClaw — Nutzer und Feedback",
+      "description": "Tritt der FoneClaw-Community auf Telegram, Discord und X bei. Erhalte Updates, teile Feedback und vernetze dich mit anderen Nutzern."
+    },
+    "privacy": {
+      "title": "Datenschutz - FoneClaw",
+      "description": "FoneClaw Datenschutzrichtlinie: wie wir Ihre persönlichen Daten erheben, verwenden und schützen."
+    },
+    "cookie": {
+      "title": "Cookie-Richtlinie - FoneClaw",
+      "description": "Wie FoneClaw Cookies und hnliche Technologien auf unserer Website verwendet."
+    },
+    "not_found": {
+      "title": "Seite nicht gefunden",
+      "desc": "Die gesuchte Seite existiert nicht oder wurde verschoben.",
+      "home": "Zur Startseite"
+    }
+  },
+  "community_buttons": {
+    "join": "Beitreten",
+    "follow": "Folgen",
+    "subscribe": "Abonnieren",
+    "email": "E-Mail"
+  },
+  "privacy": {
+    "h1": "Datenschutzrichtlinie",
+    "desc": "Wie FoneClaw Ihre personlichen Daten erhebt, verwendet und schutzt.",
+    "s1_title": "Informationen die Wir Erheben",
+    "s1_body": "FoneClaw erhebt nur die fur die sprachgesteuerte Telefonautomatisierung erforderlichen Mindestdaten. Dazu gehoren Sprachbefehle, die lokal auf Ihrem Gerat verarbeitet werden, App-Nutzungsmuster, die nur auf Ihrem Gerat zur Praferenzspeicherung gespeichert werden, und optionale Cloud-Verarbeitungsdaten, die verschlusselt und sofort nach der Nutzung geloscht werden. Wir erheben keinen Browserverlauf, keine Kontakte und keine Nachrichteninhalte.",
+    "s2_title": "Wie Wir Ihre Informationen Verwenden",
+    "s2_body": "Wir verwenden die gesammelten Informationen ausschliesslich zur Bereitstellung und Verbesserung der FoneClaw-Dienste. Sprachbefehle werden verarbeitet, um Ihre angeforderten Aktionen auszufuhren. Nutzungsmuster helfen uns, Ihre Erfahrung zu personalisieren. Wir verkaufen Ihre Daten niemals an Dritte oder verwenden sie fur Werbezwecke.",
+    "s3_title": "Datenspeicherung und Sicherheit",
+    "s3_body": "Ihre Daten werden standardmassig lokal auf Ihrem Gerat gespeichert. Wenn die Cloud-Verarbeitung fur bestimmte Funktionen aktiviert ist, werden Daten wahrend der Ubertragung und im Ruhezustand mit der branchenublichen AES-256-Verschlusselung verschlusselt. Cloud-Daten werden automatisch innerhalb von 24 Stunden nach der Verarbeitung geloscht.",
+    "s4_title": "Dienste Dritter",
+    "s4_body": "FoneClaw integriert sich mit Diensten Dritter (Google Maps, Spotify usw.) nur, wenn Sie diese ausdrucklich autorisieren. Jede Integration folgt der Datenschutzrichtlinie des jeweiligen Dienstes. Wir teilen Ihre Daten nicht zwischen Diensten Dritter.",
+    "s5_title": "Ihre Rechte",
+    "s5_body": "Sie haben das Recht, jederzeit auf Ihre personlichen Daten zuzugreifen, sie zu andern oder zu loschen. Sie konnen Ihre Daten exportieren, die Cloud-Verarbeitung deaktivieren oder Ihr Konto vollstandig uber das FoneClaw-Einstellungsmenu loschen.",
+    "s6_title": "Datenschutz von Kindern",
+    "s6_body": "FoneClaw ist nicht fur Kinder unter 13 Jahren bestimmt. Wir sammeln wissentlich keine personlichen Informationen von Kindern. Wenn Sie glauben, dass ein Kind uns personliche Daten bereitgestellt hat, kontaktieren Sie uns bitte sofort.",
+    "s7_title": "Anderungen dieser Richtlinie",
+    "s7_body": "Wir konnen diese Datenschutzrichtlinie regelmaessig aktualisieren. Wesentliche Anderungen werden uber die FoneClaw-App und Website mitgeteilt. Die weitere Nutzung nach Anderungen stellt die Akzeptanz der aktualisierten Richtlinie dar.",
+    "s8_title": "Kontaktieren Sie Uns",
+    "s8_body": "Bei Fragen oder Bedenken zum Datenschutz kontaktieren Sie uns unter privacy@foneclaw.ai. Wir antworten innerhalb von 48 Stunden auf alle Datenschutzanfragen."
+  },
+  "cookie": {
+    "h1": "Cookie-Richtlinie",
+    "desc": "Wie FoneClaw Cookies und hnliche Technologien auf unserer Website verwendet.",
+    "s1_title": "Was sind Cookies",
+    "s1_body": "Cookies sind kleine Textdateien, die auf Ihrem Gert gespeichert werden, wenn Sie unsere Website besuchen. Sie helfen uns, Ihnen ein besseres Browsing-Erlebnis zu bieten, indem sie sich an Ihre Einstellungen erinnern und verstehen, wie Sie unsere Website nutzen.",
+    "s2_title": "Arten von Cookies die Wir Verwenden",
+    "s2_body": "Wir verwenden verschiedene Arten von Cookies auf unserer Website: wesentliche Cookies fr die Website-Funktionalitt, Analyse-Cookies zum Verstndnis des Besucherverhaltens und Einstellungs-Cookies zum Speichern Ihrer Sprach- und Anzeigeeinstellungen.",
+    "s3_title": "Wesentliche Cookies",
+    "s3_body": "Diese Cookies sind fr das ordnungsgeme Funktionieren der Website erforderlich. Sie ermglichen Kernfunktionen wie Seitennavigation, Zugang zu sicheren Bereichen und Sprachauswahl. Die Website kann ohne diese Cookies nicht richtig funktionieren.",
+    "s4_title": "Analyse-Cookies",
+    "s4_body": "Wir verwenden Google Analytics, um zu verstehen, wie Besucher mit unserer Website interagieren. Diese Cookies sammeln Informationen wie besuchte Seiten, Verweildauer auf der Website und Traffic-Quellen. Diese Daten helfen uns, unsere Inhalte und Benutzererfahrung zu verbessern. Die Google Analytics-Daten sind aggregiert und anonymisiert.",
+    "s5_title": "Cookies Dritter",
+    "s5_body": "Einige Cookies werden von Drittanbieterdiensten platziert, die auf unseren Seiten erscheinen, wie Google Analytics. Wir kontrollieren diese Cookies nicht. Bitte beachten Sie die Datenschutzrichtlinien der jeweiligen Drittanbieter fr weitere Informationen zu deren Cookie-Praktiken.",
+    "s6_title": "Cookie-Verwaltung",
+    "s6_body": "Sie knnen Cookies ber Ihre Browsereinstellungen steuern und verwalten. Die meisten Browser允许Sie Cookies blockieren oder lschen. Die Deaktivierung wesentlicher Cookies kann jedoch die Website-Funktionalitt beeintrchtigen. Sie knnen auch unser Cookie-Zustimmungs-Banner verwenden, um Ihre Einstellungen zu verwalten.",
+    "s7_title": "Cookie-Aufbewahrung",
+    "s7_body": "Sitzungs-Cookies werden gelscht, wenn Sie Ihren Browser schlieen. Persistente Cookies verbleiben fr einen festgelegten Zeitraum auf Ihrem Gert oder bis Sie sie lschen. Die maximale Aufbewahrungsfrist unserer Analyse-Cookies betrgt 26 Monate.",
+    "s8_title": "Kontaktieren Sie Uns",
+    "s8_body": "Fragen zu unserer Cookie-Richtlinie kontaktieren Sie uns unter privacy@foneclaw.ai."
+  },
+  "author": {
+    "title": "Dean - Senior Android-Ingenieur und Gruender von FoneClaw",
+    "desc": "Dean ist ein Senior-Systemingenieur fuer Android und Gruender von FoneClaw. Lesen Sie seine Artikel ueber KI-Agenten, Sprachsteuerung und mobile Automatisierung.",
+    "role": "Senior Android-Ingenieur und Gruender von FoneClaw",
+    "bio_short": "Die Zukunft sprachgesteuerter Android-Telefone gestalten. Leidenschaftlich fuer KI-Agenten, mobile Automatisierung und Technologie fuer alle.",
+    "stat_articles": "Veroeffentlichte Artikel",
+    "stat_categories": "Inhaltskategorien",
+    "stat_experience": "Jahre Erfahrung",
+    "about_title": "Ueber Dean",
+    "about_p1": "Dean ist ein Senior-Systemingenieur fuer Android mit ueber 10 Jahren Erfahrung in der mobilen Entwicklung. Er verfuegt ueer tiefgehende Expertise in Android-Internals, Systemprogrammierung und mobiler Automatisierung.",
+    "about_p2": "Nach Jahren der Arbeit an grossen Android-Projekten gruendete Dean FoneClaw, um ein grundlegendes Problem zu loesen: Warum kann man sein Telefon nicht komplett per Sprache steuern? Traditionelle Sprachassistenten koennen Wecker stellen und Musik abspielen, aber sie koennen nicht in Apps navigieren, Formulare ausfuellen oder mehrstufige Aufgaben verketten.",
+    "about_p3": "FoneClaw ist das Ergebnis von Deans Vision fuer einen echten KI-Agenten auf Android — einer, der Ihren Bildschirm liest, Ihre Absicht versteht und physisch mit Ihrem Telefon interagiert, um Aufgaben zu erledigen. Keine API erforderlich, keine Entwicklerpartnerschaften noetig. Nur reine Sprachsteuerung ueber jede Android-App.",
+    "articles_title": "Artikel von Dean",
+    "article_label": "Artikel",
+    "no_articles": "In dieser Sprache sind noch keine Artikel verfuegbar."
+  }
+}

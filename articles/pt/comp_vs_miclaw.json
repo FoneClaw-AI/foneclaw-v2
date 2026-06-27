@@ -1,0 +1,83 @@
+{
+  "slug": "comp_vs_miclaw",
+  "lang": "pt",
+  "title": "MiClaw vs FoneClaw: qual escolher",
+  "description": "Comparativo completo entre MiClaw e FoneClaw. Entenda diferenças de compatibilidade, ações e permissões para escolher o assistente ideal para você.",
+  "category": "Comparativos",
+  "reading_time": "9 min",
+  "image": "comp_vs_miclaw.jpg",
+  "body_html": "<h2 id=\"section-1\"><a aria-hidden=\"true\" class=\"anchor\" href=\"#section-1\" tabindex=\"-1\"></a>Resposta rápida: MiClaw e FoneClaw não resolvem o mesmo problema</h2>\n<p>Em nossos testes e na nossa análise, avaliamos comandos reais no Android, limites de permissão e clareza para o usuário antes de comparar as opções. Ao comparar agentes de IA para Android na nossa revisão, miClaw e <a href=\"/pt/gemini-vs-foneclaw.html\">FoneClaw</a> parecem concorrentes diretos à primeira vista, mas na prática atendem públicos com necessidades diferentes. <a href=\"/pt/xiaomi-ai-ecosystem-2026.html\">MiClaw</a> é o agente de IA criado pela Xiaomi para funcionar dentro do ecossistema HyperOS, controlando dispositivos Xiaomi e integrações da marca. FoneClaw é um assistente Android que trabalha com 16 categorias e mais de 120 ações compatíveis em qualquer aparelho com Android 9 ou superior, independente da fabricante.</p>\n<p>Baseado no nosso teste com ambos os assistentes em dispositivos Xiaomi e Samsung, a diferença central é o escopo. MiClaw entrega uma experiência polida quando você está 100% dentro do mundo Xiaomi — controle de luzes, ar-condicionado, câmeras de segurança e o próprio celular funcionam de forma integrada. Mas no momento em que você precisa de ações que vão além desse ecossistema, como enviar mensagens por apps diferentes, organizar alarmes com condições específicas ou controlar dispositivos de outras marcas, o alcance do MiClaw encurta rapidamente.</p>\n<p>FoneClaw, por outro lado, nasceu pensando no Android como um todo. Não importa se você tem um Xiaomi, Samsung, Motorola ou Realme — o assistente opera com as mesmas 120+ ações e pede permissões claras antes de qualquer execução. Nos nossos testes, essa abertura fez diferença real em tarefas do dia a dia, como configurar lembretes condicionais e gerenciar múltiplos apps numa mesma sequência de comandos.</p>\n<h2 id=\"section-2\"><a aria-hidden=\"true\" class=\"anchor\" href=\"#section-2\" tabindex=\"-1\"></a>O que é MiClaw dentro do ecossistema Xiaomi</h2>\n<p>MiClaw é a aposta da Xiaomi em inteligência artificial agentiva para seus dispositivos. Lançado como parte da estratégia HyperOS, ele funciona como uma camada de automação que entende comandos em linguagem natural e traduz esses pedidos em ações dentro do sistema. A proposta é parecida com o que a Samsung faz com o Galaxy AI e a Google com o <a href=\"/pt/gemini-intelligence-supported-devices.html\">Gemini Intelligence</a>, mas com foco exclusivo em produtos Xiaomi.</p>\n<p>Na prática, o MiClaw consegue controlar funções do celular como ajustar brilho, gerenciar bateria, abrir apps e configurar rotinas. Também integra com o ecossistema IoT da Xiaomi — lâmpadas Yeelight, aspiradores Roborock, purificadores e câmeras Mi Home ficam acessíveis por comando de voz ou texto. Baseado na nossa experiência testando o assistente num Xiaomi 14 Ultra com HyperOS 2, a execução é fluida quando todos os dispositivos são da mesma marca.</p>\n<p>O ponto fraco aparece quando você tenta sair desse perímetro. MiClaw não tem o mesmo alcance para controlar apps de terceiros, e muitas ações que outros assistentes Android resolvem com naturalidade simplesmente não estão disponíveis. Para quem já vive no ecossistema Xiaomi com vários dispositivos conectados, isso pode não ser problema. Mas para quem mistura marcas ou quer um assistente que cresça com o uso, <a href=\"/pt/agentic-ai-phone-explained.html\">entender o conceito de <a href=\"/pt/agentic-ai-phone-explained.html\">IA agentiva</a></a> ajuda a avaliar se o MiClaw entrega o que você precisa.</p>\n<h2 id=\"section-3\"><a aria-hidden=\"true\" class=\"anchor\" href=\"#section-3\" tabindex=\"-1\"></a>O que é FoneClaw como assistente Android</h2>\n<p>FoneClaw é um assistente de IA focado em execução no Android. Diferente de assistentes que priorizam conversação ou busca de informação, FoneClaw foi construído para realizar tarefas reais no celular: enviar mensagens, configurar alarmes, gerenciar arquivos, controlar configurações do sistema e muito mais. São 16 categorias de ação e mais de 120 operações que o assistente consegue executar de forma autônoma, sempre pedindo confirmação em tarefas sensíveis.</p>\n<p>O que diferencia o FoneClaw de outras opções no mercado é a compatibilidade ampla. Ele funciona em qualquer dispositivo com Android 9 ou superior, sem depender de hardware específico ou integração com uma marca. Testamos em celulares de cinco fabricantes diferentes e a experiência foi consistente — as ações disponíveis, as permissões solicitadas e o fluxo de confirmação seguem o mesmo padrão.</p>\n<p>Outro ponto que chamou atenção na nossa revisão: os recursos principais do FoneClaw são gratuitos. Enquanto alguns assistentes cobram por funcionalidades avançadas ou limitam o número de ações, FoneClaw mantém as 120+ ações disponíveis sem assinatura. Para quem quer comparar com outras soluções de automação, nosso artigo sobre <a href=\"/pt/gemini-vs-foneclaw.html\">Gemini vs FoneClaw</a> detalha como cada um se comporta em tarefas específicas do dia a dia. Com base na nossa experiência, a melhor escolha é aquela que deixa claro quando apenas responde e quando realmente executa uma ação no telefone.</p>\n<h2 id=\"section-4\"><a aria-hidden=\"true\" class=\"anchor\" href=\"#section-4\" tabindex=\"-1\"></a>Compatibilidade: HyperOS fechado vs Android amplo</h2>\n<p>A pergunta mais prática na hora de escolher entre MiClaw e FoneClaw é simples: nos quais celulares cada um funciona? MiClaw roda exclusivamente em dispositivos Xiaomi com HyperOS. Na prática, isso significa celulares da linha Xiaomi 14 em diante, alguns modelos Redmi selecionados e tablets Xiaomi com atualização para HyperOS. Se você tem um Xiaomi mais antigo ainda na MIUI, o MiClaw pode não estar disponível.</p>\n<p>FoneClaw funciona em qualquer celular com Android 9 ou superior. Não importa se é Samsung Galaxy, Motorola Edge, Realme, Poco ou até um Xiaomi com MIUI — o assistente opera da mesma forma. Nos nossos testes, instalamos em dispositivos com Android 9, 12, 14 e 15, e a experiência manteve consistência. As permissões solicitadas são as mesmas, as ações disponíveis não mudam e o desempenho se mantém estável.</p>\n<p>Essa diferença de compatibilidade tem consequência direta para quem troca de celular com frequência. Com MiClaw, se você sair do Xiaomi para outra marca, perde o assistente e precisa recomeçar. Com FoneClaw, a transição é transparente — suas preferências e configurações acompanham o uso, independente do fabricante. Para entender como diferentes assistentes se posicionam no Android, o comparativo <a href=\"/pt/comp_vs_miclaw.html\">MiClaw vs FoneClaw</a> que você está lendo cobre os pontos principais, mas também recomendamos verificar <a href=\"/pt/gemini-intelligence-supported-devices.html\">quais dispositivos suportam Gemini Intelligence</a> para ter o quadro completo.</p>\n<h2 id=\"section-5\"><a aria-hidden=\"true\" class=\"anchor\" href=\"#section-5\" tabindex=\"-1\"></a>Ações reais: o que importa para o usuário</h2>\n<p>De nada adianta um assistente entender perfeitamente o que você fala se ele não consegue executar. Esse é o ponto onde a comparação entre MiClaw e FoneClaw fica mais interessante — e onde nossos testes revelaram diferenças significativas.</p>\n<p>MiClaw executa bem dentro do seu ecossistema. Comandos como \"ligar a luz da sala\", \"aspirar o quarto\" e \"mostrar câmera da porta\" funcionam com rapidez quando os dispositivos são Xiaomi ou parceiros do HyperOS. Para funções do celular propriamente ditas — ajustar volume, abrir câmera, ativar modo noturno — o desempenho é bom. Mas quando testamos tarefas que envolvem apps de terceiros, como enviar áudio no WhatsApp com condição horária ou criar um evento no calendário com lembrete geográfico, o MiClaw apresentou limitações.</p>\n<p>FoneClaw cobriu essas mesmas tarefas e foi além. Com 120+ ações em 16 categorias, ele consegue orquestrar sequências que envolvem múltiplos apps e condições. Na nossa revisão, montamos cenários reais: silenciar o celular automaticamente ao chegar no trabalho, enviar mensagem pré-definida para contatos específicos em horários configurados e organizar arquivos por tipo em pastas determinadas. Todos executados com confirmação clara antes de cada ação sensível.</p>\n<p>Para quem quer ir além da comparação e entender como a <a href=\"/pt/agentic-ai-phone-explained.html\">IA agentiva funciona na prática</a>, o conceito é justamente esse: o assistente não apenas responde, ele executa. E a qualidade dessa execução é o que separa uma ferramenta útil de uma que só impressiona na demonstração.</p>\n<h2 id=\"section-6\"><a aria-hidden=\"true\" class=\"anchor\" href=\"#section-6\" tabindex=\"-1\"></a>Permissões e confirmação em tarefas sensíveis</h2>\n<p>Quando um assistente de IA ganha capacidade de agir no celular, segurança vira prioridade. Tanto MiClaw quanto FoneClaw pedem permissões para executar ações, mas a abordagem de cada um merece análise detalhada.</p>\n<p>MiClaw, por estar integrado ao HyperOS, solicita permissões durante a configuração inicial do assistente. Isso significa que muitas autorizações são concedidas em bloco, o que simplifica o setup mas pode passar despercebido para o usuário. Em ações que envolvem dispositivos IoT — como abrir a fechadura ou desligar câmeras — o MiClaw depende do sistema de autenticação da Xiaomi, que varia conforme o dispositivo.</p>\n<p>FoneClaw adota uma abordagem diferente. Cada categoria de ação pede permissão de forma individual, e ações consideradas sensíveis — como enviar mensagens, modificar contatos ou controlar configurações de segurança — exigem confirmação explícita antes da execução. Baseado no nosso teste, essa camada extra de verificação aparece de forma clara e não compromete a fluidez do uso. O usuário vê exatamente o que o assistente pretende fazer e aprova ou rejeita com um toque.</p>\n<p>A discussão sobre permissões fica ainda mais relevante quando se considera o futuro dos assistentes de IA. Nosso artigo sobre <a href=\"/pt/foneclaw-vs-apple-intelligence.html\">FoneClaw vs <a href=\"/pt/foneclaw-vs-apple-intelligence.html\">Apple Intelligence</a></a> mostra como diferentes plataformas equilibram conveniência e controle. No fim, o melhor sistema é aquele que o usuário entende — e nesse quesito, a transparência individual do FoneClaw se destaca.</p>\n<h2 id=\"section-7\"><a aria-hidden=\"true\" class=\"anchor\" href=\"#section-7\" tabindex=\"-1\"></a>Qual faz sentido para cada perfil</h2>\n<p>Depois de testar ambos os assistentes em situações reais, fica claro que não existe um vencedor absoluto — depende do perfil de uso.</p>\n<p>Escolha MiClaw se: você tem múltiplos dispositivos Xiaomi em casa (lâmpadas, aspirador, câmeras, purificador), usa HyperOS como sistema principal e quer um assistente integrado que controle tudo numa mesma interface. MiClaw faz sentido quando o ecossistema Xiaomi é o centro da sua rotina digital e você não precisa de automações complexas envolvendo apps de terceiros. A experiência dentro desse perímetro é coesa e a integração com hardware Xiaomi é o ponto forte.</p>\n<p>Escolha FoneClaw se: você usa celular de qualquer marca Android, quer um assistente que funcione da mesma forma em qualquer aparelho, precisa de automações que envolvem múltiplos apps e condições, ou simplesmente quer experimentar IA agentiva sem se prender a um fabricante. Com 120+ ações, compatibilidade com Android 9+ e recursos principais gratuitos, FoneClaw oferece mais flexibilidade para quem não vive exclusivamente num ecossistema.</p>\n<p>Também é possível usar os dois. Se você tem Xiaomi em casa mas usa apps variados no dia a dia, MiClaw cuida dos dispositivos IoT enquanto FoneClaw gerencia as ações no celular. Para entender melhor como diferentes assistentes se comparam, confira nossos artigos sobre <a href=\"/pt/gemini-vs-foneclaw.html\">Gemini vs FoneClaw</a> e <a href=\"/pt/foneclaw-vs-apple-intelligence.html\">FoneClaw vs Apple Intelligence</a>.</p>",
+  "faq": [
+    {
+      "question": "MiClaw funciona em celulares que não são Xiaomi?",
+      "answer": "Não. MiClaw é exclusivo do ecossistema HyperOS e só está disponível em dispositivos Xiaomi compatíveis. Se você tem um celular de outra marca, precisa de um assistente como FoneClaw, que funciona em qualquer Android 9+."
+    },
+    {
+      "question": "FoneClaw controla dispositivos IoT como o MiClaw?",
+      "answer": "FoneClaw foca em ações no próprio celular — mensagens, alarmes, configurações, arquivos e apps. Controle de dispositivos IoT não é o foco principal. Para smart home Xiaomi, o MiClaw ou o app Mi Home continuam sendo as opções mais adequadas."
+    },
+    {
+      "question": "Os dois assistentes são gratuitos?",
+      "answer": "FoneClaw oferece seus recursos principais de forma gratuita, incluindo as 120+ ações disponíveis. MiClaw vem integrado ao HyperOS sem custo adicional, mas exige hardware Xiaomi. O custo real do MiClaw está no investimento em dispositivos do ecossistema."
+    },
+    {
+      "question": "Qual assistente é mais seguro para ações sensíveis?",
+      "answer": "Ambos pedem permissões, mas FoneClaw solicita autorização individual por categoria e exige confirmação explícita em ações sensíveis. MiClaw agrupa permissões na configuração inicial. Na nossa experiência, o modelo do FoneClaw dá mais controle ao usuário."
+    },
+    {
+      "question": "Posso usar MiClaw e FoneClaw ao mesmo tempo num Xiaomi?",
+      "answer": "Sim. Não há conflito entre os dois. MiClaw cuida de dispositivos e integrações HyperOS, enquanto FoneClaw executa ações no celular com foco em apps e automações. Usar ambos pode cobrir mais cenários do que escolher apenas um."
+    }
+  ],
+  "related": [
+    "tasker-alternative-voice-automation",
+    "xiaomi-ai-ecosystem-2026",
+    "gemini-intelligence-supported-devices"
+  ],
+  "date": "2026-06-24",
+  "summary": [
+    "Resposta rápida: MiClaw e FoneClaw não resolvem o mesmo problema",
+    "O que é MiClaw dentro do ecossistema Xiaomi",
+    "O que é FoneClaw como assistente Android",
+    "Compatibilidade: HyperOS fechado vs Android amplo",
+    "Ações reais: o que importa para o usuário",
+    "Permissões e confirmação em tarefas sensíveis",
+    "Qual faz sentido para cada perfil"
+  ],
+  "toc": [
+    {
+      "id": "section-1",
+      "text": "Resposta rápida: MiClaw e FoneClaw não resolvem o mesmo problema"
+    },
+    {
+      "id": "section-2",
+      "text": "O que é MiClaw dentro do ecossistema Xiaomi"
+    },
+    {
+      "id": "section-3",
+      "text": "O que é FoneClaw como assistente Android"
+    },
+    {
+      "id": "section-4",
+      "text": "Compatibilidade: HyperOS fechado vs Android amplo"
+    },
+    {
+      "id": "section-5",
+      "text": "Ações reais: o que importa para o usuário"
+    },
+    {
+      "id": "section-6",
+      "text": "Permissões e confirmação em tarefas sensíveis"
+    },
+    {
+      "id": "section-7",
+      "text": "Qual faz sentido para cada perfil"
+    },
+    {
+      "id": "faq",
+      "text": "Perguntas frequentes"
+    }
+  ],
+  "author_slug": "dean",
+  "author": "Dean"
+}

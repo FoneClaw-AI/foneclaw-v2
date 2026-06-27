@@ -1,0 +1,219 @@
+{
+  "meta": {
+    "title": "FoneClaw — Agent IA pour Android | 120+ actions",
+    "description": "FoneClaw exécute de vraies actions sur Android par la voix : messages, paramètres, captures d'écran et tâches web. Gratuit pour les fonctions principales."
+  },
+  "nav": {
+    "home": "Accueil",
+    "features": "Fonctionnalités",
+    "download": "Télécharger",
+    "resources": "Ressources",
+    "community": "Communauté"
+  },
+  "hero": {
+    "title": "Dites-le. C'est fait.",
+    "subtitle": "Plus de 120 actions sur le téléphone en une commande vocale. Les fonctions principales sont gratuites. FoneClaw est l'agent IA Android qui contrôle réellement votre téléphone — pas juste un assistant qui répond à des questions.",
+    "see_features": "Voir les fonctionnalités →"
+  },
+  "footer": {
+    "description": "FoneClaw est l'agent IA qui contrôle réellement votre téléphone Android — pas seulement des réponses.",
+    "product": "Produit",
+    "topics": "Sujets",
+    "company": "Entreprise",
+    "privacy": "Politique de confidentialité",
+    "rights": "Tous droits réservés.",
+    "cookie": "Politique de Cookies"
+  },
+  "cta": {
+    "download_apk": "Télécharger FoneClaw",
+    "checking": "Fonctions principales gratuites. Aucune carte requise.",
+    "coming_soon": "APK bientôt disponible",
+    "unavailable": "APK temporairement indisponible",
+    "download_copy": "Téléchargement gratuit, dernière version pour Android.",
+    "article_title": "120+ actions, gratuites pour tester.",
+    "article_copy": "Téléchargez FoneClaw et testez toutes les actions Android prises en charge par la voix.",
+    "article_bottom_title": "120+ actions, gratuites pour tester.",
+    "article_bottom_copy": "Téléchargez FoneClaw et testez toutes les actions Android prises en charge par la voix."
+  },
+  "home": {
+    "three_things_title": "Trois choses que le téléphone devrait faire pour vous",
+    "three_things_subtitle": "FoneClaw prend en charge les tâches quotidiennes sur votre téléphone qui vous font perdre du temps.",
+    "daily_brief": "Briefing quotidien",
+    "daily_brief_desc": "Résumé des SMS, notifications et informations système par contact et par heure. Voyez l'essentiel sans naviguer entre les applications.",
+    "phone_health": "État du téléphone",
+    "phone_health_desc": "Rapport sur la batterie, la mémoire, le réseau et les risques de permissions en une seule commande vocale. Plus besoin de fouiller dans les paramètres Android.",
+    "passive_triggers": "Déclencheurs passifs",
+    "passive_triggers_desc": "Prenez une capture d'écran ou une photo dans n'importe quelle application — FoneClaw la détecte automatiquement et propose un résumé. Sans changer de contexte.",
+    "feature_categories": "catégories de fonctionnalités",
+    "supported_actions": "actions prises en charge",
+    "free": "fonctions principales",
+    "core_features": "fonctions principales",
+    "system_execution": "opérations système",
+    "deep_dives_title": "Guides détaillés sur FoneClaw",
+    "deep_dives_subtitle": "Nos derniers guides sur la commande vocale Android.",
+    "cta_bottom_title": "120+ actions, gratuites pour tester.",
+    "cta_bottom_subtitle": "Téléchargez FoneClaw et testez toutes les actions Android prises en charge par la voix."
+  },
+  "features": {
+    "hero_eyebrow": "État du téléphone",
+    "hero_title": "Plus de 120 actions sur le téléphone — une commande vocale.",
+    "hero_subtitle": "FoneClaw transforme les capacités d’Android en commandes naturelles : état du téléphone, messages, réglages, captures d’écran, position et navigation.",
+    "categories_title": "16 catégories et plus de 120 actions",
+    "categories_subtitle": "Chaque fonction est organisée selon ce que vous voulez faire sur votre téléphone. Certaines nécessitent une configuration, d’autres fonctionnent immédiatement.",
+    "categories": "catégories de fonctionnalités",
+    "supported_actions": "actions prises en charge",
+    "commands_title": "Huit commandes qui montrent le produit",
+    "commands_subtitle": "Chaque commande produit un résultat visible : rapport, résumé, réglage, compréhension de capture, position ou navigation.",
+    "explore_features": "Explorer les fonctionnalités",
+    "trust_title": "Autorisations, configuration et contrôle utilisateur",
+    "trust_subtitle": "FoneClaw utilise les autorisations Android pour effectuer de vraies actions sur le téléphone. La confiance fait partie de l’expérience.",
+    "faq_title": "Questions fréquentes",
+    "faq_subtitle": "Questions fréquentes sur les fonctionnalités de FoneClaw.",
+    "mid_cta_title": "120+ actions, gratuites pour tester.",
+    "mid_cta_subtitle": "Téléchargez FoneClaw et testez toutes les actions Android prises en charge par la voix.",
+    "bottom_cta_title": "Prêt à essayer un assistant téléphonique qui agit vraiment ?",
+    "bottom_cta_subtitle": "Téléchargez FoneClaw et testez plus de 120 actions prises en charge, des autorisations transparentes et des tâches pratiques sur Android."
+  },
+  "download": {
+    "title": "Télécharger FoneClaw — Agent IA vocal pour Android",
+    "subtitle": "Fonctions principales gratuites. Aucune carte requise.",
+    "requirements_title": "Configuration requise",
+    "requirements_subtitle": "Vérifiez que votre appareil respecte ces exigences.",
+    "apk_description": "Assistant IA au niveau système pour Android 9+. Contrôle vocal, automatisation entre apps et apprentissage mémoire.",
+    "faq_title": "Questions fréquentes"
+  },
+  "resources": {
+    "title": "Ressources FoneClaw",
+    "subtitle": "Guides, comparatifs et ressources pratiques sur le contrôle vocal Android et les agents IA pour téléphone.",
+    "featured_articles": "Articles en vedette",
+    "browse_topics": "Explorer par sujet",
+    "articles_count": "120+",
+    "articles_label": "Articles",
+    "topics_count": "4",
+    "topics_label": "Sujets",
+    "hours_count": "40+",
+    "hours_label": "Heures de lecture",
+    "cta_title": "120+ actions, gratuites pour tester.",
+    "cta_subtitle": "Téléchargez FoneClaw et testez toutes les actions Android prises en charge par la voix.",
+    "get_foneclaw": "Télécharger FoneClaw"
+  },
+  "community": {
+    "title": "Rejoignez la communauté FoneClaw",
+    "subtitle": "Échangez avec d’autres utilisateurs, recevez les nouveautés en avant-première et contribuez à l’avenir d’Android contrôlé par la voix."
+  },
+  "article": {
+    "summary_title": "Points clés",
+    "toc_title": "Table des matières",
+    "faq_title": "Questions fréquentes",
+    "related_articles": "Articles connexes"
+  },
+  "articles": {
+    "read_more": "Lire →",
+    "min_read": "min"
+  },
+  "share": {
+    "share_on_x": "Partager sur X",
+    "share_on_telegram": "Partager sur Telegram",
+    "share_on_linkedin": "Partager sur LinkedIn",
+    "share_on_facebook": "Partager sur Facebook",
+    "share_on_reddit": "Partager sur Reddit",
+    "copy_link": "Copier le lien"
+  },
+  "pages": {
+    "index": {
+      "title": "FoneClaw — Agent IA pour Android | 120+ actions",
+      "description": "FoneClaw exécute de vraies actions sur Android par la voix : messages, paramètres, captures d'écran et tâches web. Gratuit pour les fonctions principales."
+    },
+    "features": {
+      "title": "Fonctionnalités FoneClaw — Assistant IA pour Android",
+      "description": "Découvrez les 120+ fonctionnalités de FoneClaw pour Android : état du téléphone, messages, paramètre"
+    },
+    "download": {
+      "title": "Télécharger FoneClaw — Agent IA vocal pour Android",
+      "description": "Téléchargez l’APK FoneClaw, agent IA vocal pour Android. Contrôlez votre téléphone par la voix : appels, SMS, apps, réglages et navigation."
+    },
+    "resources": {
+      "title": "Ressources FoneClaw",
+      "description": "Guides, comparatifs et ressources pratiques sur le contrôle vocal Android et les agents IA pour téléphone."
+    },
+    "community": {
+      "title": "Communauté FoneClaw — Utilisateurs et retours",
+      "description": "Rejoignez la communauté FoneClaw sur Telegram, Discord et X. Recevez des mises à jour, partagez vos retours et échangez avec d'autres utilisateurs."
+    },
+    "privacy": {
+      "title": "Politique de confidentialité - FoneClaw",
+      "description": "Politique de confidentialité de FoneClaw : comment nous collectons, utilisons et protégeons vos données personnelles."
+    },
+    "cookie": {
+      "title": "Politique de Cookies - FoneClaw",
+      "description": "Comment FoneClaw utilise les cookies et technologies similaires sur notre site web."
+    },
+    "not_found": {
+      "title": "Page introuvable",
+      "desc": "La page que vous recherchez n’existe pas ou a été déplacée.",
+      "home": "Retour à l’accueil"
+    }
+  },
+  "community_buttons": {
+    "join": "Rejoindre",
+    "follow": "Suivre",
+    "subscribe": "S’abonner",
+    "email": "Email"
+  },
+  "privacy": {
+    "h1": "Politique de confidentialité",
+    "desc": "Comment FoneClaw collecte, utilise et protege vos donnees personnelles.",
+    "s1_title": "Informations que Nous Collectons",
+    "s1_body": "FoneClaw collecte les donnees minimales necessaires a l automatisation du telephone par commande vocale. Cela comprend les commandes vocales traitees localement sur votre appareil, les modeles d utilisation des applications stockes uniquement sur votre appareil pour l apprentissage des preferences, et les donnees optionnelles de traitement cloud qui sont chiffrees et supprimees immediatement apres utilisation. Nous ne collectons pas l historique de navigation, les contacts ou le contenu des messages.",
+    "s2_title": "Comment Nous Utilisons Vos Informations",
+    "s2_body": "Nous utilisons les informations collectees uniquement pour fournir et ameliorer les services FoneClaw. Les commandes vocales sont traitees pour executer les actions demandees. Les modeles d utilisation nous aident a personnaliser votre experience. Nous ne vendons jamais vos donnees a des tiers ni ne les utilisons a des fins publicitaires.",
+    "s3_title": "Stockage et Securite des Donnees",
+    "s3_body": "Vos donnees sont stockees localement sur votre appareil par defaut. Lorsque le traitement cloud est active pour des fonctionnalites specifiques, les donnees sont chiffrees en transit et au repos a l aide du chiffrement AES-256 standard de l industrie. Les donnees cloud sont automatiquement supprimees dans les 24 heures suivant le traitement.",
+    "s4_title": "Services Tiers",
+    "s4_body": "FoneClaw s integre avec des services tiers (Google Maps, Spotify, etc.) uniquement lorsque vous les autorisez explicitement. Chaque integration suit la politique de confidentialite du service respectif. Nous ne partageons pas vos donnees entre les services tiers.",
+    "s5_title": "Vos Droits",
+    "s5_body": "Vous avez le droit d acceder, de modifier ou de supprimer vos donnees personnelles a tout moment. Vous pouvez exporter vos donnees, vous desengager du traitement cloud ou supprimer completement votre compte via le menu des parametres FoneClaw.",
+    "s6_title": "Confidentialite des Enfants",
+    "s6_body": "FoneClaw n est pas destine aux enfants de moins de 13 ans. Nous ne collectons pas intentionnellement d informations personnelles aupres des enfants. Si vous pensez qu un enfant nous a fourni des donnees personnelles, contactez-nous immediatement.",
+    "s7_title": "Modifications de cette Politique",
+    "s7_body": "Nous pouvons mettre a jour cette politique de confidentialite periodiquement. Les modifications significatives seront communiquees via l application et le site web FoneClaw. L utilisation continue apres les modifications constitue l acceptation de la politique mise a jour.",
+    "s8_title": "Contactez-nous",
+    "s8_body": "Pour toute question ou preoccupation liee a la confidentialite, contactez-nous a privacy@foneclaw.ai. Nous repondons a toutes les demandes de confidentialite dans les 48 heures."
+  },
+  "cookie": {
+    "h1": "Politique relative aux cookies",
+    "desc": "Comment FoneClaw utilise les cookies et technologies similaires sur notre site web.",
+    "s1_title": "Que sont les Cookies",
+    "s1_body": "Les cookies sont de petits fichiers texte stockes sur votre appareil lorsque vous visitez notre site web. Ils nous aident a vous fournir une meilleure experience de navigation en memorisant vos preferences et en comprenant comment vous utilisez notre site.",
+    "s2_title": "Types de Cookies que Nous Utilisons",
+    "s2_body": "Nous utilisons plusieurs types de cookies sur notre site web : les cookies essentiels pour les fonctionnalites du site, les cookies analytiques pour comprendre le comportement des visiteurs, et les cookies de preferences pour memoriser votre langue et vos parametres d affichage.",
+    "s3_title": "Cookies Essentiels",
+    "s3_body": "Ces cookies sont necessaires au bon fonctionnement du site web. Ils permettent des fonctionnalites de base telles que la navigation entre les pages, l acces aux zones securisees et la selection de la langue. Le site web ne peut pas fonctionner correctement sans ces cookies.",
+    "s4_title": "Cookies Analytiques",
+    "s4_body": "Nous utilisons Google Analytics pour comprendre comment les visiteurs interagissent avec notre site web. Ces cookies collectent des informations telles que les pages visitees, le temps passe sur le site et les sources de trafic. Ces donnees nous aident a ameliorer notre contenu et l experience utilisateur. Les donnees de Google Analytics sont agregees et anonymes.",
+    "s5_title": "Cookies Tiers",
+    "s5_body": "Certains cookies sont places par des services tiers qui apparaissent sur nos pages, comme Google Analytics. Nous ne controlons pas ces cookies. Veuillez vous referer aux politiques de confidentialite des tiers respectifs pour plus d informations sur leurs pratiques en matiere de cookies.",
+    "s6_title": "Gestion des Cookies",
+    "s6_body": "Vous pouvez controler et gerer les cookies via les parametres de votre navigateur. La plupart des navigateurs vous permettent de bloquer ou de supprimer les cookies. Cependant, la desactivation des cookies essentiels peut affecter les fonctionnalites du site web. Vous pouvez egalement utiliser notre banniere de consentement aux cookies pour gerer vos preferences.",
+    "s7_title": "Conservation des Cookies",
+    "s7_body": "Les cookies de session sont supprimes lorsque vous fermez votre navigateur. Les cookies persistent restent sur votre appareil pendant une periode definie ou jusqu a ce que vous les supprimiez. La periode de conservation maximale de nos cookies analytiques est de 26 mois.",
+    "s8_title": "Contactez-nous",
+    "s8_body": "Pour des questions concernant notre politique de cookies, contactez-nous a privacy@foneclaw.ai."
+  },
+  "author": {
+    "title": "Dean - Ingenieur Android Senior et Fondateur de FoneClaw",
+    "desc": "Dean est un ingenieur senior en systemes Android et fondateur de FoneClaw. Lisez ses articles sur les agents IA, le controle vocal et l'automatisation mobile.",
+    "role": "Ingenieur Android Senior et Fondateur de FoneClaw",
+    "bio_short": "Construire l'avenir des telephones Android commandes par la voix. Passionne par les agents IA, l'automatisation mobile et la mise de la technologie a la portee de tous.",
+    "stat_articles": "Articles Publies",
+    "stat_categories": "Categories de Contenu",
+    "stat_experience": "Annees d'Experience",
+    "about_title": "A propos de Dean",
+    "about_p1": "Dean est un ingenieur senior en systemes Android avec plus de 10 ans d'experience en developpement mobile. Il possede une expertise approfondie dans les rouages d'Android, la programmation systeme et l'automatisation mobile.",
+    "about_p2": "Apres des annees de travail sur des projets Android majeurs, Dean a fonde FoneClaw pour resoudre un probleme fondamental : pourquoi ne peut-on pas controler son telephone entierement par la voix ? Les assistants vocaux traditionnels peuvent regler des alarmes et jouer de la musique, mais ils ne peuvent pas naviguer dans les applications, remplir des formulaires ou enchaines des taches en plusieurs etapes.",
+    "about_p3": "FoneClaw est le fruit de la vision de Dean pour un veritable agent IA sur Android : un qui lit votre ecran, comprend votre intention et interagit physiquement avec votre telephone pour accomplir des taches. Pas d'API requise, pas de partenariats avec des developpeurs. Juste un controle vocal pur sur n'importe quelle application Android.",
+    "articles_title": "Articles de Dean",
+    "article_label": "Article",
+    "no_articles": "Aucun article disponible dans cette langue pour le moment."
+  }
+}

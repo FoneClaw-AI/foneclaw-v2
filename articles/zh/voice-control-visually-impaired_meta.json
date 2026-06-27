@@ -1,0 +1,43 @@
+{
+  "faq": [
+    {
+      "question": "盲人用户最好的语音操控手机是什么？",
+      "answer": "盲人用户最好的语音操控手机通常是一台麦克风质量好、软件持续更新的现代 Android 手机，配合 TalkBack、Voice Access 以及 FoneClaw 等手机智能体层来处理多步骤应用任务。配置方案比品牌名称更重要。"
+    },
+    {
+      "question": "Android 能变成盲人语音操控手机吗？",
+      "answer": "可以。当 Voice Access 处理语音指令、TalkBack 提供屏幕阅读器语音反馈、FoneClaw 辅助应用工作流时，Android 就能变成盲人语音操控手机。建议用户先测试通话、短信、地图、设置和紧急指令。"
+    },
+    {
+      "question": "TalkBack 和 Voice Access 有什么区别？",
+      "answer": "TalkBack 朗读屏幕内容并提供语音反馈，Voice Access 让用户通过语音指令操控 Android。两者配合使用效果最好：TalkBack 告诉你屏幕上有什么，Voice Access 让你无需触屏就能执行操作。"
+    },
+    {
+      "question": "FoneClaw 能帮助盲人用户用语音操控第三方应用吗？",
+      "answer": "FoneClaw 专为基本指令列表不够用的第三方应用工作流设计。它可以辅助打开应用、阅读上下文、准备操作，并在涉及发消息、账户变更或支付等敏感步骤前请求确认。"
+    },
+    {
+      "question": "如果我搜索的是盲人能用的语音操控电话呢？",
+      "answer": "传统的语音操控电话可能只支持通话，但现代 Android 手机能做得更多。配置好之后，它可以成为一部语音操控移动电话，处理短信、地图、阅读、提醒、无障碍快捷方式和 FoneClaw 手机智能体工作流。"
+    }
+  ],
+  "toc": [
+    {"id": "quick-answer-can-a-blind-user-use-a-voice-activated-phone", "text": "快速回答：盲人能用语音操控手机吗？"},
+    {"id": "what-voice-activated-phone-for-the-blind-really-means", "text": "\u201c盲人语音操控手机\u201d到底是什么意思"},
+    {"id": "android-tools-voice-access-talkback-and-accessibility-menu", "text": "Android 工具：Voice Access、TalkBack 和无障碍菜单"},
+    {"id": "how-foneclaw-turns-android-into-a-voice-controlled-phone", "text": "FoneClaw 如何将 Android 变成语音操控手机"},
+    {"id": "best-setup-for-blind-and-visually-impaired-users", "text": "盲人和视障用户的最佳配置方案"},
+    {"id": "daily-tasks-a-voice-activated-mobile-phone-should-handle", "text": "语音操控手机应能处理的日常任务"},
+    {"id": "safety-privacy-and-banking-tasks", "text": "安全、隐私与银行操作"},
+    {"id": "faq", "text": "常见问题"}
+  ],
+  "summary": [
+    "快速回答：盲人能用语音操控手机吗？",
+    "\u201c盲人语音操控手机\u201d到底是什么意思",
+    "Android 工具：Voice Access、TalkBack 和无障碍菜单",
+    "FoneClaw 如何将 Android 变成语音操控手机",
+    "盲人和视障用户的最佳配置方案",
+    "语音操控手机应能处理的日常任务",
+    "安全、隐私与银行操作"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "links": [
+    {"key": "home", "href": "/", "is_current": false},
+    {"key": "features", "href": "/features.html", "is_current": false},
+    {"key": "download", "href": "/download.html", "is_current": false},
+    {"key": "resources", "href": "/resources.html", "is_current": false},
+    {"key": "community", "href": "/community.html", "is_current": false}
+  ],
+  "languages": [
+    {"code": "en", "name": "English", "href": "https://www.foneclaw.ai/"},
+    {"code": "zh", "name": "简体中文", "href": "https://www.foneclaw.ai/zh/"},
+    {"code": "tw", "name": "繁體中文", "href": "https://www.foneclaw.ai/tw/"},
+    {"code": "ja", "name": "日本語", "href": "https://www.foneclaw.ai/ja/"},
+    {"code": "ko", "name": "한국어", "href": "https://www.foneclaw.ai/ko/"},
+    {"code": "es", "name": "Español", "href": "https://www.foneclaw.ai/es/"},
+    {"code": "pt", "name": "Português", "href": "https://www.foneclaw.ai/pt/"},
+    {"code": "ru", "name": "Русский", "href": "https://www.foneclaw.ai/ru/"},
+    {"code": "fr", "name": "Français", "href": "https://www.foneclaw.ai/fr/"},
+    {"code": "de", "name": "Deutsch", "href": "https://www.foneclaw.ai/de/"},
+    {"code": "ar", "name": "العربية", "href": "https://www.foneclaw.ai/ar/"},
+    {"code": "th", "name": "ไทย", "href": "https://www.foneclaw.ai/th/"},
+    {"code": "vi", "name": "Tiếng Việt", "href": "https://www.foneclaw.ai/vi/"},
+    {"code": "id", "name": "Bahasa Indonesia", "href": "https://www.foneclaw.ai/id/"}
+  ]
+}

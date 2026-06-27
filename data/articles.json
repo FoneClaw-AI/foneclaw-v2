@@ -1,0 +1,3432 @@
+[
+  {
+    "slug": "ai-phone-seniors",
+    "lang": "ar",
+    "title": "التحكم في الهاتف لكبار السن بسهولة",
+    "category": "إتاحة",
+    "reading_time": "8 دقائق",
+    "image": "ai-phone-seniors.jpg",
+    "description": "دليل شامل لكبار السن لاستخدام الهاتف بالصوت مع فون كلو. تعلّم التحكم الكامل في أندرويد بدون لمس الشاشة أو تعقيد تقني مزعج.",
+    "date": "2026-06-25"
+  },
+  {
+    "slug": "voice-control-visually-impaired",
+    "lang": "ar",
+    "title": "التحكم الصوتي لضعاف البصر على أندرويد",
+    "category": "إتاحة",
+    "reading_time": "14 دقيقة",
+    "image": "voice-control-visually-impaired.jpg",
+    "description": "دليل شامل للتحكم الصوتي لضعاف البصر على أندرويد: TalkBack و Voice Access و FoneClaw. كيفية التحكم الكامل في هاتفك بالصوت فقط.",
+    "date": "2026-06-25"
+  },
+  {
+    "slug": "xiaomi-ai-ecosystem-2026",
+    "lang": "ar",
+    "title": "نظام Xiaomi الذكي 2026: نظرة عملية",
+    "category": "صناعة",
+    "reading_time": "14 دقيقة",
+    "image": "xiaomi-ai-ecosystem-2026.jpg",
+    "description": "نظرة تحليلية على نظام Xiaomi الذكي في 2026: HyperOS والمساعد الصوتي و MiClaw. كيف يكمل FoneClaw إمكانيات Xiaomi ومتى يكون كل منهما الخيار الأفضل.",
+    "date": "2026-06-25"
+  },
+  {
+    "slug": "agentic-ai-phone-explained",
+    "lang": "ar",
+    "title": "الذكاء الاصطناعي الوكيل على الهاتف: شرح بسيط",
+    "category": "شرح",
+    "reading_time": "14 دقيقة",
+    "image": "agentic-ai-phone-explained.jpg",
+    "description": "شرح مبسط لمفهوم الذكاء الاصطناعي الوكيل على الهاتف: ما هو، كيف يعمل، أمثلة عملية، ولماذا FoneClaw هو تطبيق عملي لهذا المفهوم.",
+    "date": "2026-06-25"
+  },
+  {
+    "slug": "foneclaw-vs-apple-intelligence",
+    "lang": "ar",
+    "title": "FoneClaw مقابل Apple Intelligence",
+    "category": "مقارنة",
+    "reading_time": "12 دقيقة",
+    "image": "foneclaw-vs-apple-intelligence.jpg",
+    "description": "مقارنة شاملة بين FoneClaw على أندرويد و Apple Intelligence على iOS. الذكاء الاصطناعي المندمج من Apple مقابل حرية عمل FoneClaw—من الأكثر فعالية اليوم.",
+    "date": "2026-06-25"
+  },
+  {
+    "slug": "voice-control-snapchat",
+    "lang": "ar",
+    "title": "التحكم الصوتي في سناب شات بفون كلو",
+    "category": "تطبيقات التواصل",
+    "reading_time": "8 دقائق",
+    "image": "voice-control-snapchat.jpg",
+    "description": "اكتشف كيفية التحكم في سناب شات بالصوت عبر فون كلو على أندرويد. أرسل سنابات وأدر قصصك ومحادثاتك بأوامر صوتية سريعة ومباشرة.",
+    "date": "2026-06-25"
+  },
+  {
+    "slug": "voice-control-tiktok",
+    "lang": "ar",
+    "title": "التحكم الصوتي في تيك توك بفون كلو",
+    "category": "تطبيقات التواصل",
+    "reading_time": "8 دقائق",
+    "image": "voice-control-tiktok.jpg",
+    "description": "اكتشف كيفية التحكم في تيك توك بالصوت باستخدام فون كلو على أندرويد. تصفح الريلز وأرسل رسائل وأدر حسابك بأوامر صوتية مباشرة.",
+    "date": "2026-06-25"
+  },
+  {
+    "slug": "automate-instagram-with-voice",
+    "lang": "ar",
+    "title": "أتمتة إنستغرام بالصوت عبر فون كلو",
+    "category": "تطبيقات التواصل",
+    "reading_time": "8 دقائق",
+    "image": "automate-instagram-with-voice.jpg",
+    "description": "دليل شامل لأتمتة إنستغرام بالصوت باستخدام فون كلو على أندرويد. تعلّم التحكم الكامل في حسابك بأوامر صوتية بسيطة وسريعة بدون لمس الشاشة.",
+    "date": "2026-06-25"
+  },
+  {
+    "slug": "android-vs-ios-26-5-voice-control",
+    "lang": "ar",
+    "title": "أندرويد مقابل iOS: التحكم الصوتي 2026",
+    "category": "مقارنة",
+    "reading_time": "12 دقيقة",
+    "image": "android-vs-ios-26-5-voice-control.jpg",
+    "description": "مقارنة شاملة ومفصلة للتحكم الصوتي في أندرويد و iOS في 2026. اختبارات حقيقية ونصائح عملية ونظرة موضوعية على قدرات كل منصة.",
+    "date": "2026-06-25"
+  },
+  {
+    "slug": "wwdc-2026-ai-do-over-phone-agent",
+    "lang": "ar",
+    "title": "WWDC 2026: Siri AI من منظور أندرويد",
+    "category": "صناعة",
+    "reading_time": "14 دقيقة",
+    "image": "wwdc-2026-ai-do-over-phone-agent.jpg",
+    "description": "تحليل شامل ومفصل لمؤتمر WWDC 2026 وإعلانات Apple عن تحديثات Siri AI الجديد من منظور مستخدمي أندرويد العرب. مقارنة مع FoneClaw.",
+    "date": "2026-06-25"
+  },
+  {
+    "slug": "comp_vs_miclaw",
+    "lang": "ar",
+    "title": "MiClaw مقابل FoneClaw: ما الاختيار في 2026",
+    "category": "مقارنة",
+    "reading_time": "14 دقيقة",
+    "image": "comp_vs_miclaw.jpg",
+    "description": "مقارنة شاملة ومفصلة بين MiClaw من Xiaomi و FoneClaw المستقل لأندرويد: التوافق الكامل والإجراءات المدعومة والتكلفة وأيها أفضل لاحتياجاتك اليومية.",
+    "date": "2026-06-25"
+  },
+  {
+    "slug": "gemini-intelligence-vs-siri",
+    "lang": "ar",
+    "title": "Gemini Intelligence مقابل Siri AI 2026",
+    "category": "صناعة",
+    "reading_time": "12 دقيقة",
+    "image": "gemini-intelligence-vs-siri.jpg",
+    "description": "مقارنة تحليلية بين Gemini Intelligence من Google و Siri AI من Apple في 2026. نقاط القوة والضعف واستراتيجيات كل شركة في سباق الذكاء الاصطناعي.",
+    "date": "2026-06-25"
+  },
+  {
+    "slug": "tasker-alternative-voice-automation",
+    "lang": "ar",
+    "title": "بديل Tasker لأتمتة الصوت على أندرويد",
+    "category": "مقارنة",
+    "reading_time": "14 دقيقة",
+    "image": "tasker-alternative-voice-automation.jpg",
+    "description": "هل تبحث عن بديل لـ Tasker للتحكم في هاتفك بالصوت؟ FoneClaw يوفر أكثر من 120 إجراء على أندرويد بدون سكريبتات معقدة. مقارنة شاملة ومفصلة بين النهجين.",
+    "date": "2026-06-25"
+  },
+  {
+    "slug": "gemini-intelligence-supported-devices",
+    "lang": "ar",
+    "title": "أجهزة Gemini Intelligence المدعومة 2026",
+    "category": "patibility",
+    "reading_time": "14 دقيقة",
+    "image": "gemini-intelligence-supported-devices.jpg",
+    "description": "قائمة شاملة بأجهزة Gemini Intelligence المدعومة في 2026: Pixel و Samsung و OnePlus. مقارنة مع FoneClaw الذي يعمل على أي جهاز أندرويد 9+.",
+    "date": "2026-06-25"
+  },
+  {
+    "slug": "voice-control-telegram",
+    "lang": "ar",
+    "title": "التحكم الصوتي في تيليجرام بسهولة",
+    "category": "تطبيقات التواصل",
+    "reading_time": "8 دقائق",
+    "image": "voice-control-telegram.jpg",
+    "description": "دليل شامل للتحكم في تيليجرام بالصوت عبر فون كلو على أندرويد. أرسل رسائل وأدر قنواتك ومجموعاتك بأوامر صوتية مباشرة وسريعة.",
+    "date": "2026-06-25"
+  },
+  {
+    "slug": "gemini-vs-foneclaw",
+    "lang": "ar",
+    "title": "Gemini مقابل FoneClaw: تحليل مقابل فعل",
+    "category": "مقارنة",
+    "reading_time": "14 دقيقة",
+    "image": "gemini-vs-foneclaw.jpg",
+    "description": "مقارنة شاملة ومفصلة بين Gemini من Google و FoneClaw المستقل لأندرويد: الذكاء الاصطناعي التوليدي المتقدم مقابل التحكم العملي المباشر في الهاتف.",
+    "date": "2026-06-25"
+  },
+  {
+    "slug": "voice-control-whatsapp",
+    "lang": "ar",
+    "title": "التحكم الصوتي في WhatsApp على أندرويد",
+    "category": "دليل",
+    "reading_time": "12 دقيقة",
+    "image": "voice-control-whatsapp.jpg",
+    "description": "دليل شامل ومفصل للتحكم الصوتي في WhatsApp على أندرويد. أرسل رسائل واتصل وأدر المحادثات بالصوت باستخدام FoneClaw دون لمس الشاشة.",
+    "date": "2026-06-25"
+  },
+  {
+    "slug": "ai-phone-seniors",
+    "lang": "ja",
+    "title": "シニア向けAIスマホ助手｜FoneClawで簡単音声操作",
+    "category": "シニア向け",
+    "reading_time": "8 min",
+    "image": "ai-phone-seniors.jpg",
+    "description": "FoneClawはシニア世代の方でも安心して使えるAI搭載のAndroidスマホ助手です。音声だけで電話の発信・LINEの送信・メールの操作が可能。root化不要でコア機能は無料。スマートフォンの操作をもっと身近に、もっと簡単にお届けします。",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "voice-control-visually-impaired",
+    "lang": "ja",
+    "title": "視覚障害のある人のためのAndroid音声操作ガイド",
+    "category": "アクセシビリティ",
+    "reading_time": "9分",
+    "image": "voice-control-visually-impaired.jpg",
+    "description": "視覚障害のあるAndroidユーザー向けに、TalkBack、Voice Access、FoneClawの違いと安全な初期設定の方法、日本の端末メーカーごとの注意点、家族や支援者と一緒に確認すべきポイントを詳しく整理していきます。音声操作を始めるときの選び方も解説します。",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "xiaomi-ai-ecosystem-2026",
+    "lang": "ja",
+    "title": "小米AIエコシステム2026年の全体像と制約",
+    "category": "比較",
+    "reading_time": "9分",
+    "image": "xiaomi-ai-ecosystem-2026.jpg",
+    "description": "小米のAIエコシステムを2026年の視点で整理します。MiMoとMiClawの違い、HyperOSの地域制約、日本ユーザーが確認すべきポイント、小米エコシステム外でできること、FoneClawとの位置づけの違いを詳しく解説していきます。購入前の判断材料にしてください。",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "agentic-ai-phone-explained",
+    "lang": "ja",
+    "title": "エージェント型AIスマホとは何か解説",
+    "category": "AI",
+    "reading_time": "9分",
+    "image": "agentic-ai-phone-explained.jpg",
+    "description": "エージェント型AIスマホの仕組みと従来の音声アシスタントとの違いを詳しく解説します。MiClaw、Gemini、Siri AI、FoneClawの位置づけと、過大評価しないためのチェックリストまで、日本のAndroidユーザー向けに網羅的に整理します。",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "foneclaw-vs-apple-intelligence",
+    "lang": "ja",
+    "title": "FoneClawとApple Intelligenceの違い",
+    "category": "AI",
+    "reading_time": "9分",
+    "image": "foneclaw-vs-apple-intelligence.jpg",
+    "description": "FoneClawとApple Intelligenceの違いをAndroidユーザーの視点で比較します。対応操作や権限、プライバシー、料金モデルの違いを詳しく整理し、AndroidユーザーにおすすめのAIアシスタントの選び方を具体的に解説します。",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "voice-control-snapchat",
+    "lang": "ja",
+    "title": "音声でSnapchat操作｜FoneClawで簡単スナップ送信",
+    "category": "SNS自動化",
+    "reading_time": "8 min",
+    "image": "voice-control-snapchat.jpg",
+    "description": "FoneClawの音声コマンドでSnapchatをハンズフリーに操作できます。スナップ送信・ストーリー閲覧・チャット機能を声だけで完結できます。Android 9以上対応でroot化は不要、コア機能は無料ですぐに始められます。音声でSnapchatライフをもっと楽しみましょう。",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "voice-control-tiktok",
+    "lang": "ja",
+    "title": "音声でTikTok操作｜FoneClawでHands-free動画視聴",
+    "category": "SNS自動化",
+    "reading_time": "8 min",
+    "image": "voice-control-tiktok.jpg",
+    "description": "FoneClawの音声コマンドでTikTokをハンズフリーに操作できます。動画視聴・いいね・コメント投稿・フォローを声だけで完結できます。Android 9以上対応でroot化は不要、コア機能は無料でお使いいただけます。TikTokとの付き合い方を変えましょう。",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "automate-instagram-with-voice",
+    "lang": "ja",
+    "title": "音声でInstagramを自動化｜AI助手FoneClaw活用法",
+    "category": "SNS自動化",
+    "reading_time": "8 min",
+    "image": "automate-instagram-with-voice.jpg",
+    "description": "FoneClawの音声コマンドでInstagramを自動化しましょう。投稿の確認・いいね・コメント返信を声だけで完結できます。Android 9以上対応、root化不要、コア機能無料。日常のSNS運用を劇的に効率化する方法を詳しく解説します。",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "android-vs-ios-26-5-voice-control",
+    "lang": "ja",
+    "title": "AndroidとiOS 26.5の音声操作を比較",
+    "category": "設定",
+    "reading_time": "9分",
+    "image": "android-vs-ios-26-5-voice-control.jpg",
+    "description": "AndroidとiOS 26.5の音声操作を比較解説します。日本のアプリ環境での使い勝手の違いやFoneClawがAndroidで補う部分、権限とプライバシーの違いを詳しく整理し、自分に合うプラットフォームの選び方を具体的に提案いたします。",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "wwdc-2026-ai-do-over-phone-agent",
+    "lang": "ja",
+    "title": "WWDC 2026のSiri AIは何を目指すのか",
+    "category": "AI",
+    "reading_time": "9分",
+    "image": "wwdc-2026-ai-do-over-phone-agent.jpg",
+    "description": "WWDC 2026で発表された新しいSiri AIとApple Intelligenceの変化を詳しく解説します。Androidユーザーにも関係する重要なポイントと、FoneClawの視点から見た操作型AIの現状と課題を分かりやすくまとめた記事です。",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "comp_vs_miclaw",
+    "lang": "ja",
+    "title": "MiClawとFoneClawの違いを比較",
+    "category": "AI",
+    "reading_time": "9分",
+    "image": "comp_vs_miclaw.jpg",
+    "description": "MiClawとFoneClawの違いを5つの軸で比較します。小米エコシステム内のMiClawと、独立したAndroid AIアシスタントFoneClawの対応範囲や思想の違いを日本のAndroidユーザー視点で詳しく整理し、選び方のポイントを解説します。",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "gemini-intelligence-vs-siri",
+    "lang": "ja",
+    "title": "Gemini IntelligenceとSiri AIを徹底比較",
+    "category": "AI",
+    "reading_time": "9分",
+    "image": "gemini-intelligence-vs-siri.jpg",
+    "description": "Gemini IntelligenceとSiri AIの強みと弱みを詳しく比較解説します。日本語対応の違いやAndroidユーザーにとって最適な選択肢は何か、FoneClawが果たす役割についても徹底的に紹介する記事です。今後のAI競争の見方まで網羅的に解説します。",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "tasker-alternative-voice-automation",
+    "lang": "ja",
+    "title": "Tasker代替の音声自動化でAndroid操作を進める方法",
+    "category": "設定",
+    "reading_time": "9分",
+    "image": "tasker-alternative-voice-automation.jpg",
+    "description": "Taskerの代わりに音声でAndroid操作を進めたい人向けに、FoneClawとVoice Accessの違い、日本の端末メーカーごとの注意点、送信・発信・削除の確認フロー、音声自動化を始めるときの選び方を整理します。FoneClawの主要機能は無料で試せます。",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "gemini-intelligence-supported-devices",
+    "lang": "ja",
+    "title": "Gemini Intelligence対応端末と利用制約の確認",
+    "category": "比較",
+    "reading_time": "9分",
+    "image": "gemini-intelligence-supported-devices.jpg",
+    "description": "Gemini Intelligenceの対応端末を整理しつつ、日本での利用条件、段階提供とアカウント制約、端末選びのチェックリスト、Gemini Intelligenceの今後の見通しとFoneClawとの役割の違いを詳しく解説します。対応端末だけで判断できない理由を説明します。",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "voice-control-telegram",
+    "lang": "ja",
+    "title": "音声でTelegram操作｜FoneClawで安全なメッセージング",
+    "category": "メッセージング",
+    "reading_time": "8 min",
+    "image": "voice-control-telegram.jpg",
+    "description": "FoneClawの音声コマンドでTelegramをもっと簡単に操作できます。メッセージ送信・チャンネル閲覧・グループチャットの管理を声だけで実行できます。Android 9以上対応でroot化は不要、コア機能は無料で安全にお使いいただけます。",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "gemini-vs-foneclaw",
+    "lang": "ja",
+    "title": "Gemini IntelligenceとFoneClawを比較",
+    "category": "AI",
+    "reading_time": "9分",
+    "image": "gemini-vs-foneclaw.jpg",
+    "description": "Gemini IntelligenceとFoneClawの違いを理解型AIと実行型AIの観点から比較します。日本のアプリ環境での実感や併用の仕方、選ぶ前のチェックリストをAndroidユーザー向けに詳しく解説し、最適なツールの選び方を提案します。",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "voice-control-whatsapp",
+    "lang": "ja",
+    "title": "WhatsAppを音声で操作する方法と注意点",
+    "category": "WhatsApp",
+    "reading_time": "9分",
+    "image": "voice-control-whatsapp.jpg",
+    "description": "WhatsAppの音声操作をAndroidで実現する方法を詳しく解説します。標準機能とFoneClawの使い分け方、誤送信防止のコツ、日本ではLINEとの違いについても分かりやすく紹介する記事です。丁寧に解説する実践的な内容です。初心者の方にもおすすめです。",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "ai-phone-seniors",
+    "lang": "es",
+    "title": "Teléfono con IA para personas mayores",
+    "category": "Accesibilidad",
+    "reading_time": "8 min",
+    "image": "ai-phone-seniors.jpg",
+    "description": "FoneClaw ayuda a personas mayores a usar su smartphone Android con la voz. Llama, envía mensajes y usa aplicaciones sin complicaciones.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "voice-control-snapchat",
+    "lang": "es",
+    "title": "Snapchat con voz: controla sin tocar nada",
+    "category": "Redes sociales",
+    "reading_time": "8 min",
+    "image": "voice-control-snapchat.jpg",
+    "description": "Usa Snapchat con comandos de voz y FoneClaw en Android. Envía snaps, graba videos y gestiona tu historial sin tocar la pantalla.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "voice-control-tiktok",
+    "lang": "es",
+    "title": "Control de voz para TikTok: guía completa",
+    "category": "Redes sociales",
+    "reading_time": "8 min",
+    "image": "voice-control-tiktok.jpg",
+    "description": "Aprende a usar TikTok con comandos de voz gracias a FoneClaw. Navega videos, graba contenido y publica sin tocar tu teléfono Android.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "automate-instagram-with-voice",
+    "lang": "es",
+    "title": "Automatiza Instagram con comandos de voz",
+    "category": "Redes sociales",
+    "reading_time": "8 min",
+    "image": "automate-instagram-with-voice.jpg",
+    "description": "Descubre cómo controlar Instagram con la voz usando FoneClaw. Publica fotos, envía mensajes y navega por tu feed sin tocar la pantalla.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "voice-control-telegram",
+    "lang": "es",
+    "title": "Telegram con control de voz: guía de FoneClaw",
+    "category": "Mensajería",
+    "reading_time": "8 min",
+    "image": "voice-control-telegram.jpg",
+    "description": "Controla Telegram con comandos de voz usando FoneClaw en Android. Envía mensajes, crea grupos y gestiona chats sin tocar la pantalla.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "ai-phone-seniors",
+    "lang": "de",
+    "title": "Handy per Sprache für Senioren",
+    "category": "Tipps & Anleitungen",
+    "reading_time": "8 min",
+    "image": "ai-phone-seniors.jpg",
+    "description": "Smartphone für Senioren leicht gemacht: Mit FoneClaw das Handy per Sprachsteuerung bedienen – einfach, sicher und ohne technisches Vorwissen.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "voice-control-visually-impaired",
+    "lang": "de",
+    "title": "Sprachsteuerung für Sehbehinderte auf Android",
+    "category": "Barrierefreiheit",
+    "reading_time": "9 min",
+    "image": "voice-control-visually-impaired.jpg",
+    "description": "Wie sehbehinderte und blinde Nutzer Android-Smartphones mit Sprachsteuerung nutzen können. Voice Access, TalkBack und FoneClaw im Vergleich.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "xiaomi-ai-ecosystem-2026",
+    "lang": "de",
+    "title": "Xiaomi KI-Ökosystem 2026: HyperOS & Co.",
+    "category": "Industrie",
+    "reading_time": "9 min",
+    "image": "xiaomi-ai-ecosystem-2026.jpg",
+    "description": "Umfassende Analyse des Xiaomi KI-Ökosystems 2026: HyperOS, MiMo, MiClaw und wie FoneClaw die Lücken füllt. Praxiserfahrungen und Bewertung.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "agentic-ai-phone-explained",
+    "lang": "de",
+    "title": "Agentic KI auf dem Smartphone erklärt",
+    "category": "Leitfaden",
+    "reading_time": "9 min",
+    "image": "agentic-ai-phone-explained.jpg",
+    "description": "Was agentic KI bedeutet und wie sie auf Smartphones funktioniert. Einfache Erklärung mit Beispielen von MiClaw, Gemini, Siri und FoneClaw.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "foneclaw-vs-apple-intelligence",
+    "lang": "de",
+    "title": "FoneClaw vs Apple Intelligence: Android-Vergleich",
+    "category": "Vergleich",
+    "reading_time": "8 min",
+    "image": "foneclaw-vs-apple-intelligence.jpg",
+    "description": "Vergleich zwischen FoneClaw auf Android und Apple Intelligence auf iOS. Systemintegration vs Flexibilität, Kosten, Datenschutz und praktische Unterschiede.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "voice-control-snapchat",
+    "lang": "de",
+    "title": "Snapchat per Sprachsteuerung nutzen",
+    "category": "Tipps & Anleitungen",
+    "reading_time": "8 min",
+    "image": "voice-control-snapchat.jpg",
+    "description": "Snapchat mit FoneClaw per Stimme steuern: Snaps senden, Lenses auswählen und Stories posten – komplett sprachgesteuert auf Android.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "voice-control-tiktok",
+    "lang": "de",
+    "title": "TikTok per Sprachsteuerung nutzen",
+    "category": "Tipps & Anleitungen",
+    "reading_time": "8 min",
+    "image": "voice-control-tiktok.jpg",
+    "description": "TikTok mit der Stimme steuern: Videos liken, Kommentare schreiben und Creatorn folgen – alles per Sprachbefehl mit FoneClaw für Android.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "automate-instagram-with-voice",
+    "lang": "de",
+    "title": "Instagram per Sprachsteuerung bedienen",
+    "category": "Tipps & Anleitungen",
+    "reading_time": "8 min",
+    "image": "automate-instagram-with-voice.jpg",
+    "description": "Instagram mit Sprachsteuerung automatisieren: Beiträge liken, Stories posten und Nachrichten senden – komplett per Stimme mit FoneClaw.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "android-vs-ios-26-5-voice-control",
+    "lang": "de",
+    "title": "Android vs iOS: Sprachsteuerung 2026",
+    "category": "Vergleich",
+    "reading_time": "8 min",
+    "image": "android-vs-ios-26-5-voice-control.jpg",
+    "description": "Praxisvergleich der Sprachsteuerung auf Android und iOS 2026. Siri AI, Google Assistant, FoneClaw und Voice Access im Test. Stärken und Schwächen.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "wwdc-2026-ai-do-over-phone-agent",
+    "lang": "de",
+    "title": "WWDC 2026: Siri AI und Apple Intelligence",
+    "category": "Industrie",
+    "reading_time": "10 min",
+    "image": "wwdc-2026-ai-do-over-phone-agent.jpg",
+    "description": "Was die WWDC 2026 Änderungen von Apple für Telefon-Agenten bedeuten. Siri AI, Apple Intelligence und Vergleich mit Android-Lösungen wie FoneClaw.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "comp_vs_miclaw",
+    "lang": "de",
+    "title": "MiClaw vs FoneClaw: Android KI-Agent Vergleich",
+    "category": "Vergleich",
+    "reading_time": "9 min",
+    "image": "comp_vs_miclaw.jpg",
+    "description": "Detaillierter Vergleich zwischen Xiaomi MiClaw und FoneClaw 2026. Ökosystem vs Flexibilität, Funktionen, Kompatibilität und praktische Unterschiede.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "gemini-intelligence-vs-siri",
+    "lang": "de",
+    "title": "Gemini Intelligence vs Siri AI: Vergleich 2026",
+    "category": "Industrie",
+    "reading_time": "8 min",
+    "image": "gemini-intelligence-vs-siri.jpg",
+    "description": "Strategischer Vergleich zwischen Google Gemini Intelligence und Apple Siri AI 2026. KI-Strategien, Fähigkeiten und Auswirkungen auf Smartphone-Nutzer.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "tasker-alternative-voice-automation",
+    "lang": "de",
+    "title": "Tasker Alternative: Android-Sprachsteuerung",
+    "category": "Vergleich",
+    "reading_time": "9 min",
+    "image": "tasker-alternative-voice-automation.jpg",
+    "description": "Warum FoneClaw die moderne Alternative zu Tasker für Sprachsteuerung auf Android ist. Vollständiger Vergleich 2026 mit Praxiserfahrungen.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "gemini-intelligence-supported-devices",
+    "lang": "de",
+    "title": "Gemini Intelligence: Unterstützte Geräte 2026",
+    "category": "Industrie",
+    "reading_time": "9 min",
+    "image": "gemini-intelligence-supported-devices.jpg",
+    "description": "Vollständige Liste der Geräte mit Gemini Intelligence 2026. Welche Smartphones und Tablets erhalten KI-Funktionen von Google und wie FoneClaw ergänzt.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "voice-control-telegram",
+    "lang": "de",
+    "title": "Telegram Sprachsteuerung mit FoneClaw",
+    "category": "Tipps & Anleitungen",
+    "reading_time": "8 min",
+    "image": "voice-control-telegram.jpg",
+    "description": "Telegram per Sprachsteuerung bedienen: Chats senden, Gruppen verwalten und Nachrichten vorlesen lassen – alles mit FoneClaw auf Android.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "gemini-vs-foneclaw",
+    "lang": "de",
+    "title": "Gemini vs FoneClaw: Verstehen vs Handeln",
+    "category": "Vergleich",
+    "reading_time": "9 min",
+    "image": "gemini-vs-foneclaw.jpg",
+    "description": "Vergleich zwischen Google Gemini Intelligence und FoneClaw. Analyse und Verstehen vs konkrete Aktionen auf Android. Stärken und Einschränkungen beider Ansätze.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "voice-control-whatsapp",
+    "lang": "de",
+    "title": "WhatsApp Sprachsteuerung auf Android",
+    "category": "Leitfaden",
+    "reading_time": "7 min",
+    "image": "voice-control-whatsapp.jpg",
+    "description": "Vollständiger Leitfaden zur Sprachsteuerung von WhatsApp auf Android. Nachrichten senden, Anrufe tätigen und Chats verwalten mit FoneClaw.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "ai-phone-seniors",
+    "lang": "th",
+    "title": "ผู้สูงอายุใช้สมาร์ทโฟนง่ายด้วยเสียง",
+    "category": "การเข้าถึง",
+    "reading_time": "8 min",
+    "image": "ai-phone-seniors.jpg",
+    "description": "คู่มือช่วยผู้สูงอายุใช้ Android ด้วยเสียง ไม่ต้องจำเมนู ไม่ต้องกดเล็กๆ ครอบคลุมการโทร ส่งข้อความ ดูข่าว และตั้งเตือนด้วย FoneClaw ปี 2026",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "voice-control-visually-impaired",
+    "lang": "th",
+    "title": "สั่งงาน Android ด้วยเสียงสำหรับผู้บกพร่องทางสายตา",
+    "category": "การเข้าถึง",
+    "reading_time": "14 นาที",
+    "image": "voice-control-visually-impaired.jpg",
+    "description": "คู่มือการสั่งงาน Android ด้วยเสียงสำหรับผู้บกพร่องทางสายตา ครอบคลุม Voice Access, TalkBack และ FoneClaw อธิบายวิธีตั้งค่า ข้อจำกัด และตัวอย่างการใช้งานจริง",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "xiaomi-ai-ecosystem-2026",
+    "lang": "th",
+    "title": "ระบบนิเวศ AI ของ Xiaomi ปี 2026",
+    "category": "เทคโนโลยี",
+    "reading_time": "14 นาที",
+    "image": "xiaomi-ai-ecosystem-2026.jpg",
+    "description": "เจาะลึกระบบนิเวศ AI ของ Xiaomi ในปี 2026 ครอบคลุม HyperOS, MiMo และ MiClaw อธิบายว่าแต่ละตัวทำอะไรได้ จุดแข็ง ข้อจำกัด และวิธีใช้ร่วมกับ FoneClaw",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "agentic-ai-phone-explained",
+    "lang": "th",
+    "title": "AI Agent บนมือถือคืออะไร อธิบายง่ายๆ",
+    "category": "คู่มือ",
+    "reading_time": "9 นาที",
+    "image": "agentic-ai-phone-explained.jpg",
+    "description": "อธิบายว่า AI Agent บนมือถือคืออะไร ต่างจากแชทบอทอย่างไร ทำงานอย่างไรบน Android พร้อมตัวอย่างจริงและวิธีเริ่มต้นใช้งาน FoneClaw",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "foneclaw-vs-apple-intelligence",
+    "lang": "th",
+    "title": "FoneClaw เทียบ Apple Intelligence",
+    "category": "เปรียบเทียบ",
+    "reading_time": "10 นาที",
+    "image": "foneclaw-vs-apple-intelligence.jpg",
+    "description": "เปรียบเทียบ FoneClaw กับ Apple Intelligence ครอบคลุมแพลตฟอร์ม ขอบเขตการสั่งงาน ความเป็นส่วนตัว และวิธีเลือกให้เหมาะกับการใช้งานจริง",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "voice-control-snapchat",
+    "lang": "th",
+    "title": "ควบคุม Snapchat ด้วยเสียงบน Android",
+    "category": "โซเชียลมีเดีย",
+    "reading_time": "8 min",
+    "image": "voice-control-snapchat.jpg",
+    "description": "คู่มือควบคุม Snapchat ด้วยเสียงบน Android ปี 2026 ไม่ต้องแตะหน้าจอ ไม่ต้อง root ครอบคลุมการส่งสแนป แชท สตอรี่ และฟิลเตอร์ด้วย FoneClaw",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "voice-control-tiktok",
+    "lang": "th",
+    "title": "ควบคุม TikTok ด้วยเสียงบนมือถือ",
+    "category": "โซเชียลมีเดีย",
+    "reading_time": "8 min",
+    "image": "voice-control-tiktok.jpg",
+    "description": "คู่มือควบคุม TikTok ด้วยเสียงบน Android ปี 2026 ไม่ต้องแตะหน้าจอ ไม่ต้อง root ครอบคลุมการดูวิดีโอ ค้นหา คอมเมนต์ และแชร์ด้วย FoneClaw",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "automate-instagram-with-voice",
+    "lang": "th",
+    "title": "สั่งงาน Instagram ด้วยเสียงบน Android",
+    "category": "โซเชียลมีเดีย",
+    "reading_time": "8 min",
+    "image": "automate-instagram-with-voice.jpg",
+    "description": "คู่มือสั่งงาน Instagram ด้วยเสียงบน Android ปี 2026 ไม่ต้องแตะหน้าจอ ไม่ต้อง root ครอบคลุมการโพสต์ สตอรี่ ดีเอ็ม และการตั้งค่าต่างๆ ด้วย FoneClaw",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "android-vs-ios-26-5-voice-control",
+    "lang": "th",
+    "title": "Android vs iOS 26.5 ใครสั่งงานด้วยเสียงดีกว่า",
+    "category": "เปรียบเทียบ",
+    "reading_time": "10 นาที",
+    "image": "android-vs-ios-26-5-voice-control.jpg",
+    "description": "เปรียบเทียบการสั่งงานด้วยเสียงบน Android กับ iOS 26.5 ครอบคลุม Siri, Google Assistant และ FoneClaw อธิบายจุดแข็ง ข้อจำกัด และวิธีเลือกให้เหมาะกับการใช้งานจริง",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "wwdc-2026-ai-do-over-phone-agent",
+    "lang": "th",
+    "title": "WWDC 2026 กับ AI บนมือถือ",
+    "category": "ข่าว",
+    "reading_time": "9 นาที",
+    "image": "wwdc-2026-ai-do-over-phone-agent.jpg",
+    "description": "วิเคราะห์ WWDC 2026 ของ Apple กับทิศทาง AI บนมือถือ อธิบายว่า Apple Intelligence พัฒนาไปแค่ไหน จุดแข็ง ข้อจำกัด และผลกระทบต่อผู้ใช้ Android",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "comp_vs_miclaw",
+    "lang": "th",
+    "title": "FoneClaw เทียบ MiClaw ตัวไหนดีกว่ากัน",
+    "category": "เปรียบเทียบ",
+    "reading_time": "10 นาที",
+    "image": "comp_vs_miclaw.jpg",
+    "description": "เปรียบเทียบ FoneClaw กับ MiClaw ผู้ช่วย AI บนมือถือ Android ครอบคลุมอุปกรณ์ที่รองรับ ขอบเขตการสั่งงาน ความปลอดภัย และวิธีเลือกให้เหมาะกับการใช้งานจริง",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "gemini-intelligence-vs-siri",
+    "lang": "th",
+    "title": "Gemini Intelligence เทียบ Siri ใครดีกว่า",
+    "category": "เปรียบเทียบ",
+    "reading_time": "10 นาที",
+    "image": "gemini-intelligence-vs-siri.jpg",
+    "description": "เปรียบเทียบ Gemini Intelligence ของ Google กับ Siri ของ Apple ครอบคลุมจุดแข็ง ข้อจำกัด ขอบเขตการสั่งงาน และผลกระทบต่อผู้ใช้ Android",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "tasker-alternative-voice-automation",
+    "lang": "th",
+    "title": "ทางเลือก Tasker สั่ง Android ด้วยเสียง",
+    "category": "คู่มือ",
+    "reading_time": "14 นาที",
+    "image": "tasker-alternative-voice-automation.jpg",
+    "description": "เปรียบเทียบทางเลือก Tasker สั่ง Android ด้วยเสียง 2026 ไม่ต้อง root ไม่ต้องเขียนโค้ด ครอบคลุม FoneClaw, Google Assistant และ Bixby Routines",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "gemini-intelligence-supported-devices",
+    "lang": "th",
+    "title": "Gemini Intelligence รองรับอุปกรณ์อะไรบ้าง",
+    "category": "เทคโนโลยี",
+    "reading_time": "14 นาที",
+    "image": "gemini-intelligence-supported-devices.jpg",
+    "description": "อธิบายว่า Gemini Intelligence รองรับอุปกรณ์อะไรบ้าง 2026 ครอบคลุม Pixel, Samsung, OnePlus พร้อมข้อจำกัดและทางเลือกสำหรับอุปกรณ์ที่ไม่รองรับ",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "voice-control-telegram",
+    "lang": "th",
+    "title": "สั่งงาน Telegram ด้วยเสียงบน Android",
+    "category": "โซเชียลมีเดีย",
+    "reading_time": "8 min",
+    "image": "voice-control-telegram.jpg",
+    "description": "คู่มือสั่งงาน Telegram ด้วยเสียงบน Android ปี 2026 ไม่ต้องแตะหน้าจอ ไม่ต้อง root ครอบคลุมการส่งข้อความ โทร ค้นหา และจัดการกลุ่มด้วย FoneClaw",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "gemini-vs-foneclaw",
+    "lang": "th",
+    "title": "Gemini เทียบ FoneClaw ต่างกันอย่างไร",
+    "category": "เปรียบเทียบ",
+    "reading_time": "10 นาที",
+    "image": "gemini-vs-foneclaw.jpg",
+    "description": "เปรียบเทียบ Gemini ของ Google กับ FoneClaw ผู้ช่วย Android อิสระ ครอบคลุมจุดแข็ง ข้อจำกัด ขอบเขตการสั่งงาน และวิธีเลือกให้เหมาะกับการใช้งานจริง",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "voice-control-whatsapp",
+    "lang": "th",
+    "title": "สั่ง WhatsApp ด้วยเสียงบน Android",
+    "category": "คู่มือ",
+    "reading_time": "9 นาที",
+    "image": "voice-control-whatsapp.jpg",
+    "description": "คู่มือการสั่ง WhatsApp ด้วยเสียงบน Android ครอบคลุมวิธีส่งข้อความ โทร สรุปแชท และจัดการกลุ่ม พร้อมข้อจำกัดและวิธีใช้ FoneClaw ช่วย",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "ai-phone-seniors",
+    "lang": "pt",
+    "title": "Telemóvel acessível para seniores com voz",
+    "category": "Acessibilidade",
+    "reading_time": "8 min",
+    "image": "ai-phone-seniors.jpg",
+    "description": "Saiba como o FoneClaw ajuda seniores a usar o telemóvel Android por voz. Interface simples, sem root e gratuito para as funções essenciais do dia a dia.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "voice-control-visually-impaired",
+    "lang": "pt",
+    "title": "Controle por voz Android para deficiência visual",
+    "category": "Acessibilidade",
+    "reading_time": "9 min",
+    "image": "voice-control-visually-impaired.jpg",
+    "description": "Saiba como usar controle por voz no Android com deficiência visual. TalkBack, Voice Access e FoneClaw cumprem papéis diferentes — veja qual se encaixa melhor.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "xiaomi-ai-ecosystem-2026",
+    "lang": "pt",
+    "title": "IA Xiaomi, HyperOS e MiClaw em 2026",
+    "category": "Ecossistema",
+    "reading_time": "9 min",
+    "image": "xiaomi-ai-ecosystem-2026.jpg",
+    "description": "Entenda MiMo, HyperOS e MiClaw na estratégia da Xiaomi, e onde um assistente Android amplo como FoneClaw entra na comparação.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "agentic-ai-phone-explained",
+    "lang": "pt",
+    "title": "O que é IA agentiva no celular",
+    "category": "Guias",
+    "reading_time": "9 min",
+    "image": "agentic-ai-phone-explained.jpg",
+    "description": "Entenda o que é IA agentiva no celular, como difere de chatbots e assistentes tradicionais, e veja exemplos reais com FoneClaw no Android.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "foneclaw-vs-apple-intelligence",
+    "lang": "pt",
+    "title": "FoneClaw vs Apple Intelligence no Android",
+    "category": "Comparativo",
+    "reading_time": "9 min",
+    "image": "foneclaw-vs-apple-intelligence.jpg",
+    "description": "Compare FoneClaw e Apple Intelligence. Entenda as diferenças entre automação aberta no Android e integração fechada da Apple por voz e IA.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "voice-control-snapchat",
+    "lang": "pt",
+    "title": "Controle o Snapchat com comandos de voz",
+    "category": "Redes sociais",
+    "reading_time": "8 min",
+    "image": "voice-control-snapchat.jpg",
+    "description": "Aprenda a controlar o Snapchat por voz com o FoneClaw no Android. Envie Snaps, publique Stories e converse sem tocar no ecrã.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "voice-control-tiktok",
+    "lang": "pt",
+    "title": "Controle o TikTok com comandos de voz",
+    "category": "Redes sociais",
+    "reading_time": "8 min",
+    "image": "voice-control-tiktok.jpg",
+    "description": "Aprenda a controlar o TikTok por voz com o FoneClaw. Veja vídeos, publique conteúdos e interaja sem tocar no ecrã do vosso Android.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "automate-instagram-with-voice",
+    "lang": "pt",
+    "title": "Automatize o Instagram com comandos de voz",
+    "category": "Redes sociais",
+    "reading_time": "8 min",
+    "image": "automate-instagram-with-voice.jpg",
+    "description": "Descubra como controlar o Instagram por voz com o FoneClaw. Publique fotos, envie mensagens e navegue no feed sem tocar no ecrã do telemóvel.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "android-vs-ios-26-5-voice-control",
+    "lang": "pt",
+    "title": "Android vs iOS: controle por voz em 2026",
+    "category": "Comparativo",
+    "reading_time": "9 min",
+    "image": "android-vs-ios-26-5-voice-control.jpg",
+    "description": "Compare Android e iOS em controle por voz, automação e ações em apps. Veja qual plataforma oferece mais liberdade para comandos de voz em 2026.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "wwdc-2026-ai-do-over-phone-agent",
+    "lang": "pt",
+    "title": "WWDC 2026, Siri AI e agentes no Android",
+    "category": "Análises",
+    "reading_time": "9 min",
+    "image": "wwdc-2026-ai-do-over-phone-agent.jpg",
+    "description": "Análise da WWDC 2026 e o impacto da Siri AI no mercado de assistentes. Entenda o que muda para Android e agentes como FoneClaw.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "comp_vs_miclaw",
+    "lang": "pt",
+    "title": "MiClaw vs FoneClaw: qual escolher",
+    "category": "Comparativos",
+    "reading_time": "9 min",
+    "image": "comp_vs_miclaw.jpg",
+    "description": "Comparativo completo entre MiClaw e FoneClaw. Entenda diferenças de compatibilidade, ações e permissões para escolher o assistente ideal para você.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "gemini-intelligence-vs-siri",
+    "lang": "pt",
+    "title": "Gemini Intelligence vs Siri AI em 2026",
+    "category": "Comparativo",
+    "reading_time": "9 min",
+    "image": "gemini-intelligence-vs-siri.jpg",
+    "description": "Compare Gemini Intelligence e Siri AI em 2026. Veja onde cada assistente se destaca em idiomas, dispositivos, privacidade e execução de ações.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "tasker-alternative-voice-automation",
+    "lang": "pt",
+    "title": "Alternativa ao Tasker por voz no Android",
+    "category": "Automação",
+    "reading_time": "9 min",
+    "image": "tasker-alternative-voice-automation.jpg",
+    "description": "Compare FoneClaw e Tasker para automação por voz no Android. Entenda as diferenças de comandos, permissões e complexidade para escolher a ferramenta certa.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "gemini-intelligence-supported-devices",
+    "lang": "pt",
+    "title": "Dispositivos compatíveis com Gemini Intelligence",
+    "category": "Compatibilidade",
+    "reading_time": "9 min",
+    "image": "gemini-intelligence-supported-devices.jpg",
+    "description": "Veja como entender compatibilidade do Gemini Intelligence e por que suporte de IA não significa executar ações no Android.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "voice-control-telegram",
+    "lang": "pt",
+    "title": "Controle o Telegram por voz no Android",
+    "category": "Mensagens",
+    "reading_time": "8 min",
+    "image": "voice-control-telegram.jpg",
+    "description": "Descubra como usar o Telegram por voz com o FoneClaw no Android. Envie mensagens, faça chamadas e gerie chats sem tocar no ecrã.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "gemini-vs-foneclaw",
+    "lang": "pt",
+    "title": "Gemini Intelligence vs FoneClaw em português",
+    "category": "Comparativos",
+    "reading_time": "9 min",
+    "image": "gemini-vs-foneclaw.jpg",
+    "description": "Comparativo Gemini Intelligence e FoneClaw: entenda onde cada um se destaca entre compreensão de linguagem e execução de tarefas no Android.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "voice-control-whatsapp",
+    "lang": "pt",
+    "title": "Controle por voz do WhatsApp no Android",
+    "category": "Guia prático",
+    "reading_time": "9 min",
+    "image": "voice-control-whatsapp.jpg",
+    "description": "Descubra como usar controle por voz no WhatsApp com Android. Envie mensagens, faça chamadas e resuma conversas com comandos de voz em 2026.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "ai-phone-seniors",
+    "lang": "ru",
+    "title": "FoneClaw для пожилых людей",
+    "category": "Доступность",
+    "reading_time": "8 min",
+    "image": "ai-phone-seniors.jpg",
+    "description": "FoneClaw помогает пожилым людям освоить смартфон. Голосовые команды упрощают звонки, сообщения и управление приложениями без сложных настроек.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "voice-control-snapchat",
+    "lang": "ru",
+    "title": "Голосовое управление Snapchat",
+    "category": "Социальные сети",
+    "reading_time": "8 min",
+    "image": "voice-control-snapchat.jpg",
+    "description": "Управляйте Snapchat голосом с помощью FoneClaw. Делайте снэпы, отправляйте сообщения и применяйте фильтры без касания экрана смартфона.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "voice-control-tiktok",
+    "lang": "ru",
+    "title": "Голосовое управление TikTok",
+    "category": "Социальные сети",
+    "reading_time": "8 min",
+    "image": "voice-control-tiktok.jpg",
+    "description": "Управляйте TikTok голосом с FoneClaw. Прокручивайте видео, ставьте лайки и записывайте ролики без прикосновения к экрану смартфона.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "automate-instagram-with-voice",
+    "lang": "ru",
+    "title": "Автоматизация Instagram голосом",
+    "category": "Социальные сети",
+    "reading_time": "8 min",
+    "image": "automate-instagram-with-voice.jpg",
+    "description": "Научитесь автоматизировать Instagram с помощью голосовых команд. FoneClaw позволяет управлять лентой, сторис и публикациями без рук.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "voice-control-telegram",
+    "lang": "ru",
+    "title": "Голосовое управление Telegram",
+    "category": "Мессенджеры",
+    "reading_time": "8 min",
+    "image": "voice-control-telegram.jpg",
+    "description": "FoneClaw позволяет управлять Telegram голосом. Отправляйте сообщения, читайте чаты и управляйте каналами без касания экрана телефона.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "ai-phone-seniors",
+    "lang": "vi",
+    "title": "FoneClaw giúp người cao tuổi dùng điện thoại",
+    "category": "Truy cập dễ dàng",
+    "reading_time": "8 min",
+    "image": "ai-phone-seniors.jpg",
+    "description": "Hướng dẫn sử dụng FoneClaw cho người cao tuổi. Điều khiển điện thoại Android bằng giọng nói đơn giản, gọi điện, nhắn tin và xem tin tức rảnh tay.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "voice-control-visually-impaired",
+    "lang": "vi",
+    "title": "Điều khiển giọng nói cho người khiếm thị Android",
+    "category": "accessibility",
+    "reading_time": "8 phút đọc",
+    "image": "voice-control-visually-impaired.jpg",
+    "description": "Hướng dẫn đầy đủ về điều khiển giọng nói Android cho người khiếm thị. Voice Access, TalkBack và FoneClaw hỗ trợ bạn ra sao?",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "xiaomi-ai-ecosystem-2026",
+    "lang": "vi",
+    "title": "Hệ sinh thái AI Xiaomi 2026: HyperOS, MiMo",
+    "category": "ecosystem",
+    "reading_time": "7 phút đọc",
+    "image": "xiaomi-ai-ecosystem-2026.jpg",
+    "description": "Tìm hiểu hệ sinh thái AI của Xiaomi năm 2026 với HyperOS, MiMo và MiClaw. FoneClaw bổ sung những gì cho trải nghiệm của bạn?",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "agentic-ai-phone-explained",
+    "lang": "vi",
+    "title": "Agentic AI Trên Điện Thoại: Giải Thích Đơn Giản",
+    "category": "Kiến thức công nghệ",
+    "reading_time": "7 phút đọc",
+    "image": "agentic-ai-phone-explained.jpg",
+    "description": "Tìm hiểu agentic AI là gì và cách nó hoạt động trên smartphone. So sánh với chatbot truyền thống và vai trò của FoneClaw.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "foneclaw-vs-apple-intelligence",
+    "lang": "vi",
+    "title": "So Sánh FoneClaw và Apple Intelligence",
+    "category": "AI Comparison",
+    "reading_time": "6 phút đọc",
+    "image": "foneclaw-vs-apple-intelligence.jpg",
+    "description": "So sánh FoneClaw và Apple Intelligence: trợ lý AI trên Android so với iPhone. Khám phá tính năng, khả năng tiếp cận và giá trị cho người Việt.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "voice-control-snapchat",
+    "lang": "vi",
+    "title": "Điều khiển Snapchat bằng giọng nói FoneClaw",
+    "category": "Mạng xã hội",
+    "reading_time": "8 min",
+    "image": "voice-control-snapchat.jpg",
+    "description": "Hướng dẫn điều khiển Snapchat bằng giọng nói với FoneClaw trên Android. Chụp ảnh, gửi snap, nhắn tin và xem story rảnh tay không cần chạm.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "voice-control-tiktok",
+    "lang": "vi",
+    "title": "Điều khiển TikTok bằng giọng nói FoneClaw",
+    "category": "Mạng xã hội",
+    "reading_time": "8 min",
+    "image": "voice-control-tiktok.jpg",
+    "description": "Hướng dẫn điều khiển TikTok bằng giọng nói với FoneClaw trên Android. Cuộn video, thả tym, bình luận và đăng bài rảnh tay không cần chạm màn hình.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "automate-instagram-with-voice",
+    "lang": "vi",
+    "title": "Tự động hóa Instagram bằng giọng nói",
+    "category": "Mạng xã hội",
+    "reading_time": "8 min",
+    "image": "automate-instagram-with-voice.jpg",
+    "description": "Hướng dẫn tự động hóa Instagram bằng giọng nói trên Android với FoneClaw. Đăng bài, thả tym, nhắn tin và lướt reels rảnh tay năm 2026.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "android-vs-ios-26-5-voice-control",
+    "lang": "vi",
+    "title": "Android vs iOS 26.5: Cuộc Chiến Giọng Nói",
+    "category": "So sánh hệ điều hành",
+    "reading_time": "7 phút đọc",
+    "image": "android-vs-ios-26-5-voice-control.jpg",
+    "description": "So sánh khả năng điều khiển giọng nói giữa Android và iOS 26.5. Android mở hơn, FoneClaw lấp đầy khoảng trống trợ lý AI.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "wwdc-2026-ai-do-over-phone-agent",
+    "lang": "vi",
+    "title": "WWDC 2026: Apple Bắt Chước AI Phone Agent?",
+    "category": "Tin tức & Phân tích",
+    "reading_time": "6 phút đọc",
+    "image": "wwdc-2026-ai-do-over-phone-agent.jpg",
+    "description": "Phân tích chi tiết WWDC 2026 khi Apple ra mắt trợ lý AI điện thoại. So sánh với FoneClaw và hệ sinh thái Android đã có từ lâu. Ai dẫn đầu?",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "comp_vs_miclaw",
+    "lang": "vi",
+    "title": "So sánh MiClaw và FoneClaw cho Android",
+    "category": "So sánh",
+    "reading_time": "10 phút",
+    "image": "comp_vs_miclaw.jpg",
+    "description": "So sánh chi tiết MiClaw và FoneClaw: hai trợ lý AI trên điện thoại Android với cách tiếp cận khác nhau. Tìm hiểu ưu nhược điểm từng sản phẩm.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "gemini-intelligence-vs-siri",
+    "lang": "vi",
+    "title": "Gemini Intelligence vs Apple Siri 2026",
+    "category": "AI Comparison",
+    "reading_time": "6 phút đọc",
+    "image": "gemini-intelligence-vs-siri.jpg",
+    "description": "So sánh chi tiết Gemini Intelligence và Apple Siri năm 2026. Khám phá khả năng điều khiển điện thoại, hiểu ngữ cảnh và AI của hai trợ lý số.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "tasker-alternative-voice-automation",
+    "lang": "vi",
+    "title": "Thay thế Tasker: Tự động hóa giọng nói Android",
+    "category": "automation",
+    "reading_time": "7 phút đọc",
+    "image": "tasker-alternative-voice-automation.jpg",
+    "description": "Khám phá các lựa chọn thay thế Tasker cho tự động hóa Android bằng giọng nói. So sánh độ phức tạp và tìm giải pháp phù hợp với bạn.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "gemini-intelligence-supported-devices",
+    "lang": "vi",
+    "title": "Gemini Intelligence 2026: Thiết bị hỗ trợ",
+    "category": "ai-assistant",
+    "reading_time": "7 phút đọc",
+    "image": "gemini-intelligence-supported-devices.jpg",
+    "description": "Danh sách thiết bị hỗ trợ Gemini Intelligence năm 2026. Tìm hiểu giới hạn và cách FoneClaw bổ sung thêm tính năng cho bạn.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "voice-control-telegram",
+    "lang": "vi",
+    "title": "Điều khiển Telegram bằng giọng nói FoneClaw",
+    "category": "Mạng xã hội",
+    "reading_time": "8 min",
+    "image": "voice-control-telegram.jpg",
+    "description": "Hướng dẫn điều khiển Telegram bằng giọng nói với FoneClaw trên Android. Gửi tin nhắn, gọi điện, quản lý nhóm và kênh rảnh tay hoàn toàn.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "gemini-vs-foneclaw",
+    "lang": "vi",
+    "title": "Gemini vs FoneClaw: So Sánh Trợ Lý AI",
+    "category": "So sánh sản phẩm",
+    "reading_time": "7 phút đọc",
+    "image": "gemini-vs-foneclaw.jpg",
+    "description": "So sánh chi tiết Google Gemini và FoneClaw: ưu nhược điểm từng trợ lý AI. Gemini mạnh kiến thức, FoneClaw mạnh điều khiển điện thoại.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "voice-control-whatsapp",
+    "lang": "vi",
+    "title": "Điều Khiển WhatsApp Bằng Giọng Nói Trên Android",
+    "category": "Messaging",
+    "reading_time": "5 phút đọc",
+    "image": "voice-control-whatsapp.jpg",
+    "description": "Hướng dẫn cách điều khiển WhatsApp bằng giọng nói trên Android cùng FoneClaw. Gửi tin nhắn, đọc chat, gọi điện hoàn toàn rảnh tay.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "ai-phone-seniors",
+    "lang": "id",
+    "title": "FoneClaw untuk Lansia: HP Android Jadi Mudah",
+    "category": "Panduan untuk Lansia",
+    "reading_time": "8 min",
+    "image": "ai-phone-seniors.jpg",
+    "description": "FoneClaw membantu lansia menggunakan HP Android dengan mudah melalui perintah suara. Tidak perlu menyentuh layar, cukup bicara saja.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "voice-control-visually-impaired",
+    "lang": "id",
+    "title": "Kontrol Android Lewat Suara untuk Tunanetra",
+    "category": "Aksesibilitas",
+    "reading_time": "11 menit",
+    "image": "voice-control-visually-impaired.jpg",
+    "description": "Panduan Voice Access, TalkBack dan FoneClaw agar tunanetra dapat mengoperasikan Android dengan aman, berkonteks dan ada langkah konfirmasi.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "xiaomi-ai-ecosystem-2026",
+    "lang": "id",
+    "title": "Ekosistem AI Xiaomi Tahun 2026",
+    "category": "Analisis",
+    "reading_time": "10 menit",
+    "image": "xiaomi-ai-ecosystem-2026.jpg",
+    "description": "Analisis HyperOS, MiMo, MiClaw dan peran FoneClaw bagi pengguna Android yang ingin mengendalikan ponsel lewat suara dengan lebih jelas.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "agentic-ai-phone-explained",
+    "lang": "id",
+    "title": "Apa Itu AI Agent di Ponsel?",
+    "category": "Panduan",
+    "reading_time": "10 menit",
+    "image": "agentic-ai-phone-explained.jpg",
+    "description": "Penjelasan AI Agent di ponsel dengan contoh Gemini, Siri, MiClaw dan FoneClaw: bedanya dengan chatbot dan perlu kontrol seperti apa.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "foneclaw-vs-apple-intelligence",
+    "lang": "id",
+    "title": "FoneClaw vs Apple Intelligence untuk Android",
+    "category": "Perbandingan",
+    "reading_time": "8 menit",
+    "image": "foneclaw-vs-apple-intelligence.jpg",
+    "description": "Perbandingan FoneClaw di Android dan Apple Intelligence di iOS. AI tertanam Apple versus kebebasan aksi FoneClaw — mana yang lebih efektif?",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "voice-control-snapchat",
+    "lang": "id",
+    "title": "Kontrol Snapchat dengan Suara di Android",
+    "category": "Kontrol Suara Aplikasi",
+    "reading_time": "8 min",
+    "image": "voice-control-snapchat.jpg",
+    "description": "Kontrol Snapchat dengan perintah suara di Android menggunakan FoneClaw. Snap, chat, dan story tanpa menyentuh layar. Panduan lengkap.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "voice-control-tiktok",
+    "lang": "id",
+    "title": "Kontrol TikTok dengan Suara di Android",
+    "category": "Kontrol Suara Aplikasi",
+    "reading_time": "8 min",
+    "image": "voice-control-tiktok.jpg",
+    "description": "Cara mudah mengontrol TikTok dengan perintah suara di Android. Scroll, like, dan posting video tanpa menyentuh layar menggunakan FoneClaw.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "automate-instagram-with-voice",
+    "lang": "id",
+    "title": "Automasi Instagram dengan Suara di Android",
+    "category": "Otomasi Media Sosial",
+    "reading_time": "8 min",
+    "image": "automate-instagram-with-voice.jpg",
+    "description": "Pelajari cara mengotomatiskan Instagram menggunakan perintah suara di Android. Posting, like, dan scroll tanpa menyentuh layar dengan FoneClaw.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "android-vs-ios-26-5-voice-control",
+    "lang": "id",
+    "title": "Android dan iOS: Kontrol Suara 2026",
+    "category": "Perbandingan",
+    "reading_time": "8 menit",
+    "image": "android-vs-ios-26-5-voice-control.jpg",
+    "description": "Perbandingan kontrol suara di Android dan iOS tahun 2026. Uji coba nyata, tips praktis dan pandangan objektif terhadap kedua platform.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "wwdc-2026-ai-do-over-phone-agent",
+    "lang": "id",
+    "title": "WWDC 2026 dan Asisten Ponsel AI",
+    "category": "Analisis",
+    "reading_time": "10 menit",
+    "image": "wwdc-2026-ai-do-over-phone-agent.jpg",
+    "description": "Melihat WWDC 2026, Siri AI dan Apple Intelligence dari sudut pandang pengguna Android yang butuh asisten ponsel bisa mengoperasikan bukan hanya menjawab.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "comp_vs_miclaw",
+    "lang": "id",
+    "title": "MiClaw dan FoneClaw Apa Bedanya?",
+    "category": "Perbandingan",
+    "reading_time": "9 menit",
+    "image": "comp_vs_miclaw.jpg",
+    "description": "Perbandingan MiClaw dalam ekosistem Xiaomi dengan FoneClaw independen untuk Android: cakupan perangkat, izin, aksi suara dan cara memilih.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "gemini-intelligence-vs-siri",
+    "lang": "id",
+    "title": "Gemini Intelligence vs Siri AI: Perbandingan 2026",
+    "category": "Industri",
+    "reading_time": "8 menit",
+    "image": "gemini-intelligence-vs-siri.jpg",
+    "description": "Perbandingan mendalam Gemini Intelligence dan Siri AI di 2026 untuk pengguna Indonesia. Analisis kemampuan, bahasa, dan integrasi masing-masing asisten.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "tasker-alternative-voice-automation",
+    "lang": "id",
+    "title": "Alternatif Tasker untuk Otomatisasi Suara Android",
+    "category": "Panduan",
+    "reading_time": "10 menit",
+    "image": "tasker-alternative-voice-automation.jpg",
+    "description": "Cara memilih pengganti Tasker untuk Android lewat suara, tanpa root, dengan konfirmasi sebelum aksi sensitif dan cocok untuk pengguna Indonesia.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "gemini-intelligence-supported-devices",
+    "lang": "id",
+    "title": "Perangkat yang Mendukung Gemini Intelligence",
+    "category": "Analisis",
+    "reading_time": "10 menit",
+    "image": "gemini-intelligence-supported-devices.jpg",
+    "description": "Daftar dan cara memahami perangkat yang mendukung Gemini Intelligence, perbedaan kemampuan AI Google dan pengoperasian Android sesungguhnya dengan FoneClaw.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "voice-control-telegram",
+    "lang": "id",
+    "title": "Kontrol Telegram dengan Suara di Android",
+    "category": "Kontrol Suara Aplikasi",
+    "reading_time": "8 min",
+    "image": "voice-control-telegram.jpg",
+    "description": "Kontrol penuh Telegram di Android dengan perintah suara FoneClaw. Kirim pesan, buka grup, dan kelola channel tanpa menyentuh layar.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "gemini-vs-foneclaw",
+    "lang": "id",
+    "title": "Gemini dan FoneClaw: Memahami atau Mengerjakan",
+    "category": "Perbandingan",
+    "reading_time": "9 menit",
+    "image": "gemini-vs-foneclaw.jpg",
+    "description": "Perbandingan Gemini Intelligence dan FoneClaw di Android: satu sisi kuat memahami informasi, sisi lain fokus mengoperasikan ponsel secara nyata.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "voice-control-whatsapp",
+    "lang": "id",
+    "title": "Kontrol Suara WhatsApp di Android",
+    "category": "Panduan",
+    "reading_time": "8 menit",
+    "image": "voice-control-whatsapp.jpg",
+    "description": "Panduan lengkap kontrol suara WhatsApp di Android lewat FoneClaw. Kirim pesan, telepon, baca obrolan, dan rangkum notifikasi tanpa menyentuh layar.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "ai-phone-seniors",
+    "lang": "fr",
+    "title": "Smartphone pour seniors : guide facile",
+    "category": "Accessibilité",
+    "reading_time": "8 min",
+    "image": "ai-phone-seniors.jpg",
+    "description": "Guide complet pour seniors : utilisez votre smartphone Android facilement grâce à FoneClaw, l'assistant vocal qui simplifie chaque action au quotidien.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "voice-control-visually-impaired",
+    "lang": "fr",
+    "title": "Commande vocale pour malvoyants : guide complet",
+    "category": "Accèssibilité",
+    "reading_time": "9 min",
+    "image": "voice-control-visually-impaired.jpg",
+    "description": "Comment la commande vocale Android aide les personnes malvoyantes. Guide pratique avec FoneClaw, Voice Accèss et solutions d'accèssibilité 2026.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "xiaomi-ai-ecosystem-2026",
+    "lang": "fr",
+    "title": "Xiaomi IA 2026 : MiClaw et alternatives",
+    "category": "Industrie",
+    "reading_time": "9 min",
+    "image": "xiaomi-ai-ecosystem-2026.jpg",
+    "description": "Analyse complète de l'écosystème IA de Xiaomi en 2026. HyperOS, MiClaw, comparaison avec FoneClaw et perspectives pour l'agent IA mobile.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "agentic-ai-phone-explained",
+    "lang": "fr",
+    "title": "IA Agentic pour téléphone : Guide complet",
+    "category": "Guide",
+    "reading_time": "8 min",
+    "image": "agentic-ai-phone-explained.jpg",
+    "description": "Comprendre l'IA agentic pour téléphone : comment un agent IA execute des actions concrêtes. Guide complet avec exemples et comparaisons.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "foneclaw-vs-apple-intelligence",
+    "lang": "fr",
+    "title": "FoneClaw vs Apple Intelligence : comparatif",
+    "category": "Comparaison",
+    "reading_time": "12 min",
+    "image": "foneclaw-vs-apple-intelligence.jpg",
+    "description": "FoneClaw face a Apple Intelligence : deux approches de l'IA mobile. Comparatif complet des fonctionnalités, compatibilite et cas d'usage.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "voice-control-snapchat",
+    "lang": "fr",
+    "title": "Contrôle vocal Snapchat sur Android",
+    "category": "Réseaux sociaux",
+    "reading_time": "8 min",
+    "image": "voice-control-snapchat.jpg",
+    "description": "Maîtrisez Snapchat par la voix sur Android avec FoneClaw. Envoyez des snaps, naviguez dans les conversations et gérez vos stories sans toucher l'écran.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "voice-control-tiktok",
+    "lang": "fr",
+    "title": "Contrôle vocal TikTok sur Android",
+    "category": "Réseaux sociaux",
+    "reading_time": "8 min",
+    "image": "voice-control-tiktok.jpg",
+    "description": "Pilotez TikTok par la voix sur Android avec FoneClaw. Scrollez, liker, publiez et naviguez sans toucher votre écran grâce à l'assistant IA.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "automate-instagram-with-voice",
+    "lang": "fr",
+    "title": "Automatiser Instagram par la voix",
+    "category": "Réseaux sociaux",
+    "reading_time": "8 min",
+    "image": "automate-instagram-with-voice.jpg",
+    "description": "Apprenez à automatiser Instagram avec votre voix sur Android grâce à FoneClaw. Publiez, naviguez et gérez vos posts sans toucher votre écran.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "android-vs-ios-26-5-voice-control",
+    "lang": "fr",
+    "title": "Android vs iOS : commande vocale en 2025",
+    "category": "Comparaison",
+    "reading_time": "6 min",
+    "image": "android-vs-ios-26-5-voice-control.jpg",
+    "description": "Comparatif Android vs iOS pour la commande vocale en 2025. Decouvrez quelle plateforme offre le meilleur contrôle vocal de votre téléphone.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "wwdc-2026-ai-do-over-phone-agent",
+    "lang": "fr",
+    "title": "WWDC 2026 : Apple refait son IA mobile",
+    "category": "Industrie",
+    "reading_time": "7 min",
+    "image": "wwdc-2026-ai-do-over-phone-agent.jpg",
+    "description": "WWDC 2026 et Siri IA : Apple corrige le tir sur l'intelligence artificielle. Analyse des annonces et impact pour Android.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "comp_vs_miclaw",
+    "lang": "fr",
+    "title": "MiClaw vs FoneClaw : Comparaison 2026",
+    "category": "Comparaison",
+    "reading_time": "7 min",
+    "image": "comp_vs_miclaw.jpg",
+    "description": "MiClaw ou FoneClaw ? Comparaison complété des deux agents IA pour téléphone Android. Fonctionnalités, prix et performances.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "gemini-intelligence-vs-siri",
+    "lang": "fr",
+    "title": "Gemini Intelligence vs Siri : le duel IA",
+    "category": "Industrie",
+    "reading_time": "20 min",
+    "image": "gemini-intelligence-vs-siri.jpg",
+    "description": "Analyse complété Gemini Intelligence vs Siri en 2025. Deux visions de l'IA mobile s'affrontent. Decouvrez laquelle offre le meilleur assistant.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "tasker-alternative-voice-automation",
+    "lang": "fr",
+    "title": "Tasker vs FoneClaw : la commande vocale Android",
+    "category": "Comparaison",
+    "reading_time": "9 min",
+    "image": "tasker-alternative-voice-automation.jpg",
+    "description": "Découvrez pourquoi FoneClaw s'impose comme l'alternative moderne à Tasker pour la commande vocale sur Android. Comparatif complet 2026.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "gemini-intelligence-supported-devices",
+    "lang": "fr",
+    "title": "Appareils compatibles Gemini Intelligence 2026",
+    "category": "Guide",
+    "reading_time": "10 min",
+    "image": "gemini-intelligence-supported-devices.jpg",
+    "description": "Liste complète des appareils Android et Pixel compatibles avec Gemini Intelligence en 2026. Vérifiez votre téléphone et découvrez les alternatives.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "voice-control-telegram",
+    "lang": "fr",
+    "title": "Contrôler Telegram par la voix",
+    "category": "Messagerie",
+    "reading_time": "8 min",
+    "image": "voice-control-telegram.jpg",
+    "description": "Découvrez comment contrôler Telegram par la voix sur Android avec FoneClaw. Envoyez des messages, gérez vos groupes et naviguez sans toucher l'écran.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "gemini-vs-foneclaw",
+    "lang": "fr",
+    "title": "Gemini Intelligence vs FoneClaw : Guide",
+    "category": "Comparaison",
+    "reading_time": "6 min",
+    "image": "gemini-vs-foneclaw.jpg",
+    "description": "Gemini Intelligence de Google face a FoneClaw : comparaison complété des deux agents IA pour Android. Forces et faiblesses.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "voice-control-whatsapp",
+    "lang": "fr",
+    "title": "Commande vocale WhatsApp : guide complet",
+    "category": "Guide",
+    "reading_time": "7 min",
+    "image": "voice-control-whatsapp.jpg",
+    "description": "Maîtrisez la commande vocale sur WhatsApp : envoi de messages, appels, écoute et plus. Guide pratique pour Android et iOS en 2025.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "ai-phone-seniors",
+    "lang": "ko",
+    "title": "시니어를 위한 AI 폰 비서 완벽 가이드",
+    "category": "사용 가이드",
+    "reading_time": "8 min",
+    "image": "ai-phone-seniors.jpg",
+    "description": "어르신도 쉽게 사용할 수 있는 FoneClaw AI 음성 비서입니다. 음성으로 전화 걸기, 문자 보내기, 앱 실행을 편리하게 이용하세요. 복잡한 화면 조작 없이 음성만으로 스마트폰의 모든 기능을 자유롭게 사용할 수 있습니다. 무료 설치!",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "voice-control-visually-impaired",
+    "lang": "ko",
+    "title": "시각장애인을 위한 스마트폰 음성 제어",
+    "category": "접근성",
+    "reading_time": "9 min",
+    "image": "uc_visual_impaired.jpg",
+    "description": "TalkBack, Voice Access, FoneClaw를 조합해 시각장애 사용자가 Android를 더 안전하게 조작하는 방법을 권한 투명성, 실행 전 확인, 접근성 도구 선택 기준과 함께 실제 경험으로 설명합니다.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "xiaomi-ai-ecosystem-2026",
+    "lang": "ko",
+    "title": "샤오미 HyperOS AI 생태계 2026 정리",
+    "category": "업계",
+    "reading_time": "9 min",
+    "image": "xiaomi-ai-ecosystem-2026.jpg",
+    "description": "MiMo, HyperOS, MiClaw를 중심으로 샤오미 AI 생태계의 실제 변화를 정리합니다. 한국 사용자가 알아야 할 지원 범위, 권한 구조, 프라이버시 기준, 국내 서비스 연동과 실제 활용 가능성을 설명합니다.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "agentic-ai-phone-explained",
+    "lang": "ko",
+    "title": "에이전트형 AI 스마트폰이란 무엇인가",
+    "category": "업계",
+    "reading_time": "9 min",
+    "image": "agentic-ai-phone-explained.jpg",
+    "description": "MiClaw, Gemini, Siri AI, FoneClaw를 예로 들어 에이전트형 AI가 챗봇과 어떻게 다른지, 스마트폰에서 무엇을 실행하는지 설명합니다. 16개 카테고리, 120개 이상 지원 작업을 중심으로 정리합니다.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "foneclaw-vs-apple-intelligence",
+    "lang": "ko",
+    "title": "FoneClaw vs Apple Intelligence 비교",
+    "category": "비교",
+    "reading_time": "9 min",
+    "image": "foneclaw-vs-apple-intelligence.jpg",
+    "description": "Android 기반 AI 어시스턴트 FoneClaw와 Apple Intelligence를 지원 범위, 실행 능력, 권한 구조, 프라이버시 설계 기준으로 비교합니다. 어떤 사용자에게 어떤 도구가 적합한지 실제 사용 장면별로 정리합니다.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "voice-control-snapchat",
+    "lang": "ko",
+    "title": "스냅챗 음성 제어 완벽 가이드",
+    "category": "소셜 미디어",
+    "reading_time": "8 min",
+    "image": "voice-control-snapchat.jpg",
+    "description": "FoneClaw AI 비서로 스냅챗을 음성만으로 즐기세요. 스냅 촬영 및 전송, 스토리 업로드, 렌즈와 필터 적용, 채팅, 스냅 맵 탐색까지 모든 기능을 음성 명령으로 간편하게 제어할 수 있습니다. 무료 설치, 루팅 불필요!",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "voice-control-tiktok",
+    "lang": "ko",
+    "title": "음성으로 틱톡 제어하는 완벽한 방법",
+    "category": "소셜 미디어",
+    "reading_time": "8 min",
+    "image": "voice-control-tiktok.jpg",
+    "description": "FoneClaw AI 비서로 틱톡을 음성만으로 편리하게 즐기세요. 영상 스크롤, 좋아요, 댓글 작성, 라이브 방송, 콘텐츠 업로드, 트렌드 검색까지 모든 기능을 음성 명령으로 간편하게 제어할 수 있습니다. 무료 설치, 루팅 불필요!",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "automate-instagram-with-voice",
+    "lang": "ko",
+    "title": "음성으로 인스타그램 자동화하는 방법",
+    "category": "소셜 미디어",
+    "reading_time": "8 min",
+    "image": "automate-instagram-with-voice.jpg",
+    "description": "FoneClaw AI 음성 비서로 인스타그램을 음성만으로 자동화하세요. 게시물 업로드, 스토리 작성, 댓글 확인, 좋아요, 검색까지 손가락 하나 움직이지 않고 모든 기능을 자유롭게 이용할 수 있습니다. 무료 설치, 루팅 불필요!",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "android-vs-ios-26-5-voice-control",
+    "lang": "ko",
+    "title": "Android vs iOS 음성 제어 비교 2026",
+    "category": "비교",
+    "reading_time": "9 min",
+    "image": "android-vs-ios-26-5-voice-control.jpg",
+    "description": "Android와 iOS의 음성 제어를 앱 실행, 시스템 설정, 접근성, 자동화 관점에서 비교합니다. FoneClaw가 Android에서 제공하는 범용 작업 실행과 Apple Intelligence의 iOS 생태계 통합을 분석합니다.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "wwdc-2026-ai-do-over-phone-agent",
+    "lang": "ko",
+    "title": "WWDC 2026 Siri AI와 Apple Intelligence",
+    "category": "업계",
+    "reading_time": "9 min",
+    "image": "wwdc-2026-ai-do-over-phone-agent.jpg",
+    "description": "Apple의 Siri AI와 Apple Intelligence 전략을 Android 사용자와 스마트폰 에이전트 관점에서 해석합니다. Siri의 새로운 능력, 프라이버시 전략, Android에 미치는 영향을 분석합니다.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "comp_vs_miclaw",
+    "lang": "ko",
+    "title": "MiClaw vs FoneClaw: 무엇이 다른가",
+    "category": "비교",
+    "reading_time": "9 min",
+    "image": "comp_vs_miclaw.jpg",
+    "description": "샤오미 생태계의 MiClaw와 범용 Android AI 어시스턴트 FoneClaw를 지원 범위, 권한 구조, 실행 능력, 타사 앱 지원 기준으로 비교합니다. 어떤 상황에서 어떤 도구를 선택해야 하는지 실제 사용 장면별로 정리합니다.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "gemini-intelligence-vs-siri",
+    "lang": "ko",
+    "title": "Gemini Intelligence vs Siri 비교 2026",
+    "category": "비교",
+    "reading_time": "9 min",
+    "image": "gemini-intelligence-vs-siri.jpg",
+    "description": "Google의 Gemini Intelligence와 Apple의 Siri를 스마트폰 AI 에이전트 관점에서 비교합니다. 지원 범위, 실행 능력, 권한 구조, 프라이버시 접근 방식, 한국 사용자에게 적합한 선택 기준을 분석합니다.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "tasker-alternative-voice-automation",
+    "lang": "ko",
+    "title": "Tasker 대안: 음성으로 Android 자동화",
+    "category": "자동화",
+    "reading_time": "9 min",
+    "image": "tasker-alternative-voice-automation.jpg",
+    "description": "복잡한 스크립트 없이 음성으로 Android를 자동화하는 방법을 비교합니다. Tasker, Voice Access, FoneClaw의 실제 차이를 권한 구조, 실행 범위, 설정 시간, 일상 작업 장면 기준으로 정리합니다.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "gemini-intelligence-supported-devices",
+    "lang": "ko",
+    "title": "Gemini Intelligence 지원 기기 정리 2026",
+    "category": "업계",
+    "reading_time": "10 min",
+    "image": "gemini-intelligence-supported-devices.jpg",
+    "description": "Gemini Intelligence가 어떤 Android 기기에서 의미 있는지, 기기 지원 범위와 실제 작업 실행 능력을 구분해 설명합니다. Pixel, 삼성, 샤오미 기기별 통합 수준과 권한 구조, 프라이버시 보호 기준을 비교합니다.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "voice-control-telegram",
+    "lang": "ko",
+    "title": "음성으로 텔레그램 완벽 제어하기",
+    "category": "메신저",
+    "reading_time": "8 min",
+    "image": "voice-control-telegram.jpg",
+    "description": "FoneClaw AI 비서로 텔레그램을 음성만으로 편리하게 이용하세요. 메시지 전송, 채널 구독, 그룹 채팅 관리, 봇 활용, 파일 공유까지 모든 기능을 음성 명령으로 간편하게 제어할 수 있습니다. 무료 설치, 루팅 불필요!",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "gemini-vs-foneclaw",
+    "lang": "ko",
+    "title": "Gemini vs FoneClaw: 어떤 차이가 있나",
+    "category": "비교",
+    "reading_time": "9 min",
+    "image": "comp_vs_gemini.jpg",
+    "description": "정보 이해에 강한 Gemini Intelligence와 Android 작업 실행에 초점을 둔 FoneClaw를 사용 장면별로 비교합니다. 권한 구조, 실행 능력, 개인정보 보호 기준, 한국 사용자를 위한 선택 기준을 함께 분석합니다.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "voice-control-whatsapp",
+    "lang": "ko",
+    "title": "WhatsApp 음성 제어 완벽 가이드 2026",
+    "category": "앱",
+    "reading_time": "9 min",
+    "image": "voice-control-whatsapp.jpg",
+    "description": "WhatsApp에서 음성으로 메시지를 보내고 통화와 채팅을 관리할 때 확인해야 할 권한, 한계, 안전 기준을 정리합니다. FoneClaw의 WhatsApp 관련 작업 실행 범위, 음성 명령 예시, 일상 활용 팁을 포함합니다.",
+    "date": "2026-06-24"
+  },
+  {
+    "slug": "voice-control-visually-impaired",
+    "lang": "es",
+    "title": "Control por voz Android discapacidad visual",
+    "category": "Accesibilidad",
+    "reading_time": "9 min",
+    "image": "voice-control-visually-impaired.jpg",
+    "description": "TalkBack, Voice Access y FoneClaw tienen roles distintos para usuarios con discapacidad visual. Analizamos cómo cada uno ayuda y cuándo combinarlos.",
+    "date": "2026-06-22"
+  },
+  {
+    "slug": "xiaomi-ai-ecosystem-2026",
+    "lang": "es",
+    "title": "IA Xiaomi 2026: HyperOS, MiMo y MiClaw explicados",
+    "category": "Ecosistemas",
+    "reading_time": "9 min",
+    "image": "xiaomi-ai-ecosystem-2026.jpg",
+    "description": "HyperOS, MiMo y MiClaw no son lo mismo. Analizamos el ecosistema de IA de Xiaomi en 2026, sus límites y alternativas abiertas como FoneClaw.",
+    "date": "2026-06-22"
+  },
+  {
+    "slug": "agentic-ai-phone-explained",
+    "lang": "es",
+    "title": "IA agentiva en el móvil: guía completa",
+    "category": "guías",
+    "reading_time": "9 min",
+    "image": "agentic-ai-phone-explained.jpg",
+    "description": "Qué es la IA agentiva, cómo funciona en Android y por qué los permisos son clave. Guía con ejemplos reales y consejos para probarla.",
+    "date": "2026-06-22"
+  },
+  {
+    "slug": "foneclaw-vs-apple-intelligence",
+    "lang": "es",
+    "title": "FoneClaw vs Apple Intelligence: comparativa",
+    "category": "Comparativas",
+    "reading_time": "9 min",
+    "image": "foneclaw-vs-apple-intelligence.jpg",
+    "description": "Comparamos FoneClaw y Apple Intelligence: acciones abiertas en Android frente a integración en iOS. Descubre qué opción se ajusta mejor a tu uso diario.",
+    "date": "2026-06-22"
+  },
+  {
+    "slug": "android-vs-ios-26-5-voice-control",
+    "lang": "es",
+    "title": "Android vs iOS: control por voz en 2026",
+    "category": "Comparativas",
+    "reading_time": "9 min",
+    "image": "android-vs-ios-26-5-voice-control.jpg",
+    "description": "Comparamos el control por voz en Android y iOS en 2026: asistentes, accesibilidad y apps de terceros. Descubre qué plataforma se adapta mejor a tu uso diario.",
+    "date": "2026-06-22"
+  },
+  {
+    "slug": "wwdc-2026-ai-do-over-phone-agent",
+    "lang": "es",
+    "title": "WWDC 2026: Siri AI y el agente telefónico",
+    "category": "análisis",
+    "reading_time": "9 min",
+    "image": "wwdc-2026-ai-do-over-phone-agent.jpg",
+    "description": "Apple renueva Siri como agente. Analizamos qué significa para Android, Gemini y FoneClaw, y por qué los usuarios deben prestar atención.",
+    "date": "2026-06-22"
+  },
+  {
+    "slug": "comp_vs_miclaw",
+    "lang": "es",
+    "title": "MiClaw vs FoneClaw: comparativa real",
+    "category": "comparativas",
+    "reading_time": "9 min",
+    "image": "comp_vs_miclaw.jpg",
+    "description": "MiClaw y FoneClaw resuelven problemas distintos. Analizamos compatibilidad, acciones, permisos y perfiles para ayudarte a elegir.",
+    "date": "2026-06-22"
+  },
+  {
+    "slug": "gemini-intelligence-vs-siri",
+    "lang": "es",
+    "title": "Gemini Intelligence vs Siri AI en 2026",
+    "category": "Asistentes IA",
+    "reading_time": "9 min",
+    "image": "gemini-intelligence-vs-siri.jpg",
+    "description": "Comparamos Gemini Intelligence y Siri AI en 2026: capacidades, disponibilidad, privacidad y ejecución de acciones. ¿Qué asistente te conviene más según tu uso?",
+    "date": "2026-06-22"
+  },
+  {
+    "slug": "tasker-alternative-voice-automation",
+    "lang": "es",
+    "title": "Alternativa a Tasker por voz en Android",
+    "category": "Automatización",
+    "reading_time": "9 min",
+    "image": "tasker-alternative-voice-automation.jpg",
+    "description": "Buscas una alternativa a Tasker que funcione por voz en Android. Comparamos enfoques, permisos y lo que puedes lograr sin escribir perfiles.",
+    "date": "2026-06-22"
+  },
+  {
+    "slug": "gemini-intelligence-supported-devices",
+    "lang": "es",
+    "title": "Dispositivos compatibles con Gemini Intelligence",
+    "category": "Compatibilidad",
+    "reading_time": "9 min",
+    "image": "gemini-intelligence-supported-devices.jpg",
+    "description": "Dispositivo compatible con Gemini Intelligence no garantiza acceso completo. Analizamos qué factores limitan la experiencia real y alternativas útiles.",
+    "date": "2026-06-22"
+  },
+  {
+    "slug": "gemini-vs-foneclaw",
+    "lang": "es",
+    "title": "Gemini Intelligence vs FoneClaw en español",
+    "category": "comparativas",
+    "reading_time": "9 min",
+    "image": "gemini-vs-foneclaw.jpg",
+    "description": "Gemini entiende, FoneClaw ejecuta. Analizamos diferencias reales en acciones, compatibilidad, permisos y cuándo usar los dos juntos.",
+    "date": "2026-06-22"
+  },
+  {
+    "slug": "voice-control-whatsapp",
+    "lang": "es",
+    "title": "Control por voz en WhatsApp: guía Android",
+    "category": "WhatsApp",
+    "reading_time": "9 min",
+    "image": "voice-control-whatsapp.jpg",
+    "description": "Descubre cómo usar WhatsApp por voz en Android: enviar mensajes, hacer llamadas y gestionar chats sin tocar la pantalla. Trucos, límites y buenas prácticas.",
+    "date": "2026-06-22"
+  },
+  {
+    "slug": "voice-control-visually-impaired",
+    "lang": "ru",
+    "title": "Голосовое управление телефоном для слабовидящих",
+    "category": "Доступность",
+    "reading_time": "9 мин",
+    "image": "voice-control-visually-impaired.jpg",
+    "description": "Как незрячие и слабовидящие пользователи могут управлять Android смартфоном голосом с помощью FoneClaw. Полное руководство по доступности.",
+    "date": "2026-06-22"
+  },
+  {
+    "slug": "xiaomi-ai-ecosystem-2026",
+    "lang": "ru",
+    "title": "Экосистема AI Xiaomi 2026: обзор и перспективы",
+    "category": "Индустрия",
+    "reading_time": "9 мин",
+    "image": "xiaomi-ai-ecosystem-2026.jpg",
+    "description": "Обзор AI-экосистемы Xiaomi в 2026 году: HyperOS, голосовой ассистент, интеграция с умным домом. Как FoneClaw дополняет возможности Xiaomi.",
+    "date": "2026-06-22"
+  },
+  {
+    "slug": "agentic-ai-phone-explained",
+    "lang": "ru",
+    "title": "Агентный AI на телефоне: простое объяснение",
+    "category": "Руководство",
+    "reading_time": "9 мин",
+    "image": "agentic-ai-phone-explained.jpg",
+    "description": "Что такое агентный AI и как он работает на смартфоне. Объясняем на примерах MiClaw, Gemini, Siri AI и FoneClaw без сложных терминов.",
+    "date": "2026-06-22"
+  },
+  {
+    "slug": "foneclaw-vs-apple-intelligence",
+    "lang": "ru",
+    "title": "FoneClaw vs Apple Intelligence: ИИ бой",
+    "category": "Сравнение",
+    "reading_time": "8 мин",
+    "image": "foneclaw-vs-apple-intelligence.jpg",
+    "description": "Сравниваем FoneClaw на Android и Apple Intelligence на iOS. Системный ИИ Apple против свободы действий FoneClaw — кто эффективнее?",
+    "date": "2026-06-22"
+  },
+  {
+    "slug": "android-vs-ios-26-5-voice-control",
+    "lang": "ru",
+    "title": "Android vs iOS: голосовое управление 2026",
+    "category": "Сравнение",
+    "reading_time": "8 мин",
+    "image": "android-vs-ios-26-5-voice-control.jpg",
+    "description": "Сравниваем голосовое управление Android и iOS в 2026 году. Реальные тесты, практичные советы и объективный взгляд на обе платформы.",
+    "date": "2026-06-22"
+  },
+  {
+    "slug": "wwdc-2026-ai-do-over-phone-agent",
+    "lang": "ru",
+    "title": "WWDC 2026: Siri AI глазами пользователя Android",
+    "category": "Индустрия",
+    "reading_time": "10 мин",
+    "image": "wwdc-2026-ai-do-over-phone-agent.jpg",
+    "description": "Apple представила обновлённый Siri на WWDC 2026. Разбираем, что изменилось, сравнение с Android-ассистентами и стоит ли завидовать пользователям iPhone.",
+    "date": "2026-06-22"
+  },
+  {
+    "slug": "comp_vs_miclaw",
+    "lang": "ru",
+    "title": "MiClaw vs FoneClaw: что выбрать в 2026",
+    "category": "Сравнение",
+    "reading_time": "9 мин",
+    "image": "comp_vs_miclaw.jpg",
+    "description": "Сравнение Xiaomi MiClaw и FoneClaw: экосистема против свободы выбора. Анализ возможностей, совместимости и реального удобства для пользователя.",
+    "date": "2026-06-22"
+  },
+  {
+    "slug": "gemini-intelligence-vs-siri",
+    "lang": "ru",
+    "title": "Gemini Intelligence vs Siri: битва ИИ",
+    "category": "Индустрия",
+    "reading_time": "8 мин",
+    "image": "gemini-intelligence-vs-siri.jpg",
+    "description": "Сравниваем стратегии Google и Apple в области ИИ-ассистентов. Gemini Intelligence и Siri в 2026 году: кто ведёт в гонке искусственного интеллекта?",
+    "date": "2026-06-22"
+  },
+  {
+    "slug": "tasker-alternative-voice-automation",
+    "lang": "ru",
+    "title": "Альтернатива Tasker для голосовой автоматизации",
+    "category": "Сравнение",
+    "reading_time": "9 мин",
+    "image": "tasker-alternative-voice-automation.jpg",
+    "description": "Ищете замену Tasker для управления смартфоном голосом? FoneClaw — AI-ассистент с 120+ действиями на Android без сложных скриптов и настроек.",
+    "date": "2026-06-22"
+  },
+  {
+    "slug": "gemini-intelligence-supported-devices",
+    "lang": "ru",
+    "title": "Устройства с Gemini Intelligence: полный обзор",
+    "category": "Руководство",
+    "reading_time": "9 мин",
+    "image": "gemini-intelligence-supported-devices.jpg",
+    "description": "Полный список устройств с поддержкой Gemini Intelligence в 2026 году. Какие смартфоны и планшеты получат AI-функции Google и чем дополнить их FoneClaw.",
+    "date": "2026-06-22"
+  },
+  {
+    "slug": "gemini-vs-foneclaw",
+    "lang": "ru",
+    "title": "Gemini vs FoneClaw: анализ vs действие",
+    "category": "Сравнение",
+    "reading_time": "9 мин",
+    "image": "gemini-vs-foneclaw.jpg",
+    "description": "Gemini Intelligence анализирует и понимает, FoneClaw выполняет и действует. Разбираем сильные стороны каждого ассистента и когда какой использовать.",
+    "date": "2026-06-22"
+  },
+  {
+    "slug": "voice-control-whatsapp",
+    "lang": "ru",
+    "title": "Голосовое управление WhatsApp на Android",
+    "category": "Руководство",
+    "reading_time": "7 мин",
+    "image": "voice-control-whatsapp.jpg",
+    "description": "Полный гид по голосовому управлению WhatsApp на Android. Отправляйте сообщения, звоните и управляйте чатами без касания экрана.",
+    "date": "2026-06-22"
+  },
+  {
+    "slug": "claude-code-multi-agent-system",
+    "lang": "en",
+    "title": "Claude Code Multi-Agent: When AI Builds Itself",
+    "category": "AI Agent Trends",
+    "reading_time": "9 min read",
+    "image": "claude-code-multi-agent-system.jpg",
+    "description": "Claude Code multi-agent system is changing how AI coding agents work. Here is what agentic coding tools mean for autonomous software and phone execution.",
+    "date": "2026-06-10"
+  },
+  {
+    "slug": "wechat-ai-agent-commandable-super-app",
+    "lang": "en",
+    "title": "WeChat AI Agent: When the Super App Becomes Commandable",
+    "category": "AI Agent Trends",
+    "reading_time": "9 min read",
+    "image": "wechat-ai-agent-commandable-super-app.jpg",
+    "description": "WeChat AI Agent may turn the super app into a commandable interface. Learn what this means for phone agents, app boundaries, and user approval.",
+    "date": "2026-06-09"
+  },
+  {
+    "slug": "jd-tencent-ai-agent-shopping-phone-agent",
+    "lang": "en",
+    "title": "JD Tencent AI Agent: The Shopping Agent Battle Begins",
+    "category": "AI Agent Trends",
+    "reading_time": "9 min read",
+    "image": "jd-tencent-ai-agent-shopping-phone-agent.jpg",
+    "description": "JD and Tencent are reportedly working on AI Agent cooperation. Here is why shopping agents need phone-level execution, user approval, and real app control.",
+    "date": "2026-06-09"
+  },
+  {
+    "slug": "1000-tps-llms-phone-agent-era",
+    "lang": "en",
+    "title": "1000 TPS LLMs: Why Phone Agents Are About to Speed Up",
+    "category": "AI Agent Trends",
+    "reading_time": "8 min read",
+    "image": "1000-tps-llms-phone-agent-era.jpg",
+    "description": "Xiaomi MiMo-V2.5-Pro UltraSpeed shows how 1000 tokens per second LLMs could speed up coding agents, phone agents, and real-time AI workflows.",
+    "date": "2026-06-09"
+  },
+  {
+    "slug": "xiaomi-miclaw-user-review",
+    "lang": "en",
+    "title": "Xiaomi MiClaw Review: Phone Agent Pros and Limits",
+    "category": "Industry & Trends",
+    "reading_time": "12 min read",
+    "image": "xiaomi-miclaw-user-review.jpg",
+    "description": "Review Xiaomi MiClaw as a phone agent, its Xiaomi ecosystem limits, and how it differs from FoneClaw as an Android AI Phone Assistant.",
+    "date": "2026-06-08"
+  },
+  {
+    "slug": "voice-first-phone-2026-landscape",
+    "lang": "en",
+    "title": "Voice-First Phone 2026: Who Is Winning",
+    "category": "Comparisons",
+    "reading_time": "11 min read",
+    "image": "voice-first-phone-2026-landscape.jpg",
+    "description": "OpenAI, Google, Apple, Xiaomi, and FoneClaw are building voice-first phones. Here is who is ahead, who is behind, and what works today.",
+    "date": "2026-06-03"
+  },
+  {
+    "slug": "self-improving-ai-agents-phone",
+    "lang": "en",
+    "title": "Why Phone AI Agents Learn Faster Than Cloud",
+    "category": "AI Agent Trends",
+    "reading_time": "12 min read",
+    "image": "self-improving-ai-agents-phone.jpg",
+    "description": "OpenAI Tax AI data shows agents improved from 25% to 86% accuracy in 6 weeks. Phone agents have a natural feedback loop advantage over cloud AI.",
+    "date": "2026-06-03"
+  },
+  {
+    "slug": "eval-driven-phone-agent-measurement",
+    "lang": "en",
+    "title": "How Phone AI Agents Measure Quality",
+    "category": "AI Agent Trends",
+    "reading_time": "12 min read",
+    "image": "eval-driven-phone-agent-measurement.jpg",
+    "description": "Most AI apps claim smart but nobody measures it. Learn how eval-driven development helps phone agents deliver reliable quality.",
+    "date": "2026-06-03"
+  },
+  {
+    "slug": "openai-no-app-phone-voice-hack-night",
+    "lang": "en",
+    "title": "OpenAI No-App Phone: Voice Hack Demo",
+    "category": "Industry Analysis",
+    "reading_time": "9 min read",
+    "image": "openai-no-app-phone-voice-hack-night.jpg",
+    "description": "OpenAI demoed a phone with no apps at Voice Hack Night. All UI generated by AI in real time. Here is what it means for mobile AI agents.",
+    "date": "2026-06-03"
+  },
+  {
+    "slug": "ai-agent-replaces-app-store-developers",
+    "lang": "en",
+    "title": "AI Agent vs App Store: Developer Guide",
+    "category": "Industry Analysis",
+    "reading_time": "10 min read",
+    "image": "ai-agent-replaces-app-store-developers.jpg",
+    "description": "AI agents are replacing apps. If you build for iOS or Android, here is how the agent economy changes your business model, distribution, and revenue.",
+    "date": "2026-06-03"
+  },
+  {
+    "slug": "closed-loop-ai-phone-agent-human-in-loop",
+    "lang": "en",
+    "title": "Why Phone AI Agents Need Human Oversight",
+    "category": "AI Agent Trends",
+    "reading_time": "12 min read",
+    "image": "closed-loop-ai-phone-agent-human-in-loop.jpg",
+    "description": "OpenAI Tax AI shows practitioner corrections drive agent improvement. Learn why phone AI agents need human-in-the-loop design for reliable results.",
+    "date": "2026-06-03"
+  },
+  {
+    "slug": "os-agent-vs-app-traffic-2026",
+    "lang": "en",
+    "title": "OS Agent vs App Traffic: Who Wins the Mobile Flow",
+    "category": "Comparisons",
+    "reading_time": "8 min read",
+    "image": "os-agent-vs-app-traffic-2026.jpg",
+    "description": "OS agents intercept user intent before apps reach you. We analyze how Google, Apple, and Huawei compete for mobile traffic through system-level assistants.",
+    "date": "2026-06-03"
+  },
+  {
+    "slug": "os-agent-three-layer-foundation-2026",
+    "lang": "en",
+    "title": "OS Agent Three-Layer Foundation Explained",
+    "category": "Comparisons",
+    "reading_time": "8 min read",
+    "image": "os-agent-three-layer-foundation-2026.jpg",
+    "description": "Deep dive into the OS Agent three-layer foundation: system-level AI Runtime, custom chips, and cloud-edge model matrices that power on-device AI intelligence.",
+    "date": "2026-06-03"
+  },
+  {
+    "slug": "ai-chip-custom-race-2026",
+    "lang": "en",
+    "title": "AI Chip Race: Apple vs Google vs Huawei vs Xiaomi",
+    "category": "Comparisons",
+    "reading_time": "8 min read",
+    "image": "ai-chip-custom-race-2026.jpg",
+    "description": "In-depth comparison of Apple, Google, Huawei, and Xiaomi AI chips in 2026. From Apple Silicon to Tensor G5, Kirin, and Xuanjie O1, we analyze NPU performance.",
+    "date": "2026-06-03"
+  },
+  {
+    "slug": "on-device-llm-optimization-2026",
+    "lang": "en",
+    "title": "On-Device LLM Optimization: 3 Core Techniques",
+    "category": "Comparisons",
+    "reading_time": "8 min read",
+    "image": "on-device-llm-optimization-2026.jpg",
+    "description": "KV Cache sharing, 2-bit quantization, and Matryoshka Transformer inference: three key on-device LLM optimization techniques powering mobile AI agents in 2026.",
+    "date": "2026-06-03"
+  },
+  {
+    "slug": "microsoft-scout-openclaw-ai-agent",
+    "lang": "en",
+    "title": "Microsoft Scout: OpenClaw Goes Enterprise",
+    "category": "Industry & Trends",
+    "reading_time": "8 min read",
+    "image": "microsoft-scout-openclaw-ai-agent.jpg",
+    "description": "Microsoft built Scout, an AI agent based on OpenClaw. We explore why Microsoft chose OpenClaw and what it means for FoneClaw users in the OpenClaw ecosystem.",
+    "date": "2026-06-02"
+  },
+  {
+    "slug": "app-intents-apps-machine-callable-ai-agents",
+    "lang": "en",
+    "title": "App Intents: Machine-Callable Apps",
+    "category": "Industry & Trends",
+    "reading_time": "8 min read",
+    "image": "app-intents-apps-machine-callable-ai-agents.jpg",
+    "description": "Apple App Intents lets AI agents call app functions directly. Learn why machine-callable apps are the future of AI agent integration on Android.",
+    "date": "2026-06-02"
+  },
+  {
+    "slug": "apple-local-ai-validates-phone-agent",
+    "lang": "en",
+    "title": "Apple Local AI Proves Phone Agents Were Right",
+    "category": "Industry",
+    "reading_time": "6 min read",
+    "image": "apple-local-ai-validates-phone-agent.jpg",
+    "description": "Apple TV 4K gets A17 Pro for local AI. HomePod mini still needs cloud. Phone agents like FoneClaw had local AI from day one. No cloud needed.",
+    "date": "2026-06-02"
+  },
+  {
+    "slug": "apple-intelligence-pro-subscription-what-to-expect",
+    "lang": "en",
+    "title": "Apple Intelligence Pro: Is $15/Month Worth It",
+    "category": "Industry & Trends",
+    "reading_time": "8 min read",
+    "image": "apple-intelligence-pro-subscription-what-to-expect.jpg",
+    "description": "Bank of America predicts 50-75 million Apple Intelligence Pro subscribers at $15/month. We analyze the value and compare with free alternatives like FoneClaw.",
+    "date": "2026-06-02"
+  },
+  {
+    "slug": "mcp-invisible-voice-control-phone-agent",
+    "lang": "en",
+    "title": "How Phone AI Agents Make MCP Invisible to Users",
+    "category": "Industry",
+    "reading_time": "7 min read",
+    "image": "mcp-invisible-voice-control-phone-agent.jpg",
+    "description": "MCP is the protocol that connects AI to your apps. But phone AI agents like FoneClaw use it invisibly — you just speak, and it works. No configuration needed.",
+    "date": "2026-06-02"
+  },
+  {
+    "slug": "wwdc-2026-ai-do-over-phone-agent",
+    "lang": "tw",
+    "title": "WWDC 2026 Siri AI 重啟：Apple Intelligence 新方向",
+    "category": "產業",
+    "reading_time": "7 分鐘閱讀",
+    "image": "wwdc-2026-ai-do-over-phone-agent.jpg",
+    "description": "WWDC 2026 Siri AI 重啟全解讀。根據我們的深入分析，Apple Intelligence 正從語音命令轉向手機執行層，Gemini 模型加持的全新架構意味著什麼？深入比較 Siri AI 與 FoneClaw 等 Android 手機助手。",
+    "date": "2026-06-01"
+  },
+  {
+    "slug": "local-ai-agent-trust-vs-cloud",
+    "lang": "en",
+    "title": "Local AI Agent Trust vs Cloud Security",
+    "category": "Industry & Trends",
+    "reading_time": "6 min read",
+    "image": "local-ai-agent-trust-vs-cloud.jpg",
+    "description": "Only 25% of consumers trust AI to complete purchases. Local AI agents like FoneClaw keep data on your device, solving the trust problem. Here is how.",
+    "date": "2026-06-01"
+  },
+  {
+    "slug": "personal-context-ai-agent-phone",
+    "lang": "en",
+    "title": "Personal Context: The Hidden AI Advantage",
+    "category": "Industry",
+    "reading_time": "6 min read",
+    "image": "personal-context-ai-agent-phone.jpg",
+    "description": "Everyone compares AI model size. But the real advantage is personal context. Phone AI agents like FoneClaw know you better than any cloud AI ever could.",
+    "date": "2026-06-01"
+  },
+  {
+    "slug": "gemini-spark-vs-foneclaw",
+    "lang": "en",
+    "title": "Gemini Spark vs FoneClaw: Which Assistant Wins?",
+    "category": "Comparisons",
+    "reading_time": "6 min read",
+    "image": "gemini-spark-vs-foneclaw.jpg",
+    "description": "TechCrunch tested Google Gemini Spark. It has limits like no Google Keep and cloud-only data. FoneClaw offers a voice-first local alternative.",
+    "date": "2026-06-01"
+  },
+  {
+    "slug": "wwdc-2026-ai-do-over-phone-agent",
+    "lang": "en",
+    "title": "WWDC 2026 Siri AI and Apple Intelligence",
+    "category": "Industry",
+    "reading_time": "7 min read",
+    "image": "wwdc-2026-ai-do-over-phone-agent.jpg",
+    "description": "Apple used WWDC 2026 to reset Siri AI and Apple Intelligence with Gemini-powered models, app frameworks, and new pressure on Android phone agents.",
+    "date": "2026-06-01"
+  },
+  {
+    "slug": "apple-ai-glasses-vs-phone-agent",
+    "lang": "en",
+    "title": "Apple AI Glasses vs Phone AI Agent",
+    "category": "Comparisons",
+    "reading_time": "6 min read",
+    "image": "apple-ai-glasses-vs-phone-agent.jpg",
+    "description": "Apple AI glasses launch pushed to late 2027. Phone AI agents like FoneClaw run on your device today with voice control. We compare both approaches.",
+    "date": "2026-06-01"
+  },
+  {
+    "slug": "enterprise-ai-agent-security-local",
+    "lang": "en",
+    "title": "Enterprise AI Agent Security: Local Fix",
+    "category": "Industry & Trends",
+    "reading_time": "8 min read",
+    "image": "enterprise-ai-agent-security-local.jpg",
+    "description": "Fund managers refuse to install AI agents on work computers. Local AI agents like FoneClaw keep data on device, solving enterprise security concerns.",
+    "date": "2026-06-01"
+  },
+  {
+    "slug": "meta-ray-bans-ai-vs-foneclaw",
+    "lang": "en",
+    "title": "Meta Ray-Bans AI vs FoneClaw",
+    "category": "Comparisons",
+    "reading_time": "6 min read",
+    "image": "meta-ray-bans-ai-vs-foneclaw.jpg",
+    "description": "Meta Ray-Bans AI glasses need your phone and cloud to work. FoneClaw runs entirely on your Android with voice control and zero cloud. We compare both.",
+    "date": "2026-06-01"
+  },
+  {
+    "slug": "microsoft-build-2026-ai-agents",
+    "lang": "en",
+    "title": "Microsoft Build 2026: AI Agent Guide",
+    "category": "Industry & Trends",
+    "reading_time": "8 min read",
+    "image": "microsoft-build-2026-ai-agents.jpg",
+    "description": "Microsoft Build 2026 kicks off this week with new AI models, a Copilot super app, and NVIDIA AI PC teasers. Here is what AI agent users should watch for.",
+    "date": "2026-06-01"
+  },
+  {
+    "slug": "nvidia-ai-pc-vs-phone-ai-agent",
+    "lang": "en",
+    "title": "NVIDIA AI PC vs Phone AI Agent 2026",
+    "category": "Industry & Trends",
+    "reading_time": "8 min read",
+    "image": "nvidia-ai-pc-vs-phone-ai-agent.jpg",
+    "description": "Compare NVIDIA AI PC vs phone AI agents in 2026. Local phone AI agents offer better privacy, voice control, and offline capability than desktop AI PCs.",
+    "date": "2026-06-01"
+  },
+  {
+    "slug": "ai-agent-token-cost-local-saving",
+    "lang": "en",
+    "title": "AI Agent Token Cost: Local Saves Money",
+    "category": "Comparisons",
+    "reading_time": "6 min read",
+    "image": "ai-agent-token-cost-local-saving.jpg",
+    "description": "Cloud AI agents consume thousands of tokens per task. Local AI agents like FoneClaw use zero tokens with on-device processing. Here is the cost comparison.",
+    "date": "2026-06-01"
+  },
+  {
+    "slug": "ai-agents-rewriting-brand-discovery",
+    "lang": "en",
+    "title": "How AI Agents Rewrite Brand Discovery",
+    "category": "Industry & Trends",
+    "reading_time": "6 min read",
+    "image": "ai-agents-rewriting-brand-discovery.jpg",
+    "description": "Bain research shows AI assistants are becoming the primary way consumers discover brands. FoneClaw leads this shift on Android.",
+    "date": "2026-06-01"
+  },
+  {
+    "slug": "wwdc-2026-ai-do-over-phone-agent",
+    "lang": "zh",
+    "title": "WWDC 2026 Siri AI 重塑：对 Android 用户的意义",
+    "category": "行业",
+    "reading_time": "7 分钟阅读",
+    "image": "wwdc-2026-ai-do-over-phone-agent.jpg",
+    "description": "WWDC 2026 苹果开发者大会全面重塑 Siri AI 语音助手和 Apple Intelligence 智能框架，深入分析这一重大战略变化对全球 Android 用户群体、手机助手行业整体竞争格局以及 FoneClaw 等独立解决方案所带来的深远影响和战略意义。",
+    "date": "2026-06-01"
+  },
+  {
+    "slug": "workbuddy-vs-foneclaw",
+    "lang": "en",
+    "title": "WorkBuddy vs FoneClaw: Tencent AI Agent",
+    "category": "Comparisons",
+    "reading_time": "6 min read",
+    "image": "workbuddy-vs-foneclaw.jpg",
+    "description": "Tencent's WorkBuddy brings AI agents to WeChat. FoneClaw runs as a local voice-first agent on your Android phone. We compare both approaches.",
+    "date": "2026-05-31"
+  },
+  {
+    "slug": "openclaw-security-risks-phone-agent-safer",
+    "lang": "en",
+    "title": "5 Reasons Phone AI Agents Are Safer Than OpenClaw",
+    "category": "Industry",
+    "reading_time": "6 min read",
+    "image": "openclaw-security-risks-phone-agent-safer.jpg",
+    "description": "OpenClaw has 4 major security risks. Phone AI agents like FoneClaw run on your device with zero deployment and naturally stronger security.",
+    "date": "2026-05-31"
+  },
+  {
+    "slug": "cloud-vs-local-ai-agent-2026",
+    "lang": "en",
+    "title": "Cloud vs Local AI Agent: Two Routes Shaping 2026",
+    "category": "Industry",
+    "reading_time": "6 min read",
+    "image": "cloud-vs-local-ai-agent-2026.jpg",
+    "description": "Cloud agents like MuleRun need zero setup. Local agents like FoneClaw run on your phone. We compare the two AI agent routes dominating 2026.",
+    "date": "2026-05-31"
+  },
+  {
+    "slug": "microsoft-ai-super-app-vs-local-agent",
+    "lang": "en",
+    "title": "Microsoft AI Super App vs Local AI Agent",
+    "category": "Comparisons",
+    "reading_time": "6 min read",
+    "image": "microsoft-ai-super-app-vs-local-agent.jpg",
+    "description": "Microsoft's AI super app wants to centralize your digital life. A local AI agent like FoneClaw runs on your phone with no cloud. Here's how they compare.",
+    "date": "2026-05-31"
+  },
+  {
+    "slug": "ai-agent-from-lab-to-pocket",
+    "lang": "en",
+    "title": "How AI Agents Are Reaching Your Phone in 2026",
+    "category": "Industry",
+    "reading_time": "8 min read",
+    "image": "ai-agent-from-lab-to-pocket.jpg",
+    "description": "Anthropic research shows coding agents are transforming science. Phone AI agents bring that same power to your Android device in 2026.",
+    "date": "2026-05-31"
+  },
+  {
+    "slug": "hy-memory-vs-local-agent-memory",
+    "lang": "en",
+    "title": "Hy-Memory vs Local Memory",
+    "category": "Comparisons",
+    "reading_time": "6 min read",
+    "image": "hy-memory-vs-local-agent-memory.jpg",
+    "description": "Tencent's Hy-Memory gives cloud agents a second brain. FoneClaw stores every memory on your phone with zero cloud. We compare both approaches.",
+    "date": "2026-05-31"
+  },
+  {
+    "slug": "foneclaw-vs-adobe-firefly",
+    "lang": "en",
+    "title": "FoneClaw vs Adobe Firefly AI: Voice vs Design",
+    "category": "Comparisons",
+    "reading_time": "12 min read",
+    "image": "foneclaw-vs-adobe-firefly.jpg",
+    "description": "Compare FoneClaw and Adobe Firefly AI. Learn how FoneClaw offers hands-free Android voice control while Adobe Firefly excels as a creative design agent.",
+    "date": "2026-05-31"
+  },
+  {
+    "slug": "skyclaw-vs-foneclaw",
+    "lang": "en",
+    "title": "SkyClaw vs FoneClaw: Agent Model vs Phone Agent",
+    "category": "Comparisons",
+    "reading_time": "12 min read",
+    "image": "skyclaw-vs-foneclaw.jpg",
+    "description": "Compare SkyClaw agent model and FoneClaw phone agent for AI automation. Learn about agent frameworks, voice control, and which is better.",
+    "date": "2026-05-29"
+  },
+  {
+    "slug": "copilot-redesign-5-ai-trends-foneclaw",
+    "lang": "en",
+    "title": "Copilot Redesign: 5 AI Trends We Nail",
+    "category": "Comparisons",
+    "reading_time": "7 min read",
+    "image": "copilot-redesign-5-ai-trends-foneclaw.jpg",
+    "description": "Microsoft just redesigned Copilot around 5 AI shifts. FoneClaw already implements them locally on your phone. Here's what changed and why it matters.",
+    "date": "2026-05-29"
+  },
+  {
+    "slug": "ios-27-siri-ai-agent",
+    "lang": "en",
+    "title": "iOS 27 Siri: Apple AI Agent Revolution",
+    "category": "Industry & Trends",
+    "reading_time": "13 min read",
+    "image": "ios-27-siri-ai-agent.jpg",
+    "description": "iOS 27 leak reveals new Siri design, chatbot app, and third-party AI agent integration. Learn how iOS 27 Siri compares to FoneClaw for Android.",
+    "date": "2026-05-29"
+  },
+  {
+    "slug": "gemini-intelligence-pixel-9-excluded",
+    "lang": "en",
+    "title": "Pixel 9 Gemini Intelligence: Why Google Left Out",
+    "category": "Industry & Trends",
+    "reading_time": "12 min read",
+    "image": "gemini-intelligence-pixel-9-excluded.jpg",
+    "description": "Pixel 9 Gemini Intelligence is not supported. Learn why Google excluded Pixel 9 from Gemini Intelligence and find FoneClaw as a better alternative.",
+    "date": "2026-05-29"
+  },
+  {
+    "slug": "foneclaw-vs-minimax",
+    "lang": "en",
+    "title": "FoneClaw vs MiniMax: AI Agent Comparison",
+    "category": "Comparisons",
+    "reading_time": "12 min read",
+    "image": "foneclaw-vs-minimax.jpg",
+    "description": "Compare FoneClaw and MiniMax for AI assistance. See how MiniMax general AI differs from FoneClaw’s Android phone actions, permissions, and setup requirements.",
+    "date": "2026-05-29"
+  },
+  {
+    "slug": "foneclaw-vs-all-in-one-ai-agent",
+    "lang": "en",
+    "title": "FoneClaw vs All-in-One AI Agent",
+    "category": "Comparisons",
+    "reading_time": "12 min read",
+    "image": "foneclaw-vs-all-in-one-ai-agent.jpg",
+    "description": "Compare FoneClaw with all-in-one AI agent platforms. See when Android phone actions, permissions, setup, and confirmation matter more than broad AI tools.",
+    "date": "2026-05-29"
+  },
+  {
+    "slug": "foneclaw-vs-nebula-ai",
+    "lang": "en",
+    "title": "FoneClaw vs Nebula AI: Smart AI Agents",
+    "category": "Comparisons",
+    "reading_time": "12 min read",
+    "image": "foneclaw-vs-nebula-ai.jpg",
+    "description": "Compare FoneClaw and Nebula AI smart AI agents for Android. Learn about cloud vs local AI agent capabilities and which is better.",
+    "date": "2026-05-29"
+  },
+  {
+    "slug": "foneclaw-vs-openally",
+    "lang": "en",
+    "title": "FoneClaw vs OpenAlly: Offline AI Agent",
+    "category": "Comparisons",
+    "reading_time": "12 min read",
+    "image": "foneclaw-vs-openally.jpg",
+    "description": "Compare FoneClaw and OpenAlly for Android AI assistance. See how OpenAlly text tasks differ from FoneClaw’s 120+ supported phone actions.",
+    "date": "2026-05-29"
+  },
+  {
+    "slug": "ai-agent-spending-agentic-phone",
+    "lang": "en",
+    "title": "AI Agent Spending: From Chatbots to Your Wallet",
+    "category": "Comparisons",
+    "reading_time": "6 min read",
+    "image": "ai-agent-spending-agentic-phone.jpg",
+    "description": "Robinhood just let AI agents trade and spend money. But the real agentic revolution is on your Android phone, where AI agents already run your device.",
+    "date": "2026-05-29"
+  },
+  {
+    "slug": "mediatek-dimensity-phone-agent",
+    "lang": "en",
+    "title": "MediaTek Dimensity Phone Agent: AI Chip 2026",
+    "category": "Industry & Trends",
+    "reading_time": "13 min read",
+    "image": "mediatek-dimensity-phone-agent.jpg",
+    "description": "Explore how MediaTek Dimensity 9500 powers phone agents in 2026. Learn about dual NPU architecture and SensingClaw technology.",
+    "date": "2026-05-28"
+  },
+  {
+    "slug": "ios-27-siri-gemini-integration",
+    "lang": "en",
+    "title": "iOS 27 Siri Gemini Integration: What We Know",
+    "category": "Industry & Trends",
+    "reading_time": "12 min read",
+    "image": "ios-27-siri-gemini-integration.jpg",
+    "description": "The iOS 27 Siri AI agent overhaul introduces a conversational Apple Siri chatbot 2026 experience. Read how this iPhone AI agent assistant changes everything.",
+    "date": "2026-05-28"
+  },
+  {
+    "slug": "foneclaw-vs-apple-intelligence",
+    "lang": "tw",
+    "title": "FoneClaw vs Apple Intelligence：Android vs iPhone",
+    "category": "比較",
+    "reading_time": "12 分鐘閱讀",
+    "image": "foneclaw-vs-apple-intelligence.jpg",
+    "description": "FoneClaw 和 Apple Intelligence 到底差在哪裡？根據我們的實際測試經驗，一個是 Android 獨立執行層，一個是 iOS 原生 AI 系統。從操作能力、跨 App 整合到隱私模型全面比較，看完就知道哪個方案更適合你的日常使用情境。",
+    "date": "2026-05-27"
+  },
+  {
+    "slug": "foneclaw-vs-apple-intelligence",
+    "lang": "en",
+    "title": "FoneClaw vs Apple Intelligence: Siri AI vs Android Agent",
+    "category": "Comparisons",
+    "reading_time": "12 min read",
+    "image": "foneclaw-vs-apple-intelligence.jpg",
+    "description": "Compare FoneClaw with Apple Intelligence and Siri AI after WWDC 2026. See how Android phone agents differ from App Intents and Apple assistant features.",
+    "date": "2026-05-27"
+  },
+  {
+    "slug": "foneclaw-vs-samsung-galaxy-ai",
+    "lang": "en",
+    "title": "FoneClaw vs Samsung Galaxy AI: Phone AI Assistant",
+    "category": "Comparisons",
+    "reading_time": "12 min read",
+    "image": "foneclaw-vs-samsung-galaxy-ai.jpg",
+    "description": "Compare FoneClaw and Samsung Galaxy AI in 2026. See how Samsung AI features differ from FoneClaw’s 120+ supported Android phone actions.",
+    "date": "2026-05-27"
+  },
+  {
+    "slug": "ai-phone-agent-harness",
+    "lang": "en",
+    "title": "AI Phone Agent Harness: FoneClaw in 2026",
+    "category": "Industry & Trends",
+    "reading_time": "12 min read",
+    "image": "ai-phone-agent-harness.jpg",
+    "description": "Explore AI phone agent harness in 2026. Compare OpenAI AI Phone, Gemini on Android, and how FoneClaw verifies supported Android actions with visible results.",
+    "date": "2026-05-27"
+  },
+  {
+    "slug": "apple-intelligence-accessibility-foneclaw",
+    "lang": "en",
+    "title": "Apple Intelligence Accessibility vs FoneClaw",
+    "category": "Comparisons",
+    "reading_time": "11 min read",
+    "image": "apple-intelligence-accessibility-foneclaw.jpg",
+    "description": "Compare Apple Intelligence accessibility features with FoneClaw for Android. FoneClaw provides similar AI-powered voice control for Android users.",
+    "date": "2026-05-27"
+  },
+  {
+    "slug": "foneclaw-vs-apple-intelligence",
+    "lang": "zh",
+    "title": "FoneClaw vs Apple Intelligence 对比分析",
+    "category": "对比",
+    "reading_time": "12 分钟阅读",
+    "image": "foneclaw-vs-apple-intelligence.jpg",
+    "description": "FoneClaw 与 Apple Intelligence 两款产品的深度对比全面分析：Android 平台独立执行层 vs iOS 系统原生 AI 智能框架，两者在产品核心定位、功能优势特点、隐私权限设计理念和实际使用场景方面的详细差异进行全面深度对比。",
+    "date": "2026-05-27"
+  },
+  {
+    "slug": "foneclaw-vs-likeclaw",
+    "lang": "en",
+    "title": "FoneClaw vs LikeClaw: Android Agent Guide",
+    "category": "Comparisons",
+    "reading_time": "12 min read",
+    "image": "foneclaw-vs-likeclaw.jpg",
+    "description": "Compare FoneClaw and LikeClaw for Android phone workflows, cloud agents, permissions, setup, confirmation, and supported actions.",
+    "date": "2026-05-26"
+  },
+  {
+    "slug": "gemini-intelligence-supported-devices",
+    "lang": "tw",
+    "title": "Gemini Intelligence 支援設備完整列表",
+    "category": "產業",
+    "reading_time": "10 分鐘閱讀",
+    "image": "gemini-intelligence-supported-devices.jpg",
+    "description": "哪些手機支援 Google Gemini Intelligence？根據我們的深入分析，從 Pixel 到三星 Galaxy 和小米旗艦機型，完整列出所有兼容設備型號與最低硬體需求，以及不支援設備的 FoneClaw 替代 AI 方案參考。",
+    "date": "2026-05-25"
+  },
+  {
+    "slug": "xiaomi-phone-agent-summit",
+    "lang": "en",
+    "title": "Xiaomi Phone Agent Summit 2026: Key Highlights",
+    "category": "Industry & Trends",
+    "reading_time": "13 min read",
+    "image": "xiaomi-phone-agent-summit.jpg",
+    "description": "Discover key highlights from Xiaomi Phone Agent Summit 2026. Learn about new AI agent features, MiClaw updates, and Xiaomi's vision for phone automation.",
+    "date": "2026-05-25"
+  },
+  {
+    "slug": "ai-notification-management",
+    "lang": "en",
+    "title": "AI Notification Management: Smart Sorting",
+    "category": "Industry & Trends",
+    "reading_time": "10 min read",
+    "image": "ai-notification-management.jpg",
+    "description": "Discover how AI notification management uses smart message sorting, email summaries, and auto-reply to reduce notification overload on your Android phone.",
+    "date": "2026-05-25"
+  },
+  {
+    "slug": "tencent-phone-agent-cost",
+    "lang": "en",
+    "title": "Tencent Phone Agent: Cost and Token Economics",
+    "category": "Industry & Trends",
+    "reading_time": "13 min read",
+    "image": "tencent-phone-agent-cost.jpg",
+    "description": "Learn about Tencent phone agent pricing, token costs, and subscription plans. Compare with FoneClaw and other AI agents.",
+    "date": "2026-05-25"
+  },
+  {
+    "slug": "gemini-intelligence-widgets",
+    "lang": "en",
+    "title": "Gemini Intelligence Widgets: Custom Home Screen",
+    "category": "Industry & Trends",
+    "reading_time": "11 min read",
+    "image": "gemini-intelligence-widgets.jpg",
+    "description": "Explore Gemini Intelligence widgets for Android. Customize your home screen with AI-powered widgets for quick access to smart features.",
+    "date": "2026-05-25"
+  },
+  {
+    "slug": "gemini-intelligence-form-filling",
+    "lang": "en",
+    "title": "Gemini Form Filling: Auto-Complete Forms",
+    "category": "Industry & Trends",
+    "reading_time": "11 min read",
+    "image": "gemini-intelligence-form-filling.jpg",
+    "description": "Learn how Gemini Intelligence auto-fills forms on Android. Save time with smart form completion for emails, surveys, and sign-ups.",
+    "date": "2026-05-25"
+  },
+  {
+    "slug": "gemini-intelligence-supported-devices",
+    "lang": "en",
+    "title": "Gemini Intelligence Supported Devices List 2026",
+    "category": "Industry & Trends",
+    "reading_time": "10 min read",
+    "image": "gemini-intelligence-supported-devices.jpg",
+    "description": "See Gemini Intelligence supported devices, compatible phones, requirements, and which Pixel, Samsung, Xiaomi, and Android models are likely to get support.",
+    "date": "2026-05-25"
+  },
+  {
+    "slug": "gemini-intelligence-supported-devices",
+    "lang": "zh",
+    "title": "Gemini Intelligence 支持设备 2026 完整列表",
+    "category": "行业",
+    "reading_time": "10 分钟阅读",
+    "image": "gemini-intelligence-supported-devices.jpg",
+    "description": "完整整理 2026 年支持 Gemini Intelligence 的 Android 手机列表，涵盖 Google Pixel 9、三星 Galaxy S25、小米和 OnePlus 旗舰等主流设备的兼容情况、最低硬件要求和具体检查方法。",
+    "date": "2026-05-25"
+  },
+  {
+    "slug": "gemini-intelligence-vs-siri",
+    "lang": "tw",
+    "title": "Gemini Intelligence vs Siri AI：差異全解析",
+    "category": "比較",
+    "reading_time": "20 分鐘閱讀",
+    "image": "gemini-intelligence-vs-siri.jpg",
+    "description": "Gemini Intelligence 和 Siri AI 到底差在哪裡？根據我們的實際測試經驗，從模型架構、Google 生態深度整合、Apple 原生系統功能到 FoneClaw 的互補執行角色，這篇完整分析文章幫你一次搞清楚兩款主流 AI 助理的核心差異。",
+    "date": "2026-05-22"
+  },
+  {
+    "slug": "how-to-install-miclaw",
+    "lang": "en",
+    "title": "How to Install Xiaomi MiClaw",
+    "category": "Guides",
+    "reading_time": "8 min read",
+    "image": "how-to-install-miclaw.jpg",
+    "description": "Step-by-step guide to install Xiaomi MiClaw on your Android phone. Setup, features, and tips for getting the most out of your AI agent.",
+    "date": "2026-05-22"
+  },
+  {
+    "slug": "miclaw-vs-openclaw",
+    "lang": "en",
+    "title": "MiClaw vs OpenClaw vs FoneClaw: Phone Agent Comparison",
+    "category": "Comparisons",
+    "reading_time": "6 min read",
+    "image": "miclaw-vs-openclaw.jpg",
+    "description": "Compare MiClaw, OpenClaw, and FoneClaw for phone agents: Xiaomi HyperOS, open frameworks, Android 9+, 120+ actions, permissions, and setup.",
+    "date": "2026-05-22"
+  },
+  {
+    "slug": "gemini-intelligence-complete-guide",
+    "lang": "en",
+    "title": "Google Gemini Intelligence: Android Guide",
+    "category": "Industry & Trends",
+    "reading_time": "9 min read",
+    "image": "gemini-intelligence-complete-guide.jpg",
+    "description": "Learn everything about Google Gemini Intelligence for Android. Features, device requirements, and how it compares to independent AI agents like FoneClaw.",
+    "date": "2026-05-22"
+  },
+  {
+    "slug": "gemini-intelligence-productivity",
+    "lang": "en",
+    "title": "Gemini Intelligence Productivity",
+    "category": "Industry & Trends",
+    "reading_time": "7 min read",
+    "image": "gemini-intelligence-productivity.jpg",
+    "description": "Learn how Gemini Intelligence boosts productivity with task automation, form filling, and proactive assistance on Android phones.",
+    "date": "2026-05-22"
+  },
+  {
+    "slug": "gemini-intelligence-vs-siri",
+    "lang": "en",
+    "title": "Gemini Intelligence vs Siri AI: 2026 Comparison",
+    "category": "Comparisons",
+    "reading_time": "20 min read",
+    "image": "gemini-intelligence-vs-siri.jpg",
+    "description": "Compare Gemini Intelligence and Siri AI after WWDC 2026. See which assistant handles search, app actions, phone control, and Android automation better.",
+    "date": "2026-05-22"
+  },
+  {
+    "slug": "gemini-intelligence-voice-control",
+    "lang": "en",
+    "title": "Gemini Intelligence Voice Control",
+    "category": "Industry & Trends",
+    "reading_time": "7 min read",
+    "image": "gemini-intelligence-voice-control.jpg",
+    "description": "Discover how Gemini Intelligence voice control works on Android. Smarter dictation, voice-to-text, and hands-free phone management explained.",
+    "date": "2026-05-22"
+  },
+  {
+    "slug": "huawei-phone-agent",
+    "lang": "en",
+    "title": "Huawei Phone Agent vs Android AI Phone Assistant",
+    "category": "Industry & Trends",
+    "reading_time": "6 min read",
+    "image": "huawei-phone-agent.jpg",
+    "description": "Huawei phone agent shows the OEM path for HarmonyOS. Compare it with FoneClaw: Android 9+, 120+ supported actions, permissions, and confirmation.",
+    "date": "2026-05-22"
+  },
+  {
+    "slug": "xiaomi-miclaw-explained",
+    "lang": "en",
+    "title": "Xiaomi MiClaw: Phone AI Agent Explained",
+    "category": "Industry & Trends",
+    "reading_time": "8 min read",
+    "image": "xiaomi-miclaw-explained.jpg",
+    "description": "Learn about Xiaomi MiClaw, the AI agent that controls your phone by voice. Features, comparison with FoneClaw, and what it means for Android users.",
+    "date": "2026-05-22"
+  },
+  {
+    "slug": "ai-agent-phone-control",
+    "lang": "en",
+    "title": "AI Agent Phone Control: Android Guide",
+    "category": "Comparisons",
+    "reading_time": "8 min read",
+    "image": "ai-agent-phone-control.jpg",
+    "description": "Learn how AI agents control your Android phone with voice commands. Compare top AI agents and see why FoneClaw leads in cross-app automation.",
+    "date": "2026-05-22"
+  },
+  {
+    "slug": "gemini-intelligence-vs-siri",
+    "lang": "zh",
+    "title": "Gemini Intelligence vs Siri AI：2026 对比",
+    "category": "对比",
+    "reading_time": "20 分钟阅读",
+    "image": "gemini-intelligence-vs-siri.jpg",
+    "description": "2026 年 Gemini Intelligence 与 Siri AI 全面深度对比：Google 生态强大的信息处理和搜索能力 vs Apple 生态深度的系统级整合优势，以及 FoneClaw 如何有效填补 Android 平台上的执行层空白。",
+    "date": "2026-05-22"
+  },
+  {
+    "slug": "agentic-ai-phone-explained",
+    "lang": "tw",
+    "title": "手機 AI 龍蝦是什麼？Agentic AI 完整解說",
+    "category": "產業",
+    "reading_time": "8 分鐘閱讀",
+    "image": "agentic-ai-phone-explained.jpg",
+    "description": "什麼是手機 AI 龍蝦（Agentic AI）？根據我們的測試，完整解說這項技術如何從聊天機器人進化到能直接操作手機的智慧助理，涵蓋小米 MiClaw、Google Gemini Intelligence 和獨立方案 FoneClaw 的差異。",
+    "date": "2026-05-21"
+  },
+  {
+    "slug": "agentic-ai-phone-explained",
+    "lang": "en",
+    "title": "Agentic AI Phone: MiClaw, Gemini, Siri AI",
+    "category": "Industry and Trends",
+    "reading_time": "8 min read",
+    "image": "agentic-ai-phone-explained.jpg",
+    "description": "Agentic AI phone explained for 2026: compare Xiaomi MiClaw, Google Gemini Intelligence, Apple Siri AI, and FoneClaw Android phone agents.",
+    "date": "2026-05-21"
+  },
+  {
+    "slug": "perplexity-ai-vs-google-search",
+    "lang": "en",
+    "title": "Perplexity AI vs Google Search: 2026 Comparison",
+    "category": "Comparisons",
+    "reading_time": "6 min read",
+    "image": "perplexity-ai-vs-google-search.jpg",
+    "description": "Compare Perplexity AI and Google Search for answers, sources, speed, and daily use, plus where phone action assistants like FoneClaw fit.",
+    "date": "2026-05-21"
+  },
+  {
+    "slug": "claude-ai-login-android",
+    "lang": "en",
+    "title": "Claude AI Login on Android: Google & Mobile Setup",
+    "category": "Getting Started",
+    "reading_time": "8 min read",
+    "image": "claude-ai-login-android.jpg",
+    "description": "Log in to Claude AI on Android, use Google sign-in, compare mobile access options, and see how FoneClaw supports phone workflows.",
+    "date": "2026-05-21"
+  },
+  {
+    "slug": "agentic-ai-phone-explained",
+    "lang": "zh",
+    "title": "手机 AI Agent 解析：它和语音助手有什么不同",
+    "category": "行业",
+    "reading_time": "8 分钟阅读",
+    "image": "agentic-ai-phone-explained.jpg",
+    "description": "全面解析手机 AI Agent（龙虾式助手）的核心概念：它和 Siri、Google Assistant 等传统语音助手有什么本质区别？MiClaw、Gemini Intelligence、FoneClaw 各自的市场定位和能力深度对比分析。",
+    "date": "2026-05-21"
+  },
+  {
+    "slug": "xiaomi-ai-ecosystem-2026",
+    "lang": "tw",
+    "title": "小米 AI 生態 2026：HyperOS、MiMo 全面解讀",
+    "category": "產業",
+    "reading_time": "9 分鐘閱讀",
+    "image": "xiaomi-ai-ecosystem-2026.jpg",
+    "description": "深入分析小米 AI 生態系統 2026 年最新發展動態，全面涵蓋 HyperOS 作業系統、HyperAI 智慧服務層、MiMo V2.5 多模態架構模型和跨設備協同核心功能。根據我們的長期實際測試，為使用者提供全面深入觀點與獨立客觀比較分析。",
+    "date": "2026-05-15"
+  },
+  {
+    "slug": "voice-control-snapchat",
+    "lang": "tw",
+    "title": "語音控制 Snapchat：拍攝分享更直覺",
+    "category": "社交App",
+    "reading_time": "6 分鐘閱讀",
+    "image": "voice-control-snapchat.jpg",
+    "description": "在我們的經驗中，Snapchat 的即時拍攝和限時故事功能用語音控制起來特別方便。這篇文章教你如何用 FoneClaw 在 Android 上語音操作 Snapchat 各種功能，從拍照濾鏡到好友互動全部搞定，讓日常操作變得更快速更直覺方便。",
+    "date": "2026-05-15"
+  },
+  {
+    "slug": "voice-control-tiktok",
+    "lang": "tw",
+    "title": "語音控制 TikTok：用說的就能刷影片",
+    "category": "社交App",
+    "reading_time": "6 分鐘閱讀",
+    "image": "voice-control-tiktok.jpg",
+    "description": "在我們的經驗中，TikTok 的各種操作其實都可以用語音大幅簡化。從搜尋影片、切換帳號到發布內容和直播互動，FoneClaw 讓你在 Android 上用語音指令輕鬆控制 TikTok 各項功能，本文從基礎設定到進階技巧完整教你快速上手掌握。",
+    "date": "2026-05-15"
+  },
+  {
+    "slug": "voice-control-telegram",
+    "lang": "tw",
+    "title": "語音控制 Telegram：訊息管理更輕鬆",
+    "category": "社交App",
+    "reading_time": "7 分鐘閱讀",
+    "image": "voice-control-telegram.jpg",
+    "description": "根據我們的測試，Telegram 的頻道、群組和機器人功能雖然非常強大，但操作步驟繁瑣。這篇文章教你如何用 FoneClaw 語音控制 Telegram，在 Android 上輕鬆管理各種訊息、頻道、群組和檔案傳輸，大幅提升你的日常溝通效率。",
+    "date": "2026-05-15"
+  },
+  {
+    "slug": "voice-control-whatsapp",
+    "lang": "tw",
+    "title": "WhatsApp 語音控制免提操作完整指南",
+    "category": "社交App",
+    "reading_time": "7 分鐘閱讀",
+    "image": "voice-control-whatsapp.jpg",
+    "description": "WhatsApp 語音控制免提操作完整實用教學指南。根據我們的長期實際測試經驗分享，從基礎環境設定到進階使用技巧，手把手教你如何用語音指令輕鬆發送訊息、撥打通話、搜尋歷史聊天記錄，以及高效管理日常通訊對話，讓你真正實現雙手解放的免提操作完整體驗。",
+    "date": "2026-05-15"
+  },
+  {
+    "slug": "xiaomi-ai-ecosystem-2026",
+    "lang": "en",
+    "title": "Xiaomi HyperOS AI Capabilities 2026: MiMo & Ecosystem",
+    "category": "Industry",
+    "reading_time": "9 min read",
+    "image": "xiaomi-ai-ecosystem-2026.jpg",
+    "description": "Analyze Xiaomi HyperOS AI capabilities, MiMo-V2.5 model release, app ecosystem features, privacy, and what it means for phone AI in 2026.",
+    "date": "2026-05-15"
+  },
+  {
+    "slug": "voice-control-youtube",
+    "lang": "en",
+    "title": "YouTube Voice Control on Android",
+    "category": "Social Media",
+    "reading_time": "8 min read",
+    "image": "voice-control-youtube.jpg",
+    "description": "Use YouTube voice control on Android for search, playback, pause, and supported phone-side workflows with permissions and confirmation.",
+    "date": "2026-05-15"
+  },
+  {
+    "slug": "voice-control-snapchat",
+    "lang": "en",
+    "title": "Snapchat Voice Control: Hands-Free Snaps",
+    "category": "Social Media",
+    "reading_time": "6 min read",
+    "image": "voice-control-snapchat.jpg",
+    "description": "Control Snapchat hands-free with FoneClaw voice commands. Send snaps, view stories, and chat on Android 9+ with 120+ supported actions.",
+    "date": "2026-05-15"
+  },
+  {
+    "slug": "voice-control-linkedin",
+    "lang": "en",
+    "title": "LinkedIn Voice Control: Post, Message, Network",
+    "category": "Social Media",
+    "reading_time": "7 min read",
+    "image": "voice-control-linkedin.jpg",
+    "description": "Master LinkedIn voice control with FoneClaw. Post updates, send messages, network, and search jobs using just your voice commands.",
+    "date": "2026-05-15"
+  },
+  {
+    "slug": "ai-terminal-war-agent-battlefield",
+    "lang": "en",
+    "title": "AI Terminal War: Why Phone Agents Beat New Hardware",
+    "category": "Industry",
+    "reading_time": "6 min read",
+    "image": "ai-terminal-war-agent-battlefield.jpg",
+    "description": "AI terminal war is not just phones, glasses, or robots. See why Android AI Phone Assistants like FoneClaw win through 120+ supported actions.",
+    "date": "2026-05-15"
+  },
+  {
+    "slug": "voice-control-tiktok",
+    "lang": "en",
+    "title": "TikTok Voice Control: Browse, Like, Share",
+    "category": "Social Media",
+    "reading_time": "6 min read",
+    "image": "voice-control-tiktok.jpg",
+    "description": "Browse, like, share, and comment on TikTok hands-free with FoneClaw voice commands. Voice control for TikTok on Android 9+ today.",
+    "date": "2026-05-15"
+  },
+  {
+    "slug": "ai-phone-war-2026",
+    "lang": "en",
+    "title": "AI Phone War 2026: OpenAI vs ByteDance vs Google",
+    "category": "Industry",
+    "reading_time": "8 min read",
+    "image": "ai-phone-war-2026.jpg",
+    "description": "The AI phone war is here. OpenAI, ByteDance, Google, Samsung, and Xiaomi are racing to build agent-first smartphones. See who is winning.",
+    "date": "2026-05-15"
+  },
+  {
+    "slug": "voice-control-pinterest",
+    "lang": "en",
+    "title": "Pinterest Voice Control: Search, Save, Organize",
+    "category": "Productivity & Apps",
+    "reading_time": "8 min read",
+    "image": "voice-control-pinterest.jpg",
+    "description": "Master Pinterest voice commands. Learn how to search, save, and organize pins entirely by voice for a fast, hands-free experience.",
+    "date": "2026-05-15"
+  },
+  {
+    "slug": "voice-control-discord",
+    "lang": "en",
+    "title": "Discord Voice Control: Hands-Free Chat Guide",
+    "category": "Discord",
+    "reading_time": "7 min read",
+    "image": "voice-control-discord.jpg",
+    "description": "Master Discord voice control to chat, join channels, and manage servers entirely by voice. Learn the best commands and tips.",
+    "date": "2026-05-15"
+  },
+  {
+    "slug": "voice-control-reddit",
+    "lang": "en",
+    "title": "Reddit Voice Control: Browse, Upvote, Comment",
+    "category": "Social Media",
+    "reading_time": "8 min read",
+    "image": "voice-control-reddit.jpg",
+    "description": "Control Reddit entirely with your voice. Browse posts, upvote content, comment, and create new posts hands-free using FoneClaw voice commands.",
+    "date": "2026-05-15"
+  },
+  {
+    "slug": "voice-control-facebook",
+    "lang": "en",
+    "title": "Facebook Voice Control: Post, Like, Message",
+    "category": "Social Media",
+    "reading_time": "6 min read",
+    "image": "voice-control-facebook.jpg",
+    "description": "Post, like, comment, and message on Facebook hands-free. Voice control for Facebook on Android for easy social networking.",
+    "date": "2026-05-15"
+  },
+  {
+    "slug": "voice-control-telegram",
+    "lang": "en",
+    "title": "Telegram Voice Control: Messages, Channels, Bots",
+    "category": "Social Media",
+    "reading_time": "7 min read",
+    "image": "voice-control-telegram.jpg",
+    "description": "Master Telegram voice control with FoneClaw: send messages, manage channels, and use bots hands-free. 120+ actions on Android 9+.",
+    "date": "2026-05-15"
+  },
+  {
+    "slug": "voice-control-twitter",
+    "lang": "en",
+    "title": "Twitter/X Voice Control on Android",
+    "category": "Social Media",
+    "reading_time": "6 min read",
+    "image": "voice-control-twitter.jpg",
+    "description": "Use Twitter/X voice control on Android to draft tweets, search, reply, and retweet through supported FoneClaw workflows with confirmation.",
+    "date": "2026-05-15"
+  },
+  {
+    "slug": "voice-control-whatsapp",
+    "lang": "en",
+    "title": "WhatsApp Voice Control: Hands-Free Guide 2026",
+    "category": "Social Media",
+    "reading_time": "7 min read",
+    "image": "voice-control-whatsapp.jpg",
+    "description": "Control WhatsApp hands-free on Android. Send messages, make calls, search chats, and manage groups with voice commands. Complete voice control guide.",
+    "date": "2026-05-15"
+  },
+  {
+    "slug": "xiaomi-ai-ecosystem-2026",
+    "lang": "zh",
+    "title": "小米 AI 生态 2026：HyperOS 与 MiMo 全面解读",
+    "category": "行业",
+    "reading_time": "9 分钟阅读",
+    "image": "xiaomi-ai-ecosystem-2026.jpg",
+    "description": "全面深入解读小米 2026 年 AI 人工智能生态系统全景：HyperOS 3 的 HyperAI 智能框架、MiMo-V2.5 自研大语言模型、跨设备无缝协同功能，以及小米手机、平板电脑、智能家居和电动汽车的 AI 整合发展策略深度分析。",
+    "date": "2026-05-15"
+  },
+  {
+    "slug": "voice-control-snapchat",
+    "lang": "zh",
+    "title": "语音控制Snapchat：FoneClaw解放双手教程",
+    "category": "社交应用",
+    "reading_time": "6 分钟阅读",
+    "image": "voice-control-snapchat.jpg",
+    "description": "全面介绍如何使用FoneClaw Android AI手机助手，通过语音指令轻松控制Snapchat的各项功能。本教程包含详细的语音拍照、发送快照、添加滤镜和浏览动态操作指南，以及实用进阶技巧，支持Android 9以上手机，核心功能完全免费。",
+    "date": "2026-05-15"
+  },
+  {
+    "slug": "voice-control-tiktok",
+    "lang": "zh",
+    "title": "语音控制TikTok：FoneClaw让你动嘴刷视频",
+    "category": "社交应用",
+    "reading_time": "6 分钟阅读",
+    "image": "voice-control-tiktok.jpg",
+    "description": "全面介绍如何使用FoneClaw Android AI手机助手，通过语音指令轻松控制TikTok的各项功能。本教程涵盖从基础的刷视频和点赞操作到进阶的视频发布和账号管理技巧，帮助用户解放双手，支持Android 9以上手机，核心功能完全免费。",
+    "date": "2026-05-15"
+  },
+  {
+    "slug": "voice-control-telegram",
+    "lang": "zh",
+    "title": "语音控制Telegram：FoneClaw智能操控教程",
+    "category": "社交应用",
+    "reading_time": "7 分钟阅读",
+    "image": "voice-control-telegram.jpg",
+    "description": "详细讲解如何使用FoneClaw Android AI手机助手，通过语音指令高效控制Telegram的各项功能。本教程从基础的语音发消息到进阶的群组管理，全面覆盖Telegram日常使用场景，支持Android 9以上手机，无需root权限，核心功能免费使用。",
+    "date": "2026-05-15"
+  },
+  {
+    "slug": "voice-control-whatsapp",
+    "lang": "zh",
+    "title": "WhatsApp 语音控制：免提操作指南 2026",
+    "category": "社交应用",
+    "reading_time": "7 分钟阅读",
+    "image": "voice-control-whatsapp.jpg",
+    "description": "WhatsApp 即时通讯应用语音控制免提操作完整实用教程指南：用语音轻松发送文字消息、快速拨打语音和视频通话电话、搜索历史聊天记录内容、管理通知消息和群组聊天设置。特别适合开车途中、厨房做饭、户外运动锻炼等双手不便触屏的各种日常使用场景。",
+    "date": "2026-05-15"
+  },
+  {
+    "slug": "ai-phone-seniors",
+    "lang": "tw",
+    "title": "長輩也能輕鬆用：手機語音操作完全指南",
+    "category": "無障礙",
+    "reading_time": "9 分鐘閱讀",
+    "image": "uc_seniors.jpg",
+    "description": "根據我們的測試，多數長輩不是不想學手機，而是觸控操作的步驟實在太過繁瑣了。這篇文章完整教你如何幫家中長輩設定好 FoneClaw 語音助理工具，讓銀髮族用說的就能打電話、傳訊息、查天氣和設定各種提醒，輕鬆享受現代智慧生活帶來的便利與安全感。",
+    "date": "2026-05-09"
+  },
+  {
+    "slug": "voice-control-visually-impaired",
+    "lang": "tw",
+    "title": "盲人語音控制手機：Android 設定完整指南",
+    "category": "無障礙",
+    "reading_time": "9 分鐘閱讀",
+    "image": "uc_visual_impaired.jpg",
+    "description": "為盲人和視障使用者提供的 Android 語音控制手機完整設定指南。根據我們對 100 多名視障使用者的實際測試經驗，完整涵蓋 TalkBack、Google 語音訪問、輔助功能選單設定，以及 FoneClaw 語音自動化工具的深度整合應用與實用技巧。",
+    "date": "2026-05-09"
+  },
+  {
+    "slug": "automate-instagram-with-voice",
+    "lang": "tw",
+    "title": "用語音自動化 Instagram 操作：完整教學",
+    "category": "Use Case",
+    "reading_time": "6 分鐘閱讀",
+    "image": "automate-instagram-with-voice.jpg",
+    "description": "根據我們的測試，用語音自動化 Instagram 發文、限動和互動其實比你想的簡單。從自動排程到語音指令控制，這篇文章教你如何用 FoneClaw 在 Android 上輕鬆搞定 Instagram 自動化工作流程，大幅節省每日社群管理的操作時間。",
+    "date": "2026-05-09"
+  },
+  {
+    "slug": "android-vs-ios-26-5-voice-control",
+    "lang": "tw",
+    "title": "Android vs iOS 26.5 語音控制比較指南",
+    "category": "比較",
+    "reading_time": "6 分鐘閱讀",
+    "image": "android-vs-ios-26-5-voice-control.jpg",
+    "description": "Android 和 iOS 26.5 語音控制功能全面深度比較指南。根據我們對 20 個真實日常場景的長期測試，從免提操作效率、第三方App整合深度、自動化工作流程執行能力、無障礙輔助功能差異到使用者體驗全面評估，提供客觀實用的平台選擇建議與比較分析。",
+    "date": "2026-05-09"
+  },
+  {
+    "slug": "comp_vs_miclaw",
+    "lang": "tw",
+    "title": "MiClaw vs FoneClaw：手機 AI 助手全面比較",
+    "category": "比較",
+    "reading_time": "7 分鐘閱讀",
+    "image": "comp_vs_miclaw.jpg",
+    "description": "MiClaw 和 FoneClaw 全面比較分析：小米生態綁定 vs 獨立 Android 語音控制方案。根據我們的長期測試與實際使用體驗，深入比較兩者在自動化任務深度、跨品牌設備支援範圍、語音螢幕操作能力和安全隱私控制邊界上的各項關鍵差異。",
+    "date": "2026-05-09"
+  },
+  {
+    "slug": "tasker-alternative-voice-automation",
+    "lang": "tw",
+    "title": "Android 語音自動化：Tasker 替代方案比較",
+    "category": "指南",
+    "reading_time": "6 分鐘閱讀",
+    "image": "tasker-alternative-voice-automation.jpg",
+    "description": "全面比較 Android 上的 Tasker 替代語音自動化方案，包含功能對比、使用門檻與實戰測試。根據我們的測試，FoneClaw 用自然語言指令取代腳本設定，支援 16 類別、120 多種動作、Android 9 以上系統，讓免提自動化比以往更簡單直覺。",
+    "date": "2026-05-09"
+  },
+  {
+    "slug": "gemini-vs-foneclaw",
+    "lang": "tw",
+    "title": "Gemini Intelligence vs FoneClaw：功能全面比較",
+    "category": "比較",
+    "reading_time": "6 分鐘閱讀",
+    "image": "comp_vs_gemini.jpg",
+    "description": "Gemini Intelligence 和 FoneClaw 到底有什麼不同？根據我們的測試，一個擅長理解與生成內容，一個專注執行與操作手機。深入了解兩者在隱私保護、功能範圍和適用場景上的全面比較，找出最適合你的 Android 工作方案。",
+    "date": "2026-05-09"
+  },
+  {
+    "slug": "automate-multi-step-tasks",
+    "lang": "en",
+    "title": "Automate Tasks with One Voice Command",
+    "category": "Advanced",
+    "reading_time": "8 min read",
+    "image": "howto_multistep.jpg",
+    "description": "Automate multi-step tasks with one voice command using FoneClaw. Book flights, order food, and manage your smart home hands-free on Android.",
+    "date": "2026-05-09"
+  },
+  {
+    "slug": "ai-phone-seniors",
+    "lang": "en",
+    "title": "AI Phone for Seniors: Voice-First Control",
+    "category": "Accessibility",
+    "reading_time": "9 min read",
+    "image": "uc_seniors.jpg",
+    "description": "AI phone for seniors with 120+ voice actions across 16 categories. Help elderly parents use Android 9+ phones independently with FoneClaw.",
+    "date": "2026-05-09"
+  },
+  {
+    "slug": "voice-control-visually-impaired",
+    "lang": "en",
+    "title": "Voice Activated Phone for Blind Users Guide",
+    "category": "Accessibility",
+    "reading_time": "9 min read",
+    "image": "uc_visual_impaired.jpg",
+    "description": "Set up a voice activated phone for blind users with Android Voice Access, TalkBack, screen reader voice, and FoneClaw hands-free phone control.",
+    "date": "2026-05-09"
+  },
+  {
+    "slug": "voice-control-elderly",
+    "lang": "en",
+    "title": "Voice Control for Elderly Parents Setup",
+    "category": "Guide",
+    "reading_time": "5 min read",
+    "image": "howto_elderly_setup.jpg",
+    "description": "Set up voice control for elderly parents with FoneClaw. Make Android phones accessible for seniors with simple voice commands and remote help.",
+    "date": "2026-05-09"
+  },
+  {
+    "slug": "small-businesses-use-ai-agents",
+    "lang": "en",
+    "title": "How Small Businesses Use AI Agents",
+    "category": "How-To",
+    "reading_time": "7 min read",
+    "image": "small-businesses-use-ai-agents.jpg",
+    "description": "Learn how small businesses use AI agents like FoneClaw for automation. Boost productivity with voice-controlled phone operations.",
+    "date": "2026-05-09"
+  },
+  {
+    "slug": "foneclaw-vs-alexa",
+    "lang": "en",
+    "title": "FoneClaw vs Alexa: Mobile Voice Control",
+    "category": "Comparison",
+    "reading_time": "6 min read",
+    "image": "comp_vs_alexa.jpg",
+    "description": "FoneClaw vs Alexa on mobile: compare voice control for Android. Supported phone workflows, smart home integration, and hands-free features.",
+    "date": "2026-05-09"
+  },
+  {
+    "slug": "hermes-agent-vs-openclaw-vs-foneclaw",
+    "lang": "en",
+    "title": "Hermes Agent vs OpenClaw vs FoneClaw",
+    "category": "Comparison",
+    "reading_time": "7 min read",
+    "image": "hermes-agent-vs-openclaw-vs-foneclaw.jpg",
+    "description": "Compare Hermes Agent, OpenClaw, and FoneClaw: general agents, gateway deployment, and Android AI Phone Assistant workflows with 120+ actions.",
+    "date": "2026-05-09"
+  },
+  {
+    "slug": "parenting-hands-free",
+    "lang": "en",
+    "title": "Parenting Hands-Free: Voice Control for Parents",
+    "category": "Lifestyle",
+    "reading_time": "5 min read",
+    "image": "uc_parenting.jpg",
+    "description": "Parenting hands-free with voice control for new parents. Manage baby schedules, send messages, and control your phone while holding your child.",
+    "date": "2026-05-09"
+  },
+  {
+    "slug": "emergency-voice-commands",
+    "lang": "en",
+    "title": "Emergency Voice Commands on Android: Safer Setup",
+    "category": "Safety",
+    "reading_time": "6 min read",
+    "image": "uc_emergency.jpg",
+    "description": "Set up emergency voice commands on Android with FoneClaw: calls, SOS texts, and location sharing with permissions, testing, and confirmation safeguards.",
+    "date": "2026-05-09"
+  },
+  {
+    "slug": "hands-free-cooking",
+    "lang": "en",
+    "title": "Hands-Free Cooking Voice Commands for Android",
+    "category": "Lifestyle",
+    "reading_time": "5 min read",
+    "image": "uc_cooking.jpg",
+    "description": "Use hands-free cooking voice commands on Android: recipes, timers, music, messages, permissions, and confirmation with FoneClaw.",
+    "date": "2026-05-09"
+  },
+  {
+    "slug": "ai-agents-replacing-assistants",
+    "lang": "en",
+    "title": "How AI Phone Agents Replace Assistants",
+    "category": "Industry",
+    "reading_time": "7 min read",
+    "image": "comp_ai_replacing.jpg",
+    "description": "How AI phone agents are replacing traditional voice assistants on Android. The shift from simple commands to intelligent supported phone workflows.",
+    "date": "2026-05-09"
+  },
+  {
+    "slug": "voice-control-commuters",
+    "lang": "en",
+    "title": "Voice Control for Commuters: Stay Connected",
+    "category": "Commuting",
+    "reading_time": "7 min read",
+    "image": "uc_commuting.jpg",
+    "description": "Voice control for commuters to stay connected safely on the go. Manage messages, navigation, and calls hands-free during your daily commute.",
+    "date": "2026-05-09"
+  },
+  {
+    "slug": "foneclaw-vs-siri",
+    "lang": "en",
+    "title": "FoneClaw vs Siri: Voice Assistant Comparison",
+    "category": "Comparison",
+    "reading_time": "7 min read",
+    "image": "comp_vs_siri.jpg",
+    "description": "FoneClaw vs Siri comparison for Android voice control. See which voice assistant offers better cross-app automation, accuracy, and features.",
+    "date": "2026-05-09"
+  },
+  {
+    "slug": "automate-instagram-with-voice",
+    "lang": "en",
+    "title": "How to Automate Instagram with Voice Commands",
+    "category": "Use Case",
+    "reading_time": "6 min read",
+    "image": "automate-instagram-with-voice.jpg",
+    "description": "Learn how to automate Instagram tasks with voice commands using FoneClaw. Post, message, and engage on Instagram completely hands-free today.",
+    "date": "2026-05-09"
+  },
+  {
+    "slug": "android-vs-ios-26-5-voice-control",
+    "lang": "en",
+    "title": "Android vs iOS: Voice Control Compared 2026",
+    "category": "Comparison",
+    "reading_time": "6 min read",
+    "image": "android-vs-ios-26-5-voice-control.jpg",
+    "description": "Android vs iOS voice control compared. See which platform offers better voice assistant integration, hands-free automation, and phone agent support in 2026.",
+    "date": "2026-05-09"
+  },
+  {
+    "slug": "trump-phone-mobile-ai",
+    "lang": "en",
+    "title": "Trump Phone and Mobile AI",
+    "category": "Comparison",
+    "reading_time": "10 min read",
+    "image": "trump-phone-mobile-ai.jpg",
+    "description": "Explore what the Trump Phone means for mobile AI and Android voice control. Learn how new phone brands impact the ecosystem.",
+    "date": "2026-05-09"
+  },
+  {
+    "slug": "comp_vs_miclaw",
+    "lang": "en",
+    "title": "MiClaw vs FoneClaw: Xiaomi Agent vs Android AI Assistant",
+    "category": "Comparison",
+    "reading_time": "7 min read",
+    "image": "comp_vs_miclaw.jpg",
+    "description": "Compare Xiaomi MiClaw and FoneClaw: HyperOS closed beta, MiMo model layer, Android 9+ support, 120+ actions, permissions, and confirmation.",
+    "date": "2026-05-09"
+  },
+  {
+    "slug": "tasker-alternative-voice-automation",
+    "lang": "en",
+    "title": "Tasker Alternative: Android Voice Automation",
+    "category": "Guide",
+    "reading_time": "6 min read",
+    "image": "tasker-alternative-voice-automation.jpg",
+    "description": "Need a Tasker alternative for Android? Learn how FoneClaw uses voice commands to automate multi-step phone tasks without coding, scripts, or root access.",
+    "date": "2026-05-09"
+  },
+  {
+    "slug": "cerebras-future-ai-hardware",
+    "lang": "en",
+    "title": "Cerebras and the Future of AI Hardware",
+    "category": "Comparison",
+    "reading_time": "8 min read",
+    "image": "cerebras-future-ai-hardware.jpg",
+    "description": "Explore Cerebras and the future of AI hardware. Learn how AI chip advances impact mobile AI agents like FoneClaw and Android voice control.",
+    "date": "2026-05-09"
+  },
+  {
+    "slug": "foneclaw-vs-google-assistant",
+    "lang": "en",
+    "title": "FoneClaw vs Google Assistant for Android",
+    "category": "Comparison",
+    "reading_time": "7 min read",
+    "image": "comp_vs_google.jpg",
+    "description": "FoneClaw vs Google Assistant for Android: compare voice control features, cross-app automation, and hands-free capabilities side by side.",
+    "date": "2026-05-09"
+  },
+  {
+    "slug": "voice-control-dirty-hands",
+    "lang": "en",
+    "title": "Hands-Free Phone When Dirty",
+    "category": "Lifestyle",
+    "reading_time": "5 min read",
+    "image": "voice-control-dirty-hands.jpg",
+    "description": "Cooking, gardening, or working with dirty hands? FoneClaw lets you control your phone entirely by voice without touching the screen.",
+    "date": "2026-05-09"
+  },
+  {
+    "slug": "top-10-ai-agents-2026",
+    "lang": "en",
+    "title": "Top 10 AI Agents in 2026: Which One Works?",
+    "category": "Comparison",
+    "reading_time": "8 min read",
+    "image": "top-10-ai-agents-2026.jpg",
+    "description": "Compare the top 10 AI agents of 2026 for phone control, coding, workflow automation, privacy, and setup complexity.",
+    "date": "2026-05-09"
+  },
+  {
+    "slug": "top-10-ai-agent-models-2026",
+    "lang": "en",
+    "title": "Top 10 AI Agent Models 2026",
+    "category": "Comparison",
+    "reading_time": "7 min read",
+    "image": "top-10-ai-agent-models-2026.jpg",
+    "description": "Compare the top AI agent models for tool use, planning, and phone automation. See what model choice means for Android AI phone assistants.",
+    "date": "2026-05-09"
+  },
+  {
+    "slug": "ai-agent-vs-traditional-apps",
+    "lang": "en",
+    "title": "AI Voice Agent vs Traditional Apps",
+    "category": "Comparison",
+    "reading_time": "5 min read",
+    "image": "ai-agent-vs-traditional-apps.jpg",
+    "description": "Compare AI voice agents with traditional Android apps. See how FoneClaw turns supported Android phone actions into voice-driven results.",
+    "date": "2026-05-09"
+  },
+  {
+    "slug": "productivity-automation",
+    "lang": "en",
+    "title": "Productivity Voice Automation for Professionals",
+    "category": "Productivity",
+    "reading_time": "8 min read",
+    "image": "uc_productivity.jpg",
+    "description": "Boost productivity with voice automation for busy professionals. Automate emails, meetings, and daily tasks using FoneClaw voice commands.",
+    "date": "2026-05-09"
+  },
+  {
+    "slug": "best-voice-control-apps-2026",
+    "lang": "en",
+    "title": "Best Voice Control Apps for Android in 2026",
+    "category": "Roundup",
+    "reading_time": "8 min read",
+    "image": "comp_best_apps.jpg",
+    "description": "Best voice control apps for Android in 2026 ranked and reviewed. Compare FoneClaw, Google Assistant, Alexa, and Android AI phone assistants.",
+    "date": "2026-05-09"
+  },
+  {
+    "slug": "gemini-vs-foneclaw",
+    "lang": "en",
+    "title": "Gemini Intelligence vs FoneClaw: Android Phone Agent Comparison",
+    "category": "Comparison",
+    "reading_time": "6 min read",
+    "image": "comp_vs_gemini.jpg",
+    "description": "Can Gemini Intelligence control Android apps like FoneClaw? Compare phone agent access, cross-app automation, device limits, and hands-free execution.",
+    "date": "2026-05-09"
+  },
+  {
+    "slug": "why-local-ai-agents-never-go-down",
+    "lang": "en",
+    "title": "Why Local AI Agents Like FoneClaw Never Go Down",
+    "category": "Comparison",
+    "reading_time": "8 min read",
+    "image": "why-local-ai-agents-never-go-down.jpg",
+    "description": "Cloud AI agents crash. Local AI agents keep working. Learn why on-device processing means your phone automation never stops.",
+    "date": "2026-05-09"
+  },
+  {
+    "slug": "smart-home-voice-control",
+    "lang": "en",
+    "title": "Smart Home Voice Control: Complete Guide",
+    "category": "Smart Home",
+    "reading_time": "6 min read",
+    "image": "howto_smart_home.jpg",
+    "description": "Control smart home devices by voice with FoneClaw on Android. Manage lights, locks, thermostats, and cameras with simple spoken commands.",
+    "date": "2026-05-09"
+  },
+  {
+    "slug": "control-samsung-smart-tv-voice",
+    "lang": "en",
+    "title": "Control Samsung Smart TV with Voice on Android",
+    "category": "Use Case",
+    "reading_time": "9 min read",
+    "image": "control-samsung-smart-tv-voice.jpg",
+    "description": "Control a Samsung Smart TV with voice on Android using FoneClaw supported workflows, transparent permissions, Android 9+, and confirmation safeguards.",
+    "date": "2026-05-09"
+  },
+  {
+    "slug": "voice-control-android",
+    "lang": "en",
+    "title": "Voice Control Android: Complete Setup Guide",
+    "category": "Setup",
+    "reading_time": "5 min read",
+    "image": "howto_voice_android.jpg",
+    "description": "Learn how to control Android with voice commands using FoneClaw AI agent. Complete guide for hands-free calls, messages, apps, and settings.",
+    "date": "2026-05-09"
+  },
+  {
+    "slug": "voice-commands-driving",
+    "lang": "en",
+    "title": "Voice Commands While Driving: Safety Guide",
+    "category": "Safety",
+    "reading_time": "4 min read",
+    "image": "howto_driving_voice.jpg",
+    "description": "Use voice commands while driving safely with FoneClaw. Send texts, use, and manage calls hands-free to stay focused on the road ahead.",
+    "date": "2026-05-09"
+  },
+  {
+    "slug": "miclaw-vs-foneclaw",
+    "lang": "en",
+    "title": "MiClaw vs FoneClaw: Xiaomi Agent vs Android AI Assistant",
+    "category": "Comparison",
+    "reading_time": "7 min read",
+    "image": "comp_vs_miclaw.jpg",
+    "description": "Compare Xiaomi MiClaw and FoneClaw: HyperOS closed beta, MiMo model layer, Android 9+ support, 120+ actions, permissions, and confirmation.",
+    "date": "2026-05-09"
+  },
+  {
+    "slug": "voice-fitness",
+    "lang": "en",
+    "title": "Voice Fitness Control for Android",
+    "category": "Fitness",
+    "reading_time": "6 min read",
+    "image": "uc_fitness.jpg",
+    "description": "Use FoneClaw for voice fitness control on Android: music, workout tracking, safety check-ins, and supported actions with Android 9+ permissions.",
+    "date": "2026-05-09"
+  },
+  {
+    "slug": "send-texts-hands-free",
+    "lang": "en",
+    "title": "Send Texts Hands-Free on Android Safely",
+    "category": "Tutorial",
+    "reading_time": "4 min read",
+    "image": "howto_texts_handsfree.jpg",
+    "description": "Send texts hands-free on Android with FoneClaw. Dictate, review, and confirm messages using supported workflows, transparent permissions, and Android 9+.",
+    "date": "2026-05-09"
+  },
+  {
+    "slug": "voice-control-wearables",
+    "lang": "en",
+    "title": "Voice Control for Wearables Beyond Your Phone",
+    "category": "Use Case",
+    "reading_time": "6 min read",
+    "image": "voice-control-wearables.jpg",
+    "description": "Explore voice control for wearables beyond your phone. Learn how FoneClaw extends Android voice automation to smartwatches.",
+    "date": "2026-05-09"
+  },
+  {
+    "slug": "ai-phone-seniors",
+    "lang": "zh",
+    "title": "老年人AI手机助手：FoneClaw让长辈轻松用手机",
+    "category": "无障碍",
+    "reading_time": "9 分钟阅读",
+    "image": "uc_seniors.jpg",
+    "description": "详细介绍FoneClaw这款专为老年人设计的Android AI手机助手，通过语音控制即可轻松操作手机各项功能。本教程涵盖应用安装设置、常用语音指令教学和家人辅助配置指南，支持120多种操作指令，帮助长辈独立完成打电话、发消息和看新闻等日常需求。",
+    "date": "2026-05-09"
+  },
+  {
+    "slug": "voice-control-visually-impaired",
+    "lang": "zh",
+    "title": "视障用户语音控制手机完整指南",
+    "category": "无障碍",
+    "reading_time": "9 分钟阅读",
+    "image": "uc_visual_impaired.jpg",
+    "description": "专为盲人和视障用户精心设计的 Android 智能手机语音控制完整使用指南。本指南详细介绍 Voice Access、TalkBack 屏幕阅读器和 FoneClaw 三大工具如何协同工作，帮助视障用户实现日常手机操作的全面语音控制和完整免提使用体验。",
+    "date": "2026-05-09"
+  },
+  {
+    "slug": "automate-instagram-with-voice",
+    "lang": "zh",
+    "title": "语音自动化Instagram操作：FoneClaw完整教程",
+    "category": "Use Case",
+    "reading_time": "6 分钟阅读",
+    "image": "automate-instagram-with-voice.jpg",
+    "description": "学习如何使用FoneClaw Android AI手机助手，通过语音指令自动化Instagram的各项日常操作。本教程详细讲解发布帖子、点赞评论、浏览动态和搜索内容的完整步骤，支持Android 9以上版本手机，无需root权限，核心功能完全免费使用。",
+    "date": "2026-05-09"
+  },
+  {
+    "slug": "android-vs-ios-26-5-voice-control",
+    "lang": "zh",
+    "title": "Android vs iOS 语音控制 2026 全面对比",
+    "category": "对比",
+    "reading_time": "6 分钟阅读",
+    "image": "android-vs-ios-26-5-voice-control.jpg",
+    "description": "2026 年 Android 与 iOS 两大移动平台语音控制能力全面深度对比评测：iOS 26.5 的 Siri AI 重大更新亮点、Android 开放生态的独特核心竞争优势、FoneClaw 等第三方执行工具的实际测试表现，帮助你做出最佳平台选择。",
+    "date": "2026-05-09"
+  },
+  {
+    "slug": "comp_vs_miclaw",
+    "lang": "zh",
+    "title": "MiClaw vs FoneClaw：手机助手全面对比",
+    "category": "对比",
+    "reading_time": "7 分钟阅读",
+    "image": "comp_vs_miclaw.jpg",
+    "description": "小米 MiClaw 和 FoneClaw 两款手机 AI 智能助手的深度对比全面分析文章：生态绑定与跨设备使用自由的战略取舍、系统级深度集成与独立灵活执行的核心差异、隐私权限设计理念的根本不同之处，以及面向不同用户群体的详细选择建议和使用指南。",
+    "date": "2026-05-09"
+  },
+  {
+    "slug": "tasker-alternative-voice-automation",
+    "lang": "zh",
+    "title": "Tasker 替代方案：Android 语音自动化指南",
+    "category": "指南",
+    "reading_time": "6 分钟阅读",
+    "image": "tasker-alternative-voice-automation.jpg",
+    "description": "不想花几小时配置 Tasker 的触发器、变量和脚本？FoneClaw 是面向所有 Android 用户的语音自动化替代方案，无需编程知识和 Root 权限，支持 16 个功能类别、120 多种手机操作，说一句话就能完成复杂的多步骤自动化任务。",
+    "date": "2026-05-09"
+  },
+  {
+    "slug": "gemini-vs-foneclaw",
+    "lang": "zh",
+    "title": "Gemini Intelligence vs FoneClaw：怎么选？",
+    "category": "对比",
+    "reading_time": "6 分钟阅读",
+    "image": "comp_vs_gemini.jpg",
+    "description": "深入分析 Gemini Intelligence 和 FoneClaw 的核心区别：Gemini 擅长信息理解、搜索摘要和内容生成，FoneClaw 专注于 Android 手机上的实际操作执行和跨应用工作流自动化，帮助你根据具体使用场景做出最佳选择。",
+    "date": "2026-05-09"
+  }
+]

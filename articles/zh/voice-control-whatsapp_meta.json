@@ -1,0 +1,51 @@
+{
+  "faq": [
+    {
+      "question": "没有网络能用 WhatsApp 语音控制吗？",
+      "answer": "不行，大多数语音助手需要有效的网络连接来处理语音指令并通过 WhatsApp 发送消息。如果你完全离线，助手将无法转录你的话或连接 WhatsApp 服务器来投递消息。"
+    },
+    {
+      "question": "语音控制支持英语以外的语言吗？",
+      "answer": "支持，Google Assistant 支持多种语言的语音指令。你可以在助手设置中更改首选语言，它就会用你选择的语言识别指令并在 WhatsApp 中口述消息，对全球用户来说都非常灵活。"
+    },
+    {
+      "question": "我能用语音指令发送语音消息吗？",
+      "answer": "目前还无法用语音指令录制和发送标准的 WhatsApp 语音消息。你只能口述文字消息并以文本形式发送。要发送真正的语音消息，你需要在应用内手动按住录音按钮。"
+    },
+    {
+      "question": "开车时使用语音控制安全吗？",
+      "answer": "安全。使用语音指令比开车时手动打字安全得多，因为它让你能双手握方向盘、目视前方。不过你始终应专注于驾驶，尽量减少一切干扰，确保行车安全。"
+    },
+    {
+      "question": "Google Assistant 为什么没有发送我的 WhatsApp 消息？",
+      "answer": "这通常是权限缺失导致的。请确保 Google Assistant 有权限访问你的联系人和 WhatsApp。你还应检查设备是否有稳定的网络连接，以及助手应用是否已更新到最新版本。"
+    },
+    {
+      "question": "怎么用语音指令发 WhatsApp 消息？",
+      "answer": "用语音指令打开 WhatsApp，然后说出联系人姓名和消息内容。FoneClaw 会读取屏幕、填写消息字段，并在发送前请求确认。"
+    },
+    {
+      "question": "能免提拨打 WhatsApp 视频通话吗？",
+      "answer": "可以。说出语音指令即可与指定联系人发起视频通话。FoneClaw 会导航到该联系人并为你点击视频通话按钮。"
+    }
+  ],
+  "toc": [
+    {"id": "introduction-to-whatsapp-voice-control", "text": "WhatsApp 语音控制简介"},
+    {"id": "how-to-enable-and-set-up-voice-control", "text": "如何开启和设置语音控制"},
+    {"id": "sending-messages-with-voice-commands", "text": "用语音指令发送消息"},
+    {"id": "making-calls-with-voice-commands", "text": "用语音拨打电话"},
+    {"id": "searching-chats-by-voice", "text": "语音搜索聊天记录"},
+    {"id": "managing-chats-hands-free", "text": "免提管理聊天"},
+    {"id": "tips-and-best-practices", "text": "使用技巧和最佳实践"},
+    {"id": "faq", "text": "常见问题"}
+  ],
+  "summary": [
+    "WhatsApp 语音控制简介",
+    "如何开启和设置语音控制",
+    "用语音指令发送消息",
+    "用语音拨打电话",
+    "语音搜索聊天记录",
+    "免提管理聊天",
+    "使用技巧和最佳实践"
+  ]
+}

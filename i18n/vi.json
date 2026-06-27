@@ -1,0 +1,219 @@
+{
+  "meta": {
+    "title": "FoneClaw — trợ lý AI Android điều khiển bằng giọng nói",
+    "description": "FoneClaw trợ lý AI Android, điều khiển điện thoại bằng giọng nói hơn 120 thao tác: tin nhắn, cài đặt, ảnh chụp, điều hướng, tác vụ web."
+  },
+  "nav": {
+    "home": "Trang chủ",
+    "features": "Tính năng",
+    "download": "Tải xuống",
+    "resources": "Tài nguyên",
+    "community": "Cộng đồng"
+  },
+  "hero": {
+    "title": "Nói một câu, điện thoại làm xong",
+    "subtitle": "Hơn 120 thao tác điện thoại chỉ bằng một lệnh thoại. Các tính năng cốt lõi hiện miễn phí. FoneClaw là trợ lý AI cho Android có thể thực sự thao tác trên điện thoại, không chỉ trả lời câu hỏi.",
+    "see_features": "Xem tính năng →"
+  },
+  "footer": {
+    "description": "FoneClaw là AI agent thực sự điều khiển Android — không chỉ trả lời câu hỏi.",
+    "product": "Sản phẩm",
+    "topics": "Chủ đề",
+    "company": "Công ty",
+    "privacy": "Chính sách riêng tư",
+    "rights": "Bảo lưu mọi quyền.",
+    "cookie": "Chinh sach Cookie"
+  },
+  "cta": {
+    "download_apk": "Tải FoneClaw cho Android",
+    "checking": "Tính năng cốt lõi miễn phí. Không cần thẻ tín dụng.",
+    "coming_soon": "APK sắp ra mắt",
+    "unavailable": "APK tạm thời chưa khả dụng",
+    "download_copy": "Tải miễn phí bản Android mới nhất",
+    "article_title": "120+ thao tác, có thể thử miễn phí",
+    "article_copy": "Tải FoneClaw và thử các thao tác Android được hỗ trợ bằng giọng nói.",
+    "article_bottom_title": "120+ thao tác, có thể thử miễn phí",
+    "article_bottom_copy": "Tải FoneClaw và thử các thao tác Android được hỗ trợ bằng giọng nói."
+  },
+  "home": {
+    "three_things_title": "Ba việc điện thoại nên làm thay bạn",
+    "three_things_subtitle": "FoneClaw xử lý các thao tác Android hằng ngày vốn tốn thời gian và nhiều lần chạm.",
+    "daily_brief": "Tóm tắt trong ngày",
+    "daily_brief_desc": "Tóm tắt SMS, thông báo và thông tin hệ thống theo người liên hệ hoặc thời điểm để bạn thấy việc quan trọng mà không phải mở từng ứng dụng.",
+    "phone_health": "Tình trạng điện thoại",
+    "phone_health_desc": "Kiểm tra pin, bộ nhớ, mạng và quyền nhạy cảm bằng một báo cáo giọng nói, thay vì lục sâu trong cài đặt Android.",
+    "passive_triggers": "Kích hoạt theo ngữ cảnh",
+    "passive_triggers_desc": "Khi bạn chụp màn hình hoặc ảnh trong bất kỳ ứng dụng nào, FoneClaw có thể nhận biết và đề xuất tóm tắt mà không cần đổi ngữ cảnh.",
+    "feature_categories": "nhóm tính năng",
+    "supported_actions": "thao tác hỗ trợ",
+    "free": "tính năng cốt lõi",
+    "core_features": "tính năng cốt lõi",
+    "system_execution": "thực thi cấp hệ thống",
+    "deep_dives_title": "Phân tích chuyên sâu về FoneClaw",
+    "deep_dives_subtitle": "Các hướng dẫn mới nhất về điều khiển Android bằng giọng nói và trợ lý AI trên điện thoại.",
+    "cta_bottom_title": "120+ thao tác, có thể thử miễn phí",
+    "cta_bottom_subtitle": "Tải FoneClaw và thử các thao tác Android được hỗ trợ bằng giọng nói."
+  },
+  "features": {
+    "hero_eyebrow": "Trạng thái điện thoại",
+    "hero_title": "120+ thao tác điện thoại, một lệnh thoại.",
+    "hero_subtitle": "FoneClaw biến khả năng Android thành lệnh ngôn ngữ tự nhiên: kiểm tra thiết bị, tóm tắt tin nhắn, đổ",
+    "categories_title": "16 nhóm tính năng, hơn 120 thao tác",
+    "categories_subtitle": "Mỗi khả năng được sắp xếp theo việc bạn muốn làm trên điện thoại. Một số cần thiết lập, một số dùng được ngay.",
+    "categories": "nhóm tính năng",
+    "supported_actions": "thao tác hỗ trợ",
+    "commands_title": "Tám lệnh thể hiện sản phẩm",
+    "commands_subtitle": "Mỗi lệnh tạo ra kết quả nhìn thấy được: báo cáo, tóm tắt, đổi cài đặt, hiểu ảnh chụp, vị trí hoặc điều hướng.",
+    "explore_features": "Khám phá tính năng",
+    "trust_title": "Quyền, thiết lập và kiểm soát người dùng",
+    "trust_subtitle": "FoneClaw dùng quyền Android để thực hiện thao tác thật trên điện thoại. Niềm tin là một phần của trải nghiệm sản phẩm.",
+    "faq_title": "Câu hỏi thường gặp",
+    "faq_subtitle": "Câu hỏi thường gặp về tính năng FoneClaw.",
+    "mid_cta_title": "120+ thao tác, có thể thử miễn phí",
+    "mid_cta_subtitle": "Tải FoneClaw và thử các thao tác Android được hỗ trợ bằng giọng nói.",
+    "bottom_cta_title": "Sẵn sàng thử trợ lý điện thoại có thể hành động thật?",
+    "bottom_cta_subtitle": "Tải FoneClaw và thử hơn 120 thao tác được hỗ trợ, quyền minh bạch và các tác vụ hằng ngày trên Android."
+  },
+  "download": {
+    "title": "Tải FoneClaw APK cho Android",
+    "subtitle": "Tính năng cốt lõi miễn phí. Không cần thẻ tín dụng.",
+    "requirements_title": "Yêu cầu hệ thống",
+    "requirements_subtitle": "Hãy đảm bảo thiết bị của bạn đáp ứng các yêu cầu này.",
+    "apk_description": "Trợ lý AI cấp hệ thống cho Android 9+. Điều khiển giọng nói, tự động hóa liên ứng dụng và học bộ nhớ.",
+    "faq_title": "Câu hỏi thường gặp"
+  },
+  "resources": {
+    "title": "Tài nguyên FoneClaw",
+    "subtitle": "Hướng dẫn, so sánh và tài nguyên thực tế về điều khiển giọng nói Android và AI agent trên điện thoại.",
+    "featured_articles": "Bài viết nổi bật",
+    "browse_topics": "Duyệt theo chủ đề",
+    "articles_count": "120+",
+    "articles_label": "Bài viết",
+    "topics_count": "4",
+    "topics_label": "Chủ đề",
+    "hours_count": "40+",
+    "hours_label": "Giờ đọc",
+    "cta_title": "120+ thao tác, có thể thử miễn phí",
+    "cta_subtitle": "Tải FoneClaw và thử các thao tác Android được hỗ trợ bằng giọng nói.",
+    "get_foneclaw": "Tải FoneClaw cho Android"
+  },
+  "community": {
+    "title": "Tham gia cộng đồng FoneClaw",
+    "subtitle": "Kết nối với người dùng khác, nhận cập nhật sớm và góp phần định hình tương lai Android điều khiển bằng giọng nói."
+  },
+  "article": {
+    "summary_title": "Điểm chính",
+    "toc_title": "Mục lục",
+    "faq_title": "Câu hỏi thường gặp",
+    "related_articles": "Bài viết liên quan"
+  },
+  "articles": {
+    "read_more": "Đọc →",
+    "min_read": "phút"
+  },
+  "share": {
+    "share_on_x": "Chia sẻ lên X",
+    "share_on_telegram": "Chia sẻ lên Telegram",
+    "share_on_linkedin": "Chia sẻ lên LinkedIn",
+    "share_on_facebook": "Chia sẻ lên Facebook",
+    "share_on_reddit": "Chia sẻ lên Reddit",
+    "copy_link": "Sao chép liên kết"
+  },
+  "pages": {
+    "index": {
+      "title": "FoneClaw — trợ lý AI Android điều khiển bằng giọng nói",
+      "description": "FoneClaw trợ lý AI Android, điều khiển điện thoại bằng giọng nói hơn 120 thao tác: tin nhắn, cài đặt, ảnh chụp, điều hướng, tác vụ web."
+    },
+    "features": {
+      "title": "Tính năng FoneClaw — trợ lý AI cho Android",
+      "description": "Khám phá hơn 120 tính năng FoneClaw trong 16 nhóm cho Android: trạng thái máy, tin nhắn, cài đặt, ản"
+    },
+    "download": {
+      "title": "Tải FoneClaw APK cho Android",
+      "description": "Tải FoneClaw APK cho Android 9+. Kiểm tra phiên bản, yêu cầu cài đặt, quyền truy cập và lưu ý an toà"
+    },
+    "resources": {
+      "title": "Tài nguyên FoneClaw",
+      "description": "Hướng dẫn, so sánh và tài nguyên thực tế về điều khiển giọng nói Android và AI agent trên điện thoại."
+    },
+    "community": {
+      "title": "Cộng đồng FoneClaw — cập nhật và phản hồi",
+      "description": "Tham gia cộng đồng FoneClaw trên Telegram, Discord và X. Nhận cập nhật, chia sẻ phản hồi và kết nối với người dùng khác."
+    },
+    "privacy": {
+      "title": "Chính sách riêng tư - FoneClaw",
+      "description": "Chính sách riêng tư FoneClaw: cách chúng tôi thu thập, sử dụng và bảo vệ dữ liệu cá nhân của bạn."
+    },
+    "cookie": {
+      "title": "Chinh sach Cookie - FoneClaw",
+      "description": "Cach FoneClaw su dung cookie va cong nghe tuong tu tren trang web cua chung toi."
+    },
+    "not_found": {
+      "title": "Không tìm thấy trang",
+      "desc": "Trang bạn đang tìm không tồn tại hoặc đã được chuyển đi.",
+      "home": "Về trang chủ"
+    }
+  },
+  "community_buttons": {
+    "join": "Tham gia",
+    "follow": "Theo dõi",
+    "subscribe": "Đăng ký",
+    "email": "Email"
+  },
+  "privacy": {
+    "h1": "Chính sách bảo mật",
+    "desc": "Cach FoneClaw thu thap, su dung va bao ve du lieu ca nhan cua ban.",
+    "s1_title": "Thong tin chung toi thu thap",
+    "s1_body": "FoneClaw chi thu thap du lieu toi thieu can thiet de cung cap tu dong hoa dien thoai bang giong noi. Bao lenh giong noi duoc xu ly cuc bo tren thiet bi cua ban, mau su dung ung dung chi luu tren thiet bi de hoc so thich, va du lieu xu ly may dam tuy chon duoc ma hoa va xoa ngay sau khi su dung. Chung toi khong thu thap lich duyet web, danh ba hoac noi dung tin nhan.",
+    "s2_title": "Cach chung toi su dung thong tin cua ban",
+    "s2_body": "Chung toi su dung thong tin duoc thu thap chi de cung cap va cai thien dich vu FoneClaw. Lenh giong noi duoc xu ly de thuc hien hanh dong ban yeu cau. Mau su dung giup chung toi ca nhan hoa kinh nghiem cua ban. Chung toi khong bao gio ban du lieu cua ban cho ben thu ba hoac su dung cho muc dich quang cao.",
+    "s3_title": "Luu tru va Bao mat Du lieu",
+    "s3_body": "Du lieu cua ban duoc luu tru cuc bo tren thiet bi theo mac dinh. Khi xu ly may dam duoc bat cho tinh nang cu the, du lieu duoc ma hoa khi truyen va luu tru bang ma hoa AES-256 tieu chuan nganh. Du lieu may dam tu dong bi xoa trong vong 24 gio sau khi xu ly.",
+    "s4_title": "Dich vu Ben thu ba",
+    "s4_body": "FoneClaw tich hop voi dich vu ben thu ba (Google Maps, Spotify, v.v.) chi khi ban uy quyen ro rang. Moi tich hop tuan theo chinh sach bao mat cua dich vu tuong ung. Chung toi khong chia se du lieu cua ban giua cac dich vu ben thu ba.",
+    "s5_title": "Quyen cua ban",
+    "s5_body": "Ban co quyen truy cap, sua doi hoac xoa du lieu ca nhan bat cu luc nao. Ban co the xuat du lieu, tu choi xu ly may dam hoac xoa tai khoan hoan toan thong qua menu cai dat FoneClaw.",
+    "s6_title": "Quyen rieng tu cua Tre em",
+    "s6_body": "FoneClaw khong danh cho tre em duoi 13 tuoi. Chung toi khong co y thu thap thong tin ca nhan tu tre em. Neu ban tin rang tre em da cung cap du lieu ca nhan cho chung toi, vui long lien he ngay.",
+    "s7_title": "Thay doi Chinh sach nay",
+    "s7_body": "Chung toi co the cap nhat chinh sach bao mat nay dinh ky. Cac thay doi quan trong se duoc thong bao qua ung dung va trang web FoneClaw. Tiep tuc su dung sau thay doi dong nghia voi viec chap nhan chinh sach cap nhat.",
+    "s8_title": "Lien he chung toi",
+    "s8_body": "De hoi ve chinh sach bao mat, lien he privacy@foneclaw.ai. Chung toi tra loi tat ca cac yeu cau bao mat trong vong 48 gio."
+  },
+  "cookie": {
+    "h1": "Chính sách Cookie",
+    "desc": "Cach FoneClaw su dung cookie va cong nghe tuong tu tren trang web cua chung toi.",
+    "s1_title": "Cookie la gi",
+    "s1_body": "Cookie la cac tep van ban nho duoc luu tru tren thiet bi cua ban khi ban truy cap trang web cua chung toi. Chung giup chung toi cung cap trai nghiem duyet web tot hon bang cach ghi nho tuy chon cua ban va hieu cach ban su dung trang web.",
+    "s2_title": "Cac loai Cookie chung toi su dung",
+    "s2_body": "Chung toi su dung mot so loai cookie tren trang web: cookie thiet yeu cho chuc nang trang web, cookie phan tich de hieu hanh vi nguoi truy cap, va cookie tuy chon de ghi nho ngon ngu va cai dat hien thi cua ban.",
+    "s3_title": "Cookie thiet yeu",
+    "s3_body": "Nhung cookie nay can thiet de trang web hoat dong binh thuong. Chung cho phep cac chuc nang cot loi nhu dieu huong trang, truy cap khu vuc an toan va chon ngon ngu. Trang web khong the hoat dong dung neu khong co nhung cookie nay.",
+    "s4_title": "Cookie phan tich",
+    "s4_body": "Chung toi su dung Google Analytics de hieu cach nguoi truy cap tuong tac voi trang web. Nhung cookie nay thu thap thong tin nhu trang da truy cap, thoi gian tren trang web va nguon luu luong. Du lieu nay giup chung toi cai thien noi dung va trai nghiem nguoi dung. Du lieu Google Analytics duoc tong hop va an danh.",
+    "s5_title": "Cookie ben thu ba",
+    "s5_body": "Mot so cookie duoc dat boi dich vu ben thu ba xuat hien tren trang cua chung toi, nhu Google Analytics. Chung toi khong kiem soat nhung cookie nay. Vui long tham khao chinh sach rieng tu cua ben thu ba tuong ung de biet them thong tin.",
+    "s6_title": "Quan ly Cookie",
+    "s6_body": "Ban co the kiem soat va quan ly cookie thong qua cai dat trinh duyet. Hau het trinh duyet cho phep ban chan hoac xoa cookie. Tuy nhien, vo hieu hoa cookie thiet yeu co the anh huong den chuc nang trang web. Ban cung co the su dung banner dong y cookie de quan ly tuy chon.",
+    "s7_title": "Thoi gian luu tru Cookie",
+    "s7_body": "Cookie phien bi xoa khi ban dong trinh duyet. Cookie persisten con lai tren thiet bi cua ban trong thoi gian xac dinh hoac den khi ban xoa chung. Thoi gian luu tru toi da cua cookie phan tich la 26 thang.",
+    "s8_title": "Lien he chung toi",
+    "s8_body": "De hoi ve chinh sach cookie, lien he privacy@foneclaw.ai."
+  },
+  "author": {
+    "title": "Dean - Ky su Android Cap cao & Nguoi sang lap FoneClaw",
+    "desc": "Dean la ky su he thong Android cap cao va nguoi sang lap FoneClaw. Doc cac bai viet cua anh ve AI agents, dieu khien giong noi va tu dong hoa dien thoai.",
+    "role": "Ky su Android Cap cao & Nguoi sang lap FoneClaw",
+    "bio_short": "Xay dung tuong lai cua dien thoai Android dieu khien bang giong noi. Dam me AI agents, tu dong hoa dien thoai va cong nghe de tiep can.",
+    "stat_articles": "Bai viet da dang",
+    "stat_categories": "Danh muc noi dung",
+    "stat_experience": "Nam kinh nghiem",
+    "about_title": "Ve Dean",
+    "about_p1": "Dean la ky su he thong Android cap cao voi hon 10 nam kinh nghiem phat trien mobile. Anh co chuyen sau ve Android internals, lap trinh he thong va tu dong hoa dien thoai.",
+    "about_p2": "Sau nhieu nam lam viec voi cac du Android lon, Dean thanh lap FoneClaw de giai quyet mot van de co ban: tai sao ban khong the dieu khien dien thoai hoan toan bang giong noi? Tro ly giong noi truyen thong chi dat bao thuc va phat nhac, khong the dieu huong ung dung, dien form hoac lien ket nhieu buoc tac vu.",
+    "about_p3": "FoneClaw la ket qua cua tam nhin cua Dean ve mot AI agent that su tren Android - doc man hinh, hieu y dinh va tuong tac truc tiep voi dien thoai de hoan thanh tac vu. Khong can API, khong hop tac voi nha phat trien. Chi dieu khien giong noi thuan tren bat ky ung dung Android nao.",
+    "articles_title": "Bai viet cua Dean",
+    "article_label": "Bai viet",
+    "no_articles": "Chua co bai viet nao trong ngon ngu nay."
+  }
+}

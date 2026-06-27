@@ -1,0 +1,219 @@
+{
+  "meta": {
+    "title": "FoneClaw — Asisten AI Android | 120+ Aksi Suara",
+    "description": "FoneClaw adalah agen AI Android yang mengendalikan ponsel lewat suara. 120+ aksi dalam 16 kategori: pesan, pengaturan, tangkapan layar, dan navigasi."
+  },
+  "nav": {
+    "home": "Beranda",
+    "features": "Fitur",
+    "download": "Unduh",
+    "resources": "Sumber Daya",
+    "community": "Komunitas"
+  },
+  "hero": {
+    "title": "Katakan. Selesai.",
+    "subtitle": "120+ aksi ponsel cukup dengan satu perintah suara. Fitur inti gratis. FoneClaw adalah agen AI Android yang benar-benar mengendalikan ponsel Anda — bukan sekadar menjawab pertanyaan.",
+    "see_features": "Lihat Fitur →"
+  },
+  "footer": {
+    "description": "FoneClaw adalah agen AI yang benar-benar mengontrol ponsel Android Anda — bukan sekadar menjawab pertanyaan.",
+    "product": "Produk",
+    "topics": "Topik",
+    "company": "Perusahaan",
+    "privacy": "Kebijakan Privasi",
+    "rights": "Hak cipta dilindungi.",
+    "cookie": "Kebijakan Cookie"
+  },
+  "cta": {
+    "download_apk": "Unduh FoneClaw",
+    "checking": "Fitur inti gratis. Tidak perlu kartu kredit.",
+    "coming_soon": "APK segera hadir",
+    "unavailable": "APK sementara tidak tersedia",
+    "download_copy": "Unduh gratis. Dapatkan versi Android terbaru.",
+    "article_title": "120+ aksi, coba gratis",
+    "article_copy": "Unduh FoneClaw dan coba semua aksi Android yang didukung lewat suara.",
+    "article_bottom_title": "120+ aksi, coba gratis",
+    "article_bottom_copy": "Unduh FoneClaw dan coba semua aksi Android yang didukung lewat suara."
+  },
+  "home": {
+    "three_things_title": "Tiga hal yang seharusnya ponsel lakukan untuk Anda",
+    "three_things_subtitle": "FoneClaw menangani tugas ponsel sehari-hari yang memakan waktu dan membutuhkan banyak ketukan.",
+    "daily_brief": "Ringkasan Harian",
+    "daily_brief_desc": "Rangkum SMS, notifikasi, dan info sistem berdasarkan kontak dan waktu. Tahu yang penting tanpa membuka setiap aplikasi.",
+    "phone_health": "Kesehatan Ponsel",
+    "phone_health_desc": "Periksa baterai, penyimpanan, jaringan, dan risiko izin dalam satu laporan suara. Tidak perlu lagi menggali pengaturan Android.",
+    "passive_triggers": "Pemicu Pasif",
+    "passive_triggers_desc": "Ambil tangkapan layar atau foto di aplikasi mana pun, dan FoneClaw otomatis mendeteksi serta menawarkan ringkasan. Tidak perlu beralih konteks.",
+    "feature_categories": "kategori fitur",
+    "supported_actions": "aksi yang didukung",
+    "free": "fitur inti",
+    "core_features": "fitur inti",
+    "system_execution": "eksekusi tingkat sistem",
+    "deep_dives_title": "Analisis Mendalam FoneClaw",
+    "deep_dives_subtitle": "Panduan terbaru tentang pengendalian Android lewat suara dan asisten AI ponsel.",
+    "cta_bottom_title": "120+ aksi, coba gratis",
+    "cta_bottom_subtitle": "Unduh FoneClaw dan coba semua aksi Android yang didukung lewat suara."
+  },
+  "features": {
+    "hero_eyebrow": "Status ponsel",
+    "hero_title": "Apa yang bisa dilakukan FoneClaw",
+    "hero_subtitle": "FoneClaw mengubah kemampuan Android menjadi perintah bahasa alami: kesehatan perangkat, pesan, penga",
+    "categories_title": "16 kategori fitur, 120+ aksi",
+    "categories_subtitle": "Setiap kemampuan diatur berdasarkan hal yang ingin Anda lakukan di ponsel. Sebagian perlu pengaturan, sebagian langsung bisa dipakai.",
+    "categories": "kategori fitur",
+    "supported_actions": "aksi yang didukung",
+    "commands_title": "Delapan perintah yang menunjukkan produk",
+    "commands_subtitle": "Setiap perintah menghasilkan hasil yang terlihat: laporan, ringkasan, perubahan setelan, pemahaman tangkapan layar, lokasi, atau navigasi.",
+    "explore_features": "Jelajahi fitur",
+    "trust_title": "Izin, pengaturan, dan kontrol pengguna",
+    "trust_subtitle": "FoneClaw memakai izin Android untuk tindakan nyata di ponsel. Kepercayaan adalah bagian dari pengalaman produk.",
+    "faq_title": "Pertanyaan umum",
+    "faq_subtitle": "Pertanyaan umum tentang fitur FoneClaw.",
+    "mid_cta_title": "120+ aksi, coba gratis",
+    "mid_cta_subtitle": "Unduh FoneClaw dan coba semua aksi Android yang didukung lewat suara.",
+    "bottom_cta_title": "Siap mencoba asisten ponsel yang benar-benar bertindak?",
+    "bottom_cta_subtitle": "Unduh FoneClaw dan uji 120+ aksi yang didukung, izin transparan, dan tugas harian praktis di Android."
+  },
+  "download": {
+    "title": "Unduh FoneClaw APK — Asisten AI Android Gratis",
+    "subtitle": "Fitur inti gratis. Tidak perlu kartu kredit.",
+    "requirements_title": "Persyaratan sistem",
+    "requirements_subtitle": "Pastikan perangkat Anda memenuhi persyaratan ini.",
+    "apk_description": "Asisten AI tingkat sistem untuk Android 9+. Kontrol suara, otomatisasi lintas aplikasi, dan pembelajaran memori.",
+    "faq_title": "Pertanyaan umum"
+  },
+  "resources": {
+    "title": "Sumber Daya FoneClaw",
+    "subtitle": "Panduan, perbandingan, dan sumber daya praktis tentang kontrol suara Android dan agen AI ponsel.",
+    "featured_articles": "Artikel Pilihan",
+    "browse_topics": "Jelajahi berdasarkan Topik",
+    "articles_count": "120+",
+    "articles_label": "Artikel",
+    "topics_count": "4",
+    "topics_label": "Topik",
+    "hours_count": "40+",
+    "hours_label": "Jam membaca",
+    "cta_title": "120+ aksi, coba gratis",
+    "cta_subtitle": "Unduh FoneClaw dan coba semua aksi Android yang didukung lewat suara.",
+    "get_foneclaw": "Unduh FoneClaw"
+  },
+  "community": {
+    "title": "Bergabung dengan komunitas FoneClaw",
+    "subtitle": "Terhubung dengan pengguna lain, dapatkan pembaruan lebih awal, dan bantu membentuk masa depan Android yang dikendalikan suara."
+  },
+  "article": {
+    "summary_title": "Poin Utama",
+    "toc_title": "Daftar Isi",
+    "faq_title": "Pertanyaan umum",
+    "related_articles": "Artikel Terkait"
+  },
+  "articles": {
+    "read_more": "Baca →",
+    "min_read": "menit"
+  },
+  "share": {
+    "share_on_x": "Bagikan ke X",
+    "share_on_telegram": "Bagikan ke Telegram",
+    "share_on_linkedin": "Bagikan ke LinkedIn",
+    "share_on_facebook": "Bagikan ke Facebook",
+    "share_on_reddit": "Bagikan ke Reddit",
+    "copy_link": "Salin tautan"
+  },
+  "pages": {
+    "index": {
+      "title": "FoneClaw — Asisten AI Android | 120+ Aksi Suara",
+      "description": "FoneClaw adalah agen AI Android yang mengendalikan ponsel lewat suara. 120+ aksi dalam 16 kategori: pesan, pengaturan, tangkapan layar, dan navigasi."
+    },
+    "features": {
+      "title": "Fitur FoneClaw — Asisten AI Android dengan 120+ Aksi Suara",
+      "description": "Jelajahi 120+ fitur FoneClaw dalam 16 kategori: status ponsel, pesan, notifikasi, pengaturan, tangka"
+    },
+    "download": {
+      "title": "Unduh FoneClaw APK — Asisten AI Android Gratis",
+      "description": "Unduh APK FoneClaw untuk Android 9+. 120+ aksi ponsel lewat suara, izin transparan, konfirmasi sebel"
+    },
+    "resources": {
+      "title": "Sumber Daya FoneClaw",
+      "description": "Panduan, perbandingan, dan sumber daya praktis tentang kontrol suara Android dan agen AI ponsel."
+    },
+    "community": {
+      "title": "Komunitas FoneClaw — pembaruan dan umpan balik",
+      "description": "Bergabunglah dengan komunitas FoneClaw di Telegram, Discord, dan X. Dapatkan pembaruan, bagikan umpan balik, dan terhubung dengan pengguna lain."
+    },
+    "privacy": {
+      "title": "Kebijakan Privasi - FoneClaw",
+      "description": "Kebijakan privasi FoneClaw: bagaimana kami mengumpulkan, menggunakan, dan melindungi data pribadi Anda."
+    },
+    "cookie": {
+      "title": "Kebijakan Cookie - FoneClaw",
+      "description": "Bagaimana FoneClaw menggunakan cookie dan teknologi serupa di situs web kami."
+    },
+    "not_found": {
+      "title": "Halaman tidak ditemukan",
+      "desc": "Halaman yang Anda cari tidak ada atau telah dipindahkan.",
+      "home": "Kembali ke beranda"
+    }
+  },
+  "community_buttons": {
+    "join": "Gabung",
+    "follow": "Ikuti",
+    "subscribe": "Berlangganan",
+    "email": "Email"
+  },
+  "privacy": {
+    "h1": "Kebijakan Privasi",
+    "desc": "Bagaimana FoneClaw mengumpulkan, menggunakan, dan melindungi data pribadi Anda.",
+    "s1_title": "Informasi yang Kami Kumpulkan",
+    "s1_body": "FoneClaw hanya mengumpulkan data minimum yang diperlukan untuk menyediakan otomatisasi ponsel melalui suara. Ini termasuk perintah suara yang diproses secara lokal di perangkat Anda, pola penggunaan aplikasi yang disimpan hanya di perangkat Anda untuk mempelajari preferensi, dan data pemrosesan cloud opsional yang dienkripsi dan dihapus segera setelah digunakan. Kami tidak mengumpulkan riwayat penjelajahan, konten kontak, atau isi pesan.",
+    "s2_title": "Bagaimana Kami Menggunakan Informasi Anda",
+    "s2_body": "Kami menggunakan informasi yang dikumpulkan semata-mata untuk menyediakan dan meningkatkan layanan FoneClaw. Perintah suara diproses untuk mengeksekusi tindakan yang Anda minta. Pola penggunaan membantu kami mempersonalisasi pengalaman Anda. Kami tidak pernah menjual data Anda kepada pihak ketiga atau menggunakannya untuk tujuan periklanan.",
+    "s3_title": "Penyimpanan dan Keamanan Data",
+    "s3_body": "Data Anda disimpan secara lokal di perangkat Anda secara default. Ketika pemrosesan cloud diaktifkan untuk fitur tertentu, data dienkripsi dalam transit dan saat disimpan menggunakan enkripsi AES-256 standar industri. Data cloud secara otomatis dihapus dalam waktu 24 jam setelah pemrosesan.",
+    "s4_title": "Layanan Pihak Ketiga",
+    "s4_body": "FoneClaw terintegrasi dengan layanan pihak ketiga (Google Maps, Spotify, dll.) hanya ketika Anda secara eksplisit mengotorisasi mereka. Setiap integrasi mengikuti kebijakan privasi layanan terkait. Kami tidak membagikan data Anda antar layanan pihak ketiga.",
+    "s5_title": "Hak Anda",
+    "s5_body": "Anda memiliki hak untuk mengakses, mengubah, atau menghapus data pribadi Anda kapan saja. Anda dapat mengekspor data Anda, memilih keluar dari pemrosesan cloud, atau menghapus akun Anda sepenuhnya melalui menu pengaturan FoneClaw.",
+    "s6_title": "Privasi Anak",
+    "s6_body": "FoneClaw tidak ditujukan untuk anak di bawah 13 tahun. Kami tidak sengaja mengumpulkan informasi pribadi dari anak-anak. Jika Anda yakin seorang anak telah memberikan data pribadi kepada kami, silakan hubungi kami segera.",
+    "s7_title": "Perubahan Kebijakan Ini",
+    "s7_body": "Kami dapat memperbarui kebijakan privasi ini secara berkala. Perubahan signifikan akan dikomunikasikan melalui aplikasi dan situs web FoneClaw. Penggunaan berkelanjutan setelah perubahan merupakan penerimaan terhadap kebijakan yang diperbarui.",
+    "s8_title": "Hubungi Kami",
+    "s8_body": "Untuk pertanyaan atau kekhawatiran terkait privasi, hubungi kami di privacy@foneclaw.ai. Kami menanggapi semua pertanyaan privasi dalam waktu 48 jam."
+  },
+  "cookie": {
+    "h1": "Kebijakan Cookie",
+    "desc": "Bagaimana FoneClaw menggunakan cookie dan teknologi serupa di situs web kami.",
+    "s1_title": "Apa itu Cookie",
+    "s1_body": "Cookie adalah file teks kecil yang disimpan di perangkat Anda saat mengunjungi situs web kami. Cookie membantu kami memberikan pengalaman browsing yang lebih baik dengan mengingat preferensi Anda dan memahami cara Anda menggunakan situs kami.",
+    "s2_title": "Jenis Cookie yang Kami Gunakan",
+    "s2_body": "Kami menggunakan beberapa jenis cookie di situs web: cookie penting untuk fungsionalitas situs, cookie analitik untuk memahami perilaku pengunjung, dan cookie preferensi untuk mengingat bahasa dan pengaturan tampilan Anda.",
+    "s3_title": "Cookie Penting",
+    "s3_body": "Cookie ini diperlukan agar situs web berfungsi dengan baik. Cookie ini memungkinkan fungsi inti seperti navigasi halaman, akses area aman, dan pemilihan bahasa. Situs web tidak dapat berfungsi dengan baik tanpa cookie ini.",
+    "s4_title": "Cookie Analitik",
+    "s4_body": "Kami menggunakan Google Analytics untuk memahami bagaimana pengunjung berinteraksi dengan situs web kami. Cookie ini mengumpulkan informasi seperti halaman yang dikunjungi, waktu yang dihabiskan di situs, dan sumber lalu lintas. Data ini membantu kami meningkatkan konten dan pengalaman pengguna. Data Google Analytics bersifat agregat dan anonim.",
+    "s5_title": "Cookie Pihak Ketiga",
+    "s5_body": "Beberapa cookie ditempatkan oleh layanan pihak ketiga yang muncul di halaman kami, seperti Google Analytics. Kami tidak mengontrol cookie ini. Silakan merujuk ke kebijakan privasi pihak ketiga terkait untuk informasi lebih lanjut tentang praktik cookie mereka.",
+    "s6_title": "Mengelola Cookie",
+    "s6_body": "Anda dapat mengontrol dan mengelola cookie melalui pengaturan browser Anda. Sebagian besar browser memungkinkan Anda memblokir atau menghapus cookie. Namun, menonaktifkan cookie penting dapat mempengaruhi fungsionalitas situs web. Anda juga dapat menggunakan banner persetujuan cookie kami untuk mengelola preferensi Anda.",
+    "s7_title": "Retensi Cookie",
+    "s7_body": "Cookie sesi dihapus saat Anda menutup browser. Cookie persisten tetap di perangkat Anda untuk jangka waktu tertentu atau hingga Anda menghapusnya. Maksimal retensi cookie analitik kami adalah 26 bulan.",
+    "s8_title": "Hubungi Kami",
+    "s8_body": "Untuk pertanyaan tentang kebijakan cookie kami, hubungi kami di privacy@foneclaw.ai."
+  },
+  "author": {
+    "title": "Dean - Insinyur Android Senior & Pendiri FoneClaw",
+    "desc": "Dean adalah insinyur sistem Android senior dan pendiri FoneClaw. Baca artikelnya tentang AI agent, kontrol suara, dan otomasi ponsel.",
+    "role": "Insinyur Android Senior & Pendiri FoneClaw",
+    "bio_short": "Membangun masa depan ponsel Android yang dikendalikan suara. Bersemangat tentang AI agent, otomasi ponsel, dan membuat teknologi dapat diakses semua orang.",
+    "stat_articles": "Artikel Diterbitkan",
+    "stat_categories": "Kategori Konten",
+    "stat_experience": "Tahun Pengalaman",
+    "about_title": "Tentang Dean",
+    "about_p1": "Dean adalah insinyur sistem Android senior dengan pengalaman lebih dari 10 tahun dalam pengembangan mobile. Dia memiliki keahlian mendalam di Android internal, pemrograman sistem, dan otomasi ponsel.",
+    "about_p2": "Setelah bertahun-tahun bekerja di proyek Android besar, Dean mendirikan FoneClaw untuk memecahkan masalah mendasar: mengapa Anda tidak bisa mengendalikan ponsel sepenuhnya dengan suara? Asisten suara tradisional hanya bisa mengatur alarm dan memutar musik, tetapi tidak bisa menavigasi aplikasi, mengisi formulir, atau menghubungkan tugas multi-langkah.",
+    "about_p3": "FoneClaw adalah hasil visi Dean tentang AI agent sejati di Android — yang membaca layar, memahami niat, dan berinteraksi fisik dengan ponsel untuk menyelesaikan tugas. Tanpa API, tanpa kemitraan pengembang. Hanya kontrol suara murni atas aplikasi Android apa pun.",
+    "articles_title": "Artikel oleh Dean",
+    "article_label": "Artikel",
+    "no_articles": "Belum ada artikel dalam bahasa ini."
+  }
+}

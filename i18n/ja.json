@@ -1,0 +1,219 @@
+{
+  "meta": {
+    "title": "FoneClaw - Android AIスマホアシスタント｜120以上の音声操作",
+    "description": "FoneClawは、声でAndroidスマートフォンを実際に操作するAIアシスタントです。端末状態、通知整理、設定変更、スクリーンショット理解、地図ナビ、Webタスクなど16カテゴリ・120以上の操作に対応し、主要機能は現在無料で使えます。"
+  },
+  "nav": {
+    "home": "ホーム",
+    "features": "機能",
+    "download": "ダウンロード",
+    "resources": "リソース",
+    "community": "コミュニティ"
+  },
+  "hero": {
+    "title": "言えば、完了。",
+    "subtitle": "ひと声で、120以上のスマホ操作を実行。主要機能は無料で使えます。FoneClawは、質問に答えるだけでなく、Androidスマートフォンを実際に操作するAIアシスタントです。",
+    "see_features": "機能を見る →"
+  },
+  "footer": {
+    "description": "FoneClawは音声でAndroidスマートフォンを実際に操作するAIアシスタントです。",
+    "product": "製品",
+    "topics": "トピック",
+    "company": "会社",
+    "privacy": "プライバシーポリシー",
+    "rights": "全著作権所有。",
+    "cookie": "Cookieポリシー"
+  },
+  "cta": {
+    "download_apk": "FoneClawをダウンロード",
+    "checking": "主要機能は無料。クレジットカードは不要です。",
+    "coming_soon": "APK はまもなく公開予定",
+    "unavailable": "APK は一時的に利用できません",
+    "download_copy": "無料でダウンロード。最新のAndroid版を入手できます。",
+    "article_title": "120以上の操作を、主要機能無料で試せます。",
+    "article_copy": "FoneClawをダウンロードして、対応済みのAndroid操作を音声で試してみてください。",
+    "article_bottom_title": "120以上の操作を、主要機能無料で試せます。",
+    "article_bottom_copy": "FoneClawをダウンロードして、対応済みのAndroid操作を音声で試してみてください。"
+  },
+  "home": {
+    "three_things_title": "スマホに任せたい、毎日の3つのこと",
+    "three_things_subtitle": "FoneClawは、通知確認や設定変更など、毎日少しずつ時間を奪うスマホ操作を代わりに進めます。",
+    "daily_brief": "デイリーブリーフ",
+    "daily_brief_desc": "SMS、通知、システム情報を連絡先や時間で整理。いくつものアプリを開かなくても、重要なことだけを確認できます。",
+    "phone_health": "スマホの状態チェック",
+    "phone_health_desc": "バッテリー、ストレージ、ネットワーク、権限リスクを音声レポートで確認。Android設定を深く探す必要はありません。",
+    "passive_triggers": "パッシブトリガー",
+    "passive_triggers_desc": "どのアプリでスクリーンショットや写真を撮っても、FoneClawが検知して要約を提案。作業の流れを止めません。",
+    "feature_categories": "機能カテゴリ",
+    "supported_actions": "対応操作",
+    "free": "主要機能",
+    "core_features": "主要機能",
+    "system_execution": "システムレベル実行",
+    "deep_dives_title": "FoneClawをもっと知る",
+    "deep_dives_subtitle": "Android音声操作、スマホAIアシスタント、競合比較を日本語で整理しました。",
+    "cta_bottom_title": "120以上の操作を、主要機能無料で試せます。",
+    "cta_bottom_subtitle": "FoneClawをダウンロードして、対応済みのAndroid操作を音声で試してみてください。"
+  },
+  "features": {
+    "hero_eyebrow": "スマホの状態",
+    "hero_title": "ひと声で、120以上のスマホ操作。",
+    "hero_subtitle": "FoneClawは、端末状態の確認、通知整理、設定変更、スクリーンショット理解、ナビなどのAndroid操作を自然な言葉で実行できます。",
+    "categories_title": "16カテゴリ、120以上の操作",
+    "categories_subtitle": "スマホでやりたいことに合わせて機能を整理しています。設定が必要な機能も、すぐ使える機能もあります。",
+    "categories": "機能カテゴリ",
+    "supported_actions": "対応操作",
+    "commands_title": "製品が伝わる8つのコマンド",
+    "commands_subtitle": "各コマンドは、状態レポート、要約、設定変更、スクリーンショット理解、位置確認、ナビなど目に見える結果につながります。",
+    "explore_features": "機能を見る",
+    "trust_title": "権限、設定、ユーザーの確認",
+    "trust_subtitle": "FoneClawは実際のスマホ操作にAndroid権限を使います。信頼性は製品体験の一部です。",
+    "faq_title": "よくある質問",
+    "faq_subtitle": "FoneClawの機能に関するよくある質問。",
+    "mid_cta_title": "120以上の操作を、主要機能無料で試せます。",
+    "mid_cta_subtitle": "FoneClawをダウンロードして、対応済みのAndroid操作を音声で試してみてください。",
+    "bottom_cta_title": "実際に操作できるスマホアシスタントを試してみませんか？",
+    "bottom_cta_subtitle": "FoneClawをダウンロードして、Androidで120以上の対応操作、透明な権限、毎日の実用タスクを試せます。"
+  },
+  "download": {
+    "title": "FoneClawをダウンロード - Android AI音声アシスタント",
+    "subtitle": "主要機能は無料。クレジットカードは不要です。",
+    "requirements_title": "システム要件",
+    "requirements_subtitle": "お使いの端末が以下の要件を満たしているか確認してください。",
+    "apk_description": "Android 9以降向けのシステムレベルAIアシスタント。音声操作、アプリ横断自動化、記憶学習に対応。",
+    "faq_title": "よくある質問"
+  },
+  "resources": {
+    "title": "FoneClaw リソース",
+    "subtitle": "Android音声操作、スマホAIアシスタント、比較記事をまとめた実用ガイド集です。",
+    "featured_articles": "注目の記事",
+    "browse_topics": "トピックから探す",
+    "articles_count": "120+",
+    "articles_label": "記事",
+    "topics_count": "4",
+    "topics_label": "トピック",
+    "hours_count": "40+",
+    "hours_label": "時間の読み物",
+    "cta_title": "120以上の操作を、主要機能無料で試せます。",
+    "cta_subtitle": "FoneClawをダウンロードして、対応済みのAndroid操作を音声で試してみてください。",
+    "get_foneclaw": "FoneClawをダウンロード"
+  },
+  "community": {
+    "title": "FoneClawコミュニティに参加",
+    "subtitle": "ほかのユーザーとつながり、最新情報を受け取り、音声操作Androidの未来づくりに参加しましょう。"
+  },
+  "article": {
+    "summary_title": "要点",
+    "toc_title": "目次",
+    "faq_title": "よくある質問",
+    "related_articles": "関連記事"
+  },
+  "articles": {
+    "read_more": "続きを読む →",
+    "min_read": "分"
+  },
+  "share": {
+    "share_on_x": "Xで共有",
+    "share_on_telegram": "Telegramで共有",
+    "share_on_linkedin": "LinkedInで共有",
+    "share_on_facebook": "Facebookで共有",
+    "share_on_reddit": "Redditで共有",
+    "copy_link": "リンクをコピー"
+  },
+  "pages": {
+    "index": {
+      "title": "FoneClaw - Android AIスマホアシスタント｜120以上の音声操作",
+      "description": "FoneClawは、声でAndroidスマートフォンを実際に操作するAIアシスタントです。端末状態、通知整理、設定変更、スクリーンショット理解、地図ナビ、Webタスクなど16カテゴリ・120以上の操作に対応し、主要機能は現在無料で使えます。"
+    },
+    "features": {
+      "title": "FoneClawの機能 - Android AIスマホアシスタント",
+      "description": "FoneClawの16カテゴリ・120以上のAndroid操作を紹介。端末状態、通知とSMS要約、設定変更、スクリーンショット、メール、カレンダー、地図、Webタスクまで、必要な権限と確認手順も整理しています。"
+    },
+    "download": {
+      "title": "FoneClawをダウンロード - Android AI音声アシスタント",
+      "description": "FoneClaw APKをダウンロードして、Androidスマートフォンを実際に操作するAIアシスタントを試せます。音声操作、設定変更、通知整理、スクリーンショット理解、地図ナビ、日常の自動化など主要"
+    },
+    "resources": {
+      "title": "FoneClaw リソース",
+      "description": "Android音声操作、スマホAIアシスタント、比較記事をまとめた実用ガイド集です。"
+    },
+    "community": {
+      "title": "FoneClaw コミュニティ - ユーザーとつながる",
+      "description": "FoneClawコミュニティに参加：Telegram、Discord、X。最新情報を受け取り、フィードバックを共有し、他のユーザーと交流。"
+    },
+    "privacy": {
+      "title": "プライバシーポリシー - FoneClaw",
+      "description": "FoneClawのプライバシーポリシー：個人データの収集、使用、保護について。"
+    },
+    "cookie": {
+      "title": "Cookieポリシー - FoneClaw",
+      "description": "FoneClawがウェブサイトでCookieと同様の技術を使用する方法。"
+    },
+    "not_found": {
+      "title": "ページが見つかりません",
+      "desc": "お探しのページは存在しないか、別の場所に移動されました。",
+      "home": "ホームへ戻る"
+    }
+  },
+  "community_buttons": {
+    "join": "参加",
+    "follow": "フォロー",
+    "subscribe": "登録",
+    "email": "メール"
+  },
+  "privacy": {
+    "h1": "プライバシーポリシー",
+    "desc": "FoneClawが個人データを収集、使用、保護する方法。",
+    "s1_title": "収集する情報",
+    "s1_body": "FoneClawは音声制御スマートフォン自動化に必要な最小限のデータのみを収集します。デバイス上でローカル処理される音声コマンド、学習用にデバイス上にのみ保存されるアプリ使用パターン、およびオプションのクラウド処理データ（暗号化後に即時削除）が含まれます。閲覧履歴、連絡先、メッセージ内容は収集しません。",
+    "s2_title": "情報の利用方法",
+    "s2_body": "収集した情報はFoneClawサービスの提供と改善にのみ使用します。音声コマンドはリクエストされたアクションの実行に使用されます。使用パターンは体験のパーソナライズに役立ちます。データを第三者に販売したり、広告目的で使用したりすることはありません。",
+    "s3_title": "データの保存とセキュリティ",
+    "s3_body": "データはデフォルトでデバイス上にローカル保存されます。特定の機能でクラウド処理が有効な場合、データは業界標準のAES-256暗号化により転送時と保存時に暗号化されます。クラウドデータは処理後24時間以内に自動削除されます。",
+    "s4_title": "サードパーティサービス",
+    "s4_body": "FoneClawはユーザーが明示的に認証した場合のみ、サードパーティサービス（Google Maps、Spotifyなど）と連携します。各連携はそれぞれのサービスのプライバシーポリシーに従います。サードパーティサービス間でデータを共有することはありません。",
+    "s5_title": "お客様の権利",
+    "s5_body": "いつでも個人データにアクセス、修正、削除する権利があります。FoneClaw設定メニューからデータのエクスポート、クラウド処理のオプトアウト、アカウントの完全削除が可能です。",
+    "s6_title": "児童のプライバシー",
+    "s6_body": "FoneClawは13歳未満の児童を対象としていません。児童から個人情報を意図的に収集することはありません。児童が個人データを提供したと思われる場合は、直ちにご連絡ください。",
+    "s7_title": "ポリシーの変更",
+    "s7_body": "本プライバシーポリシーは定期的に更新される場合があります。重要な変更はFoneClawアプリおよびウェブサイトでお知らせします。変更後も継続利用することで更新後のポリシーに同意したものとみなされます。",
+    "s8_title": "お問い合わせ",
+    "s8_body": "プライバシーに関するご質問やご懸念は、privacy@foneclaw.aiまでご連絡ください。すべてのプライバシーお問い合わせに48時間以内に回答します。"
+  },
+  "cookie": {
+    "h1": "Cookieポリシー",
+    "desc": "FoneClawがウェブサイトでCookieと同様の技術を使用する方法。",
+    "s1_title": "Cookieとは",
+    "s1_body": "Cookieは、ウェブサイトを訪問した際にデバイスに保存される小さなテキストファイルです。ユーザーの設定を記憶し、サイトの利用方法を理解することで、より良いブラウジング体験の提供に役立ちます。",
+    "s2_title": "使用するCookieの種類",
+    "s2_body": "当社のウェブサイトでは、サイト機能に必要な必須Cookie、訪問者の行動を理解するための分析Cookie、言語と表示設定を記憶する設定Cookieを使用しています。",
+    "s3_title": "必須Cookie",
+    "s3_body": "これらのCookieはウェブサイトが正常に機能するために必要です。ページナビゲーション、安全なエリアへのアクセス、言語選択などのコア機能を有効にします。これらのCookieなしではウェブサイトは正常に機能しません。",
+    "s4_title": "分析Cookie",
+    "s4_body": "Google Analyticsを使用して、訪問者がウェブサイトとどのように相互作用するかを理解しています。これらのCookieは、訪問したページ、サイトでの滞在時間、トラフィックソースなどの情報を収集します。このデータはコンテンツとユーザー体験の向上に役立ちます。Google Analyticsデータは集計され匿名化されています。",
+    "s5_title": "サードパーティCookie",
+    "s5_body": "一部のCookieは、Google Analyticsなどのページ上に表示されるサードパーティサービスによって配置されます。これらのCookieは管理していません。Cookieの実践に関する詳細は、各サードパーティのプライバシーポリシーを参照してください。",
+    "s6_title": "Cookieの管理",
+    "s6_body": "ブラウザの設定を通じてCookieを制御および管理できます。ほとんどのブラウザでは、Cookieをブロックまたは削除できます。ただし、必須Cookieを無効にするとウェブサイトの機能に影響する場合があります。Cookie同意バナーを使用して設定を管理することもできます。",
+    "s7_title": "Cookieの保持期間",
+    "s7_body": "セッションCookieはブラウザを閉じると削除されます。永続Cookieはデバイスに一定期間または削除するまで残ります。分析Cookieの最大保持期間は26か月です。",
+    "s8_title": "お問い合わせ",
+    "s8_body": "Cookieポリシーに関するご質問は、privacy@foneclaw.aiまでお問い合わせください。"
+  },
+  "author": {
+    "title": "Dean - シニア Android エンジニア & FoneClaw 創業者",
+    "desc": "Deanはシニア Androidシステムエンジニア、FoneClaw創業者です。AIエージェント、音声制御、スマホ自動化についての記事をお読みください。",
+    "role": "シニア Android エンジニア & FoneClaw 創業者",
+    "bio_short": "音声制御Androidスマホの未来を構築。AIエージェント、モバイル自動化、技術の普及に注力。",
+    "stat_articles": "件の記事投稿",
+    "stat_categories": "コンテンツカテゴリ",
+    "stat_experience": "年以上の経験",
+    "about_title": "Deanについて",
+    "about_p1": "Deanは10年以上のモバイル開発経験を持つシニアAndroidシステムエンジニアです。Android内部、システムレベルプログラミング、モバイル自動化に深い専門知識を持ちます。",
+    "about_p2": "大規模Androidプロジェクトへの参加経験をまとえ、Deanは核心問題を解決するためにFoneClawを設立しました：なぜスマホを完全に音声制御できないのでしょうか？従来の音声アシスタントはアラームや音楽再生だけで、アプリ操作、フォーム入力、複数のステップを繋ぐタスクはできません。",
+    "about_p3": "FoneClawは、Android上の真のAIエージェントというDeanの様想の結果です——画面を読み、意図を理解し、スマホを直接操作してタスクを完了します。API不要、開發者の連携不要。純粹な音声制御で任意のAndroidアプリを操作できます。",
+    "articles_title": "Deanの記事",
+    "article_label": "記事",
+    "no_articles": "この言語の記事はまだありません。"
+  }
+}

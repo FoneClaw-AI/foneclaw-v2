@@ -1,0 +1,223 @@
+{
+  "meta": {
+    "title": "FoneClaw - Android AI Phone Assistant | 120+ Voice Actions",
+    "description": "FoneClaw is the Android AI agent that controls your phone by voice. 120+ actions across 16 categories: device health, messages, settings, screenshots, navigation, and more."
+  },
+  "nav": {
+    "home": "Home",
+    "features": "Features",
+    "download": "Download",
+    "resources": "Resources",
+    "community": "Community",
+    "hub_voice_control": "Voice Control",
+    "hub_comparisons": "Comparisons",
+    "hub_ai_agent": "AI Agent",
+    "hub_news": "Industry News"
+  },
+  "hero": {
+    "title": "Say it. Done.",
+    "subtitle": "120+ phone actions, one voice command. Free to use. FoneClaw is the Android AI agent that actually controls your phone — not just answers questions.",
+    "see_features": "See Features →"
+  },
+  "footer": {
+    "description": "FoneClaw is the Android AI agent that actually controls your phone — not just answers questions.",
+    "product": "Product",
+    "topics": "Topics",
+    "company": "Company",
+    "privacy": "Privacy Policy",
+    "rights": "All rights reserved.",
+    "cookie": "Cookie Policy"
+  },
+  "cta": {
+    "download_apk": "Download FoneClaw",
+    "checking": "Free for core features. No credit card required.",
+    "coming_soon": "APK coming soon",
+    "unavailable": "APK temporarily unavailable",
+    "download_copy": "Download free. Get the latest Android build.",
+    "article_title": "120+ actions with free core features.",
+    "article_copy": "Download FoneClaw and test every supported Android action with voice.",
+    "article_bottom_title": "120+ actions with free core features.",
+    "article_bottom_copy": "Download FoneClaw and test every supported Android action with voice."
+  },
+  "home": {
+    "three_things_title": "Three things your phone should do for you",
+    "three_things_subtitle": "FoneClaw handles the everyday phone tasks that take too much of your time.",
+    "daily_brief": "Daily Brief",
+    "daily_brief_desc": "Summarize SMS, notifications, and system info by contact and time. Know what matters without scrolling through each app one by one.",
+    "phone_health": "Phone Health",
+    "phone_health_desc": "Check battery, storage, network, and permission risks in one voice report. No more digging through Android settings.",
+    "passive_triggers": "Passive Triggers",
+    "passive_triggers_desc": "Take a screenshot or photo in supported Android workflows, and FoneClaw can offer a summary when context is available. No context switch needed.",
+    "feature_categories": "feature categories",
+    "supported_actions": "supported actions",
+    "free": "for core features",
+    "core_features": "for core features",
+    "system_execution": "system-level execution",
+    "deep_dives_title": "Deep dives into FoneClaw",
+    "deep_dives_subtitle": "Explore our latest guides on voice-controlled Android.",
+    "cta_bottom_title": "120+ actions with free core features.",
+    "cta_bottom_subtitle": "Download FoneClaw and test every supported Android action with voice."
+  },
+  "features": {
+    "hero_eyebrow": "Phone status",
+    "hero_title": "120+ phone actions, one voice command.",
+    "hero_subtitle": "FoneClaw turns Android capabilities into natural-language commands: device health, messages, settings, screenshots, navigation, and more.",
+    "categories_title": "16 feature categories, 120+ actions",
+    "categories_subtitle": "Every capability is organized by what you want to do on your phone. Some features need setup; some work out of the box.",
+    "categories": "feature categories",
+    "supported_actions": "supported actions",
+    "commands_title": "Eight commands that show the product",
+    "commands_subtitle": "Each command maps to a visible phone result: health report, summary, setting change, screenshot understanding, location, or navigation.",
+    "explore_features": "Explore features",
+    "trust_title": "Permissions, setup, and user control",
+    "trust_subtitle": "FoneClaw uses Android permissions for real phone actions. Trust is part of the product experience.",
+    "faq_title": "Frequently asked questions",
+    "faq_subtitle": "Common questions about FoneClaw features.",
+    "mid_cta_title": "120+ actions with free core features.",
+    "mid_cta_subtitle": "Download FoneClaw and test every supported Android action with voice.",
+    "bottom_cta_title": "Ready to try a phone assistant that can actually act?",
+    "bottom_cta_subtitle": "Download FoneClaw and test 120+ supported phone actions, transparent permissions, and practical everyday tasks on Android."
+  },
+  "download": {
+    "title": "Download FoneClaw",
+    "subtitle": "Free for core features. No credit card required.",
+    "requirements_title": "System Requirements",
+    "requirements_subtitle": "Make sure your device meets these requirements.",
+    "apk_description": "System-level AI agent for Android 9+. Voice control, cross-app automation, memory learning.",
+    "faq_title": "Frequently Asked Questions"
+  },
+  "resources": {
+    "title": "FoneClaw Resources",
+    "subtitle": "Guides, comparisons, and practical resources for Android voice control and phone AI agents.",
+    "featured_articles": "Featured Articles",
+    "browse_topics": "Browse by Topic",
+    "articles_count": "120+",
+    "articles_label": "Articles",
+    "topics_count": "4",
+    "topics_label": "Topics",
+    "hours_count": "40+",
+    "hours_label": "Hours",
+    "cta_title": "120+ actions with free core features.",
+    "cta_subtitle": "Download FoneClaw and test every supported Android action with voice.",
+    "get_foneclaw": "Download FoneClaw"
+  },
+  "community": {
+    "title": "Community",
+    "subtitle": "Join the FoneClaw community on Telegram, Discord, X, and more. Get updates, share feedback, and connect with other users."
+  },
+  "article": {
+    "summary_title": "Key Takeaways",
+    "toc_title": "Table of Contents",
+    "faq_title": "Frequently asked questions",
+    "related_articles": "Related Articles"
+  },
+  "articles": {
+    "read_more": "Read →",
+    "min_read": "min read"
+  },
+  "share": {
+    "share_on_x": "Share on X",
+    "share_on_telegram": "Share on Telegram",
+    "share_on_linkedin": "Share on LinkedIn",
+    "share_on_facebook": "Share on Facebook",
+    "share_on_reddit": "Share on Reddit",
+    "copy_link": "Copy link"
+  },
+  "pages": {
+    "index": {
+      "title": "FoneClaw - Android AI Phone Assistant | 120+ Voice Actions",
+      "description": "FoneClaw is the Android AI agent that controls your phone by voice. 120+ actions across 16 categories: device health, messages, settings, screenshots, navigation, and more."
+    },
+    "features": {
+      "title": "FoneClaw Features - Android AI Phone Assistant",
+      "description": "Explore 120+ FoneClaw features across 16 categories: phone status, messages, system settings, screenshots, email, calendar, maps, and web tasks for Android. Free to use."
+    },
+    "download": {
+      "title": "Download FoneClaw - AI Voice Agent for Android",
+      "description": "Download FoneClaw, the AI voice agent for Android. Control your phone entirely by voice — calls, texts, apps, and smart home. Free core features."
+    },
+    "resources": {
+      "title": "FoneClaw Resources",
+      "description": "Guides, comparisons, and practical resources for Android voice control and phone AI agents."
+    },
+    "community": {
+      "title": "FoneClaw Community - Join the Community",
+      "description": "Join the FoneClaw community on Telegram, Discord, and X. Get updates, share feedback, and connect with other users."
+    },
+    "privacy": {
+      "title": "Privacy Policy - FoneClaw",
+      "description": "FoneClaw privacy policy: how we collect, use, and protect your personal data."
+    },
+    "cookie": {
+      "title": "Cookie Policy - FoneClaw",
+      "description": "How FoneClaw uses cookies and similar technologies on our website."
+    },
+    "not_found": {
+      "title": "Page Not Found",
+      "desc": "The page you're looking for doesn't exist or has been moved.",
+      "home": "Go Home"
+    }
+  },
+  "community_buttons": {
+    "join": "Join",
+    "follow": "Follow",
+    "subscribe": "Subscribe",
+    "email": "Email"
+  },
+  "privacy": {
+    "h1": "Privacy Policy",
+    "desc": "How FoneClaw collects, uses, and protects your personal data.",
+    "s1_title": "Information We Collect",
+    "s1_body": "FoneClaw collects minimal data necessary to provide voice-controlled phone automation. This includes voice commands processed locally on your device, app usage patterns stored only on your device for learning preferences, and optional cloud processing data that is encrypted and deleted immediately after use. We do not collect browsing history, contacts, or message content.",
+    "s2_title": "How We Use Your Information",
+    "s2_body": "We use collected information solely to provide and improve FoneClaw services. Voice commands are processed to execute your requested actions. Usage patterns help us personalize your experience. We never sell your data to third parties or use it for advertising purposes.",
+    "s3_title": "Data Storage and Security",
+    "s3_body": "Your data is stored locally on your device by default. When cloud processing is enabled for specific features, data is encrypted in transit and at rest using industry-standard AES-256 encryption. Cloud data is automatically deleted within 24 hours of processing.",
+    "s4_title": "Third-Party Services",
+    "s4_body": "FoneClaw integrates with third-party services (Google Maps, Spotify, etc.) only when you explicitly authorize them. Each integration follows the respective service privacy policy. We do not share your data between third-party services.",
+    "s5_title": "Your Rights",
+    "s5_body": "You have the right to access, modify, or delete your personal data at any time. You can export your data, opt out of cloud processing, or delete your account entirely through the FoneClaw settings menu.",
+    "s6_title": "Children Privacy",
+    "s6_body": "FoneClaw is not intended for children under 13. We do not knowingly collect personal information from children. If you believe a child has provided us with personal data, please contact us immediately.",
+    "s7_title": "Changes to This Policy",
+    "s7_body": "We may update this privacy policy periodically. Significant changes will be communicated through the FoneClaw app and website. Continued use after changes constitutes acceptance of the updated policy.",
+    "s8_title": "Contact Us",
+    "s8_body": "For privacy-related questions or concerns, contact us at privacy@foneclaw.ai. We respond to all privacy inquiries within 48 hours."
+  },
+  "cookie": {
+    "h1": "Cookie Policy",
+    "desc": "How FoneClaw uses cookies and similar technologies on our website.",
+    "s1_title": "What Are Cookies",
+    "s1_body": "Cookies are small text files stored on your device when you visit our website. They help us provide you with a better browsing experience by remembering your preferences and understanding how you use our site.",
+    "s2_title": "Types of Cookies We Use",
+    "s2_body": "We use several types of cookies on our website: essential cookies for site functionality, analytics cookies to understand visitor behavior, and preference cookies to remember your language and display settings.",
+    "s3_title": "Essential Cookies",
+    "s3_body": "These cookies are necessary for the website to function properly. They enable core features like page navigation, secure area access, and language selection. The website cannot function properly without these cookies.",
+    "s4_title": "Analytics Cookies",
+    "s4_body": "We use Google Analytics to understand how visitors interact with our website. These cookies collect information such as pages visited, time spent on the site, and traffic sources. This data helps us improve our content and user experience. Google Analytics data is aggregated and anonymous.",
+    "s5_title": "Third-Party Cookies",
+    "s5_body": "Some cookies are placed by third-party services that appear on our pages, such as Google Analytics. We do not control these cookies. Please refer to the respective third-party privacy policies for more information about their cookie practices.",
+    "s6_title": "Managing Cookies",
+    "s6_body": "You can control and manage cookies through your browser settings. Most browsers allow you to block or delete cookies. However, disabling essential cookies may affect website functionality. You can also use our cookie consent banner to manage your preferences.",
+    "s7_title": "Cookie Retention",
+    "s7_body": "Session cookies are deleted when you close your browser. Persistent cookies remain on your device for a set period or until you delete them. Our analytics cookies have a maximum retention period of 26 months.",
+    "s8_title": "Contact Us",
+    "s8_body": "For questions about our cookie policy, contact us at privacy@foneclaw.ai."
+  },
+  "author": {
+    "title": "Dean - Senior Android Engineer & FoneClaw Founder",
+    "desc": "Dean is a senior Android systems engineer and founder of FoneClaw. Read his articles about AI agents, voice control, and mobile automation.",
+    "role": "Senior Android Engineer & FoneClaw Founder",
+    "bio_short": "Building the future of voice-controlled Android phones. Passionate about AI agents, mobile automation, and making technology accessible to everyone.",
+    "stat_articles": "Articles Published",
+    "stat_categories": "Content Categories",
+    "stat_experience": "Years Experience",
+    "about_title": "About Dean",
+    "about_p1": "Dean is a senior Android systems engineer with over 10 years of experience in mobile development. He has deep expertise in Android internals, system-level programming, and mobile automation.",
+    "about_p2": "After years of working with major Android projects, Dean founded FoneClaw to solve a fundamental problem: why can't you control your phone entirely by voice? Traditional voice assistants can set timers and play music, but they cannot navigate apps, fill forms, or chain multi-step tasks together.",
+    "about_p3": "FoneClaw is the result of Dean's vision for a true AI agent on Android — one that reads your screen, understands your intent, and physically interacts with your phone to get things done. No APIs required, no developer partnerships needed. Just pure voice control over any Android app.",
+    "articles_title": "Articles by Dean",
+    "article_label": "Article",
+    "no_articles": "No articles available in this language yet."
+  }
+}

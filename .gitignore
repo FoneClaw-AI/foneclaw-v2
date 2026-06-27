@@ -1,129 +1,54 @@
-# === GEO 公开仓库 .gitignore ===
+# FoneClaw V3 public repository hygiene
 
-# 生成的 HTML（由 build_multi.py 产出，不入 git）
+# Generated static site output
+output/
 *.html
+!docs/index.html
 
-# 构建缓存
-_build_cache.pkl
+# Runtime / dependency directories
+node_modules/
+.venv/
+.venv-*/
 __pycache__/
 *.pyc
+.pytest_cache/
+.cache/
 
-# 备份文件
+# Hermes / local agent state
+.hermes/
+
+# QA, release, deploy, and local logs
+logs/
+releases/
+qa-output/
+qa-reports/
+_build_cache/
+_qa_removed_articles/
+coverage/
+*.log
+
+# Local planning / internal working notes
+PLAN.md
+QA_CHECKLIST.md
+QA_LOG.md
+FONECLAW_V3_LAUNCH_SUMMARY_*.md
+
+# Temporary files
 *.bak*
-batch_backups/
-
-# 发布包目录
-foneclaw-deploy/
-
-# 临时文件
-__qa_*.html
-tmp_*.py
-tmp_*.json
-tmp_*.out
-
-# QA 报告和脚本（临时产物）
-*_strict_qa.py
-*_strict_qa_report.json
-*_codex_*_qa*.py
-*_codex_*_qa*.json
-*_mechanical_qa.py
-*_qa_check.py
-*_manual_*.json
-*_manual_*.out
-de_strict_qa_report.json
-ar_codex_strict_qa_report.json
-ar_codex_deep_qa2.json
-
-# 临时修复脚本
-fix_*.py
-make_*.py
-tmp_*.py
-
-# 文章批处理数据（大量 JSON，不影响 GEO）
-batch*_data.json
-article_keywords_data.py
-*_batch_*.py
-*_article_rewrites.py
-*_merge_articles.py
-*_extra_sections.py
-
-# 图片压缩和处理脚本
-compress_images.py
-image_manifest.json
-
-# SEO/分析工具
-seo_writing_spec.md
-*_analysis*.py
-*_report*.py
-*_check*.py
-
-# OS
+.tmp/
+tmp_*
+__qa_*
 .DS_Store
 Thumbs.db
-
-# 编辑器
 .vscode/
 .idea/
 *.swp
 *.swo
 
-# 上传临时目录
+# Large local-only archives / uploads
 upload_*/
+fonecLaw-deploy/
+foneclaw-deploy/
 
-# 原始素材
-*_raw.txt
-*_raw.py
-
-# 系统监控脚本（非产品内容）
-*.sh
-!scripts/*.sh
-
-# === P0: 内部目录（GEO 无价值，不公开） ===
-archive/
-bak_*/
-gemini_outputs/
-prompts/
-keyword/
-twitter/
-scripts/
-
-# === 内部文档（构建/部署/项目管理，非产品内容） ===
-CATEGORY_RULES.md
-PROJECT_SUMMARY.md
-TRAFFIC_GROWTH_PLAN.md
-ARTICLE_INDEX.md.deprecated
-ARTICLE_TODO.md
-DEPLOY.md
-KEYWORD_ANALYSIS.md
-LAUNCH_CHECKLIST.md
-SEO_CHECKLIST.md
-WEBSITE_RULES.md
-
-# === 内部构建脚本（根目录 .py 文件） ===
-# 生成器脚本
-gen_*.py
-batch*.py
-new_article*.py
-find_related_articles.py
-generate_seo*.py
-generate_seo_v2.py
-translate_zh_articles.py
-internal_links_data.py
-share_text_data.py
-rebuild_cache.py
-seo_full_check.py
-run_*.py
-build_v2.py
-standalone_articles_data.json
-
-# Google Apps Script
-gas-code.gs
-google-apps-script.js
-
-# Hub 页面草稿
-hub-*.md
-topic-cluster-plan.md
-
-# 文章翻译中间文件
-translations.json
-articles.json
+# Keep V3 source content tracked:
+# build.py, templates/, i18n/, articles/, data/, components/, assets/, hub/, tools/

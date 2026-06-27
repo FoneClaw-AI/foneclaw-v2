@@ -1,49 +1,48 @@
 # Security Policy
 
-## Reporting a Vulnerability
+FoneClaw is an Android AI phone assistant that interacts with supported phone workflows. Security reports are taken seriously.
 
-If you discover a security vulnerability in FoneClaw, please report it responsibly.
+## Reporting a vulnerability
 
-**Do NOT open a public GitHub issue for security vulnerabilities.**
+Please do not open a public issue for security reports.
 
-Instead, please email: **feedback@foneclaw.ai**
+Send reports to:
 
-### What to include
+```text
+privacy@foneclaw.ai
+```
 
-- Description of the vulnerability
+Include:
+
+- A clear description of the issue
 - Steps to reproduce
-- Potential impact
-- Suggested fix (if any)
-
-### Response timeline
-
-- **Acknowledgment**: within 48 hours
-- **Initial assessment**: within 5 business days
-- **Fix timeline**: depends on severity, communicated after assessment
+- Affected page, workflow, or Android permission area
+- Screenshots or logs if safe to share
+- Your contact information for follow-up
 
 ## Scope
 
-This security policy covers:
+Relevant reports may include:
 
-- The FoneClaw Android application
-- The FoneClaw website (foneclaw.ai)
-- This GitHub repository
+- Permission handling issues
+- Sensitive action confirmation bypasses
+- Website security issues
+- Data exposure issues
+- Authentication or download integrity issues
+- Cross-site scripting or content injection risks on foneclaw.ai
 
-## Supported Versions
+Out of scope:
 
-| Version | Supported |
-|---------|-----------|
-| Latest  | ✅ Yes    |
-| Older   | ❌ No     |
+- Generic vulnerability scanner output without reproduction
+- Social engineering
+- Denial-of-service testing
+- Issues in third-party websites not controlled by FoneClaw
+- Speculative reports without a practical impact path
 
-We recommend always using the latest version of FoneClaw.
+## Response
 
-## Security Practices
+We aim to acknowledge valid reports within a reasonable timeframe and may ask for additional details. Please give us time to investigate before public disclosure.
 
-FoneClaw follows these security principles:
+## Supported version
 
-- **Local-first processing**: core phone control runs on-device
-- **Transparent permissions**: users see and approve what FoneClaw accesses
-- **Confirmation for sensitive actions**: messages, calls, and system changes require user review
-- **No hidden data collection**: FoneClaw does not sell user data
-- **Permission revocation**: users can revoke any permission at any time
+The current public website at https://www.foneclaw.ai is the supported website version.

@@ -1,0 +1,50 @@
+{
+  "links": [
+    {
+      "key": "features",
+      "href": "/features.html"
+    },
+    {
+      "key": "download",
+      "href": "/download.html"
+    },
+    {
+      "key": "resources",
+      "href": "/resources.html"
+    },
+    {
+      "key": "community",
+      "href": "/community.html"
+    },
+    {
+      "key": "privacy",
+      "href": "/privacy.html"
+    },
+    {
+      "key": "cookie",
+      "href": "/cookie.html"
+    }
+  ],
+  "hub_links": [
+    {
+      "key": "hub_voice_control",
+      "href": "/voice-control/index.html",
+      "en_only": true
+    },
+    {
+      "key": "hub_comparisons",
+      "href": "/comparisons/index.html",
+      "en_only": true
+    },
+    {
+      "key": "hub_ai_agent",
+      "href": "/ai-agent/index.html",
+      "en_only": true
+    },
+    {
+      "key": "hub_news",
+      "href": "/news/index.html",
+      "en_only": true
+    }
+  ]
+}

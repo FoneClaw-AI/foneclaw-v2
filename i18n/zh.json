@@ -1,0 +1,223 @@
+{
+  "meta": {
+    "title": "FoneClaw - Android AI手机助手 | 120+ 语音操作",
+    "description": "FoneClaw 是通过语音控制手机的 Android AI 智能助手。16 大类 120+ 操作：设备状态、消息、设置、截图、导航等。"
+  },
+  "nav": {
+    "home": "首页",
+    "features": "功能",
+    "download": "下载",
+    "resources": "资源",
+    "community": "社区",
+    "hub_voice_control": "语音控制",
+    "hub_comparisons": "产品对比",
+    "hub_ai_agent": "AI Agent",
+    "hub_news": "行业资讯"
+  },
+  "hero": {
+    "title": "说出来，就搞定。",
+    "subtitle": "一条语音指令，完成 120+ 手机操作。核心功能免费。FoneClaw 是能帮你实际操作 Android 手机的 AI 助手，不仅仅是语音助手。",
+    "see_features": "查看功能 →"
+  },
+  "footer": {
+    "description": "FoneClaw 是能帮你实际操作 Android 手机的 AI 助手，不仅仅是语音助手。",
+    "product": "产品",
+    "topics": "主题",
+    "company": "公司",
+    "privacy": "隐私政策",
+    "rights": "保留所有权利。",
+    "cookie": "Cookie 政策"
+  },
+  "cta": {
+    "download_apk": "下载 FoneClaw",
+    "checking": "核心功能免费，无需信用卡。",
+    "coming_soon": "APK 即将开放",
+    "unavailable": "APK 暂时不可用",
+    "download_copy": "免费下载，获取最新 Android 安装包。",
+    "article_title": "120+ 操作，核心功能免费。",
+    "article_copy": "下载 FoneClaw，用语音测试所有支持的 Android 操作。",
+    "article_bottom_title": "120+ 操作，核心功能免费。",
+    "article_bottom_copy": "下载 FoneClaw，用语音测试所有支持的 Android 操作。"
+  },
+  "home": {
+    "three_things_title": "你的手机应该为你做的三件事",
+    "three_things_subtitle": "FoneClaw 帮你处理那些浪费时间的日常手机操作。",
+    "daily_brief": "每日简报",
+    "daily_brief_desc": "按联系人和时间汇总短信、通知和系统信息。不用逐个翻应用，一眼看到重点。",
+    "phone_health": "手机健康",
+    "phone_health_desc": "一条语音报告，查看电池、存储、网络和权限风险。不用再翻 Android 设置。",
+    "passive_triggers": "被动触发",
+    "passive_triggers_desc": "在任何应用中截图或拍照，FoneClaw 自动检测并提供摘要。无需切换应用。",
+    "feature_categories": "功能分类",
+    "supported_actions": "支持的操作",
+    "free": "核心功能",
+    "core_features": "核心功能",
+    "system_execution": "系统级执行",
+    "deep_dives_title": "深入了解 FoneClaw",
+    "deep_dives_subtitle": "探索我们最新的 Android 语音控制指南。",
+    "cta_bottom_title": "120+ 操作，免费试用。",
+    "cta_bottom_subtitle": "下载 FoneClaw，用语音测试所有支持的 Android 操作。"
+  },
+  "features": {
+    "hero_eyebrow": "手机状态",
+    "hero_title": "一条语音指令，完成 120+ 手机操作。",
+    "hero_subtitle": "你可以用自然语言让 FoneClaw 操作 Android 手机：查看设备状态、整理消息、调整设置、截图、导航等。",
+    "categories_title": "16 大功能分类，120+ 操作",
+    "categories_subtitle": "每项功能按使用场景分类。部分功能需要设置，部分开箱即用。",
+    "categories": "功能分类",
+    "supported_actions": "支持的操作",
+    "commands_title": "八条指令展示产品能力",
+    "commands_subtitle": "每条指令对应一个可见的手机结果：健康报告、摘要、设置变更、截图理解、定位或导航。",
+    "explore_features": "探索功能",
+    "trust_title": "权限、设置与用户控制",
+    "trust_subtitle": "FoneClaw 会在 Android 授权范围内执行手机操作。哪些权限用于哪些功能，用户应该看得清楚。",
+    "faq_title": "常见问题",
+    "faq_subtitle": "关于 FoneClaw 功能的常见问题。",
+    "mid_cta_title": "120+ 操作，免费试用。",
+    "mid_cta_subtitle": "下载 FoneClaw，用语音测试所有支持的 Android 操作。",
+    "bottom_cta_title": "准备好试试真正能行动的手机助手了吗？",
+    "bottom_cta_subtitle": "下载 FoneClaw，免费体验 Android 9+ 上的 120+ 项手机操作。权限透明，敏感操作执行前会向你确认。"
+  },
+  "download": {
+    "title": "下载 FoneClaw - Android AI 语音助手",
+    "subtitle": "核心功能免费，无需信用卡。",
+    "requirements_title": "系统要求",
+    "requirements_subtitle": "请确认您的设备满足以下要求。",
+    "apk_description": "Android 9+ 系统级 AI 助手。语音控制、跨应用自动化，越用越懂你。",
+    "faq_title": "常见问题"
+  },
+  "resources": {
+    "title": "FoneClaw 资源",
+    "subtitle": "Android 语音控制、手机 AI 助手和竞品比较的实用指南与资源。",
+    "featured_articles": "精选文章",
+    "browse_topics": "按主题浏览",
+    "articles_count": "120+",
+    "articles_label": "篇文章",
+    "topics_count": "4",
+    "topics_label": "个主题",
+    "hours_count": "40+",
+    "hours_label": "小时阅读",
+    "cta_title": "120+ 操作，免费试用。",
+    "cta_subtitle": "下载 FoneClaw，用语音测试所有支持的 Android 操作。",
+    "get_foneclaw": "下载 FoneClaw"
+  },
+  "community": {
+    "title": "加入 FoneClaw 社区",
+    "subtitle": "加入 FoneClaw 社区，交流使用经验、了解产品更新，一起把 Android 语音控制做得更好。"
+  },
+  "article": {
+    "summary_title": "核心要点",
+    "toc_title": "目录",
+    "faq_title": "常见问题",
+    "related_articles": "相关文章"
+  },
+  "articles": {
+    "read_more": "阅读 →",
+    "min_read": "分钟"
+  },
+  "share": {
+    "share_on_x": "分享到 X",
+    "share_on_telegram": "分享到 Telegram",
+    "share_on_linkedin": "分享到 LinkedIn",
+    "share_on_facebook": "分享到 Facebook",
+    "share_on_reddit": "分享到 Reddit",
+    "copy_link": "复制链接"
+  },
+  "pages": {
+    "index": {
+      "title": "FoneClaw - Android AI手机助手 | 120+ 语音操作",
+      "description": "FoneClaw 是通过语音控制手机的 Android AI 智能助手。16 大类 120+ 操作：设备状态、消息、设置、截图、导航等。"
+    },
+    "features": {
+      "title": "FoneClaw 功能介绍 - Android AI 手机助手",
+      "description": "探索 FoneClaw 16 大类 120+ 功能：手机状态、消息、系统设置、截图、邮箱、日历、地图和 Web 任务。免费使用。"
+    },
+    "download": {
+      "title": "下载 FoneClaw - Android AI 语音助手",
+      "description": "下载 FoneClaw，Android AI 语音助手。完全通过语音控制手机——通话、短信、应用和智能家居。核心功能免费。"
+    },
+    "resources": {
+      "title": "FoneClaw 资源",
+      "description": "Android 语音控制、手机 AI 助手和竞品比较的实用指南与资源。"
+    },
+    "community": {
+      "title": "FoneClaw 社区 - 加入讨论",
+      "description": "加入 FoneClaw 社区：Telegram、Discord、X。获取更新、分享反馈、与其他用户交流。"
+    },
+    "privacy": {
+      "title": "隐私政策 - FoneClaw",
+      "description": "FoneClaw 隐私政策：我们如何收集、使用和保护您的个人数据。"
+    },
+    "cookie": {
+      "title": "Cookie 政策 - FoneClaw",
+      "description": "FoneClaw 如何在我们的网站上使用 Cookie 和类似技术。"
+    },
+    "not_found": {
+      "title": "页面未找到",
+      "desc": "你访问的页面不存在，或已经移动到新的位置。",
+      "home": "返回首页"
+    }
+  },
+  "community_buttons": {
+    "join": "加入",
+    "follow": "关注",
+    "subscribe": "订阅",
+    "email": "邮件"
+  },
+  "privacy": {
+    "h1": "隐私政策",
+    "desc": "FoneClaw 如何收集、使用和保护您的个人数据。",
+    "s1_title": "我们收集的信息",
+    "s1_body": "FoneClaw 仅收集提供语音控制手机自动化所需的最少数据。包括在设备本地处理的语音命令、仅存储在设备上用于学习偏好的应用使用模式，以及可选的云端处理数据（加密后立即删除）。我们不收集浏览历史、联系人或消息内容。",
+    "s2_title": "我们如何使用您的信息",
+    "s2_body": "我们仅将收集的信息用于提供和改进 FoneClaw 服务。语音命令用于执行您请求的操作。使用模式帮助我们个性化您的体验。我们绝不会将您的数据出售给第三方或用于广告目的。",
+    "s3_title": "数据存储与安全",
+    "s3_body": "您的数据默认存储在本地设备上。当特定功能启用云端处理时，数据在传输和存储过程中均使用 AES-256 行业标准加密。云端数据在处理完成后 24 小时内自动删除。",
+    "s4_title": "第三方服务",
+    "s4_body": "FoneClaw 仅在您明确授权时才集成第三方服务（Google Maps、Spotify 等）。每个集成遵循相应服务的隐私政策。我们不会在第三方服务之间共享您的数据。",
+    "s5_title": "您的权利",
+    "s5_body": "您有权随时访问、修改或删除您的个人数据。您可以通过 FoneClaw 设置菜单导出数据、退出云端处理或完全删除账户。",
+    "s6_title": "儿童隐私",
+    "s6_body": "FoneClaw 不面向 13 岁以下儿童。我们不会有意收集儿童的个人信息。如果您认为有儿童向我们提供了个人数据，请立即联系我们。",
+    "s7_title": "政策变更",
+    "s7_body": "我们可能会定期更新本隐私政策。重大变更将通过 FoneClaw 应用和网站通知。变更后继续使用即表示接受更新后的政策。",
+    "s8_title": "联系我们",
+    "s8_body": "如有隐私相关问题或疑虑，请通过 privacy@foneclaw.ai 联系我们。我们会在 48 小时内回复所有隐私咨询。"
+  },
+  "cookie": {
+    "h1": "Cookie 政策",
+    "desc": "FoneClaw 如何在我们的网站上使用 Cookie 和类似技术。",
+    "s1_title": "什么是 Cookie",
+    "s1_body": "Cookie 是您访问我们网站时存储在您设备上的小型文本文件。它们通过记住您的偏好和了解您如何使用我们的网站，帮助我们为您提供更好的浏览体验。",
+    "s2_title": "我们使用的 Cookie 类型",
+    "s2_body": "我们在网站上使用几种类型的 Cookie：用于网站功能的必要 Cookie、用于了解访客行为的分析 Cookie，以及用于记住您的语言和显示设置的偏好 Cookie。",
+    "s3_title": "必要 Cookie",
+    "s3_body": "这些 Cookie 是网站正常运行所必需的。它们支持页面导航、安全区域访问和语言选择等核心功能。没有这些 Cookie，网站无法正常运行。",
+    "s4_title": "分析 Cookie",
+    "s4_body": "我们使用 Google Analytics 来了解访客如何与我们的网站互动。这些 Cookie 收集的信息包括访问的页面、在网站上花费的时间和流量来源。这些数据帮助我们改善内容和用户体验。Google Analytics 数据是聚合且匿名的。",
+    "s5_title": "第三方 Cookie",
+    "s5_body": "某些 Cookie 由出现在我们页面上的第三方服务放置，例如 Google Analytics。我们不控制这些 Cookie。有关其 Cookie 实践的更多信息，请参阅各第三方的隐私政策。",
+    "s6_title": "管理 Cookie",
+    "s6_body": "您可以通过浏览器设置控制和管理 Cookie。大多数浏览器允许您阻止或删除 Cookie。但是，禁用必要 Cookie 可能会影响网站功能。您也可以使用我们的 Cookie 同意横幅来管理您的偏好。",
+    "s7_title": "Cookie 保留期限",
+    "s7_body": "会话 Cookie 在您关闭浏览器时删除。持久性 Cookie 会在您的设备上保留一段设定的时间或直到您删除它们。我们的分析 Cookie 最长保留期限为 26 个月。",
+    "s8_title": "联系我们",
+    "s8_body": "如有 Cookie 政策相关问题，请通过 privacy@foneclaw.ai 联系我们。"
+  },
+  "author": {
+    "title": "Dean - 资深 Android 工程师 & FoneClaw 创始人",
+    "desc": "Dean 是资深 Android 系统工程师、FoneClaw 创始人。阅读他关于 AI 智能体、语音控制和手机自动化的文章。",
+    "role": "资深 Android 工程师 & FoneClaw 创始人",
+    "bio_short": "打造语音控制 Android 手机的未来。热衷 AI 智能体、手机自动化，让技术惠及每个人。",
+    "stat_articles": "篇已发布文章",
+    "stat_categories": "个内容分类",
+    "stat_experience": "年经验",
+    "about_title": "关于 Dean",
+    "about_p1": "Dean 是拥有 10 年以上移动开发经验的资深 Android 系统工程师，在 Android 内核、系统级编程和手机自动化方面有深厚专业知识。",
+    "about_p2": "多年参与大型 Android 项目后，Dean 创立了 FoneClaw，解决一个核心问题：为什么手机不能完全用语音控制？传统语音助手只能设置闹钟和播放音乐，无法操作应用、填写表单或串联多步骤任务。",
+    "about_p3": "FoneClaw 是 Dean 对 Android 真正 AI 智能体的愿景 — — 它能读取屏幕、理解意图、直接操作手机完成任务。无需 API，无需开发者合作，纯语音控制任意 Android 应用。",
+    "articles_title": "Dean 的文章",
+    "article_label": "文章",
+    "no_articles": "该语言暂无可用文章。"
+  }
+}

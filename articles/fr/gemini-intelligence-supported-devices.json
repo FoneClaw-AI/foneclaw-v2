@@ -1,0 +1,83 @@
+{
+  "slug": "gemini-intelligence-supported-devices",
+  "lang": "fr",
+  "title": "Appareils compatibles Gemini Intelligence 2026",
+  "description": "Liste complète des appareils Android et Pixel compatibles avec Gemini Intelligence en 2026. Vérifiez votre téléphone et découvrez les alternatives.",
+  "category": "Guide",
+  "reading_time": "10 min",
+  "image": "gemini-intelligence-supported-devices.jpg",
+  "body_html": "<h2 id=\"section-1\"><a aria-hidden=\"true\" class=\"anchor\" href=\"#section-1\" tabindex=\"-1\"></a>Réponse rapide</h2>\n<p>Selon notre analyse des déploiements Google de début 2026, <a href=\"/fr/gemini-vs-foneclaw.html\">Gemini Intelligence</a> est désormais disponible sur une sélection croissante d'appareils <a href=\"/fr/android-vs-ios-26-5-voice-control.html\">Android</a>, mais la compatibilité reste inégale selon les fabricants.</p>\n<p>Les Google Pixel (Pixel 7 et ultérieurs) bénéficient de l'expérience la plus complète. Samsung Galaxy S24/S25 et les flagships OnePlus/Motorola reçoivent les fonctionnalités principales. Les autres constructeurs ont un accès plus limité.</p>\n<p>Dans nos tests, la disponibilité de Gemini Intelligence ne garantit pas l'accès à toutes les fonctionnalités. Les capacités d'agent autonome (exécuter des tâches multi-étapes) requièrent des spécifications hardware supérieures et ne sont pas encore généralisées.</p>\n<p>Pour les appareils non compatibles ou pour ceux qui souhaitent une alternative indépendante de Google, FoneClaw propose un agent IA fonctionnant sur tout Android 9+ avec 3 Go de RAM.</p>\n<h2 id=\"section-2\"><a aria-hidden=\"true\" class=\"anchor\" href=\"#section-2\" tabindex=\"-1\"></a>Qu'est-ce que Gemini Intelligence exactement ?</h2>\n<p>Gemini Intelligence est la couche IA de Google intégrée nativement dans Android. Successeur de Google Assistant, elle repose sur les modèles Gemini développés par Google DeepMind.</p>\n<p><strong>Ce que Gemini Intelligence apporte de nouveau :</strong></p>\n<p>• Compréhension multimodale (texte, image, voix, vidéo)</p>\n<p>• Raisonnement complexe sur plusieurs étapes</p>\n<p>• Génération de contenu intégrée (texte, images, code)</p>\n<p>• Capacités d'agent : naviguer dans les apps et exécuter des tâches</p>\n<p>• Contexte continu à travers une conversation</p>\n<p><strong>Différence avec Google Assistant</strong></p>\n<p>Google Assistant répondait à des commandes ponctuelles (« quelle météo ? », « appelle maman »). Gemini Intelligence maintient un contexte conversationnel et peut gérer des requêtes complexes comme « trouve-moi un restaurant italien près de chez moi, vérifie les avis, et réserve pour demain soir à 20h ».</p>\n<p>L'objectif de Google est de transformer l'assistant vocal en véritable agent IA autonome. Un objectif que des solutions indépendantes comme FoneClaw poursuivent également, mais sans dépendre d'un écosystème spécifique.</p>\n<p>Contrairement à <a href=\"/fr/gemini-intelligence-vs-siri.html\">Siri AI</a> (Apple) et <a href=\"/fr/foneclaw-vs-apple-intelligence.html\">Apple Intelligence</a> qui sont confinés à iOS, Gemini Intelligence ambitionne de couvrir l'ensemble de l'écosystème Android — soit plus de 3 milliards d'appareils dans le monde.</p>\n<h2 id=\"section-3\"><a aria-hidden=\"true\" class=\"anchor\" href=\"#section-3\" tabindex=\"-1\"></a>Appareils Google Pixel compatibles</h2>\n<p>Les Pixel sont les premiers bénéficiaires de Gemini Intelligence, avec l'intégration la plus profonde.</p>\n<p><strong>Compatibilité complète</strong></p>\n<p>• Google Pixel 9 Pro, 9 Pro XL, 9, 9a — expérience complète avec toutes les fonctionnalités d'agent</p>\n<p>• Google Pixel 8 Pro, 8, 8a — fonctionnalités principales disponibles, agent limité</p>\n<p>• Google Pixel Fold — support complet, optimisé pour le grand écran</p>\n<p><strong>Compatibilité partielle</strong></p>\n<p>• Google Pixel 7 Pro, 7, 7a — Gemini Intelligence disponible mais sans les capacités d'agent avancé</p>\n<p>• Google Pixel Tablet — fonctionnalités de base, optimisation tablette en cours</p>\n<p><strong>Non compatible</strong></p>\n<p>• Google Pixel 6 et antérieurs — hardware insuffisant pour les modèles Gemini</p>\n<p><strong>Spécificités Pixel</strong></p>\n<p>Les Pixel bénéficient de fonctionnalités exclusives : traitement on-device (modèles Gemini Nano exécutés directement sur le processeur Tensor), intégration profonde avec les apps Google, et accès prioritaire aux nouvelles fonctionnalités.</p>\n<p>Dans nos tests, le Pixel 9 Pro offre effectivement la meilleure expérience Gemini Intelligence. Mais même sur ce flagship, les capacités d'agent autonome restent limitées à certaines applications Google. Pour les actions cross-applications (WhatsApp, SMS, rappels), un agent IA comme FoneClaw reste plus polyvalent.</p>\n<h2 id=\"section-4\"><a aria-hidden=\"true\" class=\"anchor\" href=\"#section-4\" tabindex=\"-1\"></a>Appareils Samsung Galaxy compatibles</h2>\n<p>Samsung est le premier partenaire non-Google pour Gemini Intelligence.</p>\n<p><strong>Compatibilité complète</strong></p>\n<p>• Samsung Galaxy S25 Ultra, S25+, S25 — expérience complète via One UI 7</p>\n<p>• Samsung Galaxy Z Fold 6, Z Flip 6 — Gemini Intelligence optimisé pour le pliable</p>\n<p><strong>Compatibilité principale</strong></p>\n<p>• Samsung Galaxy S24 Ultra, S24+, S24 — fonctionnalités principales, agent limité</p>\n<p>• Samsung Galaxy Z Fold 5, Z Flip 5 — support partiel via mise à jour One UI</p>\n<p>• Samsung Galaxy Tab S10 — fonctionnalités tablette</p>\n<p><strong>Compatibilité de base</strong></p>\n<p>• Samsung Galaxy A55, A35 — Gemini Intelligence simplifié (requêtes basiques)</p>\n<p>• Samsung Galaxy S23 série — fonctionnalités réduites, pas d'agent</p>\n<p><strong>Particularités Samsung</strong></p>\n<p>Samsung intègre Gemini Intelligence dans sa propre couche Bixby + Galaxy AI. L'utilisateur peut choisir entre Bixby et Gemini comme assistant par défaut. La cohabitation est parfois confuse : certaines fonctionnalités passent par Bixby, d'autres par Gemini.</p>\n<p>Notre conseil : si vous possédez un Samsung Galaxy S24 ou ultérieur, activez Gemini Intelligence dans les paramètres et comparez avec Bixby. Pour les actions qui échappent à Gemini (communication tierce, WhatsApp), FoneClaw complète efficacement l'expérience.</p>\n<h2 id=\"section-5\"><a aria-hidden=\"true\" class=\"anchor\" href=\"#section-5\" tabindex=\"-1\"></a>Autres fabricants : OnePlus, Motorola, Xiaomi et plus</h2>\n<p>Le déploiement de Gemini Intelligence au-delà de Google et Samsung est plus progressif.</p>\n<p><strong>OnePlus</strong></p>\n<p>• OnePlus 13, 13 Pro — Gemini Intelligence complet</p>\n<p>• OnePlus 12, 12R — fonctionnalités principales</p>\n<p>• OnePlus Nord 4 — support de base</p>\n<p>OxygenOS intègre Gemini de manière native à partir de la version 15.</p>\n<p><strong>Motorola</strong></p>\n<p>• Motorola Edge 50 Ultra, Razr Plus 2025 — Gemini Intelligence disponible</p>\n<p>• Motorola Edge 2024 — support partiel</p>\n<p>Motorola adopte une approche « stock Android » qui facilite l'intégration de Gemini.</p>\n<p><strong>Xiaomi / Redmi / Poco</strong></p>\n<p>• Xiaomi 15 série — Gemini Intelligence disponible en complément de <a href=\"/fr/comp_vs_miclaw.html\">MiClaw</a></p>\n<p>• Xiaomi 14 série — déploiement en cours</p>\n<p>• Redmi / Poco — non confirmé à ce jour</p>\n<p>Xiaomi privilégie son propre agent IA, mais offre l'accès à Gemini en option.</p>\n<p><strong>Nothing</strong></p>\n<p>• Nothing Phone (3) — prise en charge de Gemini Intelligence intégrée</p>\n<p>• Nothing Phone (2a) — support de base</p>\n<p><strong>Non compatibles ou non confirmés</strong></p>\n<p>Les fabricants chinois (Oppo, Vivo, Honor) n'ont pas encore confirmé de partenariat officiel pour Gemini Intelligence en dehors de la Chine. Les appareils Android Go (entrée de gamme) ne sont pas éligibles.</p>\n<p>Pour les utilisateurs d'appareils non compatibles, FoneClaw offre une alternative immédiate : il fonctionne sur tout Android 9+ avec 3 Go de RAM, indépendamment du fabricant.</p>\n<h2 id=\"section-6\"><a aria-hidden=\"true\" class=\"anchor\" href=\"#section-6\" tabindex=\"-1\"></a>Fonctionnalités selon le niveau d'appareil</h2>\n<p>Tous les appareils « compatibles » n'offrent pas la même expérience. Voici la hiérarchie réelle.</p>\n<p><strong>Niveau 1 — Expérience complète (flagships récents)</strong></p>\n<p>• Agent autonome : exécution de tâches multi-applications</p>\n<p>• Gemini Nano on-device : traitement local pour la confidentialité</p>\n<p>• Multimodal complet : analyse d'images, de vidéos en temps réel</p>\n<p>• Génération créative : création de contenu intégrée</p>\n<p><strong>Niveau 2 — Fonctionnalités principales (flagships 1-2 ans)</strong></p>\n<p>• Assistant conversationnel avancé</p>\n<p>• Requêtes complexes en plusieurs étapes</p>\n<p>• Intégration avec les apps Google principales</p>\n<p>• Pas d'agent autonome complet</p>\n<p><strong>Niveau 3 — Fonctionnalités de base (milieu de gamme récent)</strong></p>\n<p>• Assistant vocal amélioré (meilleur que Google Assistant classique)</p>\n<p>• Requêtes simples et moyennes</p>\n<p>• Intégration limitée aux apps tierces</p>\n<p>• Pas de traitement on-device</p>\n<p>Notre analyse montre que seuls les appareils de niveau 1 offrent une expérience véritablement « next-gen ». Les utilisateurs de niveau 2 et 3 obtiennent un Google Assistant amélioré, pas un agent IA autonome.</p>\n<p>C'est là que FoneClaw trouve sa place : sur un appareil de niveau 2 ou 3, il ajoute les capacités d'agent manquantes — 120+ actions, commande vocale naturelle, gestion de WhatsApp, SMS, appels et rappels — sans exiger un flagship.</p>\n<h2 id=\"section-7\"><a aria-hidden=\"true\" class=\"anchor\" href=\"#section-7\" tabindex=\"-1\"></a>Alternatives à Gemini Intelligence selon votre appareil</h2>\n<p>Si votre appareil n'est pas compatible Gemini Intelligence, ou si vous souhaitez une solution complémentaire, plusieurs options s'offrent à vous.</p>\n<p><strong>FoneClaw — Agent IA indépendant</strong></p>\n<p>Fonctionne sur tout Android 9+ avec 3 Go de RAM. 120+ actions dans 16 catégories. Spécialisé dans la communication et la productivité quotidienne. FoneClaw ne remplace pas Gemini Intelligence mais couvre un terrain que Gemini n'aborde pas encore complètement : les actions cross-applications fiables.</p>\n<p><strong>Samsung Galaxy AI</strong></p>\n<p>Pour les utilisateurs Samsung, Galaxy AI offre des fonctionnalités IA propriétaires (traduction en direct, résumé de notes, édition photo) indépendantes de Gemini Intelligence. Disponible sur S24 et ultérieurs.</p>\n<p>MiClaw (Xiaomi)</p>\n<p>L'agent IA de Xiaomi pour les appareils HyperOS. Fort pour l'écosystème connecté Xiaomi, plus limité pour les apps tierces. Disponible sur les flagships Xiaomi 15+.</p>\n<p>Siri AI + Apple Intelligence</p>\n<p>Si vous envisagez de changer d'écosystème, Apple Intelligence sur iPhone 15 Pro et ultérieurs offre une expérience IA intégrée comparable à Gemini Intelligence, avec l'avantage d'une intégration hardware-software profonde.</p>\n<p><strong>Notre recommandation par profil</strong></p>\n<p>• Flagship Google/Samsung récent : activez Gemini Intelligence + FoneClaw pour les actions tierces</p>\n<p>• Milieu de gamme Android : FoneClaw comme agent IA principal</p>\n<p>• Xiaomi flagship : MiClaw pour l'écosystème + FoneClaw pour le reste</p>\n<p>• Ancien appareil Android : vérifiez la compatibilité et passez à FoneClaw si Gemini n'est pas disponible</p>",
+  "faq": [
+    {
+      "question": "Comment vérifier si mon téléphone est compatible Gemini Intelligence ?",
+      "answer": "Ouvrez les Paramètres Android > Applications > Assistant Google. Si Gemini Intelligence est disponible, une option d'activation apparaît. Sur les Pixel, cherchez « Gemini » dans les paramètres. Sur Samsung, c'est dans Paramètres > Applications > Applications par défaut > Application d'assistant."
+    },
+    {
+      "question": "Gemini Intelligence fonctionne-t-il en français ?",
+      "answer": "Oui, Gemini Intelligence supporte le français pour la plupart des fonctionnalités. Cependant, certaines capacités avancées (agent autonome, fonctionnalités créatives) peuvent être initialement limitées à l'anglais. La couverture francophone s'améliore avec chaque mise à jour."
+    },
+    {
+      "question": "Mon appareil ancien peut-il recevoir Gemini Intelligence via une mise à jour ?",
+      "answer": "Les appareils avec moins de 3 Go de RAM ou un processeur trop ancien ne pourront pas faire tourner Gemini Intelligence, même via mise à jour logicielle. Les modèles Gemini nécessitent des capacités de calcul minimales. Pour ces appareils, FoneClaw reste une option viable avec ses exigences modestes (Android 9+, 3 Go de RAM)."
+    },
+    {
+      "question": "Quelle est la différence entre Gemini Intelligence et Google Assistant ?",
+      "answer": "Google Assistant répondait à des commandes isolées. Gemini Intelligence maintient un contexte conversationnel, comprend des requêtes complexes et peut exécuter des actions en plusieurs étapes. C'est un saut technologique comparable au passage d'un assistant basique à un agent IA véritablement autonome."
+    },
+    {
+      "question": "Puis-je utiliser FoneClaw en complément de Gemini Intelligence ?",
+      "answer": "Absolument. FoneClaw et Gemini Intelligence se complètent. Gemini excelle dans les requêtes d'information et les services Google. FoneClaw est spécialisé dans les actions de communication (WhatsApp, SMS, appels) et de productivité. Les deux peuvent coexister sans conflit sur le même appareil."
+    }
+  ],
+  "related": [
+    "agentic-ai-phone-explained",
+    "voice-control-whatsapp",
+    "tasker-alternative-voice-automation"
+  ],
+  "date": "2026-06-24",
+  "summary": [
+    "Réponse rapide",
+    "Qu'est-ce que Gemini Intelligence exactement ?",
+    "Appareils Google Pixel compatibles",
+    "Appareils Samsung Galaxy compatibles",
+    "Autres fabricants : OnePlus, Motorola, Xiaomi et plus",
+    "Fonctionnalités selon le niveau d'appareil",
+    "Alternatives à Gemini Intelligence selon votre appareil"
+  ],
+  "toc": [
+    {
+      "id": "section-1",
+      "text": "Réponse rapide"
+    },
+    {
+      "id": "section-2",
+      "text": "Qu'est-ce que Gemini Intelligence exactement ?"
+    },
+    {
+      "id": "section-3",
+      "text": "Appareils Google Pixel compatibles"
+    },
+    {
+      "id": "section-4",
+      "text": "Appareils Samsung Galaxy compatibles"
+    },
+    {
+      "id": "section-5",
+      "text": "Autres fabricants : OnePlus, Motorola, Xiaomi et plus"
+    },
+    {
+      "id": "section-6",
+      "text": "Fonctionnalités selon le niveau d'appareil"
+    },
+    {
+      "id": "section-7",
+      "text": "Alternatives à Gemini Intelligence selon votre appareil"
+    },
+    {
+      "id": "faq",
+      "text": "FAQ"
+    }
+  ],
+  "author_slug": "dean",
+  "author": "Dean"
+}

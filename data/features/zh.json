@@ -1,0 +1,233 @@
+{
+  "feature_categories": [
+    {
+      "emoji": "📱",
+      "name": "手机状态",
+      "count": "9 条指令"
+    },
+    {
+      "emoji": "🔔",
+      "name": "通知",
+      "count": "6 条指令"
+    },
+    {
+      "emoji": "💬",
+      "name": "短信",
+      "count": "6 条指令"
+    },
+    {
+      "emoji": "📞",
+      "name": "通话",
+      "count": "3 条指令"
+    },
+    {
+      "emoji": "⚙️",
+      "name": "系统设置",
+      "count": "18 条指令"
+    },
+    {
+      "emoji": "📡",
+      "name": "Wi-Fi 与蓝牙",
+      "count": "12 条指令"
+    },
+    {
+      "emoji": "📸",
+      "name": "拍照与截图",
+      "count": "8 条指令"
+    },
+    {
+      "emoji": "🖥️",
+      "name": "屏幕读取",
+      "count": "2 条指令"
+    },
+    {
+      "emoji": "📧",
+      "name": "邮箱",
+      "count": "10 条指令"
+    },
+    {
+      "emoji": "📅",
+      "name": "日历",
+      "count": "6 条指令"
+    },
+    {
+      "emoji": "⏰",
+      "name": "闹钟",
+      "count": "2 条指令"
+    },
+    {
+      "emoji": "📋",
+      "name": "笔记",
+      "count": "9 条指令"
+    },
+    {
+      "emoji": "🗺️",
+      "name": "地图与导航",
+      "count": "8 条指令"
+    },
+    {
+      "emoji": "🌐",
+      "name": "网页",
+      "count": "3 条指令"
+    },
+    {
+      "emoji": "🔄",
+      "name": "工作流",
+      "count": "3 条指令"
+    },
+    {
+      "emoji": "🧩",
+      "name": "应用交互",
+      "count": "快捷指令"
+    }
+  ],
+  "demo_commands": [
+    {
+      "desc": "内存、存储、电池、网络和权限风险报告。",
+      "title": "\"检查我的手机状态\""
+    },
+    {
+      "desc": "按联系人分组的重要事项、待回复和风险。",
+      "title": "\"汇总今天的短信\""
+    },
+    {
+      "desc": "支持的 Android 设置变更，结果清晰。",
+      "title": "\"设置亮度为 60%\""
+    },
+    {
+      "desc": "捕获当前屏幕并摘要可见内容。",
+      "title": "\"截图\""
+    },
+    {
+      "desc": "优先显示手机上的最新通知。",
+      "title": "\"有什么重要通知？\""
+    },
+    {
+      "desc": "读取已配置 IMAP/SMTP 账户的最新邮件。",
+      "title": "\"检查我的邮箱\""
+    },
+    {
+      "desc": "返回位置、坐标、精度、来源和时间。",
+      "title": "\"我在哪里？\""
+    },
+    {
+      "desc": "打开已安装的地图应用并开始导航。",
+      "title": "\"驾车导航\""
+    }
+  ],
+  "showcase_features": [
+    {
+      "eyebrow": "手机状态",
+      "title": "了解你的手机正在发生什么。",
+      "description": "将设备健康状况转化为可读报告，不用再翻找设置页面。",
+      "image": "gif-phone-health-poster.jpg",
+      "gif": "gif-phone-health.gif",
+      "check_items": [
+        "内存、存储、电池和网络状态",
+        "应用权限和敏感权限审查",
+        "活跃应用和隐藏应用信号检查"
+      ]
+    },
+    {
+      "eyebrow": "消息和通知",
+      "title": "将手机噪音转化为每日简报。",
+      "description": "FoneClaw 汇总短信、通知和系统信息，重要事项不会被埋在各个应用里。",
+      "image": "gif-daily-brief-poster.jpg",
+      "gif": "gif-daily-brief.gif",
+      "check_items": [
+        "按联系人和时间汇总短信",
+        "按主题搜索信息",
+        "查看上下文并标记已处理"
+      ]
+    },
+    {
+      "eyebrow": "控制",
+      "title": "更快地更改 Android 设置。",
+      "description": "用自然语言操作支持的 Android 设置，不用手动翻找深层菜单。",
+      "image": "gif-controls-poster.jpg",
+      "gif": "gif-controls.gif",
+      "check_items": [
+        "亮度、自动亮度、屏幕超时、旋转",
+        "媒体、铃声、通知、闹钟、通话和系统音量",
+        "静音模式、勿扰模式、手电筒和系统设置页面"
+      ]
+    },
+    {
+      "eyebrow": "效率和导航",
+      "title": "从意图到手机结果。",
+      "description": "FoneClaw 处理已配置的邮箱、日历、闹钟、本地笔记、定位、附近搜索、地图导航和网页任务。",
+      "image": "gif-productivity-poster.jpg",
+      "gif": "gif-productivity.gif",
+      "check_items": [
+        "邮箱需要 IMAP/SMTP 配置",
+        "导航需要安装地图应用",
+        "网页比价使用网络信息，不保证实时价格"
+      ]
+    },
+    {
+      "eyebrow": "连接",
+      "title": "语音控制 Wi-Fi 和蓝牙。",
+      "description": "不用翻找 Android 设置即可管理无线连接。一条指令完成扫描、连接、配对和忘记。",
+      "image": "gif-connectivity-poster.jpg",
+      "gif": "gif-connectivity.gif",
+      "check_items": [
+        "Wi-Fi：扫描附近、连接、忘记、已保存网络",
+        "蓝牙：配对、连接、查看已配对和已连接设备",
+        "支持耳机、音箱、汽车和穿戴设备"
+      ]
+    },
+    {
+      "eyebrow": "被动触发",
+      "title": "即使不打开应用，FoneClaw 也能工作。",
+      "description": "在任何应用中截图或拍照时，FoneClaw 可以检测并在浮动窗口中提供即时摘要。无需切换应用。",
+      "image": "gif-passive-triggers-poster.jpg",
+      "gif": "gif-passive-triggers.gif",
+      "check_items": [
+        "截图自动检测和摘要",
+        "照片自动检测和内容分析",
+        "浮动窗口覆盖层，不会干扰你",
+        "需要检测和覆盖权限"
+      ]
+    }
+  ],
+  "trust_items": [
+    {
+      "title": "透明权限",
+      "check_items": [
+        "无障碍服务用于屏幕读取和节点操作",
+        "通知访问用于通知摘要",
+        "按需使用联系人、短信、定位、相机、蓝牙、覆盖和系统设置权限"
+      ]
+    },
+    {
+      "title": "敏感操作需确认",
+      "description": "拨号、发送短信、发送邮件、删除记录和其他敏感操作应在执行前要求确认。"
+    },
+    {
+      "title": "设置要求明确",
+      "description": "邮箱需要 IMAP/SMTP 配置。导航需要安装地图应用。截图/照片自动摘要需要检测和覆盖权限。部分 Android 设置需要额外授权。"
+    }
+  ],
+  "features_faq": [
+    {
+      "question": "FoneClaw 能控制 Android 的什么？",
+      "answer": "FoneClaw 目前覆盖 16 大类、120+ 项 Android 手机操作，包括设备检查、通知和短信摘要、通话、系统设置、Wi-Fi 和蓝牙、截图和照片、屏幕读取、邮箱、日历、闹钟、本地笔记、地图和网页任务。"
+    },
+    {
+      "question": "FoneClaw 需要无障碍权限吗？",
+      "answer": "是的。无障碍权限用于屏幕读取、基于节点的点击、通知面板操作以及标准应用权限无法处理的部分手机级交互。"
+    },
+    {
+      "question": "FoneClaw 能自动发送短信或邮件吗？",
+      "answer": "FoneClaw 可以帮你起草消息、准备内容，并执行已支持的沟通类操作；但发送短信、邮件等敏感动作，最终执行前应由你确认。"
+    },
+    {
+      "question": "所有功能都能免设置使用吗？",
+      "answer": "不是。邮箱需要 IMAP/SMTP 配置，地图需要安装地图应用，图片自动摘要需要相关检测和覆盖权限，部分 Android 设置需要额外系统权限。手机状态、短信摘要和系统设置等核心功能开箱即用。"
+    },
+    {
+      "question": "有哪些功能？",
+      "answer": "FoneClaw 覆盖 16 大功能分类、120+ 支持的操作：设备检查、通知和短信摘要、通话、系统设置、Wi-Fi 和蓝牙、截图和照片、屏幕读取、邮箱、日历、闹钟、本地笔记、地图、网页任务、工作流和快捷指令。"
+    }
+  ]
+}

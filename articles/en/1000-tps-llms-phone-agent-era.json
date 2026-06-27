@@ -1,0 +1,93 @@
+{
+  "slug": "1000-tps-llms-phone-agent-era",
+  "lang": "en",
+  "title": "1000 TPS LLMs: Why Phone Agents Are About to Speed Up",
+  "description": "Xiaomi MiMo-V2.5-Pro UltraSpeed shows how 1000 tokens per second LLMs could speed up coding agents, phone agents, and real-time AI workflows.",
+  "category": "AI Agent Trends",
+  "reading_time": "8 min read",
+  "image": "1000-tps-llms-phone-agent-era.jpg",
+  "body_html": "<h2 id=\"quick-answer-1000-tps-changes-the-agent-loop\"><a class=\"anchor\" href=\"#quick-answer-1000-tps-changes-the-agent-loop\" aria-label=\"Link to Quick Answer: 1000 TPS Changes the Agent Loop\"></a>Quick Answer: 1000 TPS Changes the Agent Loop</h2>\n<p>Based on our analysis of <a href=\"/xiaomi-ai-ecosystem-2026.html\">Xiaomi MiMo</a>-V2.5-Pro UltraSpeed and the phone-agent execution stack, 1000 tokens per second matters because agents are not one-shot chatbots. A phone agent observes a screen, decides an action, calls a tool, reads the result, checks whether the state changed, and then decides again. Faster generation compresses that whole loop. When the model can think, verify, and revise in near real time, an agent stops feeling like a slow remote worker and starts feeling like a live operator.</p>\n<p>The point is not that text appears faster on a screen. The point is that model speed becomes action speed. A coding agent can test more patches before asking for review. A browser agent can compare more paths before clicking. An <a href=\"/ai-agent-phone-control.html\">Android phone</a> agent can recover faster when an app layout changes. The user experience shifts from waiting for a model to finish a long answer to watching an agent make fast, checked decisions.</p>\n<p>That is why the Xiaomi announcement is important for <strong>FoneClaw</strong>. MiMo and other fast models are the brain. <strong>FoneClaw</strong> is the execution layer that gives that brain a hand on the <strong>Android</strong> interface. If 1T models become fast enough for real-time planning, the market will quickly ask a second question: which product can turn those plans into safe phone actions?</p>\n<h2 id=\"what-xiaomi-mimo-v2-5-pro-ultraspeed-announced\"><a class=\"anchor\" href=\"#what-xiaomi-mimo-v2-5-pro-ultraspeed-announced\" aria-label=\"Link to What Xiaomi MiMo-V2.5-Pro UltraSpeed Announced\"></a>What Xiaomi MiMo-V2.5-Pro UltraSpeed Announced</h2>\n<p>Xiaomi's <a href=\"https://weibo.com/ttarticle/p/show?id=2309405307852624625733\" target=\"_blank\" rel=\"noopener noreferrer\">technical article</a> says MiMo and TileRT introduced MiMo UltraSpeed mode for Xiaomi MiMo-V2.5-Pro that pushes a 1T-parameter model past 1000 tokens per second on general GPU hardware, with a demo reaching about 1200 tokens per second. The limited API trial runs from June 9 to June 23, 2026, and Xiaomi says the UltraSpeed API costs three times the regular MiMo-V2.5-Pro price while offering roughly ten times the output speed.</p>\n<p>The post also says the system uses a standard eight-card general GPU node rather than a special wafer-scale or SRAM-only accelerator. That claim is important because it frames the result as a model-system design win, not only a custom-hardware story. Xiaomi also linked the <a href=\"https://huggingface.co/XiaomiMiMo/MiMo-V2.5-Pro-FP4-DFlash\" target=\"_blank\" rel=\"noopener noreferrer\">MiMo-V2.5-Pro-FP4-DFlash checkpoint on Hugging Face</a>, making the FP4 and DFlash path visible to developers who want to inspect or build on the release.</p>\n<p>For source clarity, this article relies on the Xiaomi technical post, the public Hugging Face model page for XiaomiMiMo/MiMo-V2.5-Pro-FP4-DFlash, the <a href=\"https://arxiv.org/abs/2602.06036\" target=\"_blank\" rel=\"noopener noreferrer\">arXiv page for DFlash: Block Diffusion for Flash Speculative Decoding</a>, and the public <a href=\"https://platform.xiaomimimo.com/ultraspeed\" target=\"_blank\" rel=\"noopener noreferrer\">MiMo UltraSpeed API application page</a>. We do not assume production availability beyond Xiaomi's stated limited application window.</p>\n<h2 id=\"why-ultra-fast-llms-make-agents-smarter-not-just-faster\"><a class=\"anchor\" href=\"#why-ultra-fast-llms-make-agents-smarter-not-just-faster\" aria-label=\"Link to Why Ultra-Fast LLMs Make Agents Smarter, Not Just Faster\"></a>Why Ultra-Fast LLMs Make Agents Smarter, Not Just Faster</h2>\n<p>Speed can turn into intelligence when it lets the system try more options in the same user-visible wait time. A slow model may produce one plan and hope it works. A fast model can generate several candidate plans, run a Best-of-N comparison, reject weak paths, and ask for tool results before the user notices much delay. That is not only a nicer interface; it can raise task success rates.</p>\n<p>Our benchmark view of phone agents is that failures often happen at the planning boundary. The model knows the broad goal but chooses a brittle next step. More throughput lets the controller spend extra budget on checks: Is this the right app? Is the button visible? Did the screen change? Should the agent ask for confirmation before sending this message? Those checks become affordable when generation is cheap in latency terms.</p>\n<p>This is also where tree search and self-verification become practical. An agent can explore multiple routes in parallel: one path uses a native API, another reads the screen, another asks the user for missing context. With 1000 TPS-level throughput, the agent can do more of that work inside a normal interaction window. The result is not magic. It is more attempts, more validation, and fewer blind actions.</p>\n<h2 id=\"coding-agents-are-the-first-obvious-winner\"><a class=\"anchor\" href=\"#coding-agents-are-the-first-obvious-winner\" aria-label=\"Link to Coding Agents Are the First Obvious Winner\"></a>Coding Agents Are the First Obvious Winner</h2>\n<p>Coding agents may benefit first because their work naturally creates verifiable outputs. A coding agent can write a patch, run tests, read the error, adjust the code, and produce a second patch. The bottleneck is often the speed of reading logs, drafting diffs, explaining changes, and revising after failures. A 1000 TPS model changes the rhythm of that process.</p>\n<p>In a slower setting, a developer waits while the agent writes a long file or explains a test failure. In a faster setting, the agent can keep several repair ideas alive, compare them, and return a smaller, better patch. It can also afford more review text without making the session feel heavy. That matters because agentic coding quality usually comes from iteration, not from a perfect first answer.</p>\n<p>Xiaomi's article gives DFlash acceptance-length numbers that are especially strong for coding: an average accepted length of 6.30 and some samples reaching 7.14 out of an eight-token draft block. If those gains hold across production workloads, coding agents could move from batch-style assistants toward live pair programmers. The value is not only speed of typing. It is speed of debug loops.</p>\n<h2 id=\"phone-agents-need-real-time-thinking-even-more-than-chatbots\"><a class=\"anchor\" href=\"#phone-agents-need-real-time-thinking-even-more-than-chatbots\" aria-label=\"Link to Phone Agents Need Real-Time Thinking Even More Than Chatbots\"></a>Phone Agents Need Real-Time Thinking Even More Than Chatbots</h2>\n<p>A chatbot can pause for several seconds and still feel acceptable if the answer is useful. A phone agent cannot. When an agent controls a phone, every delay is attached to a visible action: opening an app, waiting for a page, reading a notification, finding a field, typing a reply, or asking for approval. If each decision takes too long, the whole system feels broken even when the reasoning is correct.</p>\n<p>That is why ultra-fast LLMs matter for <strong>Android</strong> phone agents. Phone control is a live state machine. The screen changes after every tap. The next action depends on what appears. A fast model can interpret the new state quickly, choose the next step, and recover when the app does something unexpected. A slow model makes the same workflow feel fragile because every correction adds another wait.</p>\n<p><strong>FoneClaw</strong>'s opportunity sits exactly here. A fast model can understand the user and draft a plan, but the phone still needs an execution layer that can read screens, simulate taps, type safely, switch apps, and stop for user confirmation. If the model is the real-time brain, the <a href=\"/gemini-vs-foneclaw.html\">Android phone agent</a> becomes the hand that turns intent into completed work.</p>\n<h2 id=\"the-execution-layer-becomes-more-valuable-as-models-get-faster\"><a class=\"anchor\" href=\"#the-execution-layer-becomes-more-valuable-as-models-get-faster\" aria-label=\"Link to The Execution Layer Becomes More Valuable as Models Get Faster\"></a>The Execution Layer Becomes More Valuable as Models Get Faster</h2>\n<p>Many people assume faster models reduce the need for product layers. The opposite may happen in agent systems. When model output is slow, the industry debates which model can reason better. When model output becomes fast, users ask which system can finish the task. That shifts value from pure answer quality toward execution quality.</p>\n<p>An ultra-fast LLM can say what should happen. It still needs a safe path to act. On a phone, that path includes permissions, app state, visible UI elements, sensitive-action checks, and a way to recover from errors. A model alone cannot guarantee that a <strong>WhatsApp</strong> message was sent, a calendar event was created, or a payment screen was stopped before confirmation. The agent layer must verify those outcomes.</p>\n<p>This is the core <strong>FoneClaw</strong> thesis. Model companies build better brains. Phone-agent products build the operational bridge between those brains and the user's actual device. As MiMo, Gemini, Claude, GPT, and other models get faster, the pressure on the execution layer rises. Faster thought creates demand for faster, safer action.</p>\n<h2 id=\"what-fp4-dflash-and-tilert-mean-in-plain-english\"><a class=\"anchor\" href=\"#what-fp4-dflash-and-tilert-mean-in-plain-english\" aria-label=\"Link to What FP4, DFlash, and TileRT Mean in Plain English\"></a>What FP4, DFlash, and TileRT Mean in Plain English</h2>\n<p>The Xiaomi post describes three technical ingredients behind the UltraSpeed result. The first is FP4 quantization, focused mainly on MoE expert parameters rather than a blunt full-model conversion. In plain English, the model stores and moves much of its expert weight data in a smaller format, reducing memory pressure while trying to keep quality close to the original model through quantization-aware training.</p>\n<p>The second ingredient is DFlash speculative decoding. Traditional speculative decoding asks a small draft model to guess upcoming tokens and then lets the large model verify them. DFlash changes the draft process by using block-level masked parallel prediction, so a block of candidate positions can be proposed in one step. Xiaomi reports average accepted lengths of 6.30 for coding, 5.56 for math and reasoning, and 4.29 for agent scenarios. Longer accepted chunks mean the main model can confirm more output per validation pass.</p>\n<p>The third ingredient is TileRT's low-latency inference system. The article describes persistent kernels and warp specialization as ways to reduce execution gaps that appear when operators start, sync, and move data too often. The simple version: the system tries to keep the GPU pipeline flowing instead of stopping and restarting at every small boundary. At 1000 tokens per second, microseconds matter.</p>\n<h2 id=\"the-limits-tps-does-not-solve-the-whole-agent-stack\"><a class=\"anchor\" href=\"#the-limits-tps-does-not-solve-the-whole-agent-stack\" aria-label=\"Link to The Limits: TPS Does Not Solve the Whole Agent Stack\"></a>The Limits: TPS Does Not Solve the Whole Agent Stack</h2>\n<p>A 1000 TPS model does not automatically make every agent reliable. Token speed is one part of a larger system. First-token latency still matters. Tool-call latency matters. Screen recognition matters. Network delay matters. The app being controlled may change its layout, block automation, require a login, or ask for a user confirmation.</p>\n<p>Cost and access also matter. Xiaomi's UltraSpeed trial is application-based, resource-limited, and priced above the standard API. The article states that accounts have queue and session limits during the trial. That is normal for early high-throughput infrastructure, but it means builders should not treat the service as a universal production baseline yet.</p>\n<p>There is also a quality caveat. Xiaomi notes that the current acceptance rate is not as high in more open-ended general conversation as it is in high-value coding, math, reasoning, and agent scenarios. That is honest and useful. It suggests the first wave of UltraSpeed value may come from structured tasks where verification is clear, not from every possible chat conversation.</p>\n<h2 id=\"what-this-means-for-foneclaw-and-the-phone-agent-era\"><a class=\"anchor\" href=\"#what-this-means-for-foneclaw-and-the-phone-agent-era\" aria-label=\"Link to What This Means for FoneClaw and the Phone Agent Era\"></a>What This Means for FoneClaw and the Phone Agent Era</h2>\n<p>For <strong>FoneClaw</strong>, the strategic signal is clear: the model layer is accelerating, and that makes the phone execution layer more important. When models were slow, users mostly judged AI by answer quality. As models become fast enough for real-time loops, users will judge agents by whether they can complete work inside real apps.</p>\n<p>That favors products designed around the full action loop. A phone agent needs to understand intent, inspect the screen, choose the next action, execute it, verify the result, and involve the user when risk appears. Faster LLMs improve the thinking part, but they also expose weak execution systems. If the model can decide in milliseconds but the product cannot act safely, the speed is wasted.</p>\n<p>The phone agent era speeds up when the brain and the hand improve together. MiMo-V2.5-Pro UltraSpeed points to the brain getting faster. <strong>FoneClaw</strong>'s job is to make the hand more reliable: <strong>cross-app</strong> automation, permission-aware execution, human approval for sensitive steps, and feedback loops that help the agent improve from real use. That is why 1000 tokens per second is not just a model story. It is a product-timing signal for the entire agent market.</p>",
+  "faq": [
+    {
+      "question": "What does 1000 tokens per second mean for AI agents?",
+      "answer": "It means the model can produce and revise plans much faster. For agents, that speed can support more candidate paths, self-checks, tool-result reviews, and recovery steps inside the same user-visible time window."
+    },
+    {
+      "question": "Does 1000 TPS make phone agents fully autonomous?",
+      "answer": "No. Faster generation helps the reasoning loop, but phone agents still need safe execution, permissions, screen understanding, tool calls, and user confirmation for sensitive actions. Speed is necessary for real-time agents, but it is not enough by itself."
+    },
+    {
+      "question": "Why does Xiaomi MiMo UltraSpeed matter?",
+      "answer": "Xiaomi MiMo UltraSpeed claims a 1T-parameter model can exceed 1000 tokens per second on a standard eight-card general GPU node through FP4 quantization, DFlash speculative decoding, and TileRT inference optimization. That points to faster large-model control loops."
+    },
+    {
+      "question": "How does this affect coding agents?",
+      "answer": "Coding agents benefit because they can generate code, read test output, compare repair paths, and revise patches faster. The biggest gain is not faster typing; it is faster debug and verification cycles."
+    },
+    {
+      "question": "How does this affect FoneClaw?",
+      "answer": "Faster models make <strong>FoneClaw</strong>'s execution layer more valuable. The model can understand and plan in real time, while <strong>FoneClaw</strong> focuses on turning that plan into safe <strong>Android</strong> actions across apps."
+    },
+    {
+      "question": "What is FoneClaw?",
+      "answer": "FoneClaw is an Android AI phone assistant that turns voice commands into supported phone actions such as device checks, message summaries, settings changes, screenshots, navigation, and other everyday workflows."
+    }
+  ],
+  "related": [
+    "automate-instagram-with-voice",
+    "control-samsung-smart-tv-voice",
+    "voice-control-wearables"
+  ],
+  "date": "2026-06-09",
+  "summary": [
+    "FoneClaw is an Android AI phone assistant for supported phone actions, not just a chatbot.",
+    "Quick Answer: 1000 TPS Changes the Agent Loop",
+    "What Xiaomi MiMo-V2.5-Pro UltraSpeed Announced",
+    "Why Ultra-Fast LLMs Make Agents Smarter, Not Just Faster",
+    "Coding Agents Are the First Obvious Winner"
+  ],
+  "toc": [
+    {
+      "id": "quick-answer-1000-tps-changes-the-agent-loop",
+      "text": "Quick Answer: 1000 TPS Changes the Agent Loop"
+    },
+    {
+      "id": "what-xiaomi-mimo-v2-5-pro-ultraspeed-announced",
+      "text": "What Xiaomi MiMo-V2.5-Pro UltraSpeed Announced"
+    },
+    {
+      "id": "why-ultra-fast-llms-make-agents-smarter-not-just-faster",
+      "text": "Why Ultra-Fast LLMs Make Agents Smarter, Not Just Faster"
+    },
+    {
+      "id": "coding-agents-are-the-first-obvious-winner",
+      "text": "Coding Agents Are the First Obvious Winner"
+    },
+    {
+      "id": "phone-agents-need-real-time-thinking-even-more-than-chatbots",
+      "text": "Phone Agents Need Real-Time Thinking Even More Than Chatbots"
+    },
+    {
+      "id": "the-execution-layer-becomes-more-valuable-as-models-get-faster",
+      "text": "The Execution Layer Becomes More Valuable as Models Get Faster"
+    },
+    {
+      "id": "what-fp4-dflash-and-tilert-mean-in-plain-english",
+      "text": "What FP4, DFlash, and TileRT Mean in Plain English"
+    },
+    {
+      "id": "the-limits-tps-does-not-solve-the-whole-agent-stack",
+      "text": "The Limits: TPS Does Not Solve the Whole Agent Stack"
+    },
+    {
+      "id": "what-this-means-for-foneclaw-and-the-phone-agent-era",
+      "text": "What This Means for FoneClaw and the Phone Agent Era"
+    },
+    {
+      "id": "faq",
+      "text": "Frequently Asked Questions"
+    }
+  ],
+  "author_slug": "dean",
+  "author": "Dean"
+}
